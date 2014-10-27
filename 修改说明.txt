@@ -1,0 +1,29 @@
+如果要改首页文件的名
+请搜索所有文件index.php
+然后替换成要修改的就行了
+--------------------------------------
+新增邮件提醒功能
+修改文件\source\function.php 257行
+
+新增飞信提醒短信（测试）
+修改\source\api.php 72行
+
+新增短网址功能
+直接生成项目即可
+
+修复一些小问题
+
+修改\source\api.php 51行
+可能获取不到IP的问题
+    $user_ip=$_SERVER['HTTP_X_FORWARDED_FOR'];
+    if ($user_ip==''){
+    $user_ip=$_SERVER['REMOTE_ADDR'];
+    }
+    $serverContent['REMOTE_ADDR']=StripStr($user_ip);
+
+使用Bootstrap框架制作了新的主题
+看起来更加高大上 由于Bootstrap的特性 一定程度上兼容移动平台
+--------------------------------------
+详情请查看安装说明
+
+2014.7.4 INSAFE_Gosuto
