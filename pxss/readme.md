@@ -1,5 +1,6 @@
-Author: Pxss
-url: https://github.com/pxss/pxss/
+### Author: Pxss
+
+### url: https://github.com/pxss/pxss/
 
 1.Admin_control：后台功能区
 
@@ -11,7 +12,7 @@ url: https://github.com/pxss/pxss/
 
 5templates：模板区
 
-用法：
+### 用法：
 
 1.将php开启短标签short_open_tag
 
