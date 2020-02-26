@@ -1,5 +1,6 @@
 - Getting started
-
+  - [xss01 paylaods](xss01.md)
+  - [xss02 paylaods](xss02.md)
   - [Quick start](quickstart.md)
   - [Writing more pages](more-pages.md)
   - [Custom navbar](custom-navbar.md)
