@@ -1,3 +1,5 @@
+<!-- docs/_sidebar.md -->
+
 - Getting started
 
   - [xss01 paylaods](xss01.md)
