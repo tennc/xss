@@ -6,6 +6,7 @@
   - [xss02 paylaods](xss02.md)
   - [xss03 paylaods](xss03.md)
   - [xss04 paylaods](xss04.md)
+  - [xss05 paylaods](xss05.md)
   - [xss project](xssproject.md)
 
 - [Awesome docsify](awesome.md)
